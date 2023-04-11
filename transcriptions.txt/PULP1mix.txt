@@ -1,0 +1,1356 @@
+Well, here we are once again, folks.
+For the first time.
+Again, it's your favorite radio DJ
+from inner and outer space, Wolf the Dog.
+And where and when the fuck am I?
+Hold on.
+It smells like East Coast.
+Let me check my local dimension time.
+It's 1937 and New Year's Eve.
+It's as if I have no control over what happens to me.
+Like someone is forcing me to play into the sick fantasy
+that's broadcast to all the world.
+But yeah, I guess we got a new Howlin' with Wolf or whatever.
+If these are even real.
+This week's Howlin' with Wolf is from Jeff in Seattle,
+who tweeted about the show and tagged that pretending part.
+A simple and worthwhile use of any person's time.
+Jeff in Seattle writes,
+a shout out to my wonderful and adorable little brother,
+Chalky Boberson.
+May your D100s roll low and your D20s roll high.
+And a warning to Matias Black.
+Temporal manipulation never ends well.
+Don't gaze into dimensions that are not your own
+unless you want eyes looking back.
+Well, Jeff in Seattle, I have to say that temporal
+whatever you said seems pretty cool to me.
+Sometimes you gotta gaze into another dimension
+as a little treat.
+And sometimes you have to consume another dimension
+as a big ol' meal.
+If you wanna write up something for your Wolfie to how,
+tag at pretending part on the internet
+or write up a five star review on Apple podcasts.
+If you holler and let us know,
+you're sure to get the message that's deep in your soul
+to come out of this dirty old mouth hole.
+And if you're interested in doling out some dough
+to keep this show afloat,
+head on over to patreon.com slash pretending pod
+for 29 bonus episodes.
+From Call of Cthulhu's classic scenario, The Haunting,
+to silly one page RPG sessions
+from our first season session zero
+to a currently 13 episode long mostly homebrew
+Delta Green campaign called The Creature Crew.
+All the links are in the show notes.
+Sound the alarm, but don't hit the snooze.
+Like a beast mode stiff arm, I'm quaking for the news.
+The first season of pretending to be people
+was a well-loved affair.
+So much so that it reached one million downloads.
+Thank you to everyone who contributed
+to this chunky number being so unbelievably large.
+Also, this episode right here kicks off
+the five episode guest run featuring Scott Dorward
+running a pulp Cthulhu scenario he wrote,
+which is called A New Age of Wonders.
+And call me Mrs. Liam Neeson
+if I am mistaken, but a new story deserves a new theme song
+and A New Age of Wonders deserves something
+full of pain and sorrow.
+It's Isabelle Crane with Hollow.
+I didn't know a body could be hollow
+before its blood ran cold.
+I didn't know that the wind could sew
+through tissue and faggot bones.
+You were hollow when you spoke to me.
+Hollow when you said you were hollow.
+I thought you might be starving,
+so I gave you everything.
+Oh, actually I'm peaking a bit.
+Let me just drop my gain.
+Drop your gain to the floor, drop your gain to the floor.
+If your name is Scott Dorward, drop your gain to the floor.
+Nice.
+I've never had a hype man before.
+How'd you feel?
+I feel warm inside.
+I feel special.
+Welcome everyone to Pretending to Be People.
+We are here with a special guest today
+who is not only one of the good friends of Jackson Elias,
+not only the man at the helm of multiple games
+throughout the internet,
+but currently including running
+the Pulp Cthulhu campaign two-headed serpent
+for the podcast How We Roll,
+and just the all around incredible writer,
+tabletop master, wizard extraordinaire on the internet.
+Man with the golden voice.
+And the guy who I kind of wish was my grandpa,
+but haven't told him that to his face,
+it's Scott Dorward!
+Thank you very much.
+I'm never going to live up to that now.
+You know that.
+Well, Scott, you've already lived up to it
+because we had you on a while ago.
+Was it last year?
+Oh, maybe even longer than that.
+It was over a year ago at this point.
+Wow.
+Was it really?
+It was at the end of 2020, I think.
+Oh my God.
+And you ran Bleak Prospect for us,
+which is a Call of Cthulhu scenario
+that was written by a very talented writer
+for Call of Cthulhu.
+Who was that?
+Who was that?
+Oh, I forget.
+They're all the same, really.
+Well, you silly goose, it was written by you.
+Okay.
+I don't know why I've been so weird.
+Are you okay, man?
+It was, you wrote it.
+I wrote it a long time ago.
+I can't remember doing that.
+It might as well have been someone else.
+I've written so many things over the years.
+And honestly, it was one of my favorite
+role-playing experiences of my life.
+It's still some of the stuff I go back
+and listen to repeatedly just to hear it all again.
+I'll keep that in mind when I'm getting excited
+about the numbers, that it's just Joe.
+Yeah.
+So if you're listening to this
+and you haven't listened to that,
+Scott does an incredible job running Bleak Prospect
+for the four of us.
+And that was actually, that was a really wild time
+because Scott is in Europe and we are in North America,
+but at the time I was in Asia,
+so we were recording across three continents.
+Yeah.
+Yeah, that was like five minutes a day
+when we were all in sync, wasn't it?
+It really was.
+It took a long time to get on the same schedule.
+We really are a global podcast.
+Yeah, well, we're the international role-playing podcast.
+That's what everyone knows that.
+The Springfield, Missouri podcast is the international.
+We have a pretty big blip on the map of listeners
+in like South America.
+So recording in Asia, North America and Europe,
+having people in South America listen to it.
+We just got to get some of those researchers.
+Exactly, we got to get hit Antarctica.
+But today we're not playing Call of Cthulhu
+and today we are not playing Delta Green.
+And today we are playing.
+D&D first edition.
+Firewall.
+That was fun when Dungeons and Daddies did it.
+Oh, that was tight.
+But we're not doing that and we probably never will.
+Sorry, I haven't been talking much.
+I've just been trying to pretend
+like I wasn't working on my character sheet.
+Which is a different character sheet
+than we are used to using.
+I believe it's the first time
+that I personally have filled out a PC character sheet
+for Pulp Cthulhu.
+Pulp Cthulhu.
+Pulp Cthulhu.
+I've done a couple, mostly with you, Zach.
+You ran us through some back in the day.
+I've run it, I've never gotten to play it.
+I'm super fucking excited.
+I was able to run Waiting for the Hurricane
+from the back of the book,
+which was written by another good friend
+of Jackson Elias, Matt Sanderson.
+Yes.
+Is that right?
+He did.
+And of course we are wishing a speedy recovery to Matt.
+Yeah, thanks.
+It's been a scary month with Matt,
+but happily he's back home and on the road to recovery now.
+That's fantastic news, yeah.
+How's your, the last time we recorded
+you had like a tooth issue.
+Oh fuck, yeah.
+I ended up in hospital with that.
+Yeah.
+Oh my God.
+Yeah, I ended up having to have emergency surgery
+in part of my jaw removed.
+Oh man.
+Yikes.
+Yeah, I can't say I recommend it.
+No.
+Has it been a relatively smooth sailing
+after the surgery and stuff though?
+Yeah, I mean, the shape of my mouth still feels wrong,
+but apart from that, yes.
+Yeah.
+Oh, interesting.
+Did they let you keep the part that they pulled?
+I stupidly didn't think to ask because otherwise, yeah,
+I absolutely would have kept it in a jar at my desk.
+Scott, let's dive in.
+Let's do it.
+Okay.
+So this scenario is called A New Age of Wonders
+and it's published in issue three of the Blasphemous Tome,
+which is the fanzine that we do for the Patreon backers
+of the Good Friends of Jackson Elias.
+Which you should all become because I personally
+am a patron of the Good Friends of Jackson Elias
+and the rewards that I reap are worth every fucking penny.
+Well, thank you, Zach.
+Yeah, I'll slip the check in the mail.
+Eight bucks.
+Every eight dollars counts.
+Oh God, eight dollars is big money in the RPG field.
+So this scenario takes place in 1937,
+particularly New Year's Eve, 1937.
+The player characters have all been invited,
+or at least they have managed to get themselves
+on the invitation list too,
+what promises to be the New Year's Eve party of the year.
+Or at least that's the way that the host has pitched it.
+The host is a man called Cicero Mordant.
+He comes from a moneyed background
+and his family is incredibly wealthy,
+but he himself has gone off
+in a somewhat different direction.
+He is an inventor, or at least a would be inventor.
+I mean, those of you who've kept up with his career
+know that he's enthusiastic,
+he's good at self-promotion, perhaps,
+and he certainly has the money
+to bring his inventions to the market.
+But really, fundamentally, he's a bit shit.
+I mean, some of the inventions
+that he's put out over the years
+are things like this self-playing violin,
+which promises to bring chamber music to every household,
+but it really just plays the same four bars
+over and over again,
+and goes out of tune in about five minutes.
+There was the electric hairnet,
+which promised to revolutionize home hairstyling.
+And there've been a number of unfortunate fires
+and the lawsuits are still in the courts at the moment.
+The less said of his radiant dentifries, the better.
+But this time he promises
+that he has got a magnificent new invention
+that he wants to show off to the world.
+And the launch of this invention
+is going to be this New Year's party
+at his family estate, The Mount, in rural Vermont.
+So let's, I'd say, introduce the player characters
+at this stage, and then we can just, I think,
+get you on the road to The Mount.
+So do you want to go round one by one
+to say who you're playing,
+and I think also why you're going to the party?
+My character, oh, give me that voice, baby, is Checkers.
+How old is Checkers?
+I'm a 19-year-old cult leader.
+I'm here, I'm going to the party
+to recruit some movie stars
+and high profile people for my cult, The Last Branch.
+And I'm Elden Ring, and fuck's sake.
+It's not my birth name.
+Elden Ring is my given name by myself.
+My given name for my family
+is none of my business, nor anyone else's.
+And I'm just very happy to be accompanying
+my dear Checkers to this wonderful New Year's Eve party
+and just helping him bring people to The Last Branch.
+Our goal is to get as many of the rich and powerful
+on our side today through the powers of persuasion
+and Checkers' deep and utter charisma.
+There are things at work in this world,
+forces beyond our control,
+and we look to control those forces.
+With money that we make from the cult.
+And Checkers, remember, the forces.
+Yeah, they are real.
+They certainly are.
+Are there really any stronger forces
+in the world than money?
+True love.
+Aww.
+That is a question that the Lafayette J. Honeycutt
+would like to get to know.
+Are there any more forces in the universe
+more powerful than love or money?
+And he studies that in depth.
+He's a scientist.
+Does he sound like that when he studies it?
+He doesn't.
+You'll hear his voice when he speaks.
+God damn it, Thomas.
+You're such a tease.
+Yep.
+He's gonna be showing up to this party in disguise.
+Why? Dressed as a turtle?
+Because he is a professional,
+yeah, he's gonna be dressed as a turtle.
+No, he's a professional rival of Cicero Mordent,
+and he wants to get a look at this invention,
+but he was not invited because he's on Mordent's shit list.
+Mordent has a very, very long shit list.
+And I'm playing Harvey Brewer.
+I'm here to make sure nobody gets too close
+to Mr. Lafayette J. Honeycutt here.
+He hired me.
+I'm gonna protect him.
+I told you, Harvey, tonight, it's,
+it's, oh shit, what was the cover name?
+You were gonna go with Harvey Brewer,
+but that's my name, so we can't use that one.
+That's correct.
+Is this your fumbling your disguise role in real life?
+More or less.
+What is your actual name?
+Lafayette J. Honeycutt.
+But tonight you are Honeyfette J. Lafayette.
+James Dean.
+No one famous has been named James Dean in 1937.
+I was gonna try to go for a mid-Atlantic,
+and I think I'm gonna go too much
+into copying your accent, Scott.
+Oh, can you please try?
+No, I'm not gonna.
+Do it.
+Do it, Scott, at Scott.
+Maybe after a couple sessions.
+Sessions.
+Session IPA.
+Oh, could we go puff some all this?
+After this episode.
+We gotta get the first episode down.
+So, like I say, you have all managed
+to somehow get hold of invitations
+to this New Year's Eve party,
+and you know that there has been transportation played on.
+All you have to do is get yourself
+to Montpellier in Vermont.
+There is a station there.
+Scott, sorry to interrupt.
+I'm so sorry.
+It's Montpelier.
+It's Montpelier, yeah.
+Montpelier, sorry, I went for the French pronunciation.
+We said it with such, like, a plum,
+and when I learned how to pronounce it,
+it was in Missouri, and we said Montpelier, Vermont.
+Well, that is how they say it.
+Montpelier, Montpelier.
+Montpelier, yeah.
+Montpelier, I shall say that again, then.
+Montpelier, Montpelier, right.
+It sounds like wrong when you say it.
+I bet Honeycutt does say Montpelier.
+Montpelier, Montpelier.
+I've got a beautiful 1932 bottle of Montpelier.
+Oh, God.
+Right, so yes, you know all you have to do
+is get yourself to Montpelier in rural Vermont,
+and then there will be transportation at the station
+that is laid on for you.
+And sure enough, when the train pulls in at the station,
+you can see that there are any number
+of well-dressed people
+who are obviously dressed up for this party.
+Men in full evening dress with heavy overcoats on,
+women in gowns, again, with furs over them
+to keep themselves warm, because it is cold.
+It's been snowing fairly heavily.
+There's storm clouds up in the sky,
+and you can see that the snow is falling already.
+But you can also see that outside the station,
+there are a number of vehicles lined up
+with uniformed chauffeurs who are there,
+a few of them holding up signs
+announcing that they're to take people to the mount.
+And after the usual moment's hesitation,
+people start flocking towards those vehicles.
+Shall we say, I mean, if you're happy with this,
+shall we say that the group of the four of you
+end up sharing the same car together?
+Because, you know, each car happily seats
+four passengers in the back.
+And there are enough people,
+guests who have arrived to the party,
+that they're pretty much filling up all the cars.
+One of the chauffeurs ushers the four of you
+into the back of one of these
+really quite fancy-looking limousines.
+Gentlemen, you are going to the mount, right?
+Yes, is this the correct way to go?
+Yes, yes, yes.
+Mr. Mordant has arranged for transportation
+for all his guests, please, please.
+How are you guys dressed?
+Harvey Brewer is a giant hulk of a man.
+He's like 6'8 and like 300 pounds, but it's like muscle.
+He's a big, strong, strong dude.
+And so he's wearing a tuxedo,
+but it's a little tight in all the right places.
+It's a little bit stretched almost,
+but he's pulling it off pretty okay.
+I imagine the suspension on the car
+just creaks as you get in.
+Yeah, exactly.
+Checkers is wearing like a cashmere three-piece suit.
+He's got like a full beard.
+Definitely trying to look older than he is,
+but he's dressed very fancifully.
+And Elden Ring is just wearing a very simple
+black pair of trousers and a white cotton shirt
+that is buttoned down, buttoned all the way to the top.
+And it has like a granddad collar,
+like an old school non-collar.
+Is that all you're wearing even in New Year's Eve in Vermont?
+Yes, and if anyone, if like the coach driver or whatever,
+like asks if I'm cold or need a fur or whatever, you know,
+he just kind of says like,
+no, the warmth is within me.
+Nice.
+I guess we'll find out how long that's going to last.
+So Lafayette is wearing a tuxedo
+that is as tailored as Harvey's is not.
+He, I mean, he looks fantastic.
+He looks like a 30s or 40s movie star
+and he's got this perfect like pencil thin mustache
+and a really dashing long tail coat, not a tail coat,
+but a long coat, it's winter in Vermont
+as Scott just tipped us off to.
+Quickly improvise a coat,
+which is the art of what we do here.
+He's carrying a very, very bulky briefcase.
+It's almost like a suitcase.
+It's way too large to be bringing
+to a New Year's Eve party,
+but he's got it tucked tightly under his arm
+and he's kind of looking suspiciously
+at the two people we've been paired up with.
+And he's like, Harvey, I don't like the look of these chaps.
+Upon hearing that Harvey is going to just mean mug
+these other two guys in the car with us.
+Yeah, I look at, you forgot my name?
+Elden Ring, yeah.
+I think we're all trying to forget your name, yeah.
+Checkers looks at Elden.
+Did he really just say that out loud?
+Looking-
+I said it so you couldn't hear.
+We're all in a car together.
+You have to get in a car.
+Thomas, I can hear you.
+I'm sitting right here.
+You've got headphones on.
+I have headphones on.
+These guys look nice.
+Do you think they'd be interested in our pitch?
+Yeah, I don't understand why anyone wouldn't be.
+As he's slowly just parting his super long black hair
+that is now like completely covering his face,
+he goes in with both hands
+and kind of makes a window for his eyes in between
+with a full middle part of this super long hair
+and just lets off the most unattractive smile
+at these two gentlemen.
+I'm imagining like the girl from the ring.
+Yeah.
+I'm imagining cousin Elden Ring.
+Elden Ring from the Addams family.
+Yeah, there you go.
+Lafayette is like sitting across from Elden
+and he's got his like very long, like elegant legs,
+like one folded over the other
+and you can see his foot is tapping
+just very, very anxiously and annoyedly,
+sort of half glaring, half just studying this creature
+that just sat down in front of him
+and parted its weird, greasy hair.
+Maybe ask him what his name is, Checkers.
+You're supposed to be our charisma person.
+Yeah, sorry.
+It's early in the morning here.
+Yeah, let's start that again.
+Hello, Checkers, this is Elden, gentlemen.
+It's nice to meet you.
+Have you two heard the kind and good news of Checkers?
+Yes, I think I have heard of what you lot get up to.
+I pull like a little pamphlet out of my coat
+and hand it over to Harley.
+I don't like your presence in my town.
+Well, this is not starting on a good foot.
+None savory element.
+Well, maybe we'll just leave each other
+to what we like to do and we won't discuss this in the car.
+As a man of science, yes, I'd prefer
+if we left your hokum here at the station.
+Checkers takes no offense to that
+because he does not believe in what he's selling at all.
+So he's just kind of like, fair enough.
+And this is why your cult only has two people in it.
+I'm just so sorry to say that I don't think
+I can leave it there.
+The world is bigger than your mind can comprehend, sir.
+Hey.
+He gets a kind of ride.
+Hey, shut up.
+He said he didn't want to hear about it.
+Now Harvey, now Harvey.
+He's beginning to speak on things of which he doesn't know.
+Yes, it is quite a big world.
+Elden, did you say your name was?
+Yeah, sir Elden Ring, I gave my name to myself.
+I explore some of those mysteries myself
+in ways I don't think either of you two would comprehend.
+What is it that you do, sir?
+All manner of things.
+Oh, right.
+Nothing, I'm a lazy socialite dilettante.
+Where is this accent going?
+I like it, I like it, it feels right.
+It feels right.
+If that's the case, then you really should read this.
+And I offer the pamphlet for my cult again.
+Right.
+He's suddenly like got a panic look and he's like,
+okay, yes, that is what I would do
+because I am a lazy gadabout.
+Right, you're exactly what we're looking for.
+Right.
+Are you rich?
+Yeah, yeah.
+Good, okay.
+It's a small fee to join,
+but we'll talk about it when we get to the point.
+The money is of no consequence
+when you're dealing in eternity.
+Give me your literature.
+He hands it over to him.
+He like reaches out with a handkerchief and grabs it.
+It's like a handwritten like pamphlet.
+What is this stain on?
+What is this stain?
+Thank you.
+Just read the pamphlet and you'll understand.
+It's magic.
+Lafayette leans over like,
+boy, that was a close one, Harvey.
+We're to, you know, one up old Mordent
+and unveil my invention and he pats the big box.
+Nice.
+Upstage him tonight.
+We can't reveal my identity.
+Did you, we're saying this to each other in confidence.
+Did you come up with a cover name yet?
+Oh God, I can't think of any name.
+Like when Billy actor's like,
+Billy actor's like, name a woman.
+Just like, Janine Garofalo.
+I also like to think that
+while you're having this conversation,
+supposedly in private, I mean, it's a small cab
+and I'd like to think the other two can just overhear
+every single fucking thing you're saying.
+So do you guys know Mr. Mordaunt?
+No, I'm lazy socialite, David Ellington.
+And I've never met Mr. Mordaunt.
+How'd you get invited?
+I'm a prominent socialite.
+And I'm his friend.
+Fair enough.
+This is my man.
+Yes.
+David and Harvey.
+Goliath.
+You said David and Goliath.
+Easy, you know what, that's really easy to remember.
+While you're having this conversation,
+the car is passing, first of all, through the town itself,
+which doesn't take very long.
+It's not a big town.
+And then heads off into, first of all, some country roads.
+You're moving through some fairly light woodland
+and then slightly thicker forest.
+And you can see that you're moving towards
+one of the big peaks around here.
+Those of you who know the area
+or who've looked at a map beforehand
+might realize that it's Mount Ellen.
+And you do seem to be moving towards the base of it.
+And at some point you move off onto a private road,
+which is much, much smaller.
+And the driver's having to slow down a fair bit
+at this stage because the snow's getting quite heavy.
+Not heavy enough that he's losing control of the vehicle,
+but visibility's suffering a little bit.
+But more importantly, he's obviously fighting a bit
+with traction on the road.
+But as you get closer, you can start to see...
+Well, first of all, have any of you been to the mount before
+or is this your first visit?
+For checkers, it's definitely the first visit.
+Same.
+I think it'd be Harvey's first visit for sure.
+Yeah, probably before Harvey started working for Lafayette.
+Lafayette had been and was kicked out.
+Oh yeah.
+Of course.
+Yeah.
+After he saw the debut of the self-playing violin
+at New Year's Eve, like 1933.
+Wait, did you unleash one of your own concepts
+that same night?
+I did.
+And what was that?
+What kind of jacket are you wearing?
+He just picked up a violin and started playing it
+and that was his invention.
+That would be exactly, yeah.
+What was that when you debuted the self-throwing tomato?
+No, I just fucked Borden's wife that night.
+He does not like me.
+When you were kicked out, you're like,
+you should invent a self-fucking you.
+My God.
+So that's what you've been working on ever since?
+That's what he's got in the suitcase.
+You don't know what he's been working on
+and then he packed the box again.
+I'm now horrified to find out what's in that suitcase.
+What's in the box is super rad.
+What's in the suitcase is going to carry
+a D6, D20 sand loss, I think.
+Yeah, for Morden, when he sees how fucking cool it is.
+What do you got in there?
+Yeah, that's a big box.
+Party supplies.
+Yeah, party supplies.
+What kind of party supplies?
+The kind that supply a party.
+That's what the rich do.
+Glassware?
+Probably silverware.
+You brought your own goblet?
+There's some silver in it, yes.
+I hope we're almost there.
+You are almost there.
+You've come over the ridge of a hill
+and onto a little plateau towards the base of the mountain.
+And yeah, there is the two-story colonial revival
+style mansion that is the mount
+with all its outbuildings around here.
+Before you get to it, though,
+you do pass by an odd-looking structure,
+which Nathaiad doesn't recognize
+as having been here the last time
+that you visited the mount.
+And it looks fairly incongruous.
+It's just built on the edge of the property.
+It looks initially like, you know,
+maybe the kind of lookout tower
+that you might get in the forest.
+Like on the forest moon of Indor?
+Yeah, like that maybe.
+Sorry, am I lagging again?
+It lagged pretty hard.
+We missed a little bit of the description of the tower.
+Sorry, I'll back up a bit then.
+So you notice this weird structure
+on the edge of the property that looks a bit like a tower,
+maybe a lookout tower that, you know,
+firefighters might use in a forest
+or forest rangers, rather.
+Like on the forest moon of Indor?
+Oh, fuck's sake.
+So you can see up atop the tower,
+there is what looks like a glass structure.
+I mean, I guess anyone who wants,
+if you want to give me a spot,
+hit and roll just to see what they can make out anymore.
+Oh boy.
+I passed a 10 on a base 25.
+That is a hard success.
+Nice.
+I failed my roll, an 82 on a 70.
+I got a 96.
+On a?
+On a 40.
+So that is actually a fumble.
+We'll get to you in a moment.
+I love that rule.
+So if it's over double your skill, it's a fumble?
+If you roll 96 to 100 and your skill's under 50,
+then it's a fumble.
+If your skill is over 50,
+you have to roll a double zero for it to be a fumble.
+Okay, sick.
+But what did Lafayette get?
+87.
+Okay, so I assume that's a failure.
+Do you have a 90 spot hidden?
+This is poor Cthulhu after all.
+No, I have a 51.
+So yeah, you do notice that there are some things
+sticking out of the top as well
+that look maybe like radio aerials.
+Yeah, I mean, there are all sorts
+of spiky protrusions coming out.
+Master Checkers, do you see those spiky guys
+coming out the top of that lookout tower?
+Checkers is like writing another pamphlet real quick
+and doesn't even pay attention to your question.
+Well, I think then on the fumble,
+then that's the point at which the car goes
+over a big bump in the road and you just end up scoring
+through all the magnificent pros that you've just written.
+Oh, man.
+Oh, another parchment down for the count, huh?
+Yeah, my pencil I was using pokes me in the eye
+and I'm like, just completely thrown off.
+Are you okay, Master?
+Just leave me alone for right now until we get to the party.
+He's like trying to be as like gentle and fixie as he can
+while still giving personal space to his favorite Checkers.
+Well, the car pulls up in the courtyard
+outside the main building and you can see
+that there were a number of other cars now
+that are parked there already.
+A few guests have got out and some of them
+are just going into the main entrance,
+a few are making their way over there.
+The house itself is largely lit up at the moment,
+there are lights on in most of the rooms,
+but the main activity seems to be coming
+from a room over on the left-hand side
+where you can see that there's a lot of bright light
+coming out from the windows, there's the sound
+of swing music playing rather loudly in there
+and through the windows, you can see activity going on.
+The other thing you can see is on the edifice
+of the building, just above the window,
+the front window of that room
+where all the activity is going on,
+there is what looks like another huge antenna
+just sticking out of the wall
+and some fairly thick cables coming down from it.
+Checkers, there's another one right there.
+He is writing another pamphlet and I'm paying attention.
+Checkers, oh, okay, yeah, no, okay.
+Antenna, sure, uh-huh.
+I'll tell you what, I mean,
+as Lafayette is actually a scientist,
+what is your scientific specialization?
+What scientific skills does Lafayette have?
+Engineering is his focus
+and mechanical, electrical, and computers.
+Yep, then engineering is perfect for this.
+If you want to give me an engineering role
+to see whether you can make sense of this at all.
+Yep, he passes 40 on a 90.
+Yeah, you look at this aerial
+and I mean, there's something weird about it.
+It's not a design you've encountered before.
+It doesn't look like an old radio aerial.
+There's a bit of a dish behind it
+and it looks like, I don't know,
+maybe it's designed to focus something,
+but yeah, there's something about it
+that looks really strange and maybe novel.
+Yeah, it's nothing like you've seen before.
+He kind of plays with his little pencil-thin mustache
+and he's like, what are you scheming at, Moldent?
+Right behind you is Elden Ring
+and he just like whispers in your ear
+and he's like, what do you think it is?
+He reflexively like elbows back.
+I have a size 40, so I think you like elbow back
+and I'm like a foot shorter
+than you would have elbowed towards.
+Yeah, he's a tall wisp.
+I'm like an absolute waif of a man.
+The sudden jerking of his elbow
+to sneak up on the gentleman sends Harvey
+into like protect mode and he grabs you
+and just moves you away.
+Oh, you can pick me up off the ground, yeah.
+And as you do, he's just like,
+oh, the strength of physicality is mighty,
+but it's nothing compared to the mind.
+I just want you to keep your distance
+from here on out, you understand?
+Hey, don't be touching, don't be touching me,
+don't be touching him.
+Why are you talking to my man like that?
+Because he's touching him.
+My man is having a conversation with your man
+because your man was touching me.
+Conversation doesn't have to involve hands
+or picking people up.
+Keep your man away from my man.
+Deal.
+Harvey's still holding Elden up in the air
+and Elden's feet are twiddling back and forth
+and he is staring directly into Harvey's eyes
+and making a choice.
+And then his eyes kind of soften.
+I don't wanna hurt you.
+Harvey laughs as he sets him back down on the ground.
+Yeah, yeah, yeah, I'm sure you don't.
+I certainly do not.
+There's a little bit in Harvey that's like,
+what, what, what, what?
+So Elden Ring has a 90 in Intimidate.
+Also probably people don't talk back to Harvey much at all.
+I was gonna say I have an 80.
+Just two very strong-willed minds staring at each other.
+That's cool.
+Elden, do you have our invitations?
+He kind of pats at his chest softly and slowly
+before grabbing the invitations out of his trouser pocket.
+Yeah, I mean, you can scurry in out of the cold.
+The snow is getting a bit heavier at this stage.
+You can see that the chauffeurs, having dropped people off,
+are running over to one of the outbuildings
+where it looks like they've got their own party in progress,
+just on the other side of the courtyard.
+But the main doors of the manor house are open
+and there's a maid there.
+Oh, in fact, there are a few maids there
+who seem to be ushering guests in in shifts
+and taking their coats.
+And yeah, there's a uniformed maid who comes up
+and looks around at the bunch of you and says,
+can I take your coats?
+Looks at Elden and blinks.
+And on cue, I could pull the drawstring
+coming out of his butt.
+The warmth is inside me.
+Very good, sir.
+Checkers hands his coat over
+and then grabs a bunch of pamphlets out of the pocket
+as he's handing it over, puts them in his pocket.
+Elden Ring gets really serious
+as Checkers hands over his coat and is like,
+do not misplace the master's coat.
+Yeah, I just bought it.
+It was expensive, so put it in a special place.
+The maid now carrying those, the three coats,
+is standing there looking at the bunch of you
+wishing to get a word in edgeways.
+She eventually says, if you make your way
+over to the ballroom, and she points out
+from under all the coats, a set of double doors
+that are open just over on your left.
+The hallway that you're in is fairly large.
+There's a chandelier overhead
+because of course the fuck he is.
+And I mean, certainly Lafayette knows
+from his previous visits to the mount
+that while Mordent has money, money doesn't buy taste
+and the furnishings, some of them are quite nice pieces,
+but he has no eye for how things go together.
+The decor is generally tacky
+for people who've got genuine taste.
+My God, Harvey, look at that chandelier.
+I know, it's gorgeous, isn't it?
+Oh, Harvey, he's a simple man.
+No, it's quite hideous, actually.
+I tell you what, if I ever got this kind of money,
+I'd do it up like this.
+Look at this, this is the lap of luxury here.
+You're a kind man, Harvey.
+Thank you for watching after me.
+If you think this is luxurious,
+you should see our joint.
+No, we are not spending time together this evening.
+We are moving, why are you still right next to us?
+It's a party, it's a party.
+Yes, Eldon, so please, please go mingle.
+Eldon, the suitcase guy, he's off the list,
+but his friend, he seems like somebody we could get.
+Spend tonight pestering and harassing my man.
+Correct, we will be having pleasant conversation
+about the last branch and all the good that we're doing.
+You seem like a guy that wants to do big things.
+Come now, Harvey, come along, come, Harvey.
+Well, we'll have chandeliers like this eventually.
+Harvey dutifully just follows Lafayette.
+Remember the chandeliers.
+Chandeliers.
+Eldon, the famous actress that we're looking for,
+I know her name, but do you remember it?
+I love Test's master.
+Yes, her name is Candace Germain.
+Correct, let's find her.
+And he motions his head forward for some sort of physical.
+Before we start splitting, are we in party town now?
+Is there?
+Are we in party town?
+Yes, Harvey, you may have one drink.
+So yes, you've come in through this rather grand hallway
+and there are corridors branching off
+in a few different directions.
+You can see that there are other sets of double doors
+around here that are obviously going into other rooms
+that may be off limits to you.
+There's a staircase going up to the upstairs, obviously,
+but all the action seems to be in the ballroom.
+You're ushered through the double doors there
+to this fairly grand looking room.
+Doesn't really have much in the way of furniture
+in it at the moment because it is a ballroom.
+It's got a few side tables set up with snacks and drinks
+and there are uniform staff wandering around with trays,
+again, with refreshments on them.
+There are a few dozen people in attendance.
+It's quite a large ballroom and maybe the guest list
+is very exclusive or maybe a number of people
+just plain haven't turned up.
+But I mean, the party is relatively lively,
+but it's not exactly jumping, it's not packed.
+There is a stage that is set up
+over in front of the front window.
+And you can see a few things there.
+One, the most obvious thing is there is a live band
+that is playing there, a live swing band.
+And there is just off to the side of the stage as well
+and some bulky shapes, boxy shapes
+that are covered by sheets or a tarpaulin.
+What kind of size is that covered thing?
+Fairly large, maybe about the size of a car.
+I mean, it probably doesn't take much to work out
+that it roughly corresponds to where you saw the cable
+come down from the aerial outside.
+But yeah, as I said, there are a few dozen people
+mingling around, a few of them dancing.
+A number of them not dancing, but certainly having drinks
+and talking or shouting at each other over the music.
+Harvey wants to do his job as a bodyguard to Lafayette.
+When we walk in the room, just kind of clock it,
+see if there's anything that could maybe
+pose a threat to him.
+Okay, I'll tell you what, give me a psychology roll
+to get a general read of the crowd.
+Oh shoot, it's a fail, a 67 on a 50.
+Well, I mean, you could either spend 17 points of luck
+or if you want, you could find some way of pushing it.
+I mean, if you can think of a way of escalating
+the situation and potentially putting yourself at risk
+while assessing threats, I'd be open to that.
+You could probably get a better vantage point
+if you're on the chandelier.
+Yeah.
+Actually, could I maybe go and put myself up on stage
+to look down from the stage?
+Oh, okay, yeah, I mean, you could try.
+Yeah, I mean, there is a little set of wooden stairs
+up to the side that you could go on.
+Like I say, there is a full swing band up there
+who are very much in the midst of a song, but...
+Yep, so Harvey's gonna bumble his way up there.
+Okay, yeah, I think if you fail the push here,
+you'll get to attract all sorts of the wrong attention.
+I pass, a 21 on a 50.
+Fantastic, so you get a rough read
+of the kinds of people who are in the room.
+There are a few people who are obviously moneyed.
+You can tell from their clothes, from their mannerisms
+that, yeah, there are definitely
+a few movers and shakers here.
+Lafayette has like snuck up behind,
+like he followed Harvey very poorly,
+kind of like crouched down behind him,
+and he's like, tell me what you see.
+He pokes out behind him on the stage and he's like,
+oh, I see some of my cousins here, this is...
+I didn't wanna see.
+You can see a few other people
+who don't necessarily fit the same mold,
+and there's something about the slightly more worn
+looking clothing and general introvertedness
+that makes you think that they're probably academics.
+Then there are a few other people
+who just don't seem to fit in.
+You do spot, I don't know whether you heard
+the others mentioning Candace Germaine earlier,
+but I mean, you certainly do spot her in the crowd
+and you may have seen some of her films.
+She seems to be in deep conversation at the moment
+with a fairly good looking man in clerical garb
+wearing a black shirt and a dog collar,
+who, you know, the two of them
+are in very animated conversation.
+Do I clock Mordant in the room?
+No, looking around, Mordant isn't there.
+Okay.
+Which may strike you as being a bit odd.
+You know, we got the usual sword here, boss.
+We got the real money,
+we got the guys who are more like you, the thinkers,
+and it looks like there's a,
+you seen that picture show, Last Train to Clarksville?
+That's Candace Germaine right there.
+Good God, Candace Germaine is in here.
+A true beauty.
+Where'd you say you saw her?
+Well, we're not there, but.
+Yeah, when we look behind
+and you're crouched down behind me.
+I turn around and Eldon parts his hair.
+I'd love to think as well that you're kind of
+in between the guitarist and the bassist of the swing band
+and the two of them are just stepping around you
+as they're doing their act, trying not to tread on you.
+We're becoming real quick pals here, huh?
+Don't step on any wires.
+No, that is do not step on any wires
+because there's something very strange
+going on here tonight with all of his wires.
+I haven't noticed anything, but.
+Cicero is up to something.
+Master Checkers, that's Candace Germaine right there
+that they were pointing and talking about,
+talking to the cleric man.
+I pull out a pamphlet and look at Eldon
+and I just kind of nod at him.
+Bring her to me.
+Well, yeah, as he's saying that,
+she breaks off conversation with the vicar or the priest
+or whatever he is and she walks over
+and starts talking to someone else.
+So was Eldon going over to join the conversation?
+I was trying to get the more charismatic
+or good looking one to start the conversation.
+We kind of have a thing where if we can isolate someone,
+we can slowly work them down into joining us.
+So is it Checkers who's going over?
+Checkers heads on over to Ms. Germaine.
+Yeah, she's there talking to an older man,
+looks like he's probably in his late 50s,
+dressed in a three piece suit.
+He's fairly jowdy.
+He's got red features,
+a few broken veins across his face and ruby eyes
+and the two of them seem to be
+just making small talk as you come up.
+Or you could give me an education roll
+to see what they can recognize who the man is.
+That's a pass, 43 on a 70.
+Okay, yeah, you recognize the man
+from some newspaper articles
+who's seen as Charlton Billings.
+He's a Senator from Vermont.
+I go to him first, Senator, nice to see you.
+My name is, you can just call me Checkers.
+And I reach my hand out to shake his hand.
+Well, he gives you a warm handshake
+and says Checkers, just the one name then.
+Right, it's what my friends call me in.
+We're all friends here.
+Oh, I hope so, I hope so.
+I hope I can count on your vote next year.
+Absolutely, I actually have a friend here with me
+who may not be so inclined to vote for you,
+but maybe you could go convince him.
+And I gesture at Eldon.
+Eldon is in an enclave of this room already,
+like away from the crowd.
+And he's just staring through his parted hair
+across the party.
+He has some very serious feelings about
+Senator things.
+The Senator looks over at Eldon,
+kind of looks him up and down and looks back at you.
+Fucking Oren from Parks and Rec.
+That's exactly who it is.
+He says, are you sure he votes?
+Only when he really loves or hates something.
+And he's got strong feelings.
+And then I wink at him and I want to roll charm.
+Okay, yeah.
+That's a three.
+Oh, it's a really good wink.
+He says, well, a voter's a voter, I suppose.
+And he turns and marches over towards Eldon.
+God help him.
+Candace.
+And I do like the European kiss the cheeks greeting.
+Ah, checkers, you made it.
+I'm here, thank you for the invite.
+You can see that she's looking a bit ruddy
+and swaying a bit.
+The party hasn't been going for that long,
+but it looks like she's quite drunk already.
+Does she have a drink in her hand?
+Oh, absolutely, yeah.
+Oh, let me take that from you.
+It's, I'll hold it for you.
+And I grab the like martini
+and I just like drink the rest of it
+and hand her back an empty glass.
+She looks at you and pats you on the shoulder.
+That's what I do with Luke sometimes.
+Oh, it's all right, I can get another.
+Oh, that's probably good.
+You're probably good.
+No, no, no, she says, it's all right, it's all right.
+Give me a moment.
+I'll pay a visit to the ladies room
+and powder my nose if you know what I mean.
+And I'm sure I'll be fine after that.
+Cocaine.
+I sure do know what you mean.
+Perfect, well.
+You're welcome to join me if you want.
+Sure.
+Yay.
+We got cocaine into this campaign.
+Our perfect record is untouched.
+If Eldon or Checkers had looked up
+at any point in that time,
+they would have seen Lafayette and Harvey slipping out
+of the main ballroom,
+trying to follow some of these wires
+and some of the weird mechanical things
+that he's seeing here.
+Okay, so basically you're heading out the front
+to where that aerial was.
+Yeah.
+As you see Checkers and Candace walk into the bathroom,
+he's like grabbing like champagne off the waiters,
+like things and just like downing it
+because he's actually never done drugs
+and he's very nervous.
+This is a big get for your cult.
+Oh yeah, huge.
+Also you're 19.
+I'm underage drinking.
+The movie star just asked you to go to the bathroom
+to get cocaine, which is pretty cool.
+I assume she's probably,
+is she like a late twenties actress
+or is she like established?
+It's 1937.
+Yeah, no, she's a few years older than you
+but not a lot older.
+Okay, cool.
+You find a bathroom and she cuts a few lines for you
+and just makes a bit of small talk and says,
+do you manage to get here all right?
+Well, of course you managed to get here all right
+because you're here, aren't you?
+Sorry, I don't know where my head is today
+and snorts another line.
+You know, sometimes parties can be a little overwhelming
+and then he looks at the lines of coke
+on the bathroom counter
+and not knowing the protocol for this,
+he does all the rest of the lines of cocaine.
+We're gonna need you to roll a con check
+to make sure you don't die.
+This is a new one that we're trying out
+where when you actually do drugs in the game,
+you have to do drugs as the player.
+We're method playing.
+So give us about two and a half hours
+while we go find some cocaine and we'll be right back.
+Candace smiles at checkers as he does
+the last three lines single-handedly
+and says, oh my, aren't you a hungry little boy?
+I'm not that little, he says with his 40 size.
+Oh my God, I didn't realize where my tiny was.
+I've got a big personality.
+If 40 size is good enough for Charlie Manson,
+it's good enough for you.
+Exactly.
+Candace, have you thought any more
+about our last conversation about last branch
+and maybe be in the face of it?
+Yes, yes.
+Though, I don't know.
+I think I may have other commitments now.
+I think I'm going to be employed
+to help promote Cicero's new invention.
+Our deal wouldn't necessarily be exclusive.
+You know, you could, it could just be something
+you mentioned when you do everything else that you do.
+Oh, maybe, but this has got to take up all my time.
+It's got to change the world, you know.
+What is his invention?
+She looks confused for a moment.
+It's got to change the world.
+Well, you know, maybe we could go talk to him.
+Maybe you could introduce me to him.
+I haven't met him yet either.
+I don't know where he is.
+Oh, she roots through her purse a bit and says,
+and that was the last of the cocaine.
+Oh, but I suppose someone else here must have some.
+Do you think you could find some more for me?
+I'm sure I could, yeah.
+I'll look around.
+In the meantime, he pulls out a piece of paper
+and you can tell it's like a crudely drawn up contract.
+And he...
+It's like stick figures and it's like,
+just him giving her the paper
+and the paper says your soul.
+No, basically it's like a contract he's written up
+to have her be kind of like the spokesperson
+for the last branch.
+And he hands it to her, he's like,
+real quick while I go look for more fun,
+just sign this at the bottom here.
+Well, I'll get my lawyer to look at it
+and send it back to you.
+Oh, we don't need, I studied,
+I took a couple law classes.
+She laughs.
+It's a pretty good contract.
+She laughs and playfully punches you in the shoulder
+and says, after all the things that happened with the MGM,
+my lawyer told me never to sign anything again
+without talking to him.
+Yeah.
+Checkers figured that this was coming,
+but he had to take his chance anyway.
+So he grabs the contract back, folds it up
+and he's like, okay, well,
+I'll talk to you when I find more.
+Yes, yes, yes.
+But don't forget cocaine.
+Right, right, I'm on it.
+And he leaves the bathroom and it's in his mind,
+but it really, he isn't gonna actively be looking
+for drugs.
+Oh, she's got to be so disbunched in you.
+He's also like experiencing cocaine for the first time ever
+and he's stoked and scared to death.
+And in like 20 minutes,
+he's gonna be looking for more cocaine.
+Yes, absolutely.
+Okay, well, let's cut back to Lafayette
+and Harvey as they're heading outside in the snow.
+And now without your coats,
+you can appreciate just how cold it is out there.
+The snow's coming down quite heavily now.
+But you can see, yeah, there is this thick wire
+that's coming through the wall.
+In fact, it's like a bunch of cables
+that have been bound together
+that are going up to this aerial.
+Lafayette gives that wire an expert and knowledgeable lick.
+I'm giving the cold temperature out here.
+A little Christmas story going on.
+Oh, God.
+Do you want to give me a luck roll
+to see whether your tongue ends up frozen to the cables?
+My name is David Ellington.
+My God, Harvey, I've made quite a bit thick.
+Pass, 17 on a 55.
+Okay, yeah.
+I mean, you pull it away just in time
+so you can feel the ice crystals falling across.
+The main thing the cable tastes of is cold.
+He makes a note of that.
+I actually said that at a wine tasting one time.
+Everyone's looking at me weird.
+But looking at it,
+yeah, I mean, you passed your engineering role earlier,
+so I won't ask you to roll again.
+So looking at this,
+you're fairly certain that this is a power cable.
+In fact, it looks like it's designed
+to carry quite a lot of power,
+but it's just going up to this aerial contraption,
+which doesn't really make a lot of sense to you.
+And you can see as well
+that the aerial is pointing in the direction
+of that wooden tower
+that you saw across on the outskirts of the compound.
+Is there anywhere I can unplug it, this power source?
+Not without tools, not easily.
+I mean, you could try just ripping it out,
+but this is like industrial cabling.
+If you're going to try to sabotage it like that,
+it would require, yeah, for a start, tools, a bit of time.
+You probably need a ladder to get up there.
+I mean, it's not impossible.
+It's just under the circumstances a bit tricky.
+So he gives it a few very honest tugs.
+He's honestly trying to unplug it.
+But when he realizes it's going nowhere,
+he sets it down and he's like,
+only joking, Harvey, we don't want to win that way.
+Do I have a sense of what any of this could be for?
+Do you have the weird science, pulp talent?
+I do.
+Okay, you made your engineering role earlier.
+Yeah, you don't know entirely for sure.
+You'd have to go and take a look at what's in that tower
+to tell for sure.
+But there's something nagging your way
+at the back of your brain.
+You're thinking of some of the wilder designs
+that Nikola Tesla came up with.
+And this looks maybe like it's designed
+for the wireless transmission of electricity.
+Harvey, this isn't normal science.
+You turn and Harvey's licking the wire that you...
+Harvey, you fool.
+There's nothing to learn from that,
+but that it tastes of cold.
+That's exactly what I was going to say.
+It tastes like cold.
+Harvey, please listen.
+This is terribly important.
+Again, this is not normal science.
+How are we talking?
+I didn't know a body could be hollow
+before its blood ran cold.
+I didn't know that the wind could sew
+the tissue and fagged bone.
+You were hollow when you spoke to me.
+Hollow when you sang.
+I thought you might be starving.
+So I gave you everything.
+Thought you were hollow.
+Thorns and rocks and devils' clothes
+and briars and dry-baked clay.
+Crocus blossoms in February
+and Dalian in May.
+Time between a mother's fingers
+and spit off a bridge.
+Restless legs at 3 p.m.
+while waiting for a fix.
+So come back here
+and see what's left of me.
+Is this the wholesome girl you left in Missouri?
+My voice is nothing now
+but the howl of the wind
+come closer to my teeth
+rattling my jaw.
+Come closer dear
+you might see
+rattling my jaw.

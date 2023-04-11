@@ -1,0 +1,3668 @@
+1
+00:00:00,000 --> 00:00:05,200
+Yesterday, I ate a whole bucket of long-deceased crab.
+
+2
+00:00:05,200 --> 00:00:11,500
+Now y'all know I like to dive right into a slop bucket, putrid or otherwise, but something
+
+3
+00:00:11,500 --> 00:00:16,120
+about these weird ocean spiders got me feeling nasty.
+
+4
+00:00:16,120 --> 00:00:22,400
+But not Wolf the dog nasty, just regular diarrhea nasty.
+
+5
+00:00:23,000 --> 00:00:32,600
+What does not make me feel nasty is broadcasting live from 694.2 PTBP, the only radio station
+
+6
+00:00:32,600 --> 00:00:40,120
+that is also in the past and the present and the future at all times, but also sometimes
+
+7
+00:00:40,120 --> 00:00:41,740
+none of them.
+
+8
+00:00:41,740 --> 00:00:44,520
+This week's Howlin' with Wolf is from Daisy.
+
+9
+00:00:44,520 --> 00:00:49,240
+If you want to write up something for y'all wolfy to howl, tag the show at Pretending
+
+10
+00:00:49,240 --> 00:00:55,800
+Pod on Instagram or Twitter, or write up a 5-star review on Apple Podcasts and email
+
+11
+00:00:55,800 --> 00:00:59,320
+us at PretendingPod at Gmail dot com.
+
+12
+00:00:59,320 --> 00:01:01,640
+That way you can be like Daisy here.
+
+13
+00:01:01,640 --> 00:01:06,600
+They write, Hello to everyone in contention and beyond.
+
+14
+00:01:06,600 --> 00:01:12,440
+Thanks to the weird time stuff going on in contention, Texas has gotten a signal to y'all's
+
+15
+00:01:12,440 --> 00:01:18,400
+best and only radio station, 694.2 PTBP.
+
+16
+00:01:18,400 --> 00:01:23,840
+I've been listening for a month or has it only been a few days?
+
+17
+00:01:23,840 --> 00:01:26,200
+Contention is so weird with its time.
+
+18
+00:01:26,200 --> 00:01:32,780
+Well, I would just like to take this time to say thank you to Wolf the dog, his producer
+
+19
+00:01:32,780 --> 00:01:36,840
+and all the people who make this radio segment possible.
+
+20
+00:01:36,840 --> 00:01:41,480
+Sincerely, Daisy, sending all the love and trash in Texas.
+
+21
+00:01:41,480 --> 00:01:43,440
+Well, damn, thanks Daisy.
+
+22
+00:01:43,440 --> 00:01:49,980
+Well, uh, you can keep the love, but I will gladly take your trash offering with glee.
+
+23
+00:01:49,980 --> 00:01:55,500
+Also remember, we've got a new project for our citizens of contention over on the subreddit.
+
+24
+00:01:55,500 --> 00:01:59,520
+We are going to write a Delta Green scenario as a community.
+
+25
+00:01:59,520 --> 00:02:04,640
+Over the next few months, we'll be having prompted writing contests to find the best
+
+26
+00:02:04,640 --> 00:02:06,760
+meaty chunks y'all can muster.
+
+27
+00:02:06,760 --> 00:02:12,280
+We'll use each round's winner to inform the next prompt until we have enough juicy morsels
+
+28
+00:02:12,280 --> 00:02:14,740
+to make ourselves a narrative feast.
+
+29
+00:02:14,740 --> 00:02:20,660
+To get in on this tub of greasy love, head on down to reddit.com all slash pretending
+
+30
+00:02:20,660 --> 00:02:21,920
+to be people.
+
+31
+00:02:21,920 --> 00:02:26,660
+The deadline for submissions here in round one is August 22nd.
+
+32
+00:02:26,660 --> 00:02:31,680
+Show us what you've got and vote for your favorites to help us choose the winners.
+
+33
+00:02:31,680 --> 00:02:36,820
+Hey lovers, did you enjoy that bonus episode we released a couple weeks ago?
+
+34
+00:02:36,820 --> 00:02:42,480
+The one where the boys played Lover in the Ice, the infamously mad fucked up Delta Green
+
+35
+00:02:42,480 --> 00:02:45,180
+scenario written by Caleb Stokes?
+
+36
+00:02:45,180 --> 00:02:49,240
+Well, that was just part one of a three part series.
+
+37
+00:02:49,240 --> 00:02:54,940
+You can find parts two and three over at patreon.com slash pretending pod.
+
+38
+00:02:54,940 --> 00:02:56,700
+There's a link in the show notes.
+
+39
+00:02:56,700 --> 00:03:02,300
+As you become a Splashylvania Fastpass holder, you'll have access to our entire playthrough
+
+40
+00:03:02,300 --> 00:03:07,380
+of Lover in the Ice as well as 10 other bonus episodes.
+
+41
+00:03:07,380 --> 00:03:13,740
+Wherein we play everyone is John the End of the World, Magnum Vice, Fury Force, more Delta
+
+42
+00:03:13,740 --> 00:03:18,460
+Green, and Kala Cthulhu's original scenario, The Haunting.
+
+43
+00:03:18,460 --> 00:03:24,260
+You can also listen to the session zero for season one, during which the boys create the
+
+44
+00:03:24,260 --> 00:03:28,200
+town of contention and discuss character ideas.
+
+45
+00:03:28,200 --> 00:03:34,240
+And uh, next up on the Patreon docket, some fucking human named Justin is running roll
+
+46
+00:03:34,240 --> 00:03:40,280
+for shoes in the Den of Sin, August 29th at 7pm central time.
+
+47
+00:03:40,280 --> 00:03:44,620
+Again, hit that link in the damn show notes, why don't ya?
+
+48
+00:03:44,620 --> 00:03:49,700
+Speaking of notes, mine here in front of me are all dusty, but I'm pretty sure they say
+
+49
+00:03:49,700 --> 00:03:52,900
+it's time for the news.
+
+50
+00:03:52,900 --> 00:03:57,720
+Last time we learned a little about all the good Silas and Mary Cole are doing as the
+
+51
+00:03:57,760 --> 00:04:05,080
+head honchos here in contention in 1880 something, and then we met four fresh faces of four fine
+
+52
+00:04:05,080 --> 00:04:09,400
+folks whose lives are about to be turned completely upside down.
+
+53
+00:04:09,400 --> 00:04:15,560
+Everett Pace, a wily old coot, was lurking around his homestead when he heard a noise
+
+54
+00:04:15,560 --> 00:04:17,880
+out by his late wife's grave.
+
+55
+00:04:17,880 --> 00:04:23,320
+Hollering, he ran off the missing Miss Kitty, who was digging with her hands over the burial
+
+56
+00:04:23,320 --> 00:04:25,800
+site while mumbling to herself.
+
+57
+00:04:26,120 --> 00:04:33,640
+Jack Pearlman, oh, after overhearing some folks at the saloon spilling tea about Silas
+
+58
+00:04:33,640 --> 00:04:39,040
+having a teenage girl out on the property of the new mine, trotted home to find one
+
+59
+00:04:39,040 --> 00:04:44,960
+of his steeds on the edge of the river Styx while a slight humanoid figure bolted toward
+
+60
+00:04:44,960 --> 00:04:47,760
+the tree line like a wild animal.
+
+61
+00:04:47,760 --> 00:04:53,960
+Professor Horace Green tried to get some shut eye, but the drunken miner's conversation
+
+62
+00:04:53,960 --> 00:04:57,200
+next door bled through the walls like lace.
+
+63
+00:04:57,200 --> 00:05:02,480
+He couldn't help but overhear the slurring about the missing gambler being last seen
+
+64
+00:05:02,480 --> 00:05:08,560
+having a bit of a shouting match with Silas Cole after finding something unusual down
+
+65
+00:05:08,560 --> 00:05:13,000
+in the mine which he referred to as living oil.
+
+66
+00:05:13,000 --> 00:05:19,640
+And finally, Judge Ephraim Courtland, after finally spilling out into the world, recalled
+
+67
+00:05:19,640 --> 00:05:26,320
+a peculiar statement made by a recent inmate wherein the madman claimed Mary Cole to be
+
+68
+00:05:26,320 --> 00:05:28,240
+inhuman.
+
+69
+00:05:28,240 --> 00:05:33,200
+Judge Courtland then headed to the courthouse, which had been stripped of its copper wire
+
+70
+00:05:33,200 --> 00:05:38,520
+in the night, leaving the building without electricity to the judge's bewilderment.
+
+71
+00:05:38,520 --> 00:05:44,880
+Tartally, he loped to the church for the town hall meeting about the recent disappearances.
+
+72
+00:05:44,880 --> 00:05:50,880
+But staying right here forever is my ungodly ability to keep bringing the heat week after
+
+73
+00:05:50,880 --> 00:05:55,600
+week until you're weak from these sweet, sweet elite beats.
+
+74
+00:05:55,600 --> 00:06:00,800
+It's the Creek Rocks with Can't You Hear Them Wolves Howlin'
+
+75
+00:06:14,880 --> 00:06:22,800
+Can't you hear them wolves howlin' All around my poor little darlin'
+
+76
+00:06:22,800 --> 00:06:28,800
+All around my poor little darlin' I'm afraid they'll get my darlin'
+
+77
+00:06:36,800 --> 00:06:42,800
+Can't you hear them wolves howlin' All around my poor little darlin'
+
+78
+00:06:42,800 --> 00:06:47,760
+All around my poor little darlin' I'm afraid they'll get my darlin'
+
+79
+00:06:47,760 --> 00:06:52,720
+Can't you hear them wolves howlin' All around my poor little darlin'
+
+80
+00:06:52,720 --> 00:06:58,720
+All around my poor little darlin' I'm afraid they'll get my darlin'
+
+81
+00:07:06,000 --> 00:07:10,400
+Justin, what do you think you would do for money if you existed before 1900?
+
+82
+00:07:10,400 --> 00:07:12,160
+Oh, before 1900?
+
+83
+00:07:12,160 --> 00:07:14,640
+Yeah, like roughly in the 1880s somethings.
+
+84
+00:07:15,200 --> 00:07:16,160
+Shit.
+
+85
+00:07:17,360 --> 00:07:18,560
+Shovel up shit I guess.
+
+86
+00:07:23,360 --> 00:07:24,720
+Because I'd be worthless.
+
+87
+00:07:24,720 --> 00:07:25,280
+Aww.
+
+88
+00:07:25,280 --> 00:07:29,520
+I don't know, I'm a big dude. I guess I'd be like some kind of manual laborer or something.
+
+89
+00:07:29,520 --> 00:07:31,440
+Yeah, we would be in charge.
+
+90
+00:07:31,440 --> 00:07:34,400
+Oh yeah, I'm strong so I'd beat people into submission.
+
+91
+00:07:34,400 --> 00:07:36,640
+You could do like bare knuckle boxing.
+
+92
+00:07:36,640 --> 00:07:37,680
+Yeah, we'd box.
+
+93
+00:07:37,680 --> 00:07:41,360
+I would be the foreman and Luke would be the person I am mean to all the time.
+
+94
+00:07:41,360 --> 00:07:44,480
+I would be the boss because I can't do manual labor.
+
+95
+00:07:44,480 --> 00:07:46,240
+Is that how that works immediately?
+
+96
+00:07:46,960 --> 00:07:48,560
+No, I'd be a grifter for sure.
+
+97
+00:07:50,960 --> 00:07:55,040
+Just like flouting from town to town, changing your name.
+
+98
+00:07:55,040 --> 00:07:55,840
+Quick, what's your name?
+
+99
+00:07:56,560 --> 00:07:56,880
+John.
+
+100
+00:07:57,760 --> 00:07:59,040
+Jacob Jingleheimer Schmidt.
+
+101
+00:08:00,640 --> 00:08:02,160
+Wait wait wait, what is it now though?
+
+102
+00:08:02,160 --> 00:08:04,800
+That guy's like holy shit, that name is my name too.
+
+103
+00:08:07,120 --> 00:08:08,240
+Oh, nice to meet you Casey.
+
+104
+00:08:08,240 --> 00:08:10,000
+Luke Shelton here, nice to meet you.
+
+105
+00:08:10,000 --> 00:08:12,640
+Ooh, no, can I change my answer?
+
+106
+00:08:12,640 --> 00:08:14,000
+I can't, can I? It's too late.
+
+107
+00:08:14,000 --> 00:08:14,480
+Too late?
+
+108
+00:08:14,480 --> 00:08:16,160
+Never mind, go on, go on.
+
+109
+00:08:16,160 --> 00:08:16,880
+Terrible, man.
+
+110
+00:08:19,760 --> 00:08:21,840
+Joe, what would you do before 1900?
+
+111
+00:08:21,840 --> 00:08:22,560
+Would you be a barber?
+
+112
+00:08:22,560 --> 00:08:23,840
+Oh, could you be a barber?
+
+113
+00:08:23,840 --> 00:08:25,680
+No, I don't know how to cut hair.
+
+114
+00:08:25,680 --> 00:08:26,320
+I mean, I could.
+
+115
+00:08:26,320 --> 00:08:28,320
+I don't know how to be a foreman, but I'm going to.
+
+116
+00:08:28,320 --> 00:08:29,760
+It's the 1900s, dog.
+
+117
+00:08:29,760 --> 00:08:30,480
+There's no rules.
+
+118
+00:08:30,480 --> 00:08:31,840
+It's the 1800s.
+
+119
+00:08:31,840 --> 00:08:33,280
+The 1800s.
+
+120
+00:08:33,280 --> 00:08:34,240
+I could learn how to cut hair.
+
+121
+00:08:34,240 --> 00:08:38,080
+I was going to say, I mean, like a bartender or like a...
+
+122
+00:08:38,080 --> 00:08:40,320
+Well, the three of us would literally be giants.
+
+123
+00:08:40,320 --> 00:08:41,680
+Because we're tall?
+
+124
+00:08:41,680 --> 00:08:43,360
+They weren't, they were short back then?
+
+125
+00:08:43,360 --> 00:08:43,600
+Yeah.
+
+126
+00:08:43,600 --> 00:08:46,160
+They were, they were like four foot tall back then.
+
+127
+00:08:47,120 --> 00:08:47,680
+Hobbits.
+
+128
+00:08:47,680 --> 00:08:48,480
+I'm almost positive.
+
+129
+00:08:48,480 --> 00:08:49,680
+When was football invented?
+
+130
+00:08:49,680 --> 00:08:53,520
+Would we all just be on a football team and like decimate everyone in our pads?
+
+131
+00:08:53,520 --> 00:08:54,960
+Ooh, can I change my answer?
+
+132
+00:08:54,960 --> 00:08:57,520
+I want to play baseball in the late 1800s.
+
+133
+00:08:57,520 --> 00:08:58,800
+I'll teach them how to play if it's...
+
+134
+00:08:58,800 --> 00:08:59,680
+Oh, nice.
+
+135
+00:08:59,680 --> 00:09:00,560
+Was it 1870 something?
+
+136
+00:09:00,560 --> 00:09:02,880
+We're going to teach them how to play baseball.
+
+137
+00:09:03,760 --> 00:09:05,360
+And it's called Joe ball.
+
+138
+00:09:05,360 --> 00:09:07,360
+Yep, Joe ball.
+
+139
+00:09:07,360 --> 00:09:08,320
+After Joe mama.
+
+140
+00:09:09,520 --> 00:09:12,000
+Are you a first Joe's man or a second Joe's man?
+
+141
+00:09:12,000 --> 00:09:12,880
+Or do you play third?
+
+142
+00:09:13,520 --> 00:09:14,080
+Third.
+
+143
+00:09:14,080 --> 00:09:14,560
+Joe.
+
+144
+00:09:14,560 --> 00:09:15,360
+I'm a Joe stop.
+
+145
+00:09:15,360 --> 00:09:15,680
+Home Joe.
+
+146
+00:09:17,760 --> 00:09:18,720
+Home Joe's man.
+
+147
+00:09:20,400 --> 00:09:27,040
+If you, if like you were sent back now to like 1880, what could you actually invent?
+
+148
+00:09:27,040 --> 00:09:27,760
+And like...
+
+149
+00:09:27,760 --> 00:09:28,720
+Oh, like everything.
+
+150
+00:09:29,920 --> 00:09:31,360
+Oh, nothing.
+
+151
+00:09:31,360 --> 00:09:32,240
+Nothing for sure.
+
+152
+00:09:33,040 --> 00:09:34,960
+I was looking up recliners.
+
+153
+00:09:35,520 --> 00:09:40,720
+Recliners did not exist in the 1880s, so I think I could invent a recliner.
+
+154
+00:09:40,720 --> 00:09:42,160
+You could probably figure that out.
+
+155
+00:09:42,160 --> 00:09:45,200
+I would just do all sorts of music.
+
+156
+00:09:45,200 --> 00:09:50,400
+I would, for some reason, the first song on my mind is Higher by Creed.
+
+157
+00:09:50,400 --> 00:09:51,520
+I think they would love that.
+
+158
+00:09:52,800 --> 00:09:59,680
+You know what I think would legitimately probably go over pretty well is like any stomping music,
+
+159
+00:09:59,680 --> 00:10:01,520
+like Little Lion Man.
+
+160
+00:10:01,520 --> 00:10:02,480
+By Stomp?
+
+161
+00:10:02,480 --> 00:10:06,000
+No, like what, what's, who does Little Lion Man?
+
+162
+00:10:06,000 --> 00:10:07,440
+Trash can fellas?
+
+163
+00:10:07,440 --> 00:10:07,940
+No.
+
+164
+00:10:08,800 --> 00:10:10,480
+Oh, you're talking about Mumford and Sons?
+
+165
+00:10:10,480 --> 00:10:11,040
+Yeah.
+
+166
+00:10:11,040 --> 00:10:12,240
+Stomp, stomping music.
+
+167
+00:10:14,240 --> 00:10:16,000
+Stomping music?
+
+168
+00:10:16,000 --> 00:10:16,240
+Yeah.
+
+169
+00:10:16,240 --> 00:10:18,480
+They stomp their feet along with all the songs.
+
+170
+00:10:18,480 --> 00:10:20,480
+They didn't have a drummer, Thomas.
+
+171
+00:10:20,480 --> 00:10:23,920
+The lead singer just had a kick drum and that's it.
+
+172
+00:10:23,920 --> 00:10:24,880
+Is that a true story?
+
+173
+00:10:24,880 --> 00:10:26,320
+Is that part of their origin story?
+
+174
+00:10:26,320 --> 00:10:27,680
+Who did that song?
+
+175
+00:10:27,680 --> 00:10:30,880
+The Ho Hey song with stomping and clapping.
+
+176
+00:10:30,880 --> 00:10:32,080
+The Ho Hey?
+
+177
+00:10:32,240 --> 00:10:34,480
+What is that song or what is that band?
+
+178
+00:10:34,480 --> 00:10:38,000
+You know, like, Hey, they do that a lot throughout the song.
+
+179
+00:10:38,000 --> 00:10:40,160
+Isn't that Mumford and Sons?
+
+180
+00:10:40,160 --> 00:10:40,960
+I don't think it is.
+
+181
+00:10:42,960 --> 00:10:43,920
+The Lumineers.
+
+182
+00:10:45,200 --> 00:10:47,520
+I was a freshman in college in 2010.
+
+183
+00:10:47,520 --> 00:10:50,160
+I remember this time very well.
+
+184
+00:10:50,160 --> 00:10:53,840
+I had the Lumineers album on my iPod for sure.
+
+185
+00:10:53,840 --> 00:10:54,560
+Hell yeah, dude.
+
+186
+00:10:54,560 --> 00:10:55,680
+iPod touch?
+
+187
+00:10:55,680 --> 00:10:58,800
+No, iPod, the big one that held the most.
+
+188
+00:10:58,800 --> 00:10:59,280
+I don't know.
+
+189
+00:10:59,280 --> 00:11:00,240
+With the big roundy?
+
+190
+00:11:00,240 --> 00:11:01,360
+Though with the big roundy, yeah.
+
+191
+00:11:01,360 --> 00:11:03,840
+Could it play videos that were real tiny?
+
+192
+00:11:03,840 --> 00:11:04,400
+Like pornographies?
+
+193
+00:11:04,400 --> 00:11:05,360
+I didn't have any videos.
+
+194
+00:11:06,240 --> 00:11:10,080
+Did you put any dirty films on your big iPod?
+
+195
+00:11:11,280 --> 00:11:13,360
+I had explicit music on there.
+
+196
+00:11:13,360 --> 00:11:15,680
+When were you guys allowed to listen to explicit music?
+
+197
+00:11:16,320 --> 00:11:18,800
+I was never like not allowed to.
+
+198
+00:11:18,800 --> 00:11:19,600
+Did you have to hide it?
+
+199
+00:11:19,600 --> 00:11:20,560
+I just like wouldn't.
+
+200
+00:11:21,360 --> 00:11:24,880
+By the time that was a problem, I was just downloading everything I wanted.
+
+201
+00:11:25,760 --> 00:11:28,240
+I listened to a lot of classic rock until
+
+202
+00:11:28,240 --> 00:11:30,880
+LimeWire and then that's when I got all my stuff.
+
+203
+00:11:31,600 --> 00:11:37,200
+My parents bought me the Coolio album that had Gangster's Paradise on it on cassette tape.
+
+204
+00:11:38,320 --> 00:11:41,760
+We were listening to it and it's one of those rap albums that has a lot of skits
+
+205
+00:11:41,760 --> 00:11:43,680
+and they cuss up a storm in the skits.
+
+206
+00:11:43,680 --> 00:11:46,640
+I do remember my mom saying something like,
+
+207
+00:11:46,640 --> 00:11:49,440
+I wish we would have just gotten the soundtrack to Dead Man Walking,
+
+208
+00:11:49,440 --> 00:11:54,400
+which is where that song is from, instead of this whole Coolio album.
+
+209
+00:11:54,400 --> 00:11:56,160
+Holy shit, that's so good.
+
+210
+00:11:57,040 --> 00:12:00,400
+I had a three CD disc changer.
+
+211
+00:12:01,120 --> 00:12:06,320
+I specifically remember at one point in time, it had Mercy Me,
+
+212
+00:12:07,120 --> 00:12:10,880
+which was the Christian band who did I Can Only Imagine.
+
+213
+00:12:12,160 --> 00:12:18,000
+It had that album, it had Linkin Park reanimation remix,
+
+214
+00:12:18,560 --> 00:12:21,840
+and it had The Bends by Radiohead.
+
+215
+00:12:21,840 --> 00:12:23,760
+Ooh, good mix.
+
+216
+00:12:23,760 --> 00:12:24,400
+Interesting.
+
+217
+00:12:24,400 --> 00:12:26,880
+That's a mix, eclectic.
+
+218
+00:12:26,880 --> 00:12:28,400
+What year do you think that would have been?
+
+219
+00:12:29,360 --> 00:12:31,920
+2004?
+
+220
+00:12:31,920 --> 00:12:33,040
+2004?
+
+221
+00:12:33,040 --> 00:12:35,200
+Mine would have been just classic rock.
+
+222
+00:12:35,200 --> 00:12:36,400
+Oh, you're one of those people?
+
+223
+00:12:36,960 --> 00:12:37,460
+Yeah.
+
+224
+00:12:38,720 --> 00:12:41,600
+In 2004, for sure, mine would have been,
+
+225
+00:12:42,160 --> 00:12:45,360
+I think I was still, that would have been the tail end of my Zeppelin phase.
+
+226
+00:12:45,360 --> 00:12:51,440
+I would have been Led Zeppelin, AC DC, and just one that changes.
+
+227
+00:12:52,080 --> 00:12:54,240
+My dad's a big John Denver fan,
+
+228
+00:12:54,240 --> 00:12:57,120
+so I didn't get into classic rock until School of Rock came out.
+
+229
+00:12:58,080 --> 00:13:03,360
+I was in the only good music is weird, heady, underground rap
+
+230
+00:13:03,360 --> 00:13:05,200
+that I no longer listen to,
+
+231
+00:13:05,200 --> 00:13:08,720
+because it's not always the most fun thing to listen to.
+
+232
+00:13:08,720 --> 00:13:09,920
+Like Eminem?
+
+233
+00:13:09,920 --> 00:13:14,320
+No, like borderline fucking spoken word sometimes.
+
+234
+00:13:14,320 --> 00:13:15,920
+Like late Jay-Z.
+
+235
+00:13:17,840 --> 00:13:20,000
+Or like Tupac, are you going really underground?
+
+236
+00:13:22,400 --> 00:13:23,760
+Holy shit.
+
+237
+00:13:23,760 --> 00:13:24,880
+Oh, Joe.
+
+238
+00:13:26,000 --> 00:13:27,440
+I didn't mean it that way.
+
+239
+00:13:27,440 --> 00:13:28,480
+I didn't mean it that way.
+
+240
+00:13:28,480 --> 00:13:31,280
+I was trying to think of another big rapper.
+
+241
+00:13:32,080 --> 00:13:33,360
+He is alive.
+
+242
+00:13:33,360 --> 00:13:34,560
+I don't know if you know that.
+
+243
+00:13:34,560 --> 00:13:35,840
+Joe couldn't have meant it that way,
+
+244
+00:13:35,840 --> 00:13:41,520
+because he has sheltered Tupac for a few months in his loft.
+
+245
+00:13:41,520 --> 00:13:43,280
+He's like, I know Tupac's fucked.
+
+246
+00:13:44,000 --> 00:13:45,840
+That's why we're not allowed over there.
+
+247
+00:13:47,600 --> 00:13:49,040
+I try and bang the door down,
+
+248
+00:13:49,040 --> 00:13:51,840
+and Joe started hammering up barricades over.
+
+249
+00:13:52,960 --> 00:13:54,160
+Quick, Tupac, run!
+
+250
+00:14:00,000 --> 00:14:00,720
+What's he saying?
+
+251
+00:14:00,720 --> 00:14:02,000
+Does he have an E.T. in there?
+
+252
+00:14:04,480 --> 00:14:06,080
+Joe, you got E.T. in there?
+
+253
+00:14:06,080 --> 00:14:06,800
+Is that E.T.?
+
+254
+00:14:07,440 --> 00:14:08,400
+Joe's like, yeah!
+
+255
+00:14:09,760 --> 00:14:10,640
+It's definitely not.
+
+256
+00:14:10,640 --> 00:14:11,280
+It's an E.T.!
+
+257
+00:14:11,920 --> 00:14:12,720
+It's an E.T.!
+
+258
+00:14:12,720 --> 00:14:14,800
+It's not anything else.
+
+259
+00:14:15,680 --> 00:14:17,040
+It's not Mr. Shakur.
+
+260
+00:14:17,040 --> 00:14:17,680
+Oh my God.
+
+261
+00:14:17,680 --> 00:14:20,960
+It's Biggie!
+
+262
+00:14:20,960 --> 00:14:21,920
+Fine, it's Biggie!
+
+263
+00:14:23,120 --> 00:14:24,000
+It's 3Pac!
+
+264
+00:14:25,920 --> 00:14:27,440
+We're gonna have to cut all this, I'm sorry.
+
+265
+00:14:29,440 --> 00:14:30,400
+Just those last two.
+
+266
+00:14:34,080 --> 00:14:36,560
+Really ramped ourselves up for the Old West mood here.
+
+267
+00:14:39,040 --> 00:14:45,920
+So today is the day that is taking place currently.
+
+268
+00:14:45,920 --> 00:14:50,800
+So this will be the day after Everett's interesting evening,
+
+269
+00:14:50,800 --> 00:14:54,160
+after Horace Green's attempt at sleep,
+
+270
+00:14:54,160 --> 00:14:58,960
+and after Jack Perlman's night of fun.
+
+271
+00:14:59,520 --> 00:15:03,840
+So, Judge Ephraim, Courtland's day that we dove into.
+
+272
+00:15:05,120 --> 00:15:08,320
+Who's gonna be at the town hall meeting on time?
+
+273
+00:15:09,040 --> 00:15:09,440
+Not me.
+
+274
+00:15:10,480 --> 00:15:12,880
+Yeah, I don't think I would either.
+
+275
+00:15:12,880 --> 00:15:16,400
+I think Everett would be there on time with the night that he had.
+
+276
+00:15:16,400 --> 00:15:17,360
+Was it mandatory?
+
+277
+00:15:18,000 --> 00:15:19,440
+Oh right, the disappearances.
+
+278
+00:15:19,440 --> 00:15:21,520
+Yeah, Horace goes.
+
+279
+00:15:21,520 --> 00:15:23,760
+I'll be there but not on time, for sure.
+
+280
+00:15:23,760 --> 00:15:24,320
+Okay.
+
+281
+00:15:24,320 --> 00:15:24,800
+Rough night.
+
+282
+00:15:24,800 --> 00:15:28,080
+Sorry, I'm still thinking about how Joe harbored Tupac from,
+
+283
+00:15:30,240 --> 00:15:31,840
+you know, the Illuminati or whatever.
+
+284
+00:15:35,040 --> 00:15:35,920
+Or whatever.
+
+285
+00:15:35,920 --> 00:15:36,640
+Myriad.
+
+286
+00:15:36,640 --> 00:15:37,120
+There it is.
+
+287
+00:15:37,840 --> 00:15:41,040
+Luke and Justin, take your headphones off.
+
+288
+00:15:41,040 --> 00:15:42,160
+Okie dokie.
+
+289
+00:15:42,160 --> 00:15:43,680
+Oh my god, are you drinking a Coke?
+
+290
+00:15:43,680 --> 00:15:44,640
+Like a straight Coke?
+
+291
+00:15:45,520 --> 00:15:46,640
+Yeah, it's Coke Zero.
+
+292
+00:15:48,000 --> 00:15:49,200
+Nice, no calories.
+
+293
+00:15:49,760 --> 00:15:51,200
+Dr. Pepper 10.
+
+294
+00:15:51,200 --> 00:15:52,560
+It's only for men.
+
+295
+00:15:52,560 --> 00:15:54,320
+That was so fucking weird.
+
+296
+00:15:54,320 --> 00:15:58,000
+That was a terrible, terrible marketing campaign.
+
+297
+00:15:58,000 --> 00:15:59,200
+Thank god it backfired.
+
+298
+00:15:59,760 --> 00:16:00,720
+No joke.
+
+299
+00:16:00,720 --> 00:16:02,480
+Am I headphones off?
+
+300
+00:16:02,480 --> 00:16:03,840
+No, keep them on, please.
+
+301
+00:16:03,840 --> 00:16:06,320
+Okay, bye bye.
+
+302
+00:16:12,800 --> 00:16:21,520
+The dusty church's pews are full and the air is thick on this humid summer day.
+
+303
+00:16:21,520 --> 00:16:25,600
+Sweat is dripping down the skin of all in attendance.
+
+304
+00:16:25,600 --> 00:16:26,960
+And the smell in here?
+
+305
+00:16:26,960 --> 00:16:27,280
+Foul.
+
+306
+00:16:28,080 --> 00:16:32,880
+Thankfully, this is a lunch meeting, so the sun isn't shining directly through the windows,
+
+307
+00:16:32,880 --> 00:16:37,520
+but the shade just lends itself to the wetness of the air.
+
+308
+00:16:38,400 --> 00:16:44,400
+Bobby Custard takes his place at the pulpit and begins speaking before the unruly crowd
+
+309
+00:16:44,400 --> 00:16:45,120
+simmers down.
+
+310
+00:16:45,920 --> 00:16:48,720
+Alrighty there folks, settle down, settle down.
+
+311
+00:16:48,720 --> 00:16:54,400
+As you all well know, we're here today to discuss the recent happenings regarding the
+
+312
+00:16:54,400 --> 00:16:56,880
+disappearances of all them saloon folk.
+
+313
+00:16:57,600 --> 00:17:02,480
+First off, does anyone have any information here to bring forward?
+
+314
+00:17:02,480 --> 00:17:08,080
+Everett from the back, he's still kind of tottering his way in and he hears the tail
+
+315
+00:17:08,080 --> 00:17:08,560
+end of that.
+
+316
+00:17:10,000 --> 00:17:13,280
+Yeah, I reckon I could shed some light on something that's going on.
+
+317
+00:17:13,920 --> 00:17:15,200
+I got some information.
+
+318
+00:17:15,200 --> 00:17:17,280
+Oh, Mr. Pace, yes, of course.
+
+319
+00:17:18,320 --> 00:17:21,760
+Round last night, I reckon the moon was high up there.
+
+320
+00:17:21,760 --> 00:17:24,160
+It must have been two in the morning or something.
+
+321
+00:17:24,160 --> 00:17:26,960
+There was a ruckus out there by the tree line.
+
+322
+00:17:28,480 --> 00:17:31,840
+There's something that means a lot to me out there.
+
+323
+00:17:31,840 --> 00:17:35,840
+It's where I buried my wife.
+
+324
+00:17:35,840 --> 00:17:37,600
+There's a gasp through the crowd.
+
+325
+00:17:37,600 --> 00:17:42,560
+Everyone's, there was somebody out there digging and it bothered me.
+
+326
+00:17:42,560 --> 00:17:46,160
+I walked up on and it was Miss Kitty.
+
+327
+00:17:46,160 --> 00:17:52,160
+And I was trying to tell her that they were looking for her.
+
+328
+00:17:52,160 --> 00:17:55,440
+And then she looked at me and then she just took off running in the woods.
+
+329
+00:17:55,440 --> 00:17:58,400
+I hollered after, but you know, I can't keep up with anybody these days.
+
+330
+00:17:58,400 --> 00:18:01,200
+And I don't know what happened after that.
+
+331
+00:18:01,200 --> 00:18:02,080
+Y'all have a good day.
+
+332
+00:18:02,080 --> 00:18:03,200
+And he starts walking out.
+
+333
+00:18:03,200 --> 00:18:04,320
+Oh, no, no, no.
+
+334
+00:18:04,320 --> 00:18:08,400
+Hey there, uh, Mr. Pace, please, please stay.
+
+335
+00:18:08,400 --> 00:18:11,760
+If you clearly have some sort of information.
+
+336
+00:18:11,760 --> 00:18:18,720
+And as Bobby is trying to trying to keep you in here, you see Thuro Sexton, who you know
+
+337
+00:18:18,720 --> 00:18:26,880
+as the night watch at the cemetery stands up, hat in hand.
+
+338
+00:18:26,880 --> 00:18:36,320
+Um, I, Everett, I thought I was crazy, but the fact that you said that makes me feel
+
+339
+00:18:36,320 --> 00:18:41,920
+okay saying this here now today here in front of everyone and go.
+
+340
+00:18:44,400 --> 00:18:52,640
+Last night, I scared off that Miss Kitty from digging up bodies in their own cemetery.
+
+341
+00:18:53,120 --> 00:18:59,920
+And when she ran off, I swear to God, I mean, sorry, preach.
+
+342
+00:18:59,920 --> 00:19:04,080
+I, I promise I Bible swear.
+
+343
+00:19:04,080 --> 00:19:04,800
+I swear.
+
+344
+00:19:04,800 --> 00:19:05,360
+I don't know.
+
+345
+00:19:05,360 --> 00:19:08,000
+I, I, I'm telling truth.
+
+346
+00:19:09,120 --> 00:19:16,000
+She had three corpses on her back and she ran off with them heading down south.
+
+347
+00:19:16,880 --> 00:19:18,640
+Miss Kitty's a grave robber.
+
+348
+00:19:18,640 --> 00:19:19,760
+Is that what you're trying to?
+
+349
+00:19:20,480 --> 00:19:30,720
+I don't know why she was going for so many bodies, but she clearly needed more than three
+
+350
+00:19:30,720 --> 00:19:35,280
+and must have headed down to your property there, sir.
+
+351
+00:19:35,280 --> 00:19:36,960
+I'm deeply sorry.
+
+352
+00:19:37,680 --> 00:19:38,240
+Thank goodness.
+
+353
+00:19:38,240 --> 00:19:40,880
+She didn't, she didn't get down in that hole deep enough.
+
+354
+00:19:41,520 --> 00:19:43,920
+I was able to put some earth wrap back on there.
+
+355
+00:19:43,920 --> 00:19:45,680
+She didn't get deep enough.
+
+356
+00:19:45,680 --> 00:19:47,680
+You must, you got her.
+
+357
+00:19:48,480 --> 00:19:50,400
+I would have never expected Miss Kitty.
+
+358
+00:19:50,400 --> 00:19:52,400
+Was she on hard times or something?
+
+359
+00:19:52,400 --> 00:19:54,240
+I think she's been gone.
+
+360
+00:19:54,240 --> 00:19:57,920
+She, she always had the money to live her life.
+
+361
+00:20:00,000 --> 00:20:06,000
+I often will go to the, and then he looks down and you see his wife looking back up
+
+362
+00:20:06,000 --> 00:20:12,080
+at him with huge eyes and he's like, I mean, I, she, I don't know.
+
+363
+00:20:12,640 --> 00:20:15,520
+Oh my goodness.
+
+364
+00:20:15,520 --> 00:20:20,400
+I did not expect this much information to come out so soon.
+
+365
+00:20:20,400 --> 00:20:24,800
+Like much appreciated from the both of you speaking up like this.
+
+366
+00:20:33,440 --> 00:20:35,520
+Jack, what horse are you riding on your way in?
+
+367
+00:20:35,520 --> 00:20:37,520
+Same old, same old Jeremiah.
+
+368
+00:20:38,160 --> 00:20:47,200
+So these two fucking gorgeous steeds are taking these two men of very opposing distinctive
+
+369
+00:20:47,200 --> 00:20:52,480
+features toward the church house at the exact same time.
+
+370
+00:20:52,480 --> 00:20:59,360
+And Jack Pearlman and Judge Ephraim Courtland arrive almost simultaneously.
+
+371
+00:20:59,360 --> 00:21:02,960
+I kind of look over Ephraim and kind of nod to him.
+
+372
+00:21:04,240 --> 00:21:05,440
+God damn it.
+
+373
+00:21:05,440 --> 00:21:09,840
+Ephraim gets off his horse and just looks at him and starts walking towards the meeting.
+
+374
+00:21:09,840 --> 00:21:12,640
+I like tie up my, do you tie up a horse?
+
+375
+00:21:12,640 --> 00:21:13,360
+We'll say yeah.
+
+376
+00:21:13,360 --> 00:21:14,480
+You tie, tie up my horse.
+
+377
+00:21:14,480 --> 00:21:16,000
+You got to tie up that horse.
+
+378
+00:21:16,000 --> 00:21:20,400
+Otherwise any old random groundhogs can come up and they're scaring off around there and
+
+379
+00:21:20,400 --> 00:21:22,560
+take off without a horse driving around.
+
+380
+00:21:22,560 --> 00:21:25,040
+Exactly the words I would have also used.
+
+381
+00:21:25,040 --> 00:21:25,540
+Same.
+
+382
+00:21:26,640 --> 00:21:31,760
+I give Jeremiah a good little pet and head on in following the nasty man.
+
+383
+00:21:31,760 --> 00:21:35,440
+Spits on the ground.
+
+384
+00:21:44,160 --> 00:21:50,720
+The doors bust wide open to the church and you see the towering six foot ten, 300 pound
+
+385
+00:21:50,720 --> 00:21:54,080
+of disgusting flesh falling from itself.
+
+386
+00:21:54,160 --> 00:22:03,600
+Presence of Judge Ephraim Courtland spit on the ground as he walks in to the church with
+
+387
+00:22:03,600 --> 00:22:10,480
+Jack Pearlman, a much different hotter figure, following right behind.
+
+388
+00:22:10,480 --> 00:22:11,600
+This man's sexy.
+
+389
+00:22:16,320 --> 00:22:22,320
+All the men and women in the audience, the congregation, the town congregation, we're
+
+390
+00:22:22,320 --> 00:22:24,640
+in a church, it's not a service, whatever.
+
+391
+00:22:24,640 --> 00:22:32,640
+They all become green with the sight of Judge Courtland and then immediately blood rushes
+
+392
+00:22:32,640 --> 00:22:39,440
+to certain spots and especially cheeks when Jack Pearlman walks into the church.
+
+393
+00:22:39,440 --> 00:22:45,120
+Okay, so you're saying, you're saying that we got Miss Kitty just living around here.
+
+394
+00:22:45,120 --> 00:22:46,800
+Oh, hello there Judge.
+
+395
+00:22:47,280 --> 00:22:53,600
+Um, I was just asking to see if there's anyone who had any sort of information to bring forward
+
+396
+00:22:53,600 --> 00:22:56,320
+about the disappearances recently of the saloon.
+
+397
+00:22:56,320 --> 00:22:58,080
+My copper wire got stolen.
+
+398
+00:22:59,040 --> 00:23:00,480
+Can't turn the lights on.
+
+399
+00:23:01,120 --> 00:23:02,480
+That's why I'm here.
+
+400
+00:23:02,480 --> 00:23:07,440
+And the judge is just standing in the aisle and everyone's just kind of looking at him.
+
+401
+00:23:07,440 --> 00:23:08,720
+Uh, okay.
+
+402
+00:23:09,600 --> 00:23:16,080
+Is that, I'm sure, do you want me as like Sheriff, you want me to take care of that?
+
+403
+00:23:16,880 --> 00:23:17,280
+Get it.
+
+404
+00:23:17,280 --> 00:23:18,800
+I can't turn my lights on.
+
+405
+00:23:20,160 --> 00:23:20,480
+Okay.
+
+406
+00:23:20,480 --> 00:23:23,680
+That'll be the first thing that we take care of after this.
+
+407
+00:23:23,680 --> 00:23:27,200
+Yeah, no, what the hell else are you talking about here?
+
+408
+00:23:27,200 --> 00:23:32,000
+That my secretary told me to come here because of my wires.
+
+409
+00:23:32,640 --> 00:23:34,480
+Thought that was what this meeting was about.
+
+410
+00:23:34,480 --> 00:23:36,800
+About the disappearances currently.
+
+411
+00:23:36,800 --> 00:23:38,560
+Well, and he sits down.
+
+412
+00:23:39,120 --> 00:23:40,080
+There's like the pew.
+
+413
+00:23:40,080 --> 00:23:44,320
+He just like scoots someone over and sits like right next to the aisle.
+
+414
+00:23:45,040 --> 00:23:46,080
+Rhubarb, rhubarb.
+
+415
+00:23:46,080 --> 00:23:51,360
+Jack Pearlman, I'm assuming was kind of like with him upon entering, but whenever he started
+
+416
+00:23:52,000 --> 00:23:57,600
+mouthing off and yelling, he kind of just like scooted sideways kind of a way to the,
+
+417
+00:23:57,600 --> 00:24:02,800
+the back of the, the church to kind of listen and not be associated with him at all.
+
+418
+00:24:02,800 --> 00:24:03,760
+Yeah, makes sense.
+
+419
+00:24:04,320 --> 00:24:08,880
+Professor Horace Green, any, uh, just like what's running through your head?
+
+420
+00:24:08,880 --> 00:24:10,560
+Horace Green is just reading a book.
+
+421
+00:24:10,560 --> 00:24:13,280
+And that, uh, yes, no, we'll definitely take care of that.
+
+422
+00:24:13,280 --> 00:24:13,600
+Sure.
+
+423
+00:24:13,600 --> 00:24:19,040
+As, as soon as we're done here, first thing that I look into for sure, but we're talking
+
+424
+00:24:19,040 --> 00:24:25,920
+about these disappearances and that is what we need to discuss now that we've got, uh,
+
+425
+00:24:25,920 --> 00:24:27,840
+Satan's last night of Ms.
+
+426
+00:24:27,840 --> 00:24:29,280
+Kitty out and about.
+
+427
+00:24:30,160 --> 00:24:31,040
+Grave Robin.
+
+428
+00:24:31,600 --> 00:24:33,840
+Kitty was grave Robin.
+
+429
+00:24:34,560 --> 00:24:36,160
+I seen her with my own two eyes.
+
+430
+00:24:37,040 --> 00:24:37,920
+Uh, yes.
+
+431
+00:24:37,920 --> 00:24:44,640
+And, and, and I too says thorough Sexton who's the nightwatch, the cemetery.
+
+432
+00:24:44,640 --> 00:24:46,800
+What'd you ever, what'd you dig up?
+
+433
+00:24:46,800 --> 00:24:48,000
+What'd you see her dig up?
+
+434
+00:24:48,000 --> 00:24:50,720
+It was three old, old bodies.
+
+435
+00:24:50,720 --> 00:24:53,280
+I run her off before she could get anything of mine.
+
+436
+00:24:53,280 --> 00:24:53,840
+Who was it?
+
+437
+00:24:54,400 --> 00:24:55,360
+Who'd you dig up?
+
+438
+00:24:55,360 --> 00:24:55,840
+Yeah.
+
+439
+00:24:55,840 --> 00:24:58,560
+Who, who'd you get from the cemetery over there?
+
+440
+00:24:58,560 --> 00:25:06,400
+It was, uh, Sally Jensen who, as we all know, pass God 30 years ago now.
+
+441
+00:25:06,960 --> 00:25:12,000
+Mitzi Frankenship, who unfortunately left us 34 years ago.
+
+442
+00:25:12,960 --> 00:25:21,920
+And Rebecca Feinsteem, Feinsteem, Rebecca Feinsteem, Steem.
+
+443
+00:25:23,200 --> 00:25:24,400
+I can't pronounce it.
+
+444
+00:25:24,400 --> 00:25:27,520
+It's a lot of consonants all in a row.
+
+445
+00:25:28,160 --> 00:25:38,960
+It's S T E I N F P F I E M P Z F.
+
+446
+00:25:38,960 --> 00:25:45,600
+I don't know how to say that, but she died 37 years ago.
+
+447
+00:25:45,600 --> 00:25:47,840
+She, she taught me in school.
+
+448
+00:25:48,560 --> 00:25:50,560
+I remember I had to spell her name.
+
+449
+00:25:54,080 --> 00:25:55,600
+It had every letter of the alphabet.
+
+450
+00:25:57,520 --> 00:26:01,760
+I'm sorry for your loss.
+
+451
+00:26:01,760 --> 00:26:08,240
+I tried to get to her, but, um, I'm a heavy sleeper.
+
+452
+00:26:10,480 --> 00:26:14,880
+So some of his kitty disappeared him or what?
+
+453
+00:26:14,880 --> 00:26:16,640
+Uh, yes, just seemingly.
+
+454
+00:26:16,640 --> 00:26:22,240
+So Ms. Kitty did come around and, uh, and it was taken by, she took three before she
+
+455
+00:26:22,240 --> 00:26:27,200
+headed off three from the cemetery for she headed off up to the pace place.
+
+456
+00:26:27,200 --> 00:26:29,680
+She must've dropped off them bodies somewhere along the way.
+
+457
+00:26:29,680 --> 00:26:30,480
+Cause she didn't have them.
+
+458
+00:26:30,480 --> 00:26:33,440
+When she came up to my place, what was she doing there?
+
+459
+00:26:33,440 --> 00:26:35,920
+She's trying to dig up Claire's grave.
+
+460
+00:26:37,840 --> 00:26:38,160
+Okay.
+
+461
+00:26:38,160 --> 00:26:38,880
+Let's go get her.
+
+462
+00:26:39,520 --> 00:26:40,080
+Go get her.
+
+463
+00:26:40,080 --> 00:26:40,560
+What?
+
+464
+00:26:40,560 --> 00:26:41,920
+You know where she is?
+
+465
+00:26:41,920 --> 00:26:43,280
+I figured you might.
+
+466
+00:26:43,280 --> 00:26:44,400
+What are we even here for?
+
+467
+00:26:44,400 --> 00:26:48,640
+If you don't know where she is, pardon, pardon, pardon me, judge.
+
+468
+00:26:48,640 --> 00:26:50,320
+But what do you mean by let's?
+
+469
+00:26:51,040 --> 00:26:56,800
+I mean, us, it doesn't really look like you're in much shape to get
+
+470
+00:26:56,800 --> 00:27:00,160
+anybody much less join a horse riding posse.
+
+471
+00:27:00,160 --> 00:27:03,360
+Ephraim stands up and points his gun at, at Horace.
+
+472
+00:27:03,360 --> 00:27:07,360
+Oh my God.
+
+473
+00:27:07,360 --> 00:27:10,160
+Speaking, I'm speaking as a biologist, sir.
+
+474
+00:27:10,160 --> 00:27:12,000
+You've seen me ride my horse.
+
+475
+00:27:12,000 --> 00:27:13,280
+You know, I can ride around.
+
+476
+00:27:15,600 --> 00:27:17,600
+I don't believe I have seen that, sir.
+
+477
+00:27:17,600 --> 00:27:18,400
+My mistake.
+
+478
+00:27:18,400 --> 00:27:19,440
+Shut the fuck up.
+
+479
+00:27:20,640 --> 00:27:21,440
+Let's go get her.
+
+480
+00:27:26,800 --> 00:27:31,600
+Shut the fuck up.
+
+481
+00:27:31,600 --> 00:27:33,840
+When judge says, shut the fuck up.
+
+482
+00:27:33,840 --> 00:27:39,200
+You see that, um, Bobby custard just puts both of his hands in the air.
+
+483
+00:27:39,200 --> 00:27:40,000
+Well, you guilty.
+
+484
+00:27:42,400 --> 00:27:43,680
+Oh, holy shit.
+
+485
+00:27:48,960 --> 00:27:50,640
+Oh my God.
+
+486
+00:27:50,640 --> 00:27:52,480
+It's going to kill everyone.
+
+487
+00:27:52,720 --> 00:27:57,760
+He's got mad monster.
+
+488
+00:27:57,760 --> 00:28:02,960
+It's just, it's the baddie.
+
+489
+00:28:10,240 --> 00:28:11,040
+Fuck.
+
+490
+00:28:11,040 --> 00:28:16,880
+And I holster my gun, get my flask out, take a drink of it, put it back and just sit down.
+
+491
+00:28:16,880 --> 00:28:18,080
+And the whole crowd goes.
+
+492
+00:28:18,080 --> 00:28:23,360
+And Jack Pearlman lets off of his pistol grip.
+
+493
+00:28:23,360 --> 00:28:28,800
+Like he had professor green starts nervously smoking a pipe.
+
+494
+00:28:30,160 --> 00:28:30,640
+Totally.
+
+495
+00:28:30,640 --> 00:28:30,960
+Okay.
+
+496
+00:28:31,840 --> 00:28:32,400
+Completely.
+
+497
+00:28:32,400 --> 00:28:32,720
+Okay.
+
+498
+00:28:32,720 --> 00:28:33,760
+No one bats an eye.
+
+499
+00:28:33,760 --> 00:28:35,360
+Everyone's down for it.
+
+500
+00:28:35,360 --> 00:28:36,400
+They enjoy the smell.
+
+501
+00:28:36,400 --> 00:28:40,400
+This is healthy for the nerves and invigorating for the lungs.
+
+502
+00:28:40,400 --> 00:28:44,640
+Everett this whole time has seemed unaffected by the whole situation is more confused than
+
+503
+00:28:44,640 --> 00:28:45,520
+anything else.
+
+504
+00:28:45,520 --> 00:28:47,680
+So are we, you know, where she is or we're going to get her.
+
+505
+00:28:47,920 --> 00:28:48,640
+What's going on?
+
+506
+00:28:48,640 --> 00:28:50,320
+Does anyone know?
+
+507
+00:28:50,320 --> 00:28:51,760
+Thorough is standing up again.
+
+508
+00:28:52,320 --> 00:28:55,520
+Does anyone know where she is?
+
+509
+00:28:56,080 --> 00:28:56,560
+Everett?
+
+510
+00:28:56,560 --> 00:28:58,320
+Where did you last see her?
+
+511
+00:28:58,320 --> 00:29:02,080
+She is running off in the tree line of the past behind my house.
+
+512
+00:29:02,080 --> 00:29:03,200
+I mean, south.
+
+513
+00:29:03,760 --> 00:29:04,480
+How long ago?
+
+514
+00:29:06,320 --> 00:29:07,360
+It was, it was last night.
+
+515
+00:29:07,360 --> 00:29:09,200
+I think it was about two in the morning.
+
+516
+00:29:09,200 --> 00:29:10,240
+I just made that up, Zach.
+
+517
+00:29:10,240 --> 00:29:12,080
+I don't know if that matters the time.
+
+518
+00:29:12,960 --> 00:29:15,040
+No, it was three in the morning.
+
+519
+00:29:15,040 --> 00:29:15,840
+It was late at night.
+
+520
+00:29:15,840 --> 00:29:16,960
+I didn't have my watch on me.
+
+521
+00:29:17,680 --> 00:29:23,280
+Perhaps the judge would like to lead us in searching for her trail out by a tree line.
+
+522
+00:29:24,000 --> 00:29:26,880
+Everybody roll spot hidden.
+
+523
+00:29:29,600 --> 00:29:31,280
+62 on a 65.
+
+524
+00:29:33,280 --> 00:29:34,800
+41 on a 45.
+
+525
+00:29:35,600 --> 00:29:37,440
+76 on a 40 fail.
+
+526
+00:29:37,440 --> 00:29:39,760
+I fail at 97 on a 45.
+
+527
+00:29:39,760 --> 00:29:41,760
+I'm a dinosaur hunter.
+
+528
+00:29:41,760 --> 00:29:44,480
+All I do is spot hidden bones.
+
+529
+00:29:45,760 --> 00:29:47,440
+That's my character.
+
+530
+00:29:47,440 --> 00:29:49,600
+Joe and Justin, take your headphones off.
+
+531
+00:29:58,240 --> 00:30:03,040
+Professor Horace Green and Judge Ephraim Cortland.
+
+532
+00:30:03,600 --> 00:30:11,680
+Around this time, you notice a man standing in one of the windows watching the proceedings
+
+533
+00:30:11,680 --> 00:30:12,320
+take place.
+
+534
+00:30:13,040 --> 00:30:16,480
+You recognize him immediately as Silas Cole.
+
+535
+00:30:16,480 --> 00:30:21,120
+This man has made contention what it is today.
+
+536
+00:30:21,120 --> 00:30:24,720
+He is the reason that the mine is profitable.
+
+537
+00:30:24,720 --> 00:30:29,280
+He is the reason that there's electricity all throughout the entire town.
+
+538
+00:30:29,280 --> 00:30:35,600
+He is the philanthropist making sure that children have education.
+
+539
+00:30:35,600 --> 00:30:36,720
+Him and his wife, Mary.
+
+540
+00:30:37,520 --> 00:30:38,880
+He's five foot eight.
+
+541
+00:30:38,880 --> 00:30:40,960
+He's got messy, dirty blonde hair.
+
+542
+00:30:41,520 --> 00:30:48,000
+His crooked yellow teeth and bright green eyes that are sunken in, but they're also
+
+543
+00:30:48,000 --> 00:30:50,240
+bulging a little bit.
+
+544
+00:30:50,240 --> 00:30:56,080
+And he's just paying very close attention to everything happening from a back window
+
+545
+00:30:56,080 --> 00:30:57,120
+of the church.
+
+546
+00:30:57,120 --> 00:30:59,120
+Uh, I run outside to go talk to him.
+
+547
+00:31:00,240 --> 00:31:04,720
+I'm gonna come after him, follow, see what the professor's up to.
+
+548
+00:31:04,720 --> 00:31:10,400
+Do I have time to talk briefly in private before the judge can ooze his way forward?
+
+549
+00:31:10,400 --> 00:31:11,760
+Yeah, let's do a little contest.
+
+550
+00:31:13,280 --> 00:31:19,120
+I believe there are some breakdowns in athletics in this game.
+
+551
+00:31:19,120 --> 00:31:19,840
+And so...
+
+552
+00:31:22,400 --> 00:31:22,960
+Oh, nope.
+
+553
+00:31:22,960 --> 00:31:23,840
+There are not.
+
+554
+00:31:23,840 --> 00:31:25,440
+I was completely wrong.
+
+555
+00:31:25,440 --> 00:31:27,680
+How would you run fast in this game?
+
+556
+00:31:27,680 --> 00:31:29,680
+Fast talk, but with your legs.
+
+557
+00:31:29,680 --> 00:31:31,600
+Pilot your own self.
+
+558
+00:31:31,600 --> 00:31:31,920
+Jump.
+
+559
+00:31:35,520 --> 00:31:37,680
+It's like a video game where if you jump, fast.
+
+560
+00:31:37,680 --> 00:31:39,200
+All right, we'll just use dexterity.
+
+561
+00:31:39,200 --> 00:31:41,520
+So roll a dexterity contest against each other.
+
+562
+00:31:43,360 --> 00:31:43,760
+Fail.
+
+563
+00:31:43,760 --> 00:31:45,200
+49 on a 40.
+
+564
+00:31:45,200 --> 00:31:45,600
+Fail.
+
+565
+00:31:45,600 --> 00:31:46,800
+73 on a 60.
+
+566
+00:31:46,800 --> 00:31:48,880
+Okay, so you're both going to make it out at the same time?
+
+567
+00:31:48,880 --> 00:31:50,480
+Stumbling over each other.
+
+568
+00:31:50,480 --> 00:31:51,360
+Yeah.
+
+569
+00:31:51,360 --> 00:31:59,040
+With Courtland leaving, there's a breath of fresh air inside as you both kind of bail
+
+570
+00:31:59,040 --> 00:31:59,680
+outside.
+
+571
+00:32:01,520 --> 00:32:07,680
+Yes, now the smell of Judge Courtland has dissipated from his region.
+
+572
+00:32:08,560 --> 00:32:13,120
+And you make it out there and you see that Silas Cole is this man.
+
+573
+00:32:13,120 --> 00:32:14,880
+Just these massive eyes.
+
+574
+00:32:14,880 --> 00:32:16,800
+He's holding a ladder.
+
+575
+00:32:16,800 --> 00:32:24,160
+And right next to him, he has odd looking mechanical devices with some sort of like
+
+576
+00:32:24,160 --> 00:32:29,120
+wooden planks going off from a middle point on his body.
+
+577
+00:32:29,120 --> 00:32:29,600
+No, no, no.
+
+578
+00:32:29,600 --> 00:32:35,760
+On the ground next to him, he's got like three or four of these devices, essentially,
+
+579
+00:32:35,760 --> 00:32:41,680
+that have some sort of motor in the middle and then these planks coming off from them
+
+580
+00:32:41,680 --> 00:32:44,240
+and around his shoulder like a lasso.
+
+581
+00:32:44,240 --> 00:32:46,000
+He's got copper wiring.
+
+582
+00:32:47,680 --> 00:32:51,280
+Oh, well, Ephraim, we might have solved your problem.
+
+583
+00:32:51,280 --> 00:32:53,200
+He's wearing huge pants.
+
+584
+00:32:54,320 --> 00:32:59,600
+So he's wearing both suspenders and a belt.
+
+585
+00:32:59,600 --> 00:33:02,400
+Well, a chill runs down Thomas's spine.
+
+586
+00:33:02,400 --> 00:33:07,040
+As any beans getting in the mix can only mean trouble.
+
+587
+00:33:07,040 --> 00:33:07,520
+No, no, no.
+
+588
+00:33:07,520 --> 00:33:09,040
+This is Silas Cole.
+
+589
+00:33:09,040 --> 00:33:10,240
+I know, but clearly.
+
+590
+00:33:14,000 --> 00:33:24,240
+Mr. Cole, as you may know, I'm Professor Horace Green, and I sometimes pay your men to bring
+
+591
+00:33:24,240 --> 00:33:27,440
+me any fossils they might find in the mine.
+
+592
+00:33:28,240 --> 00:33:29,440
+I'm concerned about...
+
+593
+00:33:30,560 --> 00:33:31,360
+Why are you concerned?
+
+594
+00:33:33,120 --> 00:33:38,400
+One of your employees, Thomas, a young man who would bring me fossils.
+
+595
+00:33:40,000 --> 00:33:45,920
+I haven't been able to find him today, and he told me he had found something quite special.
+
+596
+00:33:48,800 --> 00:33:50,080
+Have you heard anything about Thomas?
+
+597
+00:33:50,080 --> 00:33:51,680
+Did anything happen to him in the mine?
+
+598
+00:33:53,360 --> 00:33:56,800
+No, he's completely avoiding eye contact with you.
+
+599
+00:33:56,800 --> 00:34:00,480
+His eyes are bugged out, looking at the ground, kind of looking at your feet.
+
+600
+00:34:00,480 --> 00:34:02,480
+And then he looks straight up at you, and he's like,
+
+601
+00:34:03,280 --> 00:34:04,400
+No, I don't...
+
+602
+00:34:05,280 --> 00:34:06,160
+Looks back down.
+
+603
+00:34:06,160 --> 00:34:08,160
+I don't know what you're talking about.
+
+604
+00:34:08,160 --> 00:34:10,160
+Did you create these devices?
+
+605
+00:34:11,040 --> 00:34:11,540
+Yeah.
+
+606
+00:34:11,920 --> 00:34:14,160
+I'm something of a man of science myself.
+
+607
+00:34:14,160 --> 00:34:16,640
+Could you explain the principle to me?
+
+608
+00:34:16,640 --> 00:34:17,280
+It spins.
+
+609
+00:34:18,000 --> 00:34:21,840
+I'll show you if we go inside, but did you...
+
+610
+00:34:23,360 --> 00:34:25,760
+This Thomas fellow, what do you know about him?
+
+611
+00:34:26,640 --> 00:34:28,080
+Well, I know he was a gambler.
+
+612
+00:34:28,240 --> 00:34:33,840
+Uh, I'm worried someone might have hurt him for his gambling debts.
+
+613
+00:34:33,840 --> 00:34:34,960
+Do you think that's why he's gone?
+
+614
+00:34:36,160 --> 00:34:37,360
+It could be, Mr. Cole.
+
+615
+00:34:37,360 --> 00:34:38,960
+Why do you think he's gone?
+
+616
+00:34:38,960 --> 00:34:41,600
+Probably the same reason that you said just now.
+
+617
+00:34:41,600 --> 00:34:42,100
+Indeed.
+
+618
+00:34:43,040 --> 00:34:47,760
+In all candor, Mr. Cole, I had heard you were quarreling with Thomas
+
+619
+00:34:47,760 --> 00:34:49,680
+the day before his disappearance.
+
+620
+00:34:49,680 --> 00:34:50,640
+Interesting.
+
+621
+00:34:50,640 --> 00:34:52,320
+What was that quarrel about?
+
+622
+00:34:52,320 --> 00:34:54,480
+He was down, uh, he didn't do his job.
+
+623
+00:34:54,800 --> 00:35:01,600
+And you see Ephraim's like just finished packing some chew into his lip,
+
+624
+00:35:01,600 --> 00:35:03,520
+and he lights a hand-rolled cigarette.
+
+625
+00:35:04,080 --> 00:35:10,640
+He walks over to Silas and just grabs the copper wire off his shoulder.
+
+626
+00:35:10,640 --> 00:35:15,760
+Okay, so first off, I need psychology.
+
+627
+00:35:15,760 --> 00:35:17,200
+Yeah, go ahead and roll psychology.
+
+628
+00:35:18,240 --> 00:35:19,600
+Should have a points into that.
+
+629
+00:35:19,600 --> 00:35:21,360
+A 90 on a 10.
+
+630
+00:35:21,360 --> 00:35:22,800
+I got a lot of weird skills though.
+
+631
+00:35:23,440 --> 00:35:24,640
+43 out of 10.
+
+632
+00:35:24,640 --> 00:35:28,720
+Um, yeah, he wasn't, he wasn't doing his job right.
+
+633
+00:35:28,720 --> 00:35:31,280
+We had words, I'm glad he's working for you,
+
+634
+00:35:31,280 --> 00:35:35,520
+because he's not working for me now, obviously, because he's gone.
+
+635
+00:35:35,520 --> 00:35:39,840
+And then Judge Ephraim grabs the copper wiring or goes to,
+
+636
+00:35:39,840 --> 00:35:45,280
+and Silas Cole puts his opposite arm on the Judge's shoulder
+
+637
+00:35:45,280 --> 00:35:47,440
+and looks straight up into his eyes.
+
+638
+00:35:48,000 --> 00:35:52,000
+And you see these wild green bulging eyes looking at you.
+
+639
+00:35:52,800 --> 00:35:58,800
+Are you sure that you want to do that unless you're helping me?
+
+640
+00:35:58,800 --> 00:36:02,080
+Because it seemed like maybe you're not helping.
+
+641
+00:36:02,080 --> 00:36:08,240
+Your lights, your lights stopped working because it looks like you took my copper wire.
+
+642
+00:36:08,240 --> 00:36:09,680
+I would do no such thing.
+
+643
+00:36:10,240 --> 00:36:13,360
+If your lights aren't working there in the courthouse,
+
+644
+00:36:13,360 --> 00:36:16,080
+then I can get that working for you.
+
+645
+00:36:16,640 --> 00:36:19,040
+But these are for the church currently.
+
+646
+00:36:19,600 --> 00:36:23,600
+So please either help me carry them inside or release them.
+
+647
+00:36:23,600 --> 00:36:25,360
+Okay, when can you get them to mine?
+
+648
+00:36:26,080 --> 00:36:27,840
+I need it like now.
+
+649
+00:36:28,480 --> 00:36:31,280
+I can't do any work in the dark.
+
+650
+00:36:31,280 --> 00:36:32,800
+You're not there now.
+
+651
+00:36:33,600 --> 00:36:37,120
+And so let's go inside the church first.
+
+652
+00:36:37,120 --> 00:36:39,920
+Uh, Ephraim blows some smoke into his face,
+
+653
+00:36:39,920 --> 00:36:43,520
+grabs the copper wire and heads back into the church.
+
+654
+00:36:43,520 --> 00:36:46,800
+Horace Green, um, chews on his pipe a little bit
+
+655
+00:36:46,800 --> 00:36:49,840
+and blows some smoke into the air and turns around and goes back into the church.
+
+656
+00:36:50,400 --> 00:36:54,000
+And Silas Cole doesn't make a fucking move
+
+657
+00:36:54,000 --> 00:36:57,520
+the entire time either one of those actions are taken.
+
+658
+00:36:58,400 --> 00:36:59,600
+Let's bring the boys back.
+
+659
+00:37:07,920 --> 00:37:10,880
+Courtland and Green, do you want to describe in order
+
+660
+00:37:11,440 --> 00:37:13,600
+how you arrived back into the church?
+
+661
+00:37:13,680 --> 00:37:16,960
+Ephraim walks into the church, smoking a cigarette,
+
+662
+00:37:18,480 --> 00:37:24,480
+spits some chew spit on the ground and he's got copper wire over his shoulder
+
+663
+00:37:24,480 --> 00:37:29,600
+and he just throws a copper wire onto the ground and just kind of stands there.
+
+664
+00:37:29,600 --> 00:37:34,560
+Horace goes back to where he was sitting and opens up his book again,
+
+665
+00:37:34,560 --> 00:37:37,280
+but it doesn't really look like he's reading it now.
+
+666
+00:37:37,280 --> 00:37:38,320
+Cole's here.
+
+667
+00:37:38,320 --> 00:37:43,200
+And as soon as Courtland, Judge Courtland says Cole's here,
+
+668
+00:37:43,760 --> 00:37:50,160
+the doors bust open to the church and a skittish man looking at the ground in front of him
+
+669
+00:37:50,160 --> 00:37:55,280
+kind of seeing the copper wiring on the ground immediately starts collecting it
+
+670
+00:37:55,280 --> 00:38:00,320
+as he's pulling in these four odd contraptions you've never seen before.
+
+671
+00:38:00,320 --> 00:38:04,720
+Some sort of motor in the middle and then wooden planks coming off from the sides.
+
+672
+00:38:04,800 --> 00:38:09,760
+Silas Cole is five foot eight with messy dirty blonde hair.
+
+673
+00:38:09,760 --> 00:38:15,760
+He's got crooked yellow teeth and these bright green eyes that are sunken in
+
+674
+00:38:15,760 --> 00:38:18,240
+but also bulging at the same time.
+
+675
+00:38:18,800 --> 00:38:22,080
+And he's wearing huge pants.
+
+676
+00:38:22,080 --> 00:38:25,360
+He's got suspenders and a belt.
+
+677
+00:38:26,880 --> 00:38:28,080
+Holy shit.
+
+678
+00:38:30,240 --> 00:38:30,720
+Yeah, no.
+
+679
+00:38:31,120 --> 00:38:31,620
+Yeah.
+
+680
+00:38:33,120 --> 00:38:34,720
+Sorry, preacher there.
+
+681
+00:38:35,840 --> 00:38:36,320
+You're good.
+
+682
+00:38:36,320 --> 00:38:36,880
+Carry on.
+
+683
+00:38:36,880 --> 00:38:39,920
+I'm just gonna go ahead and hook these up for y'all.
+
+684
+00:38:39,920 --> 00:38:42,400
+It's pretty hot in here.
+
+685
+00:38:42,400 --> 00:38:46,400
+And this is the new one and kind of like holds a thumbs up.
+
+686
+00:38:47,280 --> 00:38:48,240
+Do we do this yet?
+
+687
+00:38:49,520 --> 00:38:50,320
+You guys get this?
+
+688
+00:38:52,720 --> 00:38:53,920
+Oh God, Zach.
+
+689
+00:38:53,920 --> 00:38:55,440
+You really do need to watch Dark.
+
+690
+00:38:57,760 --> 00:38:58,640
+I can't wait.
+
+691
+00:38:59,520 --> 00:39:00,480
+You found your wire.
+
+692
+00:39:01,040 --> 00:39:02,080
+No, he's got...
+
+693
+00:39:02,800 --> 00:39:07,440
+He said he didn't steal mine, but he's gonna help fix it, I hope.
+
+694
+00:39:07,440 --> 00:39:10,640
+Silas, do you know where Kitty is, Miss Kitty?
+
+695
+00:39:10,640 --> 00:39:15,360
+Silas Cole has already set up a ladder in the middle of the aisle and is all the way up
+
+696
+00:39:15,360 --> 00:39:24,080
+and is hooking up the very first ceiling fan that's ever existed here in the town of Contingent.
+
+697
+00:39:24,080 --> 00:39:25,840
+And he looks down at you and he's like,
+
+698
+00:39:26,480 --> 00:39:30,400
+I don't know who you're talking about.
+
+699
+00:39:30,400 --> 00:39:32,880
+We're all here because of some missing people.
+
+700
+00:39:33,440 --> 00:39:35,360
+Why didn't you come to the meeting?
+
+701
+00:39:36,000 --> 00:39:37,760
+Maybe you know something about it.
+
+702
+00:39:37,760 --> 00:39:40,880
+And Ephraim walks over to the ladder
+
+703
+00:39:41,440 --> 00:39:45,840
+and puts a hand on it and kind of like menacingly looks up at Silas.
+
+704
+00:39:45,840 --> 00:39:48,400
+I don't know anything about any missing people.
+
+705
+00:39:48,400 --> 00:39:57,600
+I'm just here to provide circulating air for the entire townsfolk here while I have contention.
+
+706
+00:39:57,600 --> 00:39:58,960
+Air's not good enough here.
+
+707
+00:40:01,680 --> 00:40:06,480
+Being right above you, the smell is not pleasant.
+
+708
+00:40:07,120 --> 00:40:10,720
+You hear a little harumph from Horace Green.
+
+709
+00:40:10,720 --> 00:40:15,840
+Ephraim just keeps staring up at him and he finishes putting in the first ceiling fan,
+
+710
+00:40:16,560 --> 00:40:18,720
+comes back down the ladder.
+
+711
+00:40:18,720 --> 00:40:20,400
+Are you like right at the base?
+
+712
+00:40:20,400 --> 00:40:25,040
+Like not to where he can't get down but where I'll be like right next to him when he gets down.
+
+713
+00:40:25,040 --> 00:40:30,880
+And then yeah he just looks you dead in the eyes with these wild crazed green eyes
+
+714
+00:40:30,880 --> 00:40:33,840
+and begins moving the ladder forward.
+
+715
+00:40:33,840 --> 00:40:40,000
+He runs the wire through real quick and sets it up and the first fan starts going.
+
+716
+00:40:40,080 --> 00:40:47,680
+And everyone in this room feels relief from this hot humid air for the first time.
+
+717
+00:40:47,680 --> 00:40:50,800
+And as he begins setting up the second one he looks down.
+
+718
+00:40:52,160 --> 00:40:56,480
+I don't think that the dearest appearances need to be looked into.
+
+719
+00:40:57,200 --> 00:40:59,200
+Personally, good riddance.
+
+720
+00:40:59,200 --> 00:41:02,160
+Contention's better off without those people.
+
+721
+00:41:02,160 --> 00:41:03,600
+That's not for you to decide.
+
+722
+00:41:03,600 --> 00:41:05,840
+That's literally my job.
+
+723
+00:41:05,840 --> 00:41:10,400
+Well, it kind of seems like we're here at a town hall meeting
+
+724
+00:41:10,400 --> 00:41:14,160
+to figure out what the next best move is.
+
+725
+00:41:15,200 --> 00:41:19,200
+Bobby Custard takes control once again and is like,
+
+726
+00:41:19,200 --> 00:41:22,000
+well yeah no that is about there they're right.
+
+727
+00:41:22,000 --> 00:41:28,000
+And you know with all this air flowing down I feel like it's about time to take a vote.
+
+728
+00:41:28,000 --> 00:41:30,480
+Oh shit that does feel pretty nice.
+
+729
+00:41:30,480 --> 00:41:33,680
+Hey when you fix up my lights you need to put one of these in.
+
+730
+00:41:33,760 --> 00:41:35,920
+Silas Cole looks at you.
+
+731
+00:41:36,640 --> 00:41:39,040
+I can make that happen.
+
+732
+00:41:39,040 --> 00:41:40,480
+We get to it then.
+
+733
+00:41:40,480 --> 00:41:44,240
+So nobody's looking into these disappearances?
+
+734
+00:41:44,240 --> 00:41:46,880
+I didn't even know about them until I showed up here.
+
+735
+00:41:46,880 --> 00:41:49,600
+I'm more concerned with that so.
+
+736
+00:41:49,600 --> 00:41:53,360
+Mr. Cole why don't you want us to look into these disappearances?
+
+737
+00:41:53,360 --> 00:41:54,560
+Completely ignores you.
+
+738
+00:41:54,560 --> 00:41:59,440
+And the crowd begins to continue to chatter and chatter and chatter
+
+739
+00:41:59,440 --> 00:42:06,240
+until their voices rise up meeting yours and your voice is lost as you say Mr. Cole.
+
+740
+00:42:06,240 --> 00:42:09,040
+Jack walks up to Bobby Custard.
+
+741
+00:42:09,680 --> 00:42:11,200
+Is it Custer or Custer?
+
+742
+00:42:11,200 --> 00:42:12,880
+Yep Bobby Custard.
+
+743
+00:42:12,880 --> 00:42:17,040
+And he walks up to him he's like you better get control of this crowd now
+
+744
+00:42:17,040 --> 00:42:20,240
+if you want anything to be done hand on shoulder.
+
+745
+00:42:20,240 --> 00:42:27,840
+I mean I think looking up at Silas Cole who's putting up the final ceiling fan in the church.
+
+746
+00:42:28,400 --> 00:42:31,520
+I I think we're good probably.
+
+747
+00:42:32,080 --> 00:42:35,440
+You're gonna tell me one of us goes missing.
+
+748
+00:42:36,160 --> 00:42:39,680
+A couple ceiling fans will do the trick you don't want to look for us.
+
+749
+00:42:39,680 --> 00:42:44,720
+As I say that I'm gripping him ever so slightly more aggressively.
+
+750
+00:42:44,720 --> 00:42:45,520
+Roll intimidate.
+
+751
+00:42:48,320 --> 00:42:49,840
+Uh do not pass.
+
+752
+00:42:49,840 --> 00:42:55,760
+Bobby just kind of like shirks off of you as Everett Pace approaches.
+
+753
+00:42:55,760 --> 00:42:59,600
+Bobby I I don't know much about what's going on here but if there's a grave
+
+754
+00:42:59,600 --> 00:43:02,160
+robber on the loose we're gonna have to stop that.
+
+755
+00:43:02,160 --> 00:43:05,200
+They'll just keep coming night after night taking all the bodies.
+
+756
+00:43:05,200 --> 00:43:06,880
+Horace is pushing his way up too.
+
+757
+00:43:07,840 --> 00:43:14,480
+Sheriff I overheard a minor last night um saying that one of the disappeared had been
+
+758
+00:43:14,480 --> 00:43:15,680
+arguing with Mr. Cole.
+
+759
+00:43:15,680 --> 00:43:19,280
+Now I seem to think he's he's got an ulterior mold of fear.
+
+760
+00:43:19,280 --> 00:43:22,880
+Don't just let these people disappear because he gave you some fans.
+
+761
+00:43:23,440 --> 00:43:26,480
+Ephraim's looking up at the fans and then looks down and sees
+
+762
+00:43:26,480 --> 00:43:30,080
+these three talking to Bobby and waddles over there.
+
+763
+00:43:30,080 --> 00:43:35,760
+Now I I it's not that I'm not doing anything because there's fans here it's just that
+
+764
+00:43:35,760 --> 00:43:41,360
+I'm not doing anything because people don't seem too upset except for maybe the three
+
+765
+00:43:41,360 --> 00:43:48,400
+of you and if if we don't know where this person who clearly disappeared and then somehow
+
+766
+00:43:48,400 --> 00:43:49,440
+came back.
+
+767
+00:43:49,440 --> 00:43:54,000
+If we don't know where to go after her then I don't know what you expect me to do.
+
+768
+00:43:54,000 --> 00:43:56,640
+Well it sounds to me like she's got something in the woods there.
+
+769
+00:43:56,640 --> 00:43:57,840
+She had three bodies.
+
+770
+00:43:57,840 --> 00:43:59,600
+She didn't have three bodies when I saw her.
+
+771
+00:43:59,600 --> 00:44:01,760
+She dropped them off somewhere between here and there.
+
+772
+00:44:01,760 --> 00:44:03,680
+We got to search around between here and there.
+
+773
+00:44:03,680 --> 00:44:07,520
+And that's what Judge Courtland hears as he approaches.
+
+774
+00:44:07,520 --> 00:44:10,560
+I forgot about this damn body sir.
+
+775
+00:44:11,360 --> 00:44:14,240
+Sheriff what are you planning on doing about about that?
+
+776
+00:44:14,240 --> 00:44:16,960
+Because you know you got to do your job so I can do mine.
+
+777
+00:44:18,560 --> 00:44:21,760
+He looks over all of your shoulders at Silas Cole.
+
+778
+00:44:22,880 --> 00:44:26,320
+Thanks Mr. Cole we certainly do appreciate it here.
+
+779
+00:44:26,320 --> 00:44:30,800
+I I slap him like with my walking stick in the shin when he does that.
+
+780
+00:44:30,800 --> 00:44:40,880
+Now I now I certainly don't want to step on any toes here of the man who essentially
+
+781
+00:44:40,880 --> 00:44:45,200
+owns and runs this town if you guys catch my drift.
+
+782
+00:44:45,920 --> 00:44:53,040
+But if you happen to have plans aka Mr. Pace going down to the woods trying to find a spot
+
+783
+00:44:53,040 --> 00:44:59,920
+in between the two spots I'll certainly come with you if if you if you if you require my
+
+784
+00:44:59,920 --> 00:45:06,720
+assistance but if we could keep it on the down low from Mr. Cole clearly I think that
+
+785
+00:45:06,720 --> 00:45:08,960
+would be the best course of action.
+
+786
+00:45:08,960 --> 00:45:13,200
+So maybe don't all stand around here all at the same time.
+
+787
+00:45:13,200 --> 00:45:14,320
+I get it yeah.
+
+788
+00:45:14,320 --> 00:45:18,400
+Jack turns around and just starts walking out puts his hat back on his head or whatever.
+
+789
+00:45:18,400 --> 00:45:23,520
+Not all at once but let's pretend like we're dissatisfied and after Jack's gone away like
+
+790
+00:45:23,520 --> 00:45:27,600
+a little bit then the professor turns around too and he's like he looks like he did not
+
+791
+00:45:27,600 --> 00:45:29,440
+get what he wanted from the from the sheriff.
+
+792
+00:45:29,440 --> 00:45:35,920
+No I I promise I'm doing my job y'all just need to you know calm down about the whole
+
+793
+00:45:35,920 --> 00:45:37,280
+situation.
+
+794
+00:45:38,720 --> 00:45:43,040
+Uh Ephraim looks at Everett and looks at Bobby he's like I don't see any reason to piss
+
+795
+00:45:43,040 --> 00:45:46,320
+him off till I get one of them fans so uh yeah.
+
+796
+00:45:47,440 --> 00:45:54,400
+And then I make a big show of spitting on Bobby's shoes and slowly turn around and
+
+797
+00:45:54,400 --> 00:45:55,120
+walk off.
+
+798
+00:45:55,120 --> 00:45:57,520
+Bobby looks directly at Everett Pace.
+
+799
+00:45:57,520 --> 00:46:01,040
+He didn't have to he didn't have to spit on my shoes like that.
+
+800
+00:46:01,040 --> 00:46:10,720
+Everett grabs the preacher by the shoulder and pulls him in real tight close to his ear.
+
+801
+00:46:11,760 --> 00:46:16,640
+We're gonna find that grave robber and if something happens to Clara's grave before
+
+802
+00:46:16,640 --> 00:46:20,320
+we do it's you that I'm blaming.
+
+803
+00:46:20,320 --> 00:46:21,520
+And he starts walking away.
+
+804
+00:46:22,160 --> 00:46:22,560
+Nice.
+
+805
+00:46:23,200 --> 00:46:23,600
+Sick.
+
+806
+00:46:24,320 --> 00:46:24,880
+Fuck yeah.
+
+807
+00:46:24,880 --> 00:46:25,920
+What a creepo.
+
+808
+00:46:27,600 --> 00:46:29,280
+Oh I love Everett Pace.
+
+809
+00:46:29,280 --> 00:46:31,200
+What a horrifying creature.
+
+810
+00:46:31,200 --> 00:46:33,920
+You guys all made dope characters.
+
+811
+00:46:33,920 --> 00:46:34,560
+Big fan.
+
+812
+00:46:35,360 --> 00:46:37,680
+Horrified of what you're capable of.
+
+813
+00:46:42,320 --> 00:46:46,800
+As characters you're curious as to the the uh the thoughts.
+
+814
+00:46:47,360 --> 00:46:49,520
+I think Everett is kind of on the surface right now.
+
+815
+00:46:49,520 --> 00:46:54,400
+He's he's worried about his the grave on his property there and uh you know doesn't
+
+816
+00:46:54,400 --> 00:46:55,520
+really know what's going on.
+
+817
+00:46:55,520 --> 00:46:59,200
+He kind of removes himself from the town's affairs normally so
+
+818
+00:46:59,200 --> 00:47:01,440
+it's just that this ended up on his doorstep.
+
+819
+00:47:01,440 --> 00:47:06,240
+Horace typically wouldn't care to get involved either but he can't resist a conundrum.
+
+820
+00:47:06,240 --> 00:47:10,080
+Courtland didn't expect to get wrapped into any of this he just wanted his
+
+821
+00:47:10,080 --> 00:47:14,880
+lights on and but he he really does love stringing up a
+
+822
+00:47:14,880 --> 00:47:18,400
+a criminal so he gets excited at the thought of catching one.
+
+823
+00:47:18,400 --> 00:47:22,560
+Horrifying.
+
+824
+00:47:22,560 --> 00:47:27,600
+Jack Pearlman probably was uh less invested before he got pissed off by
+
+825
+00:47:27,600 --> 00:47:30,960
+Judge and Silas Cole kind of just being assholes.
+
+826
+00:47:31,600 --> 00:47:37,040
+Which is funny because at first he was pissed off at the Judge for being an a jerk to Silas
+
+827
+00:47:37,040 --> 00:47:41,920
+Cole and that he was way more pissed off at Silas Cole implying that they should do nothing.
+
+828
+00:47:42,560 --> 00:47:46,560
+And it kind of lit a little fire underneath him as a citizen of contention.
+
+829
+00:47:46,560 --> 00:47:47,600
+Under his little butt.
+
+830
+00:47:47,600 --> 00:47:49,920
+Under his little hot buns.
+
+831
+00:47:49,920 --> 00:47:51,760
+Under his tight little butt.
+
+832
+00:47:53,520 --> 00:47:58,640
+So yeah he I think he would he's definitely he's a little on fire right now like he's like angry
+
+833
+00:47:58,640 --> 00:48:03,440
+but it's trying to direct trying to direct it in a way to do something instead of just
+
+834
+00:48:03,440 --> 00:48:04,400
+punching somebody.
+
+835
+00:48:04,400 --> 00:48:11,920
+Maybe a change of pace for old Jack Pearlman.
+
+836
+00:48:11,920 --> 00:48:14,080
+I love Everett Pace with all my heart.
+
+837
+00:48:14,880 --> 00:48:20,080
+And uh I think Jack Pearlman and Everett Pace are gonna get fanfic'd together.
+
+838
+00:48:20,080 --> 00:48:21,360
+I can predict it already.
+
+839
+00:48:22,720 --> 00:48:23,280
+Ship him.
+
+840
+00:48:23,280 --> 00:48:24,000
+Ship him.
+
+841
+00:48:24,000 --> 00:48:27,440
+Yeah we're both you know we both are living alone on our.
+
+842
+00:48:29,440 --> 00:48:31,200
+Your couple's name could be Jace.
+
+843
+00:48:32,000 --> 00:48:32,500
+Oh.
+
+844
+00:48:33,680 --> 00:48:34,180
+Jevret.
+
+845
+00:48:35,920 --> 00:48:37,040
+Or Earlman.
+
+846
+00:48:40,400 --> 00:48:40,900
+Pervert?
+
+847
+00:48:41,680 --> 00:48:42,240
+There it is.
+
+848
+00:48:44,240 --> 00:48:44,880
+Pervert.
+
+849
+00:48:47,120 --> 00:48:47,760
+Nailed it.
+
+850
+00:48:47,760 --> 00:48:48,320
+Nice.
+
+851
+00:48:48,320 --> 00:48:56,320
+As the crowd dissipates from the church and heads to their respective daily goings-ons
+
+852
+00:48:57,040 --> 00:49:04,240
+you see Silas Cole walking down south to the new mine where they've set up shop after the one
+
+853
+00:49:04,240 --> 00:49:08,160
+a little bit west of there has finished up.
+
+854
+00:49:08,160 --> 00:49:10,480
+Started a new dig site further south.
+
+855
+00:49:10,480 --> 00:49:19,600
+And the four of you kind of reconvene with the sheriff, the preacher, Bobby Custard,
+
+856
+00:49:19,600 --> 00:49:22,480
+and Professor Horace Green steps right up.
+
+857
+00:49:22,480 --> 00:49:26,560
+So father sheriff when when do we go looking for for Miss Kitty?
+
+858
+00:49:26,560 --> 00:49:29,520
+I mean are y'all free now?
+
+859
+00:49:30,160 --> 00:49:30,480
+Yes.
+
+860
+00:49:31,040 --> 00:49:36,000
+Since we have the daylight it seems like if she's out there robbing graves it seems like
+
+861
+00:49:36,000 --> 00:49:42,640
+a scary time to maybe look for her now but you know by nightfall maybe we'll have a better
+
+862
+00:49:42,640 --> 00:49:47,600
+sense of where she's heading and then we'll be able to catch her in the act if you will.
+
+863
+00:49:47,600 --> 00:49:54,080
+Perhaps hopefully we see I feel like the daylight is the less scary time to look for the grave
+
+864
+00:49:54,080 --> 00:49:58,720
+robber and we would like to find her before she commits the act again you know ideally.
+
+865
+00:49:58,720 --> 00:49:59,840
+Is that not what I said?
+
+866
+00:50:01,360 --> 00:50:02,720
+I don't think so.
+
+867
+00:50:02,720 --> 00:50:06,320
+Okay you were very smart and I agree.
+
+868
+00:50:06,320 --> 00:50:06,800
+Let's go.
+
+869
+00:50:08,000 --> 00:50:12,800
+So if we if we were we gonna go look in the woods for her or?
+
+870
+00:50:12,800 --> 00:50:14,880
+Well I tell you my place is right there.
+
+871
+00:50:14,880 --> 00:50:17,840
+The cemetery is right there so let's go right there.
+
+872
+00:50:17,840 --> 00:50:21,520
+And I point I just like drew a line between the two and pointed to the middle.
+
+873
+00:50:23,760 --> 00:50:29,600
+Well if we're gonna look for her now I'm I'm okay with that has been a while since I
+
+874
+00:50:30,320 --> 00:50:34,080
+uh left anything on Ruth and Cassie's graves so.
+
+875
+00:50:35,040 --> 00:50:37,360
+He's gonna softball it in there like that?
+
+876
+00:50:37,360 --> 00:50:39,520
+It's my wife and daughter.
+
+877
+00:50:39,520 --> 00:50:41,600
+Fresh graves you say?
+
+878
+00:50:44,560 --> 00:50:51,120
+I ain't got no tracking skills but I'll help maybe maybe not who can say.
+
+879
+00:50:51,120 --> 00:50:54,560
+Oh oh tracking skills that's what we need anybody got any of those?
+
+880
+00:50:55,360 --> 00:50:58,080
+I know but I can spot hidden things and I can
+
+881
+00:50:59,040 --> 00:51:02,400
+navigate and I have a great understanding of the natural world.
+
+882
+00:51:02,400 --> 00:51:05,360
+Ah the natural world that's something I know about too.
+
+883
+00:51:05,360 --> 00:51:06,160
+Yeah me too.
+
+884
+00:51:07,840 --> 00:51:14,480
+You know perhaps we need to dig or excavate uh to solve this grave robbing mystery I.
+
+885
+00:51:14,480 --> 00:51:17,200
+Sheriff now you must uh surely be.
+
+886
+00:51:17,200 --> 00:51:21,680
+I'm finding myself less and less knowledgeable about the natural world
+
+887
+00:51:21,760 --> 00:51:24,640
+and more and more knowledgeable about tracking.
+
+888
+00:51:24,640 --> 00:51:26,160
+That's what I was hoping you'd say.
+
+889
+00:51:28,960 --> 00:51:32,000
+You you're uh you hunt quite a bit don't you Sheriff?
+
+890
+00:51:32,000 --> 00:51:36,480
+You seem like you might join us on Midian Adventure here in the future.
+
+891
+00:51:36,480 --> 00:51:40,960
+Of course it's his job to guide lost souls through the wilderness.
+
+892
+00:51:41,520 --> 00:51:44,000
+Yeah we just decided that you're an expert tracker.
+
+893
+00:51:44,960 --> 00:51:49,120
+And that nice raccoon that raccoon hat you're wearing you
+
+894
+00:51:49,120 --> 00:51:51,360
+must have got that from tracking and trapping it.
+
+895
+00:51:51,760 --> 00:51:58,320
+And he just pets it and then he makes a purring sound for it.
+
+896
+00:52:00,400 --> 00:52:01,840
+I hate that I stopped doing that.
+
+897
+00:52:06,880 --> 00:52:08,880
+I'll probably find an ending in there somewhere.
+
+898
+00:52:10,160 --> 00:52:18,000
+Hey by the way Sheriff you got any new people I need to on the docket I should look at?
+
+899
+00:52:18,000 --> 00:52:20,880
+I didn't have time because the the lights were off.
+
+900
+00:52:22,080 --> 00:52:24,160
+No no the episode's over now okay.
+
+901
+00:52:26,160 --> 00:52:26,800
+Stop it.
+
+902
+00:52:29,120 --> 00:52:30,000
+Stop rolling with it.
+
+903
+00:52:30,000 --> 00:52:30,640
+I'm off the clock.
+
+904
+00:52:32,000 --> 00:52:33,280
+I said I met that acting.
+
+905
+00:52:34,080 --> 00:52:35,280
+We normally don't do outros.
+
+906
+00:52:35,840 --> 00:52:43,440
+That that that this was episode 91 of pretending to be people.
+
+907
+00:52:43,440 --> 00:52:46,000
+Oh yes yes y'all come back now you hear?
+
+908
+00:52:51,680 --> 00:53:13,840
+🎶
+
+909
+00:53:22,460 --> 00:53:24,820
+🎶 Can't you hear the wolves howling 🎶
+
+910
+00:53:24,820 --> 00:53:27,500
+🎶 all around my poor little darlin' 🎶
+
+911
+00:53:27,500 --> 00:53:30,000
+🎶 all around my poor little darlin' 🎶
+
+912
+00:53:30,000 --> 00:53:32,600
+🎶 I'm afraid I'll get my darlin' 🎶
+
+913
+00:53:32,600 --> 00:53:35,160
+🎶 Can't you hear the wolves howling 🎶
+
+914
+00:53:35,160 --> 00:53:37,440
+🎶 all around my poor little darlin' 🎶
+
+915
+00:53:37,440 --> 00:53:39,900
+🎶 all around my poor little darlin' 🎶
+
+916
+00:53:39,900 --> 00:53:44,060
+🎶 I'm afraid I'll get my darlin' 🎶
+
+917
+00:53:44,900 --> 00:53:49,800
+🎶
+

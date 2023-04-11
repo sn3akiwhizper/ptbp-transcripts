@@ -1,0 +1,1525 @@
+Well, babies, I cannot believe I finally arrived at Ocean City, New Jersey, and it's 2016?
+And it's March?
+Well, fuck, this should be a fun detour, I guess.
+God damn it.
+I guess...
+Guess I can do another radio show or something.
+We're live from 694.2 PTBP or whatever.
+Some nice person wrote us a thing.
+Maybe I'll read that.
+This week's Howlin' with Wolf comes from Dale Armont in Arkansas, who tweeted about the
+show and tagged at Pretending Pod, which is always the third thing I do while sitting
+on the toilet.
+Do you sit down to pee?
+I sure do.
+It's comfy.
+Thanks for tweeting about the show and tagging at Pretending Pod Dale Armont from Arkansas.
+He writes,
+Oh wow, Dale.
+A Wolfie never reveals their secrets, especially secrets about their incredibly moisturized
+nipples.
+Wink.
+If you want to write up something for your wolf to how, send in your message as a five-star
+review on Apple Podcasts, and I'll read it here on 694.2 PTBP.
+Ocean City, New Jersey's newest and only radio station, probably.
+And I'll be right back after a word from our only sponsor, Zach.
+What's up, what's up?
+It's Zach.
+I am here to tell you four things.
+First, I want to say thank you to this community.
+After some last minute donations from you folks, we've raised $1,525 to help keep
+Springfieldians warm this winter.
+That's absolutely incredible.
+Thank you to each and every one of you listening who's told a friend about the show or joined
+the Patreon or tagged us on the internet.
+This is all thanks to you.
+Second, I want to say thank you to all of you eager listeners for your patience.
+Here's a little life update.
+Taylor and I have moved back to Springfield, Missouri, and we will be in Springfield, Missouri
+until we eventually die in Springfield, Missouri.
+We love it here.
+The food game is strong.
+It's cheap.
+We just started a big boy job at a real company and we're about to move into a rental while
+we house hunt in this super fun market.
+I'm hoping the transition won't affect our release schedule too much, but I'm an optimist
+for real though.
+We have some really cool shit planned and we're all super stoked about it.
+Third, we just recently released our 27th Patreon bonus episode.
+Luke GM'd a game of Uncanny Rally for Joe, Thomas, and me.
+It's one of those one-page RPGs from Grant Hallett.
+We played malfunctioning military androids on the run.
+It was delightfully silly and Luke did a wonderful job leading us on our wacky way.
+So for $5 a month you can hear that and 26 other bonus episodes which do include a 13
+episode long mostly homebrew Delta Green campaign that winds through time by connecting surviving
+agents from each mission to continued unnatural mysteries and military conspiracies.
+And finally, if you're an esteemed naughty denizen of the den of sin, get ready for this
+Thursday, the eve of New Year's Eve, January 30th at 7pm Central Time.
+We're gonna hang out and celebrate the end of 2021, talk about our plans for 2022, and
+we're also each in charge of bringing a segment to the episode, so we'll see what happens
+with that.
+If you have any suggestions, post them on the internet.
+And come hang out this Thursday night, yeah, New Year's Eve, January 30th at 7pm Central
+Time.
+Okay, sorry that took so long, thanks for listening to our podcast, bye.
+If that sad Zach character gave you the blues, and God knows he gives me the blues, you're
+welcome to cheer up now, it's time for the news.
+A former Delta Green agent named Arvon Chilton is missing and on the run today after a string
+of brutal homicides have all pointed in his singular direction.
+He is assumed to be armed and dangerous.
+Again, this is a former Delta Green agent named Arvon Chilton.
+Mr. Chilton parked his car in the driveway of his ex-wife, Eileen McCarty, and her new
+husband, Marcus McCarty.
+Then, this fucking dude, Arvon Chilton, walked inside, disabled and tied up the new husband,
+and then slowly cut Eileen McCarty to pieces in front of the guy.
+Later, Arvon Chilton carefully cut out the new husband's eyes, all before he disemboweled
+and untied the blind, bleeding out broken man.
+Marcus McCarty died sometime later, crawling towards the front door.
+Welcome to 694.2.
+If you aren't down with that level of awful, this show might not be good for you.
+But for now, let's just groove on this melodic palate cleanser that's brand spanking new.
+It's Brian Bolger with Bad in a Good Way.
+The deep end, but the drowning's been just fine
+And when my ears pop and the shell shock of this pit stop frees my mind
+I'll be alright, I can go there now that I've stared death in the face
+I'll be alright, I can go there now that I've stared death in the face
+Welcome to Pretending to Be People.
+We're gonna play Control Copy, which is a Delta Green scenario written by Dennis Detwiller,
+one of the creators of the game, Delta Green, the Role Playing Game.
+Yeah!
+Oh, too much.
+We are playing Control Copy specifically because we put up a poll
+on our Patreon.
+And only those who pay us money could vote.
+And only those who pay us money could vote, and they chose Control Copy.
+Hey, let's introduce ourselves to anyone who is listening to this who hasn't listened to us before.
+My name is Zach, and I'm gonna be your handler today,
+as well as after you listen to this when you go back and listen to all of season one,
+of Pretending to Be People, I'll be the handler for that as well.
+I'm Joe! I play. I'm one of the characters. I play in all the games.
+Every single one of them.
+What is your role, Joe? How do you see your role here at Pretending to Be People?
+I think the most official role I have is note taker, and even that's tenuous at times,
+because I get involved in what's happening and forget to write stuff down.
+That happens to everybody, man. That's role playing, baby.
+Yeah, that's what my problem is.
+That's happened to Luke and I for the last 60 episodes.
+I was so enthralled.
+I'm Luke. I play, too. And my goal, my role...
+What's your goal?
+Goal? Have fun.
+Role. Have fun.
+I don't take notes.
+They're all up here.
+He points at his head.
+Yeah, audio.
+He pointed at Joe's notebook.
+But yeah, you know, I just kind of go with the flow, and I try to get things rolling, you know?
+Yes, you certainly do that.
+You can really feel the energy just, like, shooting off of him.
+I'm Thomas, and sometimes I take notes, and...
+I thought that this just became whether or not you take notes.
+Notes or no notes.
+I plan to take notes on this campaign.
+Joe was like, I'm Joe, and I'm a character,
+so I just want to make it clear that I'm Thomas, and I'm a person.
+But I do play characters on the show.
+All right, so that's us, and this is Delta Green,
+and we're going to play Delta Green.
+Are you guys ready to play Delta Green?
+I'm scared.
+Normally, on season one of Pretending to Be People,
+we played an amalgamation of Delta Green and Pulp Cthulhu.
+And you guys had lots of hit points and luck to spend.
+However, in this game today, you will have no special talents.
+Your hit points will be your strength plus your con,
+divided by two, as opposed to just strength plus con,
+and you will have no luck.
+So let's introduce your characters.
+A young boy, far larger than average for his age,
+sits crying in the hallway of an elementary school
+as a group of children laugh and run away.
+He's wearing a yellow long-sleeve t-shirt and blue overalls.
+His glasses are thick, thick enough to give the illusion
+that the wearer has cartoonishly giant eyes.
+The tears are magnified behind the glass lenses
+as he sniffles and laughs echo down the hallway.
+A small boy approaches the weeping, hulking figure.
+They're assholes, fuck them.
+What's your name, Bigfoot?
+Kevin.
+The crying boy says as he wipes his face
+and looks up at the acne-ridden face of Elwood Boyd.
+Kevin wipes the sweat from his face
+and looks up into the stadium lights.
+The light glints off his athletic goggles,
+which give his eyes a bulging look.
+Menyen! Menyen! Menyen! Menyen! Menyen! Menyen! Menyen!
+The crowd chants his nickname as he stands on the field,
+towering above the other boys surrounding him.
+Hike!
+The sound of young men shouting
+and football pads clashing fills the air.
+Kevin throws the boy opposite him to the ground with a crunch.
+His eyes focus on the opposing quarterback
+and he launches himself forward.
+The small, frail boy holding the football
+is almost invisible under Kevin's shadow
+as the monstrous high schooler leaps towards him.
+Ahh!
+A piercing scream is heard as Kevin smashes into the child,
+sending the boy flying backwards
+and the football up into the air.
+Kevin jumps up to grab the ball
+and sprints towards the end zone.
+The entire crowd is chanting his name
+as he hulks toward the goal.
+When the minion reaches the end of the field,
+he spikes the football down.
+Instead of bouncing back into the air,
+the ball burrows itself into the earth.
+What's your last name again?
+Gelato.
+That's another defensive touchdown
+for Kevin Gelato and the Spiro Agnu High!
+Nope, I already have this written out.
+That's the end of the minions five undefeated years
+here at Spiro Agnu High!
+The announcer shouts as the crowd runs onto the field.
+I'm so proud of you bro!
+You're gonna do big things!
+The voice of Stuart, Kevin's younger brother,
+fades out as we see Kevin standing in an elegant hallway
+with a dumb smile on his face.
+The smile quickly fades into a stony expression
+as Elwood's voice fades in,
+asking questions not necessarily intended
+to be answered by Kevin.
+Kevin gives Elwood a quick smile,
+but the eyes behind his goggles are deeply sad.
+Okay Elwood, let's go.
+Nice!
+And Elwood.
+Hey!
+I'm playing Elwood.
+Elwood Boyd.
+And see Kevin, if I turn this here, click,
+and I snip this here, we should get...
+And a safe door slowly opens in front of them,
+revealing a cartoonish horde of jewels and cash.
+A smile spreads across Elwood Boyd's pale, pockmarked,
+and pimpled face, revealing rows of yellowed teeth
+that seem to have all collectively decided
+no two would grow in the same angle.
+He stands wearing an argyle sweater vest
+over a yellow-brown colored button-up,
+khaki pants, and golfing shoes,
+but the whole ensemble looks like it was recently
+retrieved from a dumpster, all wrinkled and lightly,
+and in some places not so lightly,
+stained and fitting poorly.
+Kevin hands Elwood a fresh duffel bag,
+and Elwood extends a thin, bony arm
+to start scooping in the latest score.
+See, there's nothing to it.
+Well, at least for me, I don't know how you'd fare.
+But it's like I can see the inner workings of these things.
+I always have.
+I don't know where this comes from.
+Here, take this bag too.
+And Elwood stands and hands another duffel bag
+over to Kevin.
+He now has three draped over his body.
+All right, so we've gone through every room, right?
+I started to lose track.
+This place is so big.
+You said this guy was some kind of money manager or something.
+Hoo-wee!
+Must be good in the manage-
+money management.
+Fuck.
+Must be good in the money management.
+Hoo-wee!
+Must be good money managing that money.
+Let's try it again.
+Must be good money in managing that money.
+Come on, let's get out of here.
+We gotta go see Julian.
+They make their way toward the garage at this point,
+passing rooms that have obviously been picked over.
+There's things kind of scattered here and there,
+but it's mostly empty rooms at this point.
+They walk by a kitchen and there's a guy sprawled on the floor
+just in his boxers.
+Man, you really whacked him good, big guy.
+Yeah, he'll be out for hours.
+Right before they get to the garage door,
+they see a picture on the wall and it's of a family all-
+I'm sorry, he jacked that guy off so good that he passed out for hours?
+Really got him.
+Whatever you say.
+There's a family photo on the wall right by the garage door
+of a family in like a fall setting.
+Hey, you almost forgot one, dummy.
+Even though it's just a picture, there's good money in frames.
+We can sell the frame.
+They get out to the garage.
+They load up the SUV of the homeowner.
+Elwood waits in the passenger seat.
+Come on, come on, we don't have all day.
+Well, I guess we kind of do.
+I already snipped the alarms and I took care of the cameras
+and the security guy at the gate, you took care of him.
+But anyway, I want to get out of here.
+Come on, let's go.
+Kevin walks out the door with a frame and three double bags.
+Everything's just like packed on this dude like a mule.
+That's how it was picture made for sure.
+Is this happening in the present day or like shortly after that high school game?
+No, this is present day.
+Yeah, you were daydreaming about that when we were doing this.
+That's actually perfect.
+They pull up into an old camera shop and they pull around the back.
+They've done it a million times before and they're greeted by Julian.
+Oh, he's your fence.
+He's my fence.
+Got you.
+Comes out and says, what'd you bring for me today?
+Oh, just the usual.
+Some vases, socks, books, candlesticks, jewelry, bedsheets.
+Kevin, tell some of the keys.
+You got your car?
+All right.
+Julian cuts them off and says, hey, smelly Ellie.
+You know I only care about the jewels, right?
+You don't have to make me sell people's socks.
+They're used.
+Elwood replies.
+Hey, they still work, don't they?
+That means they have value to somebody and that means they have value to me.
+Socks.
+Socks.
+Usually there's even some cash in this frame, I'm sure.
+Oh, Elwood, you took the family photos.
+He, uh, he assures them that there's going to be, uh, some cash form in a week.
+Okay.
+After he sells all this stuff.
+Yeah.
+And, uh, Elwood turns to Kevin and says, all right, let's, uh, let's head back home.
+Maybe Ma's made chili.
+Oh yeah.
+Chili.
+So they get back to Elmira Boyd's basement apartment.
+Okay.
+And oh, they noticed the TV's on.
+Oh shit.
+She's still awake.
+All right.
+Come, come, come on.
+Is this your mom?
+Hey, hey, hey ma.
+Um, we're, we're home.
+Home.
+Uh, Elmira Boyd is laying on the couch in her nightgown and she stirs awake.
+Kind of startled.
+Oh, did you boys have fun at the golf range?
+Uh, Elwood says, yeah, I hit two holes in one.
+Hole in one.
+She said, well, you keep telling me you should go pro.
+I see these guys on TV.
+They aren't hitting holes in one every time they go out.
+It seems like you do.
+Uh, she tousles his greasy mop top and kind of wipes her hand off on her nightgown.
+She's going up to bed.
+I made some chili.
+There's some chili in the fridge there.
+Oh, and uh, somebody left that for you.
+It's something about an opera.
+And uh, when Elwood hears this, his heart skips a beat.
+Yeah.
+And he turns to his mom.
+He's walking up the stairs and says, oh, um, thanks mom.
+Um, hey, uh, Kevin and I, we were thinking of taking a trip.
+We were, uh, we're going to go to, um, uh, Colorado and hit the, hit the golf courses
+out there.
+I heard they're beautiful.
+We might be, uh, might be gone for a few days.
+You have a good night.
+And, uh, Elmira says, oh, uh, okay.
+You boys have fun out there.
+Don't get into any trouble.
+He picks up the envelope.
+Perfect.
+Perfect.
+Perfect.
+I love that.
+Okay.
+Can you give me a quick rundown of what your character looks like?
+Yeah, he's a greasy and, uh, he's got pimpled and pockmarked face.
+He's really, uh, super duper skinny.
+He kind of walks around with his arms folded, but at the wrists.
+Amazing.
+And, uh, yeah, he's wearing a ratty sweater vest and a button up with the collar popping
+at the top, but it all looks wrong.
+It just looks like it doesn't fit right.
+Maybe even the buttons are kind of mismatched.
+One year for Christmas, my grandma got me a sweater vest and it was matching the shirt,
+the long sleeve dress shirt that would go underneath it.
+Right.
+Size on these two.
+Two items, extra, extra large on the shirt and small on the vest.
+Perfect.
+Huh?
+Did it fit?
+You know, neither one did.
+It was wrong both directions.
+Just mix them together and you'll get the right size.
+Yeah, it was, it was an interesting look.
+Very puffy in the arms.
+All right.
+Well, Kevin.
+Yes, of course, please.
+Kevin, uh, is very large, especially standing next to Elwood.
+Certainly.
+He's just shy of seven feet tall.
+He is hundreds of pounds of, of just muscle.
+Like it looks like he works out multiple times a day, but like his skin is kind of like yellowish.
+He's got huge, instead of glasses, they're like, like athletic goggles.
+Like, you know, they would play in wrapped around his head, makes his eyes look huge.
+He just still most comfortable wearing those after wearing them for sports.
+Right.
+Well, cause he wore them and when he played football and in, in like junior high and high
+school, pretty much all he did was play football and hang out with Elwood.
+So it just kind of like became comfortable to him, but you can tell, like, just the way he looks,
+there's, he's probably got something like genetically wrong with him.
+Cause he just like never stopped growing and it's huge.
+And his head is kind of like oddly square.
+He's an Andre giant.
+Or an Alton giant.
+Wadler.
+Yeah, dude, Robert Wadler guys huge.
+And he, uh, he was from a town that was pretty near to where I grew up over by St. Louis.
+Yeah.
+Huge motherfucker.
+That guy.
+But yeah, this guy's huge, uh, yellow long sleeve t-shirt blue, like bib overalls.
+Uh, those goggles, uh, he's like bald, except for like stealthy bald,
+except for like three long stringy hairs that he kind of comes over on his head.
+Oh, okay.
+So you've been building Homer Simpson.
+Yeah.
+Yeah.
+Homer Simpson.
+He's large, but quiet.
+All right.
+Sick.
+Uh, it seems to have kind of a soft voice that repeats.
+Yeah.
+Boyd's.
+Yeah.
+He can form full sentences, but doesn't like to a lot.
+He likes Elwood speak for him.
+Okay.
+And even Elwood isn't that great at it.
+Well, let's meet someone who should be speaking for the group.
+Yeah.
+So as Kevin is daydreaming about his football stardom, his, his five glorious
+years of high school football of undefeated high school football way, way in the
+background of that memory behind the throng of cheering fans, you see Clarissa
+Sparrow, short, serious student body president she's managing a small hot dog
+stand, the profits from which will benefit a local canine leukemia fund.
+She gets visibly flustered at the sophomore work in the stand with her, who
+is chatting with some friends instead of boiling dogs, Clarissa snaps to get his
+attention and points sharply to station.
+She glares at his friends and they sheepishly disperse.
+Clarissa takes a deep sigh and massages her temples and then turns around with a
+genuine smile.
+And she asked for Mrs.
+Elmira Boyd's order.
+Is there a limit?
+I just want to support those sick little doggies as much as I can.
+I'm so sorry.
+We only have 10 hot and ready at the moment, Mrs.
+Boyd, we would have more if everyone was doing their duty, come back in a few
+minutes and we'll have as many as you can carry.
+I promise.
+Oh, thank you, Clarissa.
+You're, you're such a darling.
+It's so sweet of you to help those pups like this.
+Kevin's daydream is reaching its moment of climactic triumph over on the field.
+He's, he's spiking the ball.
+The crowd's going crazy.
+And as, as they erupt cheering, his name,
+Clarissa's head kind of darts over inadvertently towards the field.
+And the sophomore working with her, it takes that moment to dip away from the
+stand and disappear into the crowd with his friends.
+She's more hurt than angry.
+What makes it so hard for other people to do the right thing?
+Work hard, follow the rules, do what is expected, stay true to your word, and
+you'll have a good life.
+She shakes that thought from her mind and gets back to work.
+She shakes that thought from her mind and gets back to work.
+There are hot dogs to move.
+In the present day, Kevin is snapping out of his daydream as Elmira Boyd offers
+him and Elwood the chili and mentions the envelope that came for them.
+Elsewhere in the world that night, Agent Clarissa Sparrow, criminal profiler for
+the FBI, is coming home to her small one bedroom apartment.
+She opens the door and finds an identical envelope slipped under it.
+She's currently dressed in a smart, sensible gray pantsuit, and she has the
+same smart, sensible haircut she did in Kevin's daydream back in high school.
+She's staring intensely at the envelope as a cat comes up and rubs her leg in
+greeting, and she thinks about the way she's tried to live her life since then.
+Work hard, follow the rules, do what's expected of you, stay true to your word.
+She never questioned that that was the right path until her first night at the
+opera.
+She saw things on that mission that shook her to the core.
+The minds of hardened veterans cracked apart under supernatural pressures, the
+bodies of innocents torn apart by unnatural forces, and the lies, bribes, and
+killings that had taken her and her other agents to conceal the truth that had
+been unleashed.
+Her composure, though, distinguished her on that first mission, where more
+senior agents had lost their minds, she kept it together, and she was soon asked
+to move from friendly to agent.
+She draws on that composure now, massaging her temples, taking a deep sigh.
+She leans down, scratches the cat's ear, and picks up the envelope.
+Nice, so we've got our three characters.
+Quick, give me a rundown of what Clarissa looks like, and also what is her last
+name.
+Sparrow.
+Oh, Clarissa Sparrow.
+I like it.
+And what does she look like when we see Clarissa?
+Is she still short, serious, and the student body president?
+Yes, Clarissa Sparrow.
+That's kind of a very subtle, very subtle little nod to Clarissa Starling in Silence
+of the Lambs.
+And she looks exactly like Jodie Foster in Silence of the Lambs.
+Which was playing when I arrived here today.
+Research.
+I'd never seen Silence of the Lambs, and while we were setting up, I feel like I kind
+of watched the whole thing.
+You saw most of it.
+Pretty much did, yeah.
+I saw all the key scenes, I think, that I was like, oh, that's from this.
+Yeah, it puts the lotion in the basket.
+Would you fuck me?
+I'd fuck me.
+That was pretty cool.
+That was cool, dude.
+Yeah, I just want to have that mindset, you know?
+Like, are you supposed to be jealous of that character?
+That Wild Bill grindset?
+Hashtag grindset.
+These envelopes that have been left for you summon you to a nearby airport and give you
+access to a private aircraft hangar.
+And there, you are briefed on this mission by a lone member of the special access group
+with identification from the National Reconnaissance Office.
+And he introduces himself as John Smith.
+You're given file work on the case.
+And this case involves a former Delta Green agent named Arvin Chilton.
+And Arvin Chilton was a Delta Green agent for a long time.
+And then he retired in Ocean City, New Jersey.
+Well, hmm.
+Recently, it seems, Arvin Chilton has gone on a bit of a murder spree.
+His ex-wife is dead.
+His ex-wife's partner, new husband, is dead.
+His old partner is dead.
+There's also a gas station attendant who is dead.
+Arvin Chilton was seen on camera stabbing this gas station employee in the back and
+then disemboweling him as a car pulled up and filled their tank of gas not five feet
+from where this disembowelment was taking place.
+The person filling up their tank kind of looks around.
+It looks like they're hearing something.
+They almost look in the exact direction of Chilton and this dying man.
+But then the driver just puts the gas pump back in and gets in their car and drives off.
+That's probably what flagged Delta Green the most.
+So your three agents are placed on a private aircraft and flown to Woodbine Municipal Airport
+in Woodbine, New Jersey, which is approximately five miles from Ocean City, New Jersey,
+as well as the apartment of Arvin Chilton.
+Excuse me.
+Is your name Kevin Gelato?
+Yes.
+Uh, I don't know if you remember me.
+Clarissa Sparrow.
+Agent Clarissa Sparrow, FBI.
+Kevin kind of looks at her and it cuts to Kevin crying in the bathroom at school and
+Clarissa like...
+Clarissa, Clarissa, Clarissa is banging on the door and she's like,
+I'm sorry, but you need a hall pass.
+You didn't have a bathroom pass.
+You need to come out immediately.
+Kevin comes out and Clarissa like sees he's crying and comforts him.
+But yeah, she's like patting him on the back while also writing up a little like,
+writing him up with the other hand.
+Yeah.
+It's like, I understand that this is a tough time in our lives where everybody's got some
+hidden battle they don't see, but it only really takes a couple seconds to get that
+bathroom pass and the rules are there for a reason.
+Thank you.
+And he comes back into reality and...
+Oh, yeah.
+Hi.
+Hey.
+Hi.
+What are you doing here?
+I don't have a bathroom pass.
+What?
+You're the hall monitor.
+I'm with the FBI.
+I was a hall monitor for all 12 years of my public schooling.
+You were the football giant.
+Weren't you going to go pro?
+Those days are behind him.
+Jesus Christ.
+The Elwood turns sideways and you finally see him.
+Yeah, he leers out from behind the giant.
+Oh, look, it's a little birdie.
+Elwood Boyd, smelly Ellie.
+Good to see you, I guess.
+How you been?
+I never, I never wrote up anybody more than you.
+You sure did seem to have a thing for me.
+Yeah.
+I had a thing for justice.
+I still do.
+That's why I'm here.
+What?
+Why are you two here?
+Elwood.
+It's his reason.
+We're here for a thing.
+It's opera night.
+Opera.
+You two are here for the night at the opera.
+You can reach in and find what was left for you in this envelope, which was FBI credentials
+that will not hold up for more than, you know, two or three days.
+But they'll hold up for a little bit.
+Yeah, it looks like we're on the same playing field today.
+Clarissa is now terrified because she has actual FBI credentials.
+Right.
+She knows she's going to have, like, if these two fuck up when she's trying to interact
+with real FBI, it's going to mean everything she's worked for could go down the shitter.
+Yeah, but hey, they seem on the up and up.
+It looks like Kevin and I here possess a set of skills that are indispensable for today.
+What do you make of that?
+The Delta Green pair, you know, like a character sheet for you.
+Any kind of overview.
+What skills would those be?
+I'm good at getting in the places and I can take things without people seeing that those
+things got taken.
+I smash.
+Okay, so we got a Hulk and a thief.
+As much as I'm loathe to admit it, those skills might come in handy.
+I reckon you couldn't get by without us.
+I reckon I could get by without just about anyone.
+But here's the deal.
+If you two have to pass as FBI with me, you're going to keep your mouth shut when we're talking
+to real FBI.
+You're not going to embarrass me.
+You're not going to jeopardize what I do outside of this.
+In order, I'd say sure, maybe, and we'll see.
+Thomas doesn't remember what he just proposed to you, so yeah.
+I was like, what is your...
+If Elwood likes it, I'll do it.
+Yeah, I mean, they summoned us.
+They obviously see that we are needed here and we're going to do what we can.
+Okay, so she's got your credentials, like the FBI credentials in her hands, and she's
+like, consider these hall passes.
+This is a privilege and not a right, and it can be revoked at any moment, and she passes
+it out to you.
+Thanks.
+Once you've landed, the pilot actually pops out from the pirate's cabin, which it says
+on the door, and he's got a peg leg and a fun three-point hat with the skull and crossbones
+on it.
+It's themed chartered airplanes.
+It's March 25th, which is when this specific company celebrates Halloween, and he says,
+argh, there's a car outside waiting for ye, and there's a key, a skeleton key that's on
+the wheel.
+Thanks for flying our American Airlines.
+And so there's a car waiting for you guys.
+What kind of car do you want?
+A Jaguar.
+Okay, there's a Jaguar.
+Okay, there's an old shitty used Jaguar waiting for you guys to the point to where like the
+mount, like the hood ornament is missing.
+This is like a beat up old Jag.
+Can I use my mechanic role too?
+Which is what we call my uncle.
+Kevin would know that on this old Jag, the hood ornament actually pops out.
+So can I do a mechanic role to see if I can get it to pop out?
+Absolutely you can.
+It's broken.
+So you guys see this enormous monstrosity in a yellow shirt and blue overalls and these
+big thick goggles and three strands of hair walk over to this car and kind of.
+Kind of touching where the hood ornament should be and he like pokes it, but his finger
+just goes down into the metal.
+He poked it way too hard and he like completely destroys where it would pop out.
+Just like pressing aluminum foil.
+Yeah, like crushing a little tin little coke can.
+Kevin gets in the passenger seat of the car and the car just like almost touches the ground
+with him in it.
+As you guys head off to the Ocean City Police Department, it's currently March 25th, 2016.
+The first murder happened on March 21st, so that was four days ago.
+It is strange that there's some reason that he looked right directly at it happening and
+he didn't do anything about it.
+Nothing.
+You think maybe he was scared?
+Yeah.
+Do you think that?
+Perhaps there was some sort of optical refraction in the way.
+Some natural phenomenon we can't really see getting in the way.
+Maybe some kind of glare on the window.
+Elwood, you've been reading those magic books.
+I don't like.
+Maybe.
+Is there something like that?
+There is nothing in Penn and Teller's How to Do Magic to prepare me for this.
+No.
+Yeah, I never liked.
+It's always made me scared.
+I love Penn and Teller.
+They are good, aren't they?
+They're serious.
+He pulled a card out of my ear.
+I couldn't feel it in there.
+Maybe he's a magician.
+I guess maybe some kind of sleight of hand.
+He distracted him.
+He maybe waved his hand in the air and that's what the guy looked at and then.
+And maybe we didn't see that happen because it worked on us too.
+Is this your first night at the opera?
+No, I've done a couple.
+You ever see anything on either of those nights that might be explained by close-up magic?
+You think you get one of those envelopes when Penn and Teller are loose?
+Well, it says here he was a Delta Green agent.
+I assume that they just want us to make sure that all the T's are dotted and the I's are crossed.
+Cross your I's.
+If he's a magician, he's bad.
+He does seem to leave a trail of bodies everywhere he goes.
+That's not something that Penn and Teller do as far as I know.
+Agent Clarissa puts in some headphones and starts reviewing the files herself.
+The Ocean City Police Station is buzzing.
+It is an extremely busy day here.
+People are running around.
+It's around 11 30 a.m. on March 25, 2016.
+Someone greets you at the counter as the three of you arrive.
+Hell yes, hi.
+Special Agent Clarissa Sparrow, FBI.
+These are my partners on this particular task force.
+She slaps.
+Luke is waving.
+Kevin starts waving really good.
+And Clarissa without even looking just slaps his hand down behind her.
+Elwitt's kind of in the back legs kind of cross looking at the floor.
+Quinlan and Gambeson are still at lunch, but you can talk to Garza.
+Agent Garza from the FBI.
+Sorry, he's in the first conference room.
+That's where we have him set up.
+Thank you.
+And she points.
+And you see an extremely large man, massively obese in his mid 60s.
+He has a graying comb over and a gray suit.
+He's wearing a red tie and you see red suspenders are poking out from his suit jacket,
+which will not even get close to closing,
+like to the point to where you can see both suspenders in full visibility.
+And he's just om-nomming a grinder.
+He is just going to town.
+He's just like, oh, come in, come in, come on in.
+Sit down.
+You're the FBI?
+Sorry, I got to get through this lunch while we're going, if that's cool.
+I'm just going to eat while I talk.
+Is that good?
+You like that?
+Elwitt, do you want him to eat while we talk?
+Sure.
+Good.
+Yeah.
+He goes, stands up, goes to shake your hand and he's got mayo like all over his fingers.
+And he's like, oh shit.
+And he rubs it just immediately on his jacket and then reaches his hand back out and says,
+Agent Garza, but everybody calls me Uncle Jimmy.
+Clarissa nods curtly, does not extend her hand and says,
+Agent Clarissa Sparrow, priest to meet you, Agent Garza.
+Sparrow.
+All right.
+Sounds good.
+Agent Boyd.
+And I firmly grabbed his hand.
+And when I pull it away, I do a quick lick of my hand.
+Jesus.
+Whoa, did you get some of my sandwich in there?
+Some of the mayonnaise was on there.
+It's fine.
+Okay.
+All right.
+Hi.
+Wow.
+You're a big fella, aren't you?
+Did you play a game?
+Those days are behind him though.
+I still like to think about it.
+I mean, you look like you could go pro any second.
+I could have.
+What happened?
+Elwitt told me not to.
+He decided not to.
+Yeah, I decided not to.
+Well, let's get down to brass tacks here.
+And he slams pictures down on the desk in front of you.
+Also, quick shout out to Dylan B from Deadwood, South Dakota for the NPC
+Uncle Jimmy.
+That one is just the TV show.
+And Dylan B is a patron at at least our $10 level.
+So he gets to create an NPC and a location that might get used.
+An empuk.
+An empuk.
+And this is an empuk.
+And so we've got this jovial man who insists that everyone call him uncle,
+who is out of breath and sweating with any movement.
+Nice.
+All right, let's get down.
+And he slams these pictures down on the table.
+And it is horribly disturbing crime scene photos.
+So everyone roll sanity for me.
+Pass.
+I also pass a 29 on a 45.
+I got a 14 on a 45.
+72 on an 80.
+Oh, wow.
+Okay, so everyone 80.
+Jesus.
+So everyone passes.
+You are going to lose no sanity.
+You've all seen stuff like this.
+And he looks up at your faces.
+And then he looks back down at these bloody violent pictures
+where this normal home has been completely torn up.
+And the two victims are missing their eyes and tongues.
+Blood is covering the faces and splattering the ground behind them.
+And the woman, Eileen McCarty, the ex-wife of Arvin Chilton,
+is basically it's impossible to tell who she is.
+And even her husband, it's impossible to really make out their faces,
+because without an eyes and with all this blood covering bruises,
+without eyes, without eyes, it's going to be hard to recognize these folks.
+And he slams down.
+He goes down.
+You see anything crazy out of the ordinary?
+You looked at all this information.
+You saw there's no sign of forced entry.
+Clearly, a neighbor even saw the husband and wife
+let this ex-husband into their house.
+You saw the weapon.
+It was this large hook knife, I guess.
+But me personally, if you're asking me, which you are,
+I don't think that that body...
+And he points at this just destroyed face.
+I don't think that that's Eileen McCarty.
+What reason do you have to believe that that's not Eileen McCarty?
+Eileen McCarty was seen by witnesses in New York state on March 23rd at a gas station.
+When was this picture taken?
+That was March 21st.
+That was the day of the murder.
+Medical examiner said, you know, torture, death.
+The torture was prolonged, extremely violent, obviously.
+And he taps really hard and gets mayonnaise all over the pictures
+that he's put out on this desk.
+But I'm not worried.
+I'm not worried.
+You guys are here.
+You guys are here to take care of everything.
+And I understand that we needed reinforcements on this thing.
+It's already been three days.
+Everything's up in the air right now.
+Everyone's pretty fucking confused.
+But I think one of three things is going to happen.
+He's either going to use his credit card, which we've tagged.
+He's going to get pulled over or ticketed in a known car.
+Or he's just going to overplay his hand in some other way.
+He's going to make a mistake and then we'll get him.
+He's a desperate man.
+Desperate man make desperate moves.
+And that allows for reasonable people to catch him.
+Is the footage from the gas station,
+is that his last known appearance for us?
+Yeah.
+Yeah.
+It's the last time we saw him.
+Also, that gas station, I think, and he like picks around at some of his notes.
+He's like, yeah, actually that gas station is where?
+Eileen.
+Eileen McCarty was seen the same day of that murder.
+She was seen there.
+Eileen McCarty was seen at the same gas station
+where that attendant was brutally murdered by.
+Yeah.
+And two days after she supposedly died.
+According to what witnesses?
+Multiple witnesses.
+Who?
+Multiple.
+Is that all you, Zach Note?
+Multiple witnesses.
+What do you want to know?
+What do you want to know if they're like smart, if they could see?
+I want to know why people in not her state at a gas station could identify her.
+We were showing photos.
+Have we identified the person on that footage that pulled up to the gas station?
+No, the one who left, no.
+But we did identify the guy who died.
+His name was Quentin Harris, who's 59.
+Do you think the guy in the car that drove off did it?
+Well, no.
+No.
+Cause it's on tape.
+It's Arvin Chilton.
+You saw it.
+Yeah.
+Okay.
+Yeah.
+You saw that, right?
+Yeah.
+Do you want to watch it again?
+No, he's well aware.
+He's testing you.
+He's got an interesting investigative mind.
+But why don't you save the mind games for Kevin is extremely confused, but just nods
+his head and agrees.
+Was Eileen McCarty seen at the gas station before or after the murder?
+Before.
+How long before?
+He picks through a couple more notes.
+Mayo is just spreading throughout, slowly getting on everything.
+If any of those drops kind of come near Elwood, he's wiping a finger up and tasting it.
+Oh, uncle Jimmy looks over at Clarissa and is just like, how long have you three been
+working together?
+This partnership is very recent.
+Hmm.
+I'm sorry.
+He's been my friend a long time.
+Yeah, I get that.
+I see that in the two of you.
+All right.
+So, yeah, if you want any phone records, there's really not much there.
+We've got it tracked and an alert is set on it.
+So if he makes any phone calls, we're going to know about it.
+And I think that's how we're going to get him.
+Nothing out of sorts.
+He did call Eileen on the morning of March 16th.
+So that's five days pre death.
+Supposed death of Eileen McCarty.
+Did we try just calling him?
+Yeah.
+What happened?
+He didn't pick up.
+Can I try?
+No, I mean, sure.
+You can if you want.
+I don't care.
+Yes.
+I dialed the phone number.
+Okay.
+Did you learn about that March 16th call from phone records?
+Yeah.
+How long did they indicate that that phone call lasted?
+Two minutes, one second.
+71 seconds.
+Oh, 71 is wrong.
+Huh.
+121.
+No, math was never my strong suit.
+Uncle Jimmy's good at a lot of stuff.
+Math ain't it?
+Ha.
+Did you have many nieces and nephews, Agent Garza?
+Yeah, four.
+What are their full names?
+What do they do?
+Where were they on March 23rd?
+Why?
+Anything that can help.
+It's weird.
+Didn't you say?
+We've also got credit card tracking info.
+It's completely normal until March 20th, day before the first murder.
+Becomes irregular and then ceases.
+What does that mean?
+Yeah, it got weird and then stopped.
+Like what?
+Yeah, basically he was clearly using the card not in Ocean City.
+The card was being used up toward New York and then it just stops.
+So it's clear that he used it, then committed the murder, hasn't used it since.
+And what was his last call?
+Let's see.
+Go to the last page.
+Flip, flip, flip, flip, flip.
+Yeah, it goes to Alexander Duchesne.
+What do we know about him?
+He's the landlord.
+Of Chilton?
+Yeah, he's Arvin Chilton's landlord.
+Alexander Duchesne, old guy.
+How long did that call last?
+That call was 29 seconds or zero minutes and 29 seconds.
+Have we talked to him?
+Quick math.
+Have we talked to Duchesne?
+Yeah, we've talked to Duchesne.
+What did he say?
+Talked to him on the 23rd.
+He said that Arvin's been living with him for five years.
+Arvin lives upstairs.
+It's like one of those houses where just the upstairs is an apartment.
+It's got an external doorway, stairs on the outside.
+Gone up there into Arvin's apartment, but downstairs is where the old man lives.
+I don't know, man.
+Seems like a shut-in.
+When Eileen was at that gas station, was that the Quinlan on duty at that time?
+Does she have contact with Quinlan?
+Uh, yeah, let's look.
+And he'll flip through some video and...
+Oh, no.
+Oh, wow.
+Yeah, no.
+All the inside tapes must have gotten taken.
+Bye.
+That's really weird.
+Who took him?
+No, I mean, like, we never got him and he's flipping through and he's looking.
+Yeah, they were never checked in.
+Clarissa gives a little cough and she says,
+Can I speak with my associates in the hallway for one moment?
+Yeah, actually, I'm really busy here as he, like, finishes this huge sandwich.
+There's a third of it left and he just shoves the entire thing in his mouth.
+And he's like, I'll wrap up here.
+And so if you guys want to head over to Chilton's and just kind of get lay of the land,
+I'm sure you can talk to, uh, when, uh, uh, what are their names?
+Quinlan and Gambeson, the PDs around here.
+They'll be back after lunch and you can talk to them.
+But yeah, go ahead and just head on out and we'll talk.
+We'll catch up later if you want.
+But he has seen the video.
+He has.
+He's very confused by it.
+It doesn't make any sense to him.
+And so that's all.
+He passed his sanity check and he's like,
+Yeah, I don't know.
+People are strange.
+The guy probably didn't want to be caught up in anything.
+Just needed to get away.
+You know, the bystander effect.
+He honestly probably had a little pot on him.
+You know, a lot of them do.
+Yeah.
+Bystanders.
+Yeah.
+Bystanders typically more like high standards.
+Am I right?
+That's very funny, Agent Garza.
+Thank you.
+Uh, Uncle Jimmy, you can call me Uncle Jimmy.
+This was, um, thank you for your assistance, Agent Garza.
+Thanks for coming.
+All right.
+Uh, yeah.
+Holler if you need anything.
+Here's my phone number.
+Here's my card.
+I'll be here or I'll be elsewhere.
+Isn't that how it always goes?
+Where are you guys staying?
+You have a pleasant evening.
+Okay.
+When you guys pull up to Arvin Chilton's apartment,
+it is literally half a mile from the police station.
+This neighborhood is really nice.
+It's just this like March 20, what is it?
+March 25th.
+Shit.
+March 25th.
+It's a beautiful sunny day.
+Big fluffers are up in the clouds and blue skies.
+All of these buildings have like white trim on the columns
+and the stairwells and the, the, uh, what are these Thomas?
+Braillings.
+Like a railing.
+Yeah.
+Like railings are all, uh, white.
+You pull up to a cute little baby blue home.
+It's two stories.
+And like Uncle Jimmy said, there is a staircase on the left side of this house
+that leads up to a tiny little duplex up above this tiny little home.
+And you guys pull up at about 1230 PM.
+It's about 1230 PM.
+We've just arrived at the home of...
+Are you like talking into a voice recorder?
+Are you, uh, are you going to be taking notes this whole time?
+Does that make you uncomfortable, Mr. Boyd?
+I feel like we need to be careful about what kind of records we keep on
+a case like this.
+Yeah, we need to be careful.
+You're absolutely right.
+But I have to keep some official records since we are technically investigating this for the FBI.
+There has to be the official cover and then...
+And then every now and then it switches off.
+Wink, wink.
+You roughly get the idea.
+Yeah.
+Kevin walks up the stairs and knocks on the door and it like shakes the home.
+With every step of these shaky old stairs,
+this thing is like almost giving way under Kevin.
+And when you get up there, you see a sign on the door.
+Taped up.
+Police investigation ongoing.
+Blah, blah, blah, blah, blah.
+Nonsense.
+Agent Garza gave you keys to children's apartment.
+What's going on?
+And there is a light on in the downstairs apartment.
+Yeah, Kevin's hands are a little too big to really functionally use a key.
+So he steps back and...
+Sorry, I had you be a thief and then I gave you keys to get in.
+That's my bad, Joe.
+Yeah, that was the only time this was going to come in handy.
+He was pulling out the lockpick set from his back pocket and then saw
+Agent Sparrows put a key in the door and it just deflates even more.
+I guess we're still waiting for that skill set to come in use.
+There will be a time, I'm sure of it.
+Perhaps this whole mission will be the time that you learn that your criminal ways will not pay.
+I mean, they paid for most of the things in my life so far.
+They paid pretty good.
+She turns on you and is brandishing the key in your face and she's like,
+no, sir, you will receive your come up,
+but I'm willing to work with your kind against these unnatural forces.
+Don't do that to him.
+And Kevin's standing there like pushing away the threatening key from Elvit's face.
+All right then, as long as we understand each other and
+Clarissa is genuinely very intimidated by the Robert Wadlow man.
+Yeah, who wouldn't be?
+Are you okay?
+Thanks for having my back there, Kevin.
+I'm fine.
+Thank you.
+I was a little worried.
+It's a 640 square foot apartment.
+This looks like about a 640 square feet.
+Right here must be tens of dollars.
+So you walk into the bedroom.
+Like when you open up the door, you're walking into the studio.
+It's a bedroom and there's one door to the bathroom all around.
+There's a record collection.
+There's a bunch of Elvis Presley.
+There's a bookshelf filled with the works of the immortal bard himself, William Shakespeare,
+as well as a DVD collection that shows he did not shy away from the film adaptations.
+And there's really not much else around here.
+So he's got like these Shakespeares and some books
+and then also DVD copies of just those same plays and books.
+Is there a computer anywhere near here?
+There is not a computer, no.
+Well, it looks like there's nothing to see here.
+Let's move on to the next place.
+Everybody roll alertness for me.
+Critical success.
+55 on an 80.
+A regular success.
+A 30 on a 70.
+I got a 97.
+Okay.
+So Kevin is completely startled.
+Boyd, Elwood, Elwood Boyd is not startled.
+You see this coming, but before you even see anyone creeping up behind you
+and kind of like putting themselves around the doorway,
+Clarissa, you smell old bandages in the air.
+The odor is strong enough for you to immediately turn around.
+She turns around and expects to find a mummy.
+Expecting a mummy, you see Alexander Duchesne.
+He is 79 years of age.
+He is around five foot six, 210 pounds.
+An old man.
+He has carefully quaffed white hair and he has heavy black glasses.
+He is clothed in old often mended clothing and a pork pie hat.
+And he has a long winding scar up the right half of his face.
+It's clear that he drinks due to the large nose with burst capillaries,
+just filling this big, almost like pulsating thing on the tip of his nose.
+And he moves slowly, seemingly with great pain,
+as he kind of like pops his head around the side and is like,
+More officers.
+Hello, more officers.
+Hello, there.
+Before he can, he's like coming up the stairs into the doorway behind us.
+Yeah, he's right there.
+Before he can like get in, Clarissa is advancing like with her badge out and she says,
+Special Agent Clarissa Sparrow, sir, this is an act of crime scene investigation.
+You were compromising that crime scene.
+Are you Mr. Duchesne?
+Oh, I'm so sorry, yeah, yeah, I'm Mr. Duchesne.
+I'm going to have to ask you to go back downstairs.
+Slowly, he raises his hands in the air with a wry smile and he's like,
+Sorry, sorry.
+Sir, we're going to come speak to you in a moment, please.
+Okay, please do, come on.
+Please wait for us downstairs.
+Whenever you're ready.
+Yes, fine.
+That's fine.
+And he slowly creeps back around and like you can almost hear his bones creaking
+with the pain look on his face as he turns around and it's like, okay.
+And just kind of waves one hand up in the air as his other hand grabs the rail like intensely.
+Kevin waves back at him.
+And he heads back down the stairs.
+Really?
+That was a landlord.
+Elwood wants to, um, clock this apartment for things that, uh, might be valuable.
+Oh, okay.
+Yeah, yeah.
+Go ahead and roll search for criminology.
+Yeah, absolutely.
+This is what you guys do.
+Fuck.
+I critically fail either one.
+I've got a 60 criminology and I rolled a 77.
+There's a Shakespeare play inside the book has a pamphlet.
+Like you would receive when you went and actually saw a play.
+What are those called?
+A play bill.
+Play bill.
+A play bill.
+When you, when you flick through some of these, these books, this play bill pops out and you
+are dead fucking certain that a, this is from an early original, like one of the first American
+runs of this Shakespeare production.
+This is a globe theater play bill.
+And it's like signed by some important director who signed by John Wilkes Booth.
+It's signed by John Wilkes Booth.
+Wasn't his brother an actor?
+I think as was, he was a very famous actor.
+And so you are dead fucking positive that this is going to bring in at least like 10
+grand.
+I pocket it.
+I try to do it feefully.
+Oh, you don't.
+They both see you.
+Oh, I see you get that.
+And I just like grab a random book and put it in my back pocket.
+What the hell?
+What?
+What are you grabbing evidence for?
+It's signed by John Wilkes Booth.
+This gets a pretty penny.
+I grab it from her hands.
+All right, let's do a dexterity competition.
+No, you're not in this.
+Crit fail.
+Oh my God.
+Regular fail.
+All right, well, that still means that we rip the book in half.
+Yeah, you 100% rip the book in half.
+Oh, no, I thought at least it's all its value.
+Oh God, you did this.
+You did this.
+A little tear starts to form at the edge of Kevin's eye.
+Damn it, Kevin.
+It wasn't your fault.
+He did this.
+He start.
+You two, you keep your hands to yourself.
+Stand right in the middle of this room.
+Don't touch anything else.
+Elwood kind of rolls his eyes, but also looks at Kevin like,
+that sounds like she knows what she's doing.
+Now let me use my investigators eyes to search this room.
+Do it.
+35, success.
+Nice.
+You find there's a record collection with a bunch of Elvis Presley.
+There's a bookshelf filled with the works of the immortal bard himself, William Shakespeare,
+one of which is torn in half on the floor.
+And you also see a DVD collection that shows he did not shy away from the film adaptations.
+Everything appears to be as it seems in this room.
+Should we go rough up the landlord?
+If it comes to that, of course, Kevin, that just can't be our immediate.
+We're on official business here.
+And he says that kind of sarcastically with an eye toward Sparrow.
+Sparrow doesn't catch that and she like nods in approval.
+That's right.
+Okay.
+I'll put my mean face on.
+And his face turns mean, but it actually is like kind of scary.
+Like the happy, dumb smile goes to like a serious, like zoned in face and idea roll.
+Yeah.
+For some, for anything we might be missing here.
+Yeah, sure.
+What is that based off of intelligence pass 62 on a 70.
+You have cleaned this room.
+Like it is, it has been clocked.
+You have garnered all the information you are going to get from Arvin Chilton's apartment.
+I believe we've gathered everything we can here.
+Let's go at this time.
+Let's go talk with Mr. Dushane.
+That does seem like the next course of action.
+After you.
+No, no, I insist after you.
+I start clomping down the stairs.
+As you're clomping down the stairs, you actually hear coming out of the basement,
+not even basement, just the first floor apartment of this two story duplex.
+This, uh, this high wine.
+Is he making us tea?
+Yeah, he's making you tea.
+That's nice.
+Okay, the entire house shakes and you hear a coughing fit from inside.
+Just this coming, coming, coming, and the door opens and you see this man.
+It's the same man as before.
+And he's, he's wearing the same clothes.
+It's crazy.
+And this close to him, you're overwhelmed by his odor.
+He smells really bad.
+And for the two of you who didn't smell it earlier, it's like old bandages bad.
+And he seems to have a cold.
+He's like coughing and he's just like sniffling a bunch.
+He invites you inside really eagerly.
+He's just like, come on, come on, come on, come on.
+Okay.
+Um, I have tea.
+I have tea for you guys.
+If you want tea, um, I've put out some, some plates.
+I've got some more food.
+Here's some chairs.
+You can sit here and here.
+Um, your, your name was Sparrow, right?
+Agent Sparrow.
+I pass him my FBI card.
+Perfect.
+And do you guys have cards too?
+No, they're just getting theirs made up.
+Unfortunately.
+Oh, okay.
+Sorry.
+Sorry.
+I'll wash my hands real quick.
+He goes back and starts washing his hands.
+And you see, uh, looking around this place, you see a very sad home decorated by an old
+man with no relatives.
+There's an ashtray on the table and it hasn't been used.
+It's clean.
+There's a bunch of rolled up newspapers in a bucket.
+A few mops are in the corner of the room strangely.
+And there's an odd number of baseballs placed around.
+There's a copy of as you like it sitting on the coffee table and he brings out a spread.
+I mean, just like a charcutte, but like the way a 79 year old shut in would, would bring
+you charcutte.
+And so it's just these like charcutte cold cuts.
+Oh, it's charcutte as hell.
+The charcutte is good.
+It's cold cuts and some cheeses.
+And then there's a bowl on the plate with some big olives on it, green and black olives.
+And he sits down and he's just like, I'm sorry, he screams as he eases into a chair that you
+think is like the only place where he sits.
+Elwood wants to put a grimy finger into the olive bowl and pick up a bunch.
+Like as he's setting it down.
+Oh yeah, yeah, yeah.
+He's already.
+Oh yeah, yeah.
+Please, please eat up, eat up.
+Pretty sure I know what kind of maniac Joe took before this game started.
+Yeah.
+As soon as Kevin sees Elwood doing that, he's grabbing some stuff off the board, but it's
+like one handful is like half of the stuff on there.
+And he's just like, dig in, dig in.
+Agent Sparrow, dig in.
+I'm going to grab some tea for everyone.
+And he goes in and no tea for me, please.
+Chocolate milk.
+I do.
+I love chocolate milk.
+Who doesn't love chocolate milk?
+Just make that too.
+Thank you.
+Two chocolate milks.
+And you hear him rummaging in the fridge for a while.
+Can I do a search?
+Can someone else do a search of this room?
+I'd like to clock.
+I'd like to clock around the room.
+Yeah.
+Oh, crit success.
+Oh, 33 again.
+Regular pass with a 16.
+Okay.
+With a regular pass, you think that the baseballs are placed very strangely around this room.
+And why does an old man have a bunch of baseballs hanging around?
+They're like a distinct pattern.
+No, not really.
+What about to me?
+Roll SIGINT, I guess.
+No, it's a fail.
+It's an 89 on a 40.
+Yeah, that ain't going to do it.
+And then with the crit success, you note he has a copy of As You Like It.
+For me, what is that?
+Which is written by Shakespeare.
+Yeah.
+Okay.
+Okay.
+So that's what I wanted to ask about.
+Does this copy of As You Like It look like it came from one of the sets upstairs?
+Yeah, totally.
+Same printing, same publishing company.
+Yeah.
+Clarissa is picking it up and is holding it and waiting for him to get back in the room.
+Cool.
+Kevin's like, he likes Shakespeare too?
+So he comes back in with tea for himself and chocolate milk for Elwood and Kevin.
+And then he looks at Agent Sparrow and he's like, seriously, dig in.
+Hey, thanks.
+Are you a thief too?
+So she's holding the book, she says.
+Complete works of William Shakespeare.
+Huffington.
+Huffington.
+Fartington Publishers.
+Third edition, 1976.
+Yeah.
+That's the same one that Alvin Chilton had upstairs.
+Did you take this from his room?
+Oh, no.
+Arvin lent that to me.
+He lent it to me to read.
+When?
+Can I humint that?
+Yeah, you can humint that.
+Fuck.
+It's a 52 on a 50.
+I got a 16 on an 80.
+I got a 45 on a 20.
+With his success, you see that he seems to be telling the truth.
+He did get it from Arvin Chilton.
+Arvin gave it to me.
+He gave it to me.
+He's not feeling weird or wonky around by cops.
+He's like, I didn't take it.
+Is Arvin's crime spree public knowledge?
+Yes.
+And he's identified as a suspect.
+Arvin.
+Yeah.
+Yes.
+Okay.
+So, like, this guy knows that Arvin is...
+He didn't do it.
+I swear.
+Like, he wouldn't...
+He wouldn't have done it.
+He was a good guy.
+Well, that's what we're trying to figure out.
+We're trying to figure out who did these horrible things.
+Now, when did Arvin lend you that book?
+My mind.
+You know, it's a...
+Try and think, please.
+It fails so much.
+The 20th, maybe the 19th.
+Maybe it was right before he disappeared on the 21st.
+It was very recent.
+Yeah, it was recent.
+Did you and Arvin talk often?
+Yeah, he was really nice.
+He would pick me up groceries if I needed something and I wasn't doing well.
+I had a fall.
+Two years ago and he took such good care of me.
+What's the last thing you guys talked about?
+He was getting ready to go to Starbucks.
+That's where he worked.
+That's where he worked.
+And I haven't seen him since that morning.
+He was getting ready to go in for a shift.
+Did he see another character that day?
+No, everything seems so normal.
+And honestly, people talk about him doing all these horrible things.
+He wouldn't have done it.
+Agent Asparrow, please.
+You have to try some of these cold cuts or these olives.
+Aren't they good?
+Did Arvin seem like a troubled man to you?
+He ignores your question completely and is waiting for an answer.
+Elwood is licking his fingers off.
+Yeah, the olives are great.
+They're like old, which Elwood loves.
+They taste old.
+That's the way I like them.
+Good.
+Kevin, ever since he played football, has been very in tune with his body.
+Does he feel sick or weird or anything from the half board of meat that he's eaten?
+Roll Constitution.
+Crit success.
+You are extremely worried about how long this meat has been left out.
+You are very worried about how long this meat has been left out.
+It is not reacting in your tum tum the way that a nice shock bowl would feel in your tummy.
+Um, I'm sick.
+And he gets up and goes and throws up in the kitchen sink.
+He's trying to make us sick.
+Are you trying to poison us, Mr. Deschenes?
+No, no, God, no.
+I'm sorry.
+I must have just forgotten when I bought it.
+I would never.
+You could go away for a long time if you tried to do harm to federal agents.
+Is that what you're trying to do?
+Oh my goodness.
+No, no.
+Kevin comes back over and sits down and grabs another hand.
+Like without thinking, just grabs another handful of meat.
+Elwood tries to grab his hand.
+It's already in his mouth.
+He like lifts you up off of your chair to take a bite.
+Kevin, he just said it didn't make you feel good.
+Oh, well.
+And he just kind of sits there chewing on it.
+He's holding, uh, Elwood's holding his hand out in front of Kevin.
+Spit it out.
+Spit it out.
+Kevin spits out his food into Elwood's hand.
+Clarissa is watching that just like wide-eyed.
+Elwood takes it and puts it back onto the charcuterie board.
+Now, where were we?
+Yeah, uh, where were we?
+Deschenes' face is twisted and contorted into this so grossed out and so happy.
+It's clear that he's like a little freak in this moment and he's just like super into it.
+He really gets along with Elwood like immediately.
+The vibes are there.
+The aura around both of them is similar.
+Similar, yeah.
+The reason Kevin didn't notice his stink is because he's used to Elwood's stink.
+Mr. Deschenes, did Arvin mention this particular play as one of his favorites?
+Is there a reason he lent it to you?
+Yeah, he thought it was fitting.
+Feels like I'm on the last bend of the deep end.
+But the drowning's been just fine.
+And when my ears pop and the shell shock of this pit stop frees my mind.
+I'll be alright.
+I can go there now that I stare.
+Death in the face.
+I'll be alright.
+I can go there now that I stare.
+Death in the face.
+Doesn't it always seem like the parts that made us laugh now make us cry?
+Doesn't it always seem like the villain Paul in the strings is a regular guy?
+You and me have gone bad in a good way, I promise.
+Kerosene wipes clean what we couldn't bear to tarnish.
+I'll be alright.
+I can go there now that I stare.
+Death in the face.
+I'll be alright.
+I can go there now that I stare.
+Death in the face.
+There's a conundrum in the wisdom of my spirit.
+Whitewashed hymns and the deadliest sins push me to my limit.
+But when you deconstruct, you shit out of luck for a minute.
+After the last bend, you can break it all down to rebuild it.
+You and me have gone bad in a good way, I promise.
+You and me have gone bad in a good way, I promise.
+I'll be alright.
+I can go there now that I stare.
+Death in the face.
+I'll be alright.
+I can go there now that I stare.
+You and me have gone bad in a good way, I promise.

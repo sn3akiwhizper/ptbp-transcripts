@@ -1,0 +1,5152 @@
+1
+00:00:00,000 --> 00:00:03,800
+Welcome to the cream zone, my lactose-filled babies.
+
+2
+00:00:03,800 --> 00:00:06,780
+I'm here to whip you up into a frothy beverage
+
+3
+00:00:06,780 --> 00:00:08,800
+for all to consume.
+
+4
+00:00:08,800 --> 00:00:13,720
+It's me, your warm milk-filled uncle Wolf the dog.
+
+5
+00:00:13,720 --> 00:00:16,480
+And as always, we are fermenting y'all
+
+6
+00:00:16,480 --> 00:00:19,600
+into some kind of weird sour milk cream
+
+7
+00:00:19,600 --> 00:00:23,720
+live from 694.2 PTBP.
+
+8
+00:00:23,720 --> 00:00:27,240
+So far, all of you beautiful, generous folks
+
+9
+00:00:27,240 --> 00:00:33,440
+have raised $6,372 for the bail project.
+
+10
+00:00:33,440 --> 00:00:34,480
+Wowza.
+
+11
+00:00:34,480 --> 00:00:37,020
+Remember, screenshot your donations
+
+12
+00:00:37,020 --> 00:00:40,560
+and send them to pretendinpod at gmail.com.
+
+13
+00:00:40,560 --> 00:00:45,280
+And for every $5 donated, you'll receive an entry for a chance
+
+14
+00:00:45,280 --> 00:00:50,080
+to win one of the first ever PTBP t-shirts.
+
+15
+00:00:50,080 --> 00:00:53,960
+This week's winner is Marie Lupin.
+
+16
+00:00:53,960 --> 00:00:58,480
+Congratulations, Marie, and keep on donating, y'all.
+
+17
+00:00:58,480 --> 00:01:01,120
+We have three more shirts to give away
+
+18
+00:01:01,120 --> 00:01:03,920
+to you charitable motherfuckers.
+
+19
+00:01:03,920 --> 00:01:07,040
+The link to donate is in the show notes.
+
+20
+00:01:07,040 --> 00:01:10,680
+This week's Howlin' with Wolf is from a very sweet listener
+
+21
+00:01:10,680 --> 00:01:12,120
+called Chris.
+
+22
+00:01:12,120 --> 00:01:16,480
+He writes, a buddy of mine recommended PTBP to me
+
+23
+00:01:16,480 --> 00:01:19,000
+a while back, but I didn't think I would ever
+
+24
+00:01:19,000 --> 00:01:23,240
+be into an actual play podcast, let alone one
+
+25
+00:01:23,280 --> 00:01:25,800
+that features a game I've never heard of.
+
+26
+00:01:25,800 --> 00:01:28,320
+He kept nagging me, though, and I finally
+
+27
+00:01:28,320 --> 00:01:32,120
+gave in and listened to episode one a couple of months ago,
+
+28
+00:01:32,120 --> 00:01:34,520
+just so I could get it over with.
+
+29
+00:01:34,520 --> 00:01:37,600
+Since then, I've binged every episode,
+
+30
+00:01:37,600 --> 00:01:42,600
+became a patron, convinced two other friends and my brother
+
+31
+00:01:42,600 --> 00:01:45,680
+not only to start listening to PTBP,
+
+32
+00:01:45,680 --> 00:01:49,080
+but also to start playing Delta Green.
+
+33
+00:01:49,080 --> 00:01:52,400
+I've converted my wife as well, and we are now
+
+34
+00:01:52,440 --> 00:01:56,880
+relistening to old episodes in between new episodes
+
+35
+00:01:56,880 --> 00:01:58,680
+just to get our fix.
+
+36
+00:01:58,680 --> 00:02:02,120
+Then contention boys, the gravelly baritone
+
+37
+00:02:02,120 --> 00:02:06,800
+of the Mighty Wolf, and the manic brilliance of Zack
+
+38
+00:02:06,800 --> 00:02:10,040
+have been a source of so much joy during what has been
+
+39
+00:02:10,040 --> 00:02:12,680
+an incredibly hectic couple of months.
+
+40
+00:02:12,680 --> 00:02:15,080
+I cannot thank you guys enough.
+
+41
+00:02:15,080 --> 00:02:19,840
+Shout outs to my friends, Ruben, Alex, and Jesse,
+
+42
+00:02:19,840 --> 00:02:23,040
+my brother Michael, and my wife Maria,
+
+43
+00:02:23,040 --> 00:02:25,360
+all of whom are loyal listeners.
+
+44
+00:02:25,360 --> 00:02:29,120
+Lots of love from the Netherlands, Chris.
+
+45
+00:02:29,120 --> 00:02:32,920
+Wow, Chris, I know you said a bunch of other shit,
+
+46
+00:02:32,920 --> 00:02:36,160
+but acknowledging my baritone tones,
+
+47
+00:02:36,160 --> 00:02:39,360
+the gravel in my gullet, that's enough
+
+48
+00:02:39,360 --> 00:02:42,160
+to bring tears to my eyes, baby.
+
+49
+00:02:42,160 --> 00:02:45,240
+Maybe I'll take a little interdimensional trip
+
+50
+00:02:45,240 --> 00:02:47,760
+to the Netherlands you speak of.
+
+51
+00:02:47,760 --> 00:02:51,480
+Pay you and yours a little visit, you'll never see me,
+
+52
+00:02:51,480 --> 00:02:55,760
+but I'll definitely see and smell y'all.
+
+53
+00:02:55,760 --> 00:02:59,440
+Have you ever thought to yourself, wow,
+
+54
+00:02:59,440 --> 00:03:02,720
+I like this pretending to be people show very much.
+
+55
+00:03:02,720 --> 00:03:06,120
+I wonder if there's something easy I could do to help him.
+
+56
+00:03:06,120 --> 00:03:09,320
+The answer is very fucking much a yes.
+
+57
+00:03:09,320 --> 00:03:12,040
+Write a five star review on Apple Podcasts,
+
+58
+00:03:12,040 --> 00:03:15,440
+follow our social media pages for cute pics,
+
+59
+00:03:15,440 --> 00:03:18,200
+support the show on Patreon,
+
+60
+00:03:18,200 --> 00:03:21,560
+and instantly access bonus episodes.
+
+61
+00:03:21,560 --> 00:03:23,600
+The links are in the show notes.
+
+62
+00:03:23,600 --> 00:03:25,840
+The links are in the show notes.
+
+63
+00:03:25,840 --> 00:03:29,840
+The links are in the show notes.
+
+64
+00:03:29,840 --> 00:03:34,640
+Is there an echo in here, or is it just the news?
+
+65
+00:03:34,640 --> 00:03:39,200
+News, news, news, news, news.
+
+66
+00:03:39,200 --> 00:03:43,080
+Last time, our valiant heroes forced Terrence Liquor
+
+67
+00:03:43,080 --> 00:03:45,240
+into the home of Randy Angst,
+
+68
+00:03:45,880 --> 00:03:48,000
+where the old man was on the ground
+
+69
+00:03:48,000 --> 00:03:50,720
+in desperate need of medical attention.
+
+70
+00:03:50,720 --> 00:03:53,040
+Seeing they were about to get boxed in
+
+71
+00:03:53,040 --> 00:03:55,480
+on this residential street by a truck
+
+72
+00:03:55,480 --> 00:03:58,160
+with a hot tub instead of a truck bed,
+
+73
+00:03:58,160 --> 00:04:02,120
+as well as a Chevy Impala with a doorless refrigerator
+
+74
+00:04:02,120 --> 00:04:04,600
+on its side strapped to the roof.
+
+75
+00:04:04,600 --> 00:04:08,120
+They stole T Liquor's truck and hoofed it back
+
+76
+00:04:08,120 --> 00:04:13,120
+to the hidden Mitsubishi Eclipse to grab Drew Carey
+
+77
+00:04:13,320 --> 00:04:16,040
+without first losing their tail.
+
+78
+00:04:16,040 --> 00:04:19,000
+Clark grabbed Drew's body and tossed him
+
+79
+00:04:19,000 --> 00:04:21,240
+into the stolen truck's waterbed
+
+80
+00:04:21,240 --> 00:04:24,880
+as the refrigerator Impala and hot tub truck
+
+81
+00:04:24,880 --> 00:04:26,720
+pulled up to the scene.
+
+82
+00:04:26,720 --> 00:04:29,440
+There wasn't much of a standoff though,
+
+83
+00:04:29,440 --> 00:04:32,240
+due to hot tub truck immediately losing
+
+84
+00:04:32,240 --> 00:04:37,240
+its three team members to a massive wave of ooze.
+
+85
+00:04:37,280 --> 00:04:40,520
+The refrigerator Impala, owned and operated
+
+86
+00:04:40,520 --> 00:04:45,040
+by Asher and Avery Little, nope the fuck outta there,
+
+87
+00:04:45,040 --> 00:04:47,640
+leaving our waterbed truck crew
+
+88
+00:04:47,640 --> 00:04:52,600
+as this oozy upsurges only a remaining target.
+
+89
+00:04:52,600 --> 00:04:54,920
+John Lee Pettymore the 3rd,
+
+90
+00:04:54,920 --> 00:04:58,840
+perhaps still wet from his time in the bed of his truck,
+
+91
+00:04:58,840 --> 00:05:01,840
+critically failed a drive check,
+
+92
+00:05:01,840 --> 00:05:04,640
+taking us now to the aftermath.
+
+93
+00:05:04,640 --> 00:05:07,440
+It's a brand new track that rocks,
+
+94
+00:05:07,440 --> 00:05:12,440
+like sedimentary, metamorphic, and igneous,
+
+95
+00:05:12,600 --> 00:05:15,760
+and rolls like a stolen truck
+
+96
+00:05:15,760 --> 00:05:18,800
+into a sign for a local tire shop.
+
+97
+00:05:18,800 --> 00:05:22,320
+It's kudzu with no backbone.
+
+98
+00:05:22,320 --> 00:05:23,160
+And now.
+
+99
+00:05:39,040 --> 00:05:43,120
+If a little rat dick left his seed in you,
+
+100
+00:05:43,120 --> 00:05:48,120
+wouldn't you fucking demand every goddamn cent
+
+101
+00:05:49,480 --> 00:05:51,320
+he had for that child? Welcome to Pretending to Be People.
+
+102
+00:05:51,320 --> 00:05:55,920
+That was the perfect introduction to episode.
+
+103
+00:05:55,920 --> 00:05:59,240
+No, I don't want to make an enemy of David Spade.
+
+104
+00:06:01,720 --> 00:06:03,600
+Welcome to Pretending to Be People.
+
+105
+00:06:03,600 --> 00:06:07,600
+That was a really good introduction to episode 82.
+
+106
+00:06:07,600 --> 00:06:09,080
+It works if you just blink out,
+
+107
+00:06:09,080 --> 00:06:12,440
+if you beep out the name of the celebrity.
+
+108
+00:06:15,600 --> 00:06:17,040
+Only the first time though.
+
+109
+00:06:22,320 --> 00:06:26,920
+She was discovered by radio superstar Howard Stern.
+
+110
+00:06:26,920 --> 00:06:28,640
+Her mother sent Stern pictures
+
+111
+00:06:28,640 --> 00:06:29,880
+and a letter about her daughter.
+
+112
+00:06:29,880 --> 00:06:32,720
+Stern had her in and sent her pictures to Playboy
+
+113
+00:06:32,720 --> 00:06:34,040
+and she was accepted.
+
+114
+00:06:34,040 --> 00:06:37,480
+Oh, that's an American like, thanks mom, dream.
+
+115
+00:06:38,920 --> 00:06:40,880
+I believe in you, honey.
+
+116
+00:06:40,880 --> 00:06:43,480
+Here, send your nude pictures to Howard Stern.
+
+117
+00:06:43,480 --> 00:06:44,600
+Her mom got to tell her
+
+118
+00:06:44,600 --> 00:06:46,440
+as soon as she got off the school bus.
+
+119
+00:06:46,440 --> 00:06:47,280
+Yeah.
+
+120
+00:06:51,040 --> 00:06:52,360
+Would you rather have to have sex
+
+121
+00:06:52,360 --> 00:06:54,480
+with a Howard Stern or David Spade?
+
+122
+00:07:00,320 --> 00:07:01,720
+Oh my God.
+
+123
+00:07:01,720 --> 00:07:04,000
+What a terrible, would you rather?
+
+124
+00:07:05,480 --> 00:07:07,360
+I guess both.
+
+125
+00:07:07,360 --> 00:07:09,200
+I'd probably go with David Spade.
+
+126
+00:07:09,200 --> 00:07:10,560
+I don't know enough about either of them.
+
+127
+00:07:10,560 --> 00:07:12,200
+So the romance wouldn't be there.
+
+128
+00:07:12,200 --> 00:07:13,040
+Either way.
+
+129
+00:07:14,040 --> 00:07:16,400
+Now I'm looking up ugly David Spade
+
+130
+00:07:16,400 --> 00:07:17,800
+and ugly Howard Stern
+
+131
+00:07:17,800 --> 00:07:20,040
+to see who has a worst picture on the internet.
+
+132
+00:07:23,200 --> 00:07:24,040
+Probably David Spade.
+
+133
+00:07:24,040 --> 00:07:26,080
+You can go to at pretending pod
+
+134
+00:07:26,080 --> 00:07:30,560
+to get a side by side of those on Instagram
+
+135
+00:07:30,560 --> 00:07:31,440
+or on Twitter.
+
+136
+00:07:31,440 --> 00:07:35,560
+We'll be tagging David Spade's family members.
+
+137
+00:07:35,560 --> 00:07:36,960
+He's cute when he's younger.
+
+138
+00:07:36,960 --> 00:07:39,160
+Yeah, if we're talking like Tommy boy years,
+
+139
+00:07:39,160 --> 00:07:40,680
+then it's David Spade all day.
+
+140
+00:07:40,680 --> 00:07:43,080
+But if we're talking about old, both of them,
+
+141
+00:07:43,080 --> 00:07:45,000
+then I think I have to go for Stern.
+
+142
+00:07:45,000 --> 00:07:46,840
+Stern's not bad looking.
+
+143
+00:07:46,840 --> 00:07:48,000
+Well, it would just be a freaky
+
+144
+00:07:48,000 --> 00:07:51,080
+kind of like Bourdain-ish experience.
+
+145
+00:07:51,080 --> 00:07:52,600
+We could probably get more viewers
+
+146
+00:07:52,600 --> 00:07:54,520
+if we were on Stern's show
+
+147
+00:07:54,520 --> 00:07:56,920
+than anything David Spade did.
+
+148
+00:07:56,920 --> 00:07:59,400
+Well, that's not happening after this.
+
+149
+00:08:01,480 --> 00:08:02,320
+After what?
+
+150
+00:08:02,320 --> 00:08:03,800
+After we said we want to fuck him?
+
+151
+00:08:05,240 --> 00:08:07,520
+Sounds to me like we're playing all our cards right.
+
+152
+00:08:07,520 --> 00:08:09,480
+I don't know anything about him,
+
+153
+00:08:09,520 --> 00:08:12,200
+but I think that's kind of his whole show, right?
+
+154
+00:08:14,200 --> 00:08:17,480
+Howard Stern kind of looks like if I was a dinosaur.
+
+155
+00:08:18,920 --> 00:08:19,920
+Like a raptor.
+
+156
+00:08:21,040 --> 00:08:22,320
+He's got the same hair.
+
+157
+00:08:23,320 --> 00:08:25,120
+You should grow yours out long like his.
+
+158
+00:08:25,120 --> 00:08:26,440
+Have it go down your back.
+
+159
+00:08:26,440 --> 00:08:30,320
+I mean, I don't plan on getting it cut anytime soon.
+
+160
+00:08:30,320 --> 00:08:31,880
+It's getting long, baby.
+
+161
+00:08:31,880 --> 00:08:34,200
+So last time John was driving the truck,
+
+162
+00:08:34,200 --> 00:08:36,160
+Crit failed to avoid the crane
+
+163
+00:08:36,160 --> 00:08:38,080
+and flipped it, freeze frame.
+
+164
+00:08:38,120 --> 00:08:39,960
+The truck is turned sideways,
+
+165
+00:08:39,960 --> 00:08:41,480
+hits a little rock or something.
+
+166
+00:08:41,480 --> 00:08:45,040
+Tires are bald as fuck and begins turning over.
+
+167
+00:08:45,040 --> 00:08:48,640
+In this moment, I have you guys all roll for constitution.
+
+168
+00:08:48,640 --> 00:08:50,920
+John critically succeeds.
+
+169
+00:08:50,920 --> 00:08:52,440
+Keith passes.
+
+170
+00:08:52,440 --> 00:08:54,320
+Clark critically succeeds.
+
+171
+00:08:54,320 --> 00:08:57,520
+As the truck is flying over, everyone is fine.
+
+172
+00:08:57,520 --> 00:09:01,160
+Seemingly, except for Keith lands on top of Jimmy Sanders.
+
+173
+00:09:01,160 --> 00:09:02,600
+Gonna roll for him right now.
+
+174
+00:09:04,440 --> 00:09:05,560
+Rolled to 98.
+
+175
+00:09:05,560 --> 00:09:06,760
+He's not doing great.
+
+176
+00:09:06,760 --> 00:09:11,520
+He's gonna lose four hit points and stays conscious
+
+177
+00:09:11,520 --> 00:09:13,440
+as Keith lands on top of him.
+
+178
+00:09:14,320 --> 00:09:16,520
+Critically succeeding his constitution check
+
+179
+00:09:16,520 --> 00:09:19,040
+to stay conscious because he's low on hit points
+
+180
+00:09:19,040 --> 00:09:20,960
+leading up to this point.
+
+181
+00:09:20,960 --> 00:09:24,440
+And Clark literally crits with a 69.
+
+182
+00:09:24,440 --> 00:09:27,560
+So as the truck rolls, the water's flying out behind him
+
+183
+00:09:27,560 --> 00:09:30,680
+as he just keeps his legs moving and keeps running
+
+184
+00:09:30,680 --> 00:09:32,160
+and the truck just avoids
+
+185
+00:09:32,160 --> 00:09:35,080
+and the truck moves, rolls, rolls, rolls
+
+186
+00:09:35,200 --> 00:09:40,200
+and explodes into a sign for owls, tires and tigers.
+
+187
+00:09:43,440 --> 00:09:44,640
+Oh yeah.
+
+188
+00:09:44,640 --> 00:09:49,560
+The issue being Drew's body with Kerry pages inside
+
+189
+00:09:49,560 --> 00:09:54,360
+lays motionless in an extremely shallow puddle
+
+190
+00:09:54,360 --> 00:09:56,800
+of stinky, stinky water.
+
+191
+00:09:56,800 --> 00:10:01,800
+And Gary Bailey from hanging halfway up out of a sewage drain
+
+192
+00:10:05,240 --> 00:10:06,080
+What are those called?
+
+193
+00:10:06,080 --> 00:10:07,480
+Just the like long thin ones
+
+194
+00:10:07,480 --> 00:10:09,960
+that the Kleinfella comes out of?
+
+195
+00:10:09,960 --> 00:10:10,800
+Sorry, storm drain?
+
+196
+00:10:10,800 --> 00:10:11,640
+Yes.
+
+197
+00:10:11,640 --> 00:10:13,240
+So what's a culvert?
+
+198
+00:10:13,240 --> 00:10:15,440
+Okay, can you actually not mention it?
+
+199
+00:10:15,440 --> 00:10:18,080
+Cause I was gonna make a dope it joke.
+
+200
+00:10:18,080 --> 00:10:20,800
+Okay, but I'm leaving that in for sure.
+
+201
+00:10:20,800 --> 00:10:21,760
+Cause that's funny.
+
+202
+00:10:25,160 --> 00:10:27,760
+So a storm drain, like a cauldron.
+
+203
+00:10:27,760 --> 00:10:29,840
+Is a cauldron like a witch?
+
+204
+00:10:29,840 --> 00:10:33,320
+I said culvert, which I think is an open drain.
+
+205
+00:10:33,320 --> 00:10:34,880
+Or maybe a culvert, right?
+
+206
+00:10:35,560 --> 00:10:37,160
+Is a big round one maybe
+
+207
+00:10:37,160 --> 00:10:39,320
+that comes out of like the side of a hill.
+
+208
+00:10:39,320 --> 00:10:40,240
+Joe's right.
+
+209
+00:10:40,240 --> 00:10:41,400
+Yeah, so we're all right.
+
+210
+00:10:41,400 --> 00:10:46,400
+And so it's a storm train on the side of the road
+
+211
+00:10:47,520 --> 00:10:50,000
+and Gary Daley is like half out of it.
+
+212
+00:10:50,000 --> 00:10:53,920
+Hands, elbows on the concrete and he's hollering at you.
+
+213
+00:10:53,920 --> 00:10:56,320
+Officer Bishop, Officer Vigna.
+
+214
+00:10:56,320 --> 00:10:58,380
+Oh, Keith, you need to get down here.
+
+215
+00:10:58,380 --> 00:10:59,220
+What are y'all doing?
+
+216
+00:10:59,220 --> 00:11:02,960
+And looking behind you, you see this ooze,
+
+217
+00:11:02,960 --> 00:11:06,800
+this massive grouping of ooze.
+
+218
+00:11:06,800 --> 00:11:09,640
+You've never seen this much all in one place before.
+
+219
+00:11:09,640 --> 00:11:12,040
+It is coming toward you slowly.
+
+220
+00:11:12,040 --> 00:11:14,760
+The back end of it coming up over the top
+
+221
+00:11:14,760 --> 00:11:17,200
+like waves breaking.
+
+222
+00:11:17,200 --> 00:11:18,620
+And as I'm doing this with my arms,
+
+223
+00:11:18,620 --> 00:11:20,100
+you can see my pit stains.
+
+224
+00:11:20,100 --> 00:11:22,600
+They are deep, wide.
+
+225
+00:11:22,600 --> 00:11:24,680
+Like the Lord's love.
+
+226
+00:11:24,680 --> 00:11:27,800
+And it is just flowing, flowing toward you.
+
+227
+00:11:29,400 --> 00:11:32,120
+And we are in combat order.
+
+228
+00:11:32,120 --> 00:11:33,200
+Clark Bishop, what do you do?
+
+229
+00:11:33,200 --> 00:11:34,520
+I want to try and run.
+
+230
+00:11:34,520 --> 00:11:35,920
+Am I near Drew's body?
+
+231
+00:11:35,920 --> 00:11:37,200
+If I'm still standing and running,
+
+232
+00:11:37,200 --> 00:11:39,280
+I would keep running toward it if I am.
+
+233
+00:11:39,280 --> 00:11:40,520
+Yeah, absolutely.
+
+234
+00:11:40,520 --> 00:11:42,900
+I want to run toward it and grab it and pick it up
+
+235
+00:11:42,900 --> 00:11:45,060
+and carry it with me toward Gary.
+
+236
+00:11:45,060 --> 00:11:46,200
+Okay, done.
+
+237
+00:11:46,200 --> 00:11:48,280
+You're definitely strong enough to pick up
+
+238
+00:11:48,280 --> 00:11:49,720
+a little Drew Andrews.
+
+239
+00:11:49,720 --> 00:11:53,480
+He's, you know, I believe he's got a fair amount of pudge,
+
+240
+00:11:53,480 --> 00:11:56,360
+but you can definitely throw him up over.
+
+241
+00:11:56,360 --> 00:11:59,360
+How are you carrying him as you're in?
+
+242
+00:11:59,360 --> 00:12:01,440
+Remember, as you pick him up,
+
+243
+00:12:01,440 --> 00:12:04,720
+you're picking up a wet Drew Andrews who's unconscious,
+
+244
+00:12:04,720 --> 00:12:07,120
+but you know it's not Drew inside.
+
+245
+00:12:07,120 --> 00:12:07,960
+Sure.
+
+246
+00:12:07,960 --> 00:12:10,400
+I just want to, if he's laying on the ground,
+
+247
+00:12:10,400 --> 00:12:14,200
+I want to grab his arms and like drape them over my back.
+
+248
+00:12:14,200 --> 00:12:17,120
+So his whole body's on my shoulders,
+
+249
+00:12:17,120 --> 00:12:19,600
+behind my neck on my shoulders.
+
+250
+00:12:19,600 --> 00:12:21,480
+So I think, is that a fireman's carry?
+
+251
+00:12:21,480 --> 00:12:22,600
+I think that's a fireman's carry.
+
+252
+00:12:22,600 --> 00:12:23,720
+I'm doing that.
+
+253
+00:12:23,720 --> 00:12:26,820
+And not only are you saving him from the fires
+
+254
+00:12:26,820 --> 00:12:29,160
+of wherever he might, no, there's no.
+
+255
+00:12:29,800 --> 00:12:30,640
+Hell.
+
+256
+00:12:30,640 --> 00:12:33,040
+You don't need a fire to have a fireman's carry.
+
+257
+00:12:33,040 --> 00:12:35,560
+Oh shit, Thomas, thank you so much.
+
+258
+00:12:35,560 --> 00:12:37,040
+I think legally you do.
+
+259
+00:12:37,040 --> 00:12:40,120
+I think that this might be an illegal maneuver
+
+260
+00:12:40,120 --> 00:12:41,000
+performing here.
+
+261
+00:12:41,000 --> 00:12:43,280
+Well, it's yeah, and it's not like a big thing.
+
+262
+00:12:43,280 --> 00:12:46,080
+It's just like a, you can't call it champagne thing.
+
+263
+00:12:47,720 --> 00:12:48,560
+Right, right.
+
+264
+00:12:50,760 --> 00:12:52,400
+Unjust laws should not be laws.
+
+265
+00:12:52,400 --> 00:12:53,760
+Keith Vigno, what are you doing?
+
+266
+00:12:53,760 --> 00:12:55,560
+Well, now hold on, hold on, hold on.
+
+267
+00:12:55,560 --> 00:12:58,020
+That protects the valor, like the growers
+
+268
+00:12:58,020 --> 00:12:59,740
+of the champagne region.
+
+269
+00:13:00,740 --> 00:13:01,900
+Yeah.
+
+270
+00:13:01,900 --> 00:13:03,780
+No, it's unjust, it's bullshit.
+
+271
+00:13:03,780 --> 00:13:04,620
+I don't think so.
+
+272
+00:13:04,620 --> 00:13:05,440
+Shouldn't exist.
+
+273
+00:13:05,440 --> 00:13:06,660
+I'm with the farmers.
+
+274
+00:13:06,660 --> 00:13:09,060
+I stand with the farmers of Champagne, France.
+
+275
+00:13:09,060 --> 00:13:10,060
+I don't think we've looked into it at all.
+
+276
+00:13:10,060 --> 00:13:12,020
+They're probably like huge landowners
+
+277
+00:13:12,020 --> 00:13:12,940
+who don't give a fuck.
+
+278
+00:13:12,940 --> 00:13:14,780
+Yeah, actually fuck them, you're right.
+
+279
+00:13:14,780 --> 00:13:16,020
+Yeah, fuck champagne.
+
+280
+00:13:17,100 --> 00:13:18,620
+Also, it makes my tummy hurt.
+
+281
+00:13:18,620 --> 00:13:20,020
+Keith Vigno, what are you doing?
+
+282
+00:13:20,020 --> 00:13:22,060
+Keith is kind of disoriented,
+
+283
+00:13:22,060 --> 00:13:26,940
+but just is running away from the explosion of the truck.
+
+284
+00:13:27,780 --> 00:13:29,660
+Well, you landed directly on Jimmy Sanders.
+
+285
+00:13:29,660 --> 00:13:30,500
+Oh, yeah.
+
+286
+00:13:30,500 --> 00:13:32,420
+Landed directly on him, and he's like,
+
+287
+00:13:32,420 --> 00:13:34,700
+number four, just get on top of me with the,
+
+288
+00:13:34,700 --> 00:13:35,700
+yeah, it's not even.
+
+289
+00:13:35,700 --> 00:13:37,700
+I stand up and I look at him,
+
+290
+00:13:37,700 --> 00:13:40,600
+and since I know he's conscious or whatever,
+
+291
+00:13:40,600 --> 00:13:42,300
+I kind of help him up,
+
+292
+00:13:42,300 --> 00:13:44,780
+and then I start running towards Gary.
+
+293
+00:13:44,780 --> 00:13:47,300
+Okay, so as you reach for his hand,
+
+294
+00:13:47,300 --> 00:13:50,140
+he's only looking past you and behind you
+
+295
+00:13:50,140 --> 00:13:52,380
+at the ooze that is chasing you.
+
+296
+00:13:52,380 --> 00:13:54,340
+So you can't run if you want to help him up.
+
+297
+00:13:54,340 --> 00:13:55,580
+You can only help him up.
+
+298
+00:13:55,740 --> 00:13:57,260
+Okay, I help him up then.
+
+299
+00:13:57,260 --> 00:13:58,680
+Oh, well that's very kind of you.
+
+300
+00:13:58,680 --> 00:14:01,060
+Can all three of us see the ooze currently?
+
+301
+00:14:01,060 --> 00:14:01,940
+Currently.
+
+302
+00:14:01,940 --> 00:14:02,780
+Okay.
+
+303
+00:14:02,780 --> 00:14:04,540
+If Keith is helping Jimmy up
+
+304
+00:14:04,540 --> 00:14:06,980
+and trying to get him to Gary,
+
+305
+00:14:06,980 --> 00:14:08,660
+I would like to do the same thing
+
+306
+00:14:08,660 --> 00:14:10,480
+and aid him and help that be quicker.
+
+307
+00:14:10,480 --> 00:14:12,520
+Oh, absolutely, then it is done,
+
+308
+00:14:12,520 --> 00:14:16,540
+and Tyler is immediately just following Clark Bishop.
+
+309
+00:14:18,440 --> 00:14:21,420
+Tyler is right on the heels of Clark Bishop,
+
+310
+00:14:21,420 --> 00:14:24,940
+and you are all running toward Gary Daley,
+
+311
+00:14:25,180 --> 00:14:27,860
+who has popped his head up out of this storm drain
+
+312
+00:14:27,860 --> 00:14:30,820
+with a beautiful bright yellow shirt
+
+313
+00:14:30,820 --> 00:14:32,400
+underneath a denim jacket,
+
+314
+00:14:32,400 --> 00:14:36,860
+which you can only see him from right above the nips up,
+
+315
+00:14:36,860 --> 00:14:38,140
+because he's hanging up out of here.
+
+316
+00:14:38,140 --> 00:14:40,100
+I put my arms out in front of the other two,
+
+317
+00:14:40,100 --> 00:14:41,620
+and I'm like, hold on, fellas,
+
+318
+00:14:41,620 --> 00:14:43,920
+we ain't got no way of knowing he ain't an it.
+
+319
+00:14:46,860 --> 00:14:50,260
+An it, an it, an it, it, from the movie It.
+
+320
+00:14:50,260 --> 00:14:51,620
+Oh, yeah.
+
+321
+00:14:51,620 --> 00:14:53,980
+Well, he doesn't look like a clown to me.
+
+322
+00:14:54,020 --> 00:14:56,980
+Are you Gary Daley, or are you an it?
+
+323
+00:14:56,980 --> 00:14:58,460
+Hurry up and get on down here.
+
+324
+00:14:58,460 --> 00:15:01,440
+We got me and Gary, and we got some others,
+
+325
+00:15:01,440 --> 00:15:03,460
+but we're hiding, and we need to save you.
+
+326
+00:15:03,460 --> 00:15:04,980
+Obviously, Keith, I mean,
+
+327
+00:15:04,980 --> 00:15:07,340
+Keith needs to get down here, especially.
+
+328
+00:15:07,340 --> 00:15:08,180
+Why me?
+
+329
+00:15:08,180 --> 00:15:09,580
+Everybody wants Keith.
+
+330
+00:15:09,580 --> 00:15:12,340
+Oh, well, yeah, because he, yeah, they're after you.
+
+331
+00:15:13,300 --> 00:15:15,780
+Gary, tell us something only Gary would know.
+
+332
+00:15:15,780 --> 00:15:18,420
+I did a magic spell on you to give you luck.
+
+333
+00:15:18,420 --> 00:15:19,620
+Come on, hurry up.
+
+334
+00:15:19,620 --> 00:15:21,980
+Yeah, good, that's what I was looking for, all right.
+
+335
+00:15:21,980 --> 00:15:23,740
+I run towards it, and I kind of like.
+
+336
+00:15:24,340 --> 00:15:25,700
+Wait, Keith, even if it is Gary,
+
+337
+00:15:25,700 --> 00:15:27,780
+we don't know what his intentions are anymore.
+
+338
+00:15:27,780 --> 00:15:28,620
+We've been gone for a while.
+
+339
+00:15:28,620 --> 00:15:31,100
+It sounds like everybody in town's with this daddy guy.
+
+340
+00:15:31,100 --> 00:15:33,660
+As he's saying that, I'm slide tackling
+
+341
+00:15:33,660 --> 00:15:36,940
+like you would on a soccer field down into the storm train.
+
+342
+00:15:36,940 --> 00:15:39,860
+Oh, hell yeah, do your shorts like balloon up out,
+
+343
+00:15:39,860 --> 00:15:42,900
+like give you some drag to slow you down
+
+344
+00:15:42,900 --> 00:15:44,260
+so you can slip in easy?
+
+345
+00:15:44,260 --> 00:15:45,100
+Yep.
+
+346
+00:15:45,100 --> 00:15:46,180
+So you can slip in easy.
+
+347
+00:15:46,180 --> 00:15:49,660
+And as soon as I'm in, I process what Clark just said,
+
+348
+00:15:49,660 --> 00:15:51,820
+and I look at Gary, I'm like, ugh.
+
+349
+00:15:51,820 --> 00:15:56,140
+No, it's cool, we're hiding from the FCFC,
+
+350
+00:15:56,140 --> 00:15:57,900
+they're scary fuckers.
+
+351
+00:15:57,900 --> 00:15:59,820
+That cane he's just taking over town,
+
+352
+00:15:59,820 --> 00:16:02,340
+we gotta hide down here, otherwise they'll find us.
+
+353
+00:16:02,340 --> 00:16:04,540
+And then immediately is like, oh shit,
+
+354
+00:16:04,540 --> 00:16:06,860
+and closes his eyes with his hand.
+
+355
+00:16:06,860 --> 00:16:08,220
+Gary, could you see it?
+
+356
+00:16:08,220 --> 00:16:10,100
+Well, I didn't wanna see it,
+
+357
+00:16:10,100 --> 00:16:11,900
+because then it'll come.
+
+358
+00:16:11,900 --> 00:16:13,420
+It comes to those who have seen it?
+
+359
+00:16:13,420 --> 00:16:14,940
+If you're looking at it, hold on,
+
+360
+00:16:14,940 --> 00:16:17,020
+get the fuck down here, get on down.
+
+361
+00:16:17,020 --> 00:16:18,820
+I'm helping Drew down there, I'm getting down in there,
+
+362
+00:16:18,820 --> 00:16:21,140
+and when I get down in there, I'm picking Drew back up,
+
+363
+00:16:21,300 --> 00:16:23,260
+getting him just back on my shoulder so that we're mobile.
+
+364
+00:16:23,260 --> 00:16:25,860
+And Tyler does that adorable thing that dogs do
+
+365
+00:16:25,860 --> 00:16:28,260
+when they crawl, because it's so cute.
+
+366
+00:16:29,160 --> 00:16:30,900
+Their paws just kind of move,
+
+367
+00:16:30,900 --> 00:16:32,900
+and then just jumps down into it.
+
+368
+00:16:32,900 --> 00:16:35,180
+And once you guys are all down there,
+
+369
+00:16:35,180 --> 00:16:37,180
+you got Jimmy Sanders down there as well,
+
+370
+00:16:37,180 --> 00:16:40,780
+and he's just not paying attention to anything.
+
+371
+00:16:40,780 --> 00:16:43,900
+He immediately just starts stepping into the sewage water.
+
+372
+00:16:43,900 --> 00:16:47,780
+Basically, I'm seeing it as this tunnel that you're now in.
+
+373
+00:16:47,780 --> 00:16:49,140
+You gotta walk away on the right,
+
+374
+00:16:49,140 --> 00:16:50,940
+you gotta walk away on the far left,
+
+375
+00:16:51,580 --> 00:16:56,140
+you've got a sewage waterway moving slowly
+
+376
+00:16:56,140 --> 00:16:57,720
+in between the two pathways,
+
+377
+00:16:57,720 --> 00:17:02,180
+and then we've got an arched tunnel roof made out of stone
+
+378
+00:17:02,180 --> 00:17:04,560
+that leads off into the darkness ahead,
+
+379
+00:17:04,560 --> 00:17:07,300
+and you can't see where it leads to.
+
+380
+00:17:07,300 --> 00:17:11,540
+And Gary looks at John Lee Pettymore the third,
+
+381
+00:17:11,540 --> 00:17:16,300
+and he's like, you, you're, hi Gary,
+
+382
+00:17:16,300 --> 00:17:19,500
+this is actually John Lee Pettymore the fourth
+
+383
+00:17:19,500 --> 00:17:21,680
+in the body of my daddy.
+
+384
+00:17:22,740 --> 00:17:26,060
+Obviously, that's a lot to take in and a lot to believe,
+
+385
+00:17:26,060 --> 00:17:28,340
+but I feel like you're seeing the goo monster out there,
+
+386
+00:17:28,340 --> 00:17:29,420
+and you know what's going on,
+
+387
+00:17:29,420 --> 00:17:33,820
+so you can probably just move past this, right?
+
+388
+00:17:33,820 --> 00:17:35,380
+And accept that it's happening.
+
+389
+00:17:35,380 --> 00:17:38,220
+I don't like that at all,
+
+390
+00:17:38,220 --> 00:17:41,700
+and I especially don't like that you've, you're dripping.
+
+391
+00:17:41,700 --> 00:17:43,060
+You know you're dripping, right?
+
+392
+00:17:43,060 --> 00:17:45,580
+Well, I was in, yeah, dripping water.
+
+393
+00:17:45,580 --> 00:17:47,140
+No siree.
+
+394
+00:17:47,420 --> 00:17:51,420
+Your nose, your eyes, your ears, your mouth.
+
+395
+00:17:51,420 --> 00:17:52,940
+You got the goo coming out of you,
+
+396
+00:17:52,940 --> 00:17:54,420
+but it doesn't seem to be,
+
+397
+00:17:55,460 --> 00:17:57,740
+it's like small enough to not be at,
+
+398
+00:17:57,740 --> 00:18:00,180
+and he like, he wants to poke at it,
+
+399
+00:18:00,180 --> 00:18:01,980
+but he's not quite poking at it,
+
+400
+00:18:01,980 --> 00:18:04,260
+and he's like, honestly, if I could just not look at you,
+
+401
+00:18:04,260 --> 00:18:06,780
+that would be for the best for me personally,
+
+402
+00:18:06,780 --> 00:18:09,640
+because I am, and he's rubbing his fingers
+
+403
+00:18:09,640 --> 00:18:11,340
+against his other fingers,
+
+404
+00:18:11,340 --> 00:18:13,380
+and he starts looking at his hands,
+
+405
+00:18:13,380 --> 00:18:14,660
+and he's like, yep.
+
+406
+00:18:14,660 --> 00:18:16,220
+All right, you're dripping.
+
+407
+00:18:16,260 --> 00:18:18,740
+Yep, just a little bit, just enough.
+
+408
+00:18:18,740 --> 00:18:21,500
+Yeah, does that allow you to see the goo?
+
+409
+00:18:21,500 --> 00:18:22,340
+Yep.
+
+410
+00:18:22,340 --> 00:18:23,220
+Oh, interesting.
+
+411
+00:18:23,220 --> 00:18:24,300
+I was gonna clarify,
+
+412
+00:18:24,300 --> 00:18:25,540
+when he was talking about the dripping,
+
+413
+00:18:25,540 --> 00:18:26,540
+we didn't see it, right?
+
+414
+00:18:26,540 --> 00:18:28,900
+No, am I the only one you see it coming out of?
+
+415
+00:18:28,900 --> 00:18:30,540
+And he looks at the rest of you,
+
+416
+00:18:30,540 --> 00:18:32,860
+and he really avoids eye contact
+
+417
+00:18:32,860 --> 00:18:34,860
+with John Lee Pettymore III from here on out,
+
+418
+00:18:34,860 --> 00:18:36,300
+and he's like, okay, so,
+
+419
+00:18:36,300 --> 00:18:39,540
+and he kind of puts his hand up over your face,
+
+420
+00:18:39,540 --> 00:18:43,180
+and he's like, okay, so you are the missing
+
+421
+00:18:43,180 --> 00:18:48,180
+John Lee Pettymore III, who inside of you
+
+422
+00:18:48,260 --> 00:18:51,220
+is our John Lee Pettymore, who's been around,
+
+423
+00:18:51,220 --> 00:18:54,300
+and do I have all that right?
+
+424
+00:18:54,300 --> 00:18:56,060
+I nod at him and confirm.
+
+425
+00:18:56,060 --> 00:18:57,980
+More or less, yes.
+
+426
+00:18:57,980 --> 00:18:59,460
+Yeah, Gary, he's telling the truth.
+
+427
+00:18:59,460 --> 00:19:01,460
+But, Clark Bishop, you're not like
+
+428
+00:19:01,460 --> 00:19:03,460
+your parents aren't inside of you?
+
+429
+00:19:03,460 --> 00:19:05,540
+Nope, I'm 100% Clark right now.
+
+430
+00:19:05,540 --> 00:19:07,740
+No, but he does have his own fun thing
+
+431
+00:19:07,740 --> 00:19:11,080
+with vis-a-vis an older, you know,
+
+432
+00:19:11,120 --> 00:19:13,440
+I'm not gonna spoil it, but it's kooky.
+
+433
+00:19:13,440 --> 00:19:15,180
+What's his reaction to that?
+
+434
+00:19:15,180 --> 00:19:16,480
+I have a human of 30.
+
+435
+00:19:16,480 --> 00:19:18,800
+Can I see if I catch anything in his face?
+
+436
+00:19:18,800 --> 00:19:20,040
+Yeah, go ahead and roll.
+
+437
+00:19:21,620 --> 00:19:22,560
+I rolled a six.
+
+438
+00:19:22,560 --> 00:19:23,920
+Oh, shit, yeah.
+
+439
+00:19:23,920 --> 00:19:26,860
+No, giving him that much information
+
+440
+00:19:26,860 --> 00:19:30,640
+about old Clark Bishop, you don't notice anything.
+
+441
+00:19:30,640 --> 00:19:32,100
+Okay.
+
+442
+00:19:32,100 --> 00:19:34,880
+Gary, I'm still me, I'm still Keith.
+
+443
+00:19:35,800 --> 00:19:39,240
+And Drew is actually Kerry Pages.
+
+444
+00:19:39,280 --> 00:19:41,440
+Oh, yeah, when you were asking about that.
+
+445
+00:19:41,440 --> 00:19:43,240
+Fuck, yeah, we forgot to mention that.
+
+446
+00:19:43,240 --> 00:19:45,420
+I'm sorry, what?
+
+447
+00:19:45,420 --> 00:19:47,600
+John Three's actually John Four.
+
+448
+00:19:47,600 --> 00:19:50,160
+Me and Clark are who we are,
+
+449
+00:19:50,160 --> 00:19:52,840
+and Drew is Kerry inside of Drew's body.
+
+450
+00:19:52,840 --> 00:19:54,080
+Yep, he's got it right.
+
+451
+00:19:54,080 --> 00:19:56,120
+And I don't mean to be rude,
+
+452
+00:19:56,120 --> 00:19:58,040
+and he starts petting Tyler,
+
+453
+00:19:58,040 --> 00:20:00,200
+and he's like, who are you, my little fella?
+
+454
+00:20:00,200 --> 00:20:03,340
+This is Kerry Pages' dog, Tyler.
+
+455
+00:20:03,340 --> 00:20:06,320
+And Tyler is being very attentive
+
+456
+00:20:06,320 --> 00:20:09,760
+to the body of Drew Andrews,
+
+457
+00:20:09,760 --> 00:20:12,200
+which is still being held by Clark Bishop.
+
+458
+00:20:12,200 --> 00:20:14,160
+Yeah, see how it's focused on Drew there?
+
+459
+00:20:14,160 --> 00:20:15,440
+I think it's because it's,
+
+460
+00:20:15,440 --> 00:20:20,440
+well, Drew has the soul, or the mind, or presence,
+
+461
+00:20:20,940 --> 00:20:22,440
+however you want to define it,
+
+462
+00:20:22,440 --> 00:20:24,040
+of Councilwoman Kerry Pages,
+
+463
+00:20:24,040 --> 00:20:25,200
+because of the church. Or the baguette.
+
+464
+00:20:25,200 --> 00:20:27,320
+You know, it might be the baguette that he's got,
+
+465
+00:20:27,320 --> 00:20:30,000
+because, you know, it's a long, long baguette,
+
+466
+00:20:30,000 --> 00:20:31,500
+but you gotta cut it in thirds
+
+467
+00:20:31,500 --> 00:20:33,860
+in order to make an eight-inch sandwich,
+
+468
+00:20:33,860 --> 00:20:35,480
+which is what you're gonna wanna get.
+
+469
+00:20:35,720 --> 00:20:39,080
+Yeah, and Jimmy's just, he's not right right now, so.
+
+470
+00:20:40,060 --> 00:20:41,440
+But he is Jimmy.
+
+471
+00:20:41,440 --> 00:20:44,240
+What's going on with the pastor and everything in town?
+
+472
+00:20:44,240 --> 00:20:45,760
+We've just got back to town,
+
+473
+00:20:45,760 --> 00:20:47,800
+already seen some weird shit
+
+474
+00:20:47,800 --> 00:20:50,280
+that I can't make complete sense of yet.
+
+475
+00:20:50,280 --> 00:20:51,940
+What are you doing down here, even?
+
+476
+00:20:51,940 --> 00:20:54,000
+Gary Daley flips a Zippo,
+
+477
+00:20:54,000 --> 00:20:59,000
+and you see his very brightly colored yellow button down.
+
+478
+00:20:59,660 --> 00:21:01,920
+He's got a denim jacket over the top of it,
+
+479
+00:21:01,920 --> 00:21:03,800
+and he's like,
+
+480
+00:21:03,800 --> 00:21:07,120
+I have been hoping that you guys would come back
+
+481
+00:21:08,040 --> 00:21:09,720
+ever since yesterday.
+
+482
+00:21:09,720 --> 00:21:11,200
+What happened yesterday?
+
+483
+00:21:11,200 --> 00:21:14,660
+Everything went to shit.
+
+484
+00:21:15,680 --> 00:21:20,160
+We're down here hiding because that crazy lunatic
+
+485
+00:21:20,160 --> 00:21:25,160
+put up a wall of water and fish around the church,
+
+486
+00:21:25,160 --> 00:21:28,280
+and has taken to calling himself Daddy,
+
+487
+00:21:28,280 --> 00:21:30,420
+and he has held them all convinced
+
+488
+00:21:30,420 --> 00:21:32,440
+that he can go back in time
+
+489
+00:21:32,440 --> 00:21:34,500
+as long as he can get Keith Vick.
+
+490
+00:21:34,500 --> 00:21:36,800
+You guys are looking at me like you already know all this.
+
+491
+00:21:36,800 --> 00:21:37,960
+Well, we've seen the wall.
+
+492
+00:21:37,960 --> 00:21:39,160
+Yeah, we've heard all that.
+
+493
+00:21:39,160 --> 00:21:41,560
+I mean, as soon as that went up,
+
+494
+00:21:41,560 --> 00:21:42,920
+he got a lot of followers,
+
+495
+00:21:42,920 --> 00:21:46,400
+and he's been interpreting people's dreams,
+
+496
+00:21:46,400 --> 00:21:48,280
+and they've just been following him
+
+497
+00:21:48,280 --> 00:21:49,880
+to the end of the earth, basically,
+
+498
+00:21:49,880 --> 00:21:51,320
+and they'll do whatever he wants.
+
+499
+00:21:51,320 --> 00:21:53,480
+Do you know exactly what he wants with me?
+
+500
+00:21:53,480 --> 00:21:56,800
+I just know that he thinks that he needs you
+
+501
+00:21:56,800 --> 00:21:58,760
+to go back in time somehow.
+
+502
+00:21:58,760 --> 00:22:00,420
+Okay.
+
+503
+00:22:00,420 --> 00:22:03,340
+Well, I'm not really trying to help him out.
+
+504
+00:22:03,340 --> 00:22:04,900
+Are you guys on the internet?
+
+505
+00:22:04,900 --> 00:22:06,780
+Just a crazy question,
+
+506
+00:22:06,780 --> 00:22:08,860
+but you don't strike me as people
+
+507
+00:22:08,860 --> 00:22:11,140
+who have a lot of points in computer science.
+
+508
+00:22:11,140 --> 00:22:12,460
+Heh heh heh.
+
+509
+00:22:12,460 --> 00:22:15,020
+Uh, weird way to put it,
+
+510
+00:22:15,020 --> 00:22:18,480
+but I would say I took a class in high school.
+
+511
+00:22:18,480 --> 00:22:20,740
+I have email.
+
+512
+00:22:20,740 --> 00:22:22,340
+I have email.
+
+513
+00:22:22,340 --> 00:22:24,100
+I've got a Facebook.
+
+514
+00:22:24,100 --> 00:22:25,660
+I've got a telephone at the house.
+
+515
+00:22:25,660 --> 00:22:27,500
+I could maybe call somebody.
+
+516
+00:22:27,500 --> 00:22:32,500
+So I found a website, a blog post from Harold Dorsey
+
+517
+00:22:32,660 --> 00:22:34,860
+that got wiped off the internet.
+
+518
+00:22:34,860 --> 00:22:35,980
+Nobody could've found it
+
+519
+00:22:35,980 --> 00:22:37,940
+if you just would've Googled around.
+
+520
+00:22:37,940 --> 00:22:38,820
+It got wiped.
+
+521
+00:22:38,820 --> 00:22:40,060
+Somebody took it off, but...
+
+522
+00:22:40,060 --> 00:22:41,380
+What'd it say?
+
+523
+00:22:41,380 --> 00:22:42,820
+See for yourself.
+
+524
+00:22:42,820 --> 00:22:46,340
+And Gary Daley holds up a phone.
+
+525
+00:22:46,340 --> 00:22:50,020
+He's got a screenshot of this blog.
+
+526
+00:22:50,020 --> 00:22:55,020
+So you can go to what'sbehinddorsey.blogspot.com.
+
+527
+00:22:55,220 --> 00:22:56,060
+Okay.
+
+528
+00:22:57,500 --> 00:23:01,260
+Holy shit.
+
+529
+00:23:01,260 --> 00:23:02,860
+Okay, woo.
+
+530
+00:23:02,860 --> 00:23:04,200
+So for the listeners out there,
+
+531
+00:23:04,200 --> 00:23:07,940
+you can go to what'sbehinddorsey.blogspot.com.
+
+532
+00:23:07,940 --> 00:23:09,900
+Dorsey is D-O-R-S-E-Y,
+
+533
+00:23:09,900 --> 00:23:14,900
+and Harold is and always was H-A-R-R-E-L-L.
+
+534
+00:23:17,260 --> 00:23:19,420
+People were talking like it was Harold.
+
+535
+00:23:19,420 --> 00:23:20,460
+It was never Harold.
+
+536
+00:23:20,460 --> 00:23:21,860
+Yeah, cause that's a name
+
+537
+00:23:23,380 --> 00:23:24,860
+that people are familiar with.
+
+538
+00:23:24,860 --> 00:23:25,700
+Yeah.
+
+539
+00:23:27,060 --> 00:23:30,820
+Zach says it was set up in May, 2017.
+
+540
+00:23:30,820 --> 00:23:33,900
+Did you really register a blogger account
+
+541
+00:23:33,900 --> 00:23:35,680
+three years ago for this campaign?
+
+542
+00:23:35,680 --> 00:23:36,540
+Yeah.
+
+543
+00:23:36,540 --> 00:23:37,380
+That's dope.
+
+544
+00:23:37,380 --> 00:23:38,220
+Wow.
+
+545
+00:23:38,220 --> 00:23:40,020
+Did you just know you wanted to do something like this
+
+546
+00:23:40,020 --> 00:23:42,500
+or did you actually set one up for Harold Dorsey?
+
+547
+00:23:43,400 --> 00:23:44,780
+It was for Harold Dorsey.
+
+548
+00:23:44,780 --> 00:23:45,620
+That's dope.
+
+549
+00:23:45,620 --> 00:23:46,520
+This is dope as fuck.
+
+550
+00:23:47,620 --> 00:23:49,800
+Okay, so for those of you who are driving
+
+551
+00:23:49,800 --> 00:23:51,020
+or doing the dishes
+
+552
+00:23:51,020 --> 00:23:53,680
+or you're wearing AirPods and you're pooping
+
+553
+00:23:53,680 --> 00:23:55,800
+and your phone is in the other room,
+
+554
+00:23:55,800 --> 00:23:59,000
+if you go to what'sbehinddorsey.blogspot.com,
+
+555
+00:23:59,000 --> 00:24:01,780
+you'll find a blog that is entitled
+
+556
+00:24:01,780 --> 00:24:03,500
+What's Behind Dorsey?
+
+557
+00:24:03,500 --> 00:24:06,920
+A True Story in a False City.
+
+558
+00:24:06,920 --> 00:24:11,920
+And there is a single blog posted on Monday, December 3rd,
+
+559
+00:24:11,960 --> 00:24:16,960
+and it is entitled Operation San Ferra Blum
+
+560
+00:24:17,000 --> 00:24:20,760
+and a Rogue Police Chief in Contention.
+
+561
+00:24:20,760 --> 00:24:23,960
+Followers of my story know I am not afraid
+
+562
+00:24:23,960 --> 00:24:25,440
+of rocking the boat.
+
+563
+00:24:25,440 --> 00:24:27,120
+I was fired from the city star
+
+564
+00:24:27,120 --> 00:24:29,560
+for threatening to self-publish my expose
+
+565
+00:24:29,560 --> 00:24:31,040
+on the glass crime family
+
+566
+00:24:31,040 --> 00:24:34,120
+after a blasphemous night of depravity
+
+567
+00:24:34,120 --> 00:24:37,540
+undercover at the glass compound's robot-inclusive
+
+568
+00:24:37,540 --> 00:24:40,760
+fight club called the Scrap Pit.
+
+569
+00:24:40,760 --> 00:24:42,920
+Lots of people know about the Scrap Pit.
+
+570
+00:24:42,920 --> 00:24:45,680
+The real party, for those in the know,
+
+571
+00:24:45,680 --> 00:24:48,720
+is even more indescribably profane,
+
+572
+00:24:48,720 --> 00:24:53,360
+a room filled with city officials, judges, politicians,
+
+573
+00:24:53,360 --> 00:24:57,640
+celebrities lovingly referred to by its patrons
+
+574
+00:24:57,640 --> 00:25:00,460
+as the Den of Sin.
+
+575
+00:25:00,460 --> 00:25:04,040
+The Den of Sin offers more than just bloodsport.
+
+576
+00:25:04,040 --> 00:25:05,960
+It is torture.
+
+577
+00:25:05,960 --> 00:25:09,720
+Malnourished preteens are trapped in a hanging cage,
+
+578
+00:25:09,720 --> 00:25:11,800
+forced to fight to the death
+
+579
+00:25:11,800 --> 00:25:16,720
+as the ceiling lowers to meet the floor slowly but steadily.
+
+580
+00:25:16,720 --> 00:25:20,600
+In one such match, I witness the two gaunt children
+
+581
+00:25:20,600 --> 00:25:24,460
+hold hands in solidarity with each other,
+
+582
+00:25:24,460 --> 00:25:27,040
+accepting their demise.
+
+583
+00:25:27,040 --> 00:25:29,700
+The offended roar of the booing crowd
+
+584
+00:25:29,700 --> 00:25:32,680
+was quickly replaced with lustful cheers
+
+585
+00:25:32,680 --> 00:25:36,720
+as the hanging cage performed its singular trick
+
+586
+00:25:36,720 --> 00:25:40,240
+like a French press or a citrus juicer.
+
+587
+00:25:40,240 --> 00:25:42,680
+The Den of Sin earned its name
+
+588
+00:25:42,680 --> 00:25:46,200
+as the congregation of monsters flocked
+
+589
+00:25:46,640 --> 00:25:49,800
+to the metallic smelling dark red waterfall.
+
+590
+00:25:50,920 --> 00:25:53,200
+Well, I've somehow survived that mess.
+
+591
+00:25:53,200 --> 00:25:56,380
+A target on my back, sure, but that's just business.
+
+592
+00:25:56,380 --> 00:26:01,000
+However, I feel curiously out of my depth on this new case.
+
+593
+00:26:01,000 --> 00:26:04,120
+Most of us don't think about the small town of contention
+
+594
+00:26:04,120 --> 00:26:06,240
+about an hour west of here,
+
+595
+00:26:06,240 --> 00:26:09,520
+but it is recently proven we should pay attention.
+
+596
+00:26:09,520 --> 00:26:13,440
+By now, you may have heard about some of the disappearances
+
+597
+00:26:13,440 --> 00:26:15,720
+and the animal-filled creeks,
+
+598
+00:26:15,760 --> 00:26:17,440
+but what you may not know
+
+599
+00:26:17,440 --> 00:26:21,440
+is the chief of police recently contacted me, quote,
+
+600
+00:26:21,440 --> 00:26:26,440
+to open up the eyes and minds of those who live in the city.
+
+601
+00:26:26,920 --> 00:26:31,140
+She asked if I knew anything about the circle of knowledge,
+
+602
+00:26:31,140 --> 00:26:33,760
+Operation Sanfera Blum,
+
+603
+00:26:33,760 --> 00:26:35,680
+or the flowers that make their home
+
+604
+00:26:35,680 --> 00:26:38,480
+all over our downtown here in the city.
+
+605
+00:26:38,480 --> 00:26:41,280
+She asked if I knew anything about BarCorp,
+
+606
+00:26:41,280 --> 00:26:44,360
+its subsidiaries, or the Shell Corporation,
+
+607
+00:26:44,360 --> 00:26:46,920
+which owns the company, which owns the company,
+
+608
+00:26:46,920 --> 00:26:50,480
+which owns the company, which owns BarCorp.
+
+609
+00:26:50,480 --> 00:26:52,640
+She asked if I knew anything about the mill
+
+610
+00:26:52,640 --> 00:26:54,720
+on the other side of the city,
+
+611
+00:26:54,720 --> 00:26:58,520
+and she asked if I knew her father, Jim Cook.
+
+612
+00:26:58,520 --> 00:27:00,560
+So I began digging,
+
+613
+00:27:00,560 --> 00:27:03,640
+and I began following Jim Cook around the city.
+
+614
+00:27:03,640 --> 00:27:05,840
+That man can spot a tail,
+
+615
+00:27:05,840 --> 00:27:07,520
+but he couldn't spot whoever it was
+
+616
+00:27:07,520 --> 00:27:10,320
+that caught him in an alley two nights ago.
+
+617
+00:27:10,320 --> 00:27:12,480
+I'm worried I am next.
+
+618
+00:27:12,480 --> 00:27:14,320
+I'm even more worried that Maggie Cook
+
+619
+00:27:14,320 --> 00:27:17,680
+is now too spooked to speak on the record.
+
+620
+00:27:17,680 --> 00:27:20,920
+Chief Maggie Cook was passionate,
+
+621
+00:27:20,920 --> 00:27:23,440
+irate, and eager,
+
+622
+00:27:23,440 --> 00:27:26,320
+and then nothing.
+
+623
+00:27:26,320 --> 00:27:28,880
+We were supposed to meet in person last night,
+
+624
+00:27:28,880 --> 00:27:31,840
+December 2nd, no word.
+
+625
+00:27:31,840 --> 00:27:33,440
+I received a message this morning
+
+626
+00:27:33,440 --> 00:27:36,960
+changing the time and location of our meeting.
+
+627
+00:27:36,960 --> 00:27:39,880
+If I don't update the blog by tonight,
+
+628
+00:27:39,880 --> 00:27:42,360
+please begin the search by questioning
+
+629
+00:27:42,360 --> 00:27:45,720
+Contention Chief of Police, Maggie Cook.
+
+630
+00:27:48,920 --> 00:27:51,240
+So you guys' eyes look back up,
+
+631
+00:27:51,240 --> 00:27:53,160
+and Gary Daley's just like,
+
+632
+00:27:54,960 --> 00:27:59,480
+what the fuck does that mean?
+
+633
+00:27:59,480 --> 00:28:01,480
+I read this, and I was like, what?
+
+634
+00:28:01,480 --> 00:28:05,200
+Which part confuses you more,
+
+635
+00:28:05,200 --> 00:28:08,240
+the Denison stuff or the Maggie stuff?
+
+636
+00:28:08,240 --> 00:28:12,400
+Well, I assume that the city gets up to some weird stuff,
+
+637
+00:28:12,400 --> 00:28:14,200
+but here in Contention,
+
+638
+00:28:14,200 --> 00:28:16,160
+to have her connected to all those things
+
+639
+00:28:16,160 --> 00:28:19,120
+that it was talking about in here, I don't know.
+
+640
+00:28:19,120 --> 00:28:21,680
+No, we can pretty much tell you that,
+
+641
+00:28:21,680 --> 00:28:26,560
+yeah, that's all basically true.
+
+642
+00:28:26,560 --> 00:28:27,920
+What Maggie's involved in,
+
+643
+00:28:27,920 --> 00:28:31,680
+it goes way farther than Contention itself.
+
+644
+00:28:31,680 --> 00:28:35,520
+Guys, what is, like with the flowers
+
+645
+00:28:35,520 --> 00:28:37,880
+and all that in his blog post,
+
+646
+00:28:38,880 --> 00:28:41,920
+one of those myriad creatures was hollering at us
+
+647
+00:28:41,920 --> 00:28:45,120
+about that Samfaro Blom, I don't...
+
+648
+00:28:45,120 --> 00:28:46,680
+Keith, you pretended to know what it was,
+
+649
+00:28:46,680 --> 00:28:47,880
+and we didn't know what it was.
+
+650
+00:28:47,880 --> 00:28:50,600
+Clark, you've kind of been in touch with Maggie,
+
+651
+00:28:50,600 --> 00:28:51,880
+haven't you?
+
+652
+00:28:51,880 --> 00:28:53,080
+Yeah, yeah.
+
+653
+00:28:53,080 --> 00:28:55,400
+Has she said anything about her dad, or?
+
+654
+00:28:55,400 --> 00:28:57,880
+I mean, she showed me around her dad's house.
+
+655
+00:28:58,760 --> 00:29:00,360
+I was holding his book when she found me.
+
+656
+00:29:00,360 --> 00:29:03,000
+She asked why I was searching through her daddy's book.
+
+657
+00:29:03,000 --> 00:29:03,840
+I remember that.
+
+658
+00:29:03,840 --> 00:29:07,160
+She hasn't said much about Jim himself,
+
+659
+00:29:07,560 --> 00:29:08,840
+but just the stuff that we found
+
+660
+00:29:08,840 --> 00:29:12,600
+putting dots together in the carkled hole.
+
+661
+00:29:12,600 --> 00:29:14,440
+Yeah, I mean, I don't know.
+
+662
+00:29:15,080 --> 00:29:17,240
+It's just odd that he was following Jim around
+
+663
+00:29:17,240 --> 00:29:20,440
+and that Maggie said to open up the eyes of the city.
+
+664
+00:29:20,440 --> 00:29:20,840
+It just...
+
+665
+00:29:22,200 --> 00:29:26,360
+You know this bit here about Jim dying in an alley
+
+666
+00:29:26,360 --> 00:29:27,560
+two nights before?
+
+667
+00:29:27,560 --> 00:29:28,060
+Yeah.
+
+668
+00:29:28,680 --> 00:29:32,440
+We just found out, I believe it was his birthday,
+
+669
+00:29:32,440 --> 00:29:34,360
+December 1st, and every birthday,
+
+670
+00:29:34,360 --> 00:29:36,680
+he goes to that pie hole in the city.
+
+671
+00:29:36,760 --> 00:29:38,760
+So there's a chance we could figure out
+
+672
+00:29:38,760 --> 00:29:41,160
+if there's footage in the alley back there,
+
+673
+00:29:41,160 --> 00:29:44,040
+we might be able to see who got him.
+
+674
+00:29:44,040 --> 00:29:44,760
+That's true.
+
+675
+00:29:44,760 --> 00:29:45,560
+It's a great lead.
+
+676
+00:29:46,280 --> 00:29:49,240
+Well, I mean, what can we do?
+
+677
+00:29:49,240 --> 00:29:51,720
+Can we do anything with this information right now?
+
+678
+00:29:51,720 --> 00:29:54,600
+So it lines up with everything we've been kind of thinking, right?
+
+679
+00:29:54,600 --> 00:29:58,200
+That Jim Cook, he mentioned in that note
+
+680
+00:29:58,200 --> 00:29:59,640
+that he knew he had a tail.
+
+681
+00:29:59,640 --> 00:30:02,200
+It was a round face man with glasses or something like that,
+
+682
+00:30:02,200 --> 00:30:04,840
+which we all kind of at the time thought it was Harold.
+
+683
+00:30:04,840 --> 00:30:05,880
+So we figured that out.
+
+684
+00:30:07,160 --> 00:30:08,680
+Maggie was turning on Jim.
+
+685
+00:30:08,680 --> 00:30:11,480
+Maggie was spilling secrets to Harold about Jim.
+
+686
+00:30:11,480 --> 00:30:13,240
+That's what we've gathered from this.
+
+687
+00:30:13,240 --> 00:30:13,640
+Yeah.
+
+688
+00:30:13,640 --> 00:30:18,600
+Oh, and it said that she changed the time and location of their meeting.
+
+689
+00:30:18,600 --> 00:30:21,240
+They must have changed it to her house.
+
+690
+00:30:21,240 --> 00:30:24,040
+She changed it to her house from somewhere else, correct?
+
+691
+00:30:25,320 --> 00:30:26,840
+That's where you found Harold, right?
+
+692
+00:30:26,840 --> 00:30:29,080
+Harold was at Maggie's house.
+
+693
+00:30:29,080 --> 00:30:30,440
+And I couldn't save him.
+
+694
+00:30:30,440 --> 00:30:32,600
+He got a text that sent him to Maggie's house
+
+695
+00:30:32,600 --> 00:30:35,240
+instead of some other meeting place that they were going to meet.
+
+696
+00:30:35,240 --> 00:30:36,680
+I don't know what to do with that information,
+
+697
+00:30:36,680 --> 00:30:38,440
+but that's what I'm gathering here now.
+
+698
+00:30:38,440 --> 00:30:41,320
+Well, I mean, before we got down here,
+
+699
+00:30:41,320 --> 00:30:43,320
+we were kind of on our way to Maggie's house.
+
+700
+00:30:43,320 --> 00:30:44,520
+Yeah, we kind of were.
+
+701
+00:30:44,520 --> 00:30:47,320
+Yeah, Maggie's house is right on Bean's pond.
+
+702
+00:30:47,320 --> 00:30:50,920
+Do you think you could get us to the pond through these tunnels?
+
+703
+00:30:50,920 --> 00:30:51,800
+Well, yeah.
+
+704
+00:30:51,800 --> 00:30:54,280
+I can get you anywhere you want, basically.
+
+705
+00:30:54,280 --> 00:30:58,680
+Contingent is a mining town.
+
+706
+00:30:58,680 --> 00:31:02,760
+And they basically, when the mine shored up,
+
+707
+00:31:02,760 --> 00:31:04,360
+they took all the old tunnels
+
+708
+00:31:04,360 --> 00:31:06,200
+that they were using to get around,
+
+709
+00:31:06,200 --> 00:31:07,720
+and they bricked them all up
+
+710
+00:31:07,720 --> 00:31:11,000
+and made a very, very modern sewage system.
+
+711
+00:31:11,560 --> 00:31:15,320
+And so we can get pretty much anywhere we want around here
+
+712
+00:31:15,320 --> 00:31:17,080
+through them tunnels about there.
+
+713
+00:31:17,080 --> 00:31:20,520
+Well, we've been trying to get to the pond for a little while.
+
+714
+00:31:20,520 --> 00:31:21,640
+Like Ninja Turtles.
+
+715
+00:31:22,360 --> 00:31:24,360
+I'm Raphael, obviously.
+
+716
+00:31:25,400 --> 00:31:26,680
+Of course, of course.
+
+717
+00:31:26,680 --> 00:31:28,760
+You're whichever turtle you need to be.
+
+718
+00:31:28,760 --> 00:31:32,520
+So you're walking south through this tunnel for about five minutes
+
+719
+00:31:32,520 --> 00:31:35,160
+before you make it to an underground chamber
+
+720
+00:31:35,160 --> 00:31:40,040
+where Gary Daley and Harry Klinker have set up a makeshift campsite.
+
+721
+00:31:40,040 --> 00:31:43,640
+This room is square and roughly 30 yards across,
+
+722
+00:31:44,200 --> 00:31:48,920
+with four concrete columns placed evenly about 10 yards from each other.
+
+723
+00:31:49,480 --> 00:31:51,480
+The ground is mostly dry,
+
+724
+00:31:51,480 --> 00:31:53,240
+though there are puddles scattered about
+
+725
+00:31:53,240 --> 00:31:56,120
+where the concrete floor has eroded away a bit.
+
+726
+00:31:56,120 --> 00:31:59,800
+There are two tents on opposite ends of the room
+
+727
+00:31:59,880 --> 00:32:03,320
+and a luminous camping lantern lighting your view
+
+728
+00:32:03,320 --> 00:32:05,000
+from the very, very center of the room.
+
+729
+00:32:05,640 --> 00:32:09,880
+There is slight commotion by the far tent as you enter this space.
+
+730
+00:32:10,440 --> 00:32:13,560
+Mildred Mitchell, upon seeing your group,
+
+731
+00:32:13,560 --> 00:32:18,360
+is fleeing into the portable canvas shelter and zipping up the flap.
+
+732
+00:32:18,920 --> 00:32:25,320
+As a woman you do not recognize questions her from outside the outdoor domicile.
+
+733
+00:32:25,320 --> 00:32:30,520
+And you would remember Mildred Mitchell is the grandma of Toby B. Mitchell
+
+734
+00:32:30,520 --> 00:32:33,160
+who lived across from John Peters,
+
+735
+00:32:33,160 --> 00:32:38,440
+who I believe called in to say that John Peters' door was swinging open
+
+736
+00:32:38,440 --> 00:32:41,400
+and his mail was piling up in the first episode.
+
+737
+00:32:42,200 --> 00:32:44,840
+And just to remind listeners,
+
+738
+00:32:44,840 --> 00:32:46,920
+what is the significance of all that,
+
+739
+00:32:46,920 --> 00:32:50,440
+and could you tie any loose ends together there?
+
+740
+00:32:50,440 --> 00:32:56,440
+So you see her hop into this tent and a woman you don't recognize
+
+741
+00:32:56,440 --> 00:32:58,280
+is on the outside kind of questioning her,
+
+742
+00:32:58,280 --> 00:33:04,600
+but closer to you you see a man sitting up against one of the concrete columns reading a book.
+
+743
+00:33:04,600 --> 00:33:11,160
+And you recognize him as Casey Kristoff, the janitor of the First Church of Contention.
+
+744
+00:33:11,800 --> 00:33:15,320
+He has a pencil-thin mustache and a mullet.
+
+745
+00:33:15,320 --> 00:33:18,360
+His beer gut is spilling out of his Van Halen t-shirt
+
+746
+00:33:18,440 --> 00:33:20,680
+and over his cutoff shorts,
+
+747
+00:33:20,680 --> 00:33:24,840
+which has been his outfit of choice for the past 30 years.
+
+748
+00:33:25,560 --> 00:33:31,080
+Thanks to B. Weldon from Salt Lake City for Casey Kristoff.
+
+749
+00:33:31,080 --> 00:33:35,400
+You too can create an NPC in location that might get used in the show
+
+750
+00:33:35,400 --> 00:33:41,320
+if you support us on Patreon at the $10 level of the contention citizens or higher.
+
+751
+00:33:41,320 --> 00:33:44,600
+And then you see Harry Klinker sitting outside the nearest tent.
+
+752
+00:33:45,320 --> 00:33:47,560
+And as soon as you guys walk in there he stands up.
+
+753
+00:33:47,640 --> 00:33:49,000
+He's clearly relieved.
+
+754
+00:33:49,000 --> 00:33:52,760
+He's all over his face when he sees Gary in there with you guys.
+
+755
+00:33:52,760 --> 00:33:56,520
+And you all enter into this underground temporary home.
+
+756
+00:33:56,520 --> 00:33:59,080
+You should disconnect and reconnect.
+
+757
+00:33:59,080 --> 00:34:02,520
+I didn't want to stop your flow, but you're a super robot.
+
+758
+00:34:02,520 --> 00:34:04,760
+Like right as you started that you went super robot.
+
+759
+00:34:05,800 --> 00:34:06,840
+I will give it a go.
+
+760
+00:34:06,840 --> 00:34:08,600
+Okay, so how many tents are there?
+
+761
+00:34:09,400 --> 00:34:10,040
+Just one?
+
+762
+00:34:10,040 --> 00:34:11,880
+I think just one that she ran into.
+
+763
+00:34:12,520 --> 00:34:14,520
+Am I still a robot?
+
+764
+00:34:14,520 --> 00:34:15,240
+You're back!
+
+765
+00:34:15,240 --> 00:34:16,200
+Keep talking.
+
+766
+00:34:16,200 --> 00:34:19,000
+Am I still a robot with my mouth in my words?
+
+767
+00:34:19,000 --> 00:34:22,360
+Because when I talk I don't lightly swerve.
+
+768
+00:34:22,360 --> 00:34:24,200
+I swerve hard to the right.
+
+769
+00:34:24,200 --> 00:34:25,960
+Then I keep that shit up.
+
+770
+00:34:25,960 --> 00:34:29,000
+And I go in circles till I throw up.
+
+771
+00:34:30,120 --> 00:34:30,620
+Nice.
+
+772
+00:34:31,320 --> 00:34:33,080
+You ran up with up, but yeah.
+
+773
+00:34:35,480 --> 00:34:37,320
+Okay, so two tents.
+
+774
+00:34:37,320 --> 00:34:40,680
+One across the room from you where Mildred Mitchell hopped into.
+
+775
+00:34:40,680 --> 00:34:42,920
+And there was a woman standing outside.
+
+776
+00:34:42,920 --> 00:34:45,960
+And the other tent where Harry Klinker is sitting outside of.
+
+777
+00:34:46,040 --> 00:34:48,280
+He stood up to greet you as you walked in.
+
+778
+00:34:48,280 --> 00:34:49,640
+Hey boys, oh my god.
+
+779
+00:34:49,640 --> 00:34:51,480
+It's been a crazy couple days, no see.
+
+780
+00:34:51,480 --> 00:34:52,280
+It's good to see you.
+
+781
+00:34:52,280 --> 00:34:54,840
+Sorry, the other guy's name was Kristoff what?
+
+782
+00:34:54,840 --> 00:34:56,040
+Casey Kristoff.
+
+783
+00:34:56,040 --> 00:34:57,560
+Casey Kristoff, okay, sorry.
+
+784
+00:34:57,560 --> 00:34:59,240
+Oh my god, yes Harry.
+
+785
+00:34:59,240 --> 00:35:00,360
+I found them.
+
+786
+00:35:00,360 --> 00:35:01,480
+They were just, they were out there.
+
+787
+00:35:01,480 --> 00:35:04,040
+They'd wrecked and I mean it was coming for them.
+
+788
+00:35:04,040 --> 00:35:05,480
+Goo was coming for them, you know.
+
+789
+00:35:05,480 --> 00:35:08,360
+And thankfully they're here and we're fine.
+
+790
+00:35:08,360 --> 00:35:11,000
+I showed them the Dorsey block spot.
+
+791
+00:35:11,000 --> 00:35:13,640
+And yeah, we're just, oh boy.
+
+792
+00:35:13,640 --> 00:35:17,800
+So is this your guys' like home base down here or?
+
+793
+00:35:17,800 --> 00:35:22,280
+Yeah, we've been trying to hide from that old Pastor Adam Kane.
+
+794
+00:35:22,280 --> 00:35:27,880
+Really, really is not being very good to the people, you know.
+
+795
+00:35:27,880 --> 00:35:33,800
+Yeah, how many people do you think he's got on his side up there?
+
+796
+00:35:33,800 --> 00:35:34,760
+God, I don't know.
+
+797
+00:35:34,760 --> 00:35:37,400
+Maybe, maybe a hundred.
+
+798
+00:35:37,400 --> 00:35:39,000
+And what about you guys down here?
+
+799
+00:35:39,000 --> 00:35:40,600
+Is this all of us?
+
+800
+00:35:40,600 --> 00:35:47,400
+And Harry and Gary kind of look back at the three individuals down here,
+
+801
+00:35:47,400 --> 00:35:48,760
+one of which is hiding in a tent.
+
+802
+00:35:49,320 --> 00:35:51,240
+Yeah, this is, this is us.
+
+803
+00:35:51,880 --> 00:35:56,520
+I mean for now, we did have, we have a code outside of clinkers, you know.
+
+804
+00:35:57,080 --> 00:36:00,680
+If people can read it, it says tunnels and they can get down here.
+
+805
+00:36:00,680 --> 00:36:02,120
+What sort of code?
+
+806
+00:36:02,120 --> 00:36:04,280
+Well, it's a pretty fun code.
+
+807
+00:36:04,280 --> 00:36:07,000
+I just mean how do you keep bad folks from reading it?
+
+808
+00:36:07,000 --> 00:36:11,480
+They both look at each other and furrow their brows with like a panicked look.
+
+809
+00:36:14,120 --> 00:36:16,760
+So I, I recognize most of you down here.
+
+810
+00:36:16,760 --> 00:36:18,040
+Who, who's that?
+
+811
+00:36:18,040 --> 00:36:21,880
+And I kind of tilt my head at the lady I don't recognize.
+
+812
+00:36:21,880 --> 00:36:23,080
+Oh, that's Clara.
+
+813
+00:36:23,080 --> 00:36:24,120
+She's from the city.
+
+814
+00:36:24,120 --> 00:36:29,000
+How, how'd she get hooked up in this mess?
+
+815
+00:36:29,000 --> 00:36:32,760
+No, I mean you can ask her yourself, but she had some friends in contention.
+
+816
+00:36:32,760 --> 00:36:36,280
+She was hanging out with when all this started and she kind of got stuck here.
+
+817
+00:36:36,760 --> 00:36:38,920
+Where her, where her friends at?
+
+818
+00:36:38,920 --> 00:36:43,320
+Unfortunately, they, they got lost to, you know, Kane's movement.
+
+819
+00:36:43,320 --> 00:36:44,360
+Clara, Clara.
+
+820
+00:36:44,360 --> 00:36:53,000
+This attractive woman in her mid-40s looks over at you guys and she's got large tortoiseshell glasses
+
+821
+00:36:53,000 --> 00:37:01,080
+and as she walks up, you see that she has blood red lipstick and even though it's freezing cold
+
+822
+00:37:01,080 --> 00:37:07,000
+outside, she is wearing a sleeveless shirt and you see a full sleeve tattoo.
+
+823
+00:37:07,560 --> 00:37:12,680
+And the tattoo is of a robed figure holding a ball of light.
+
+824
+00:37:14,200 --> 00:37:21,000
+Clara Blankenship was created by Annie Beat, another citizen of contention over on the Patreon.
+
+825
+00:37:21,000 --> 00:37:21,560
+Super cool.
+
+826
+00:37:21,560 --> 00:37:22,840
+Annie, you are okay.
+
+827
+00:37:26,280 --> 00:37:29,960
+When I see her tattoo, I kind of look at the other two officers and
+
+828
+00:37:29,960 --> 00:37:31,480
+like kind of wide-eyed.
+
+829
+00:37:31,480 --> 00:37:33,240
+I, I wide-eyed back.
+
+830
+00:37:33,240 --> 00:37:35,720
+Guys, it's the cover of Led Zeppelin IV.
+
+831
+00:37:37,400 --> 00:37:39,720
+Doesn't that have a guy with sticks on it?
+
+832
+00:37:40,280 --> 00:37:42,680
+Did you guys just call me over here for-
+
+833
+00:37:42,680 --> 00:37:43,320
+Uh, yeah.
+
+834
+00:37:44,360 --> 00:37:45,560
+Hold on, I'm googling that.
+
+835
+00:37:50,440 --> 00:37:52,920
+What's, what's your deal, Clara?
+
+836
+00:37:53,720 --> 00:37:56,520
+That's a real interesting tattoo you got there.
+
+837
+00:37:56,520 --> 00:37:58,360
+Is that from any kind of Zeppelin album?
+
+838
+00:37:58,760 --> 00:38:02,200
+You know that Stairway to Heaven poster with the guy on the road with the light?
+
+839
+00:38:02,200 --> 00:38:06,040
+No, this is, this is based off a dream I had a few years ago.
+
+840
+00:38:06,040 --> 00:38:06,920
+About Zeppelin?
+
+841
+00:38:06,920 --> 00:38:09,160
+You guys have been having these crazy dreams, right?
+
+842
+00:38:09,160 --> 00:38:13,480
+I mean, I've been talking to everyone about him and we all seem to be having these absurd
+
+843
+00:38:13,480 --> 00:38:13,960
+dreams.
+
+844
+00:38:13,960 --> 00:38:19,480
+See, back then, this dream, it was just this, this robed figure with this ball of light
+
+845
+00:38:19,480 --> 00:38:24,040
+and he was walking just a long path and he was carrying this ball of light.
+
+846
+00:38:24,040 --> 00:38:28,200
+But recently, I've been having this dream where he's pulling the ball of light out of
+
+847
+00:38:28,200 --> 00:38:29,000
+a television?
+
+848
+00:38:29,560 --> 00:38:34,760
+It's, it's so weird because before, it was as if there was, you know, it was like all
+
+849
+00:38:34,760 --> 00:38:38,840
+dirt and stuff, so I didn't really expect technology to be a part of these dreams, but
+
+850
+00:38:38,840 --> 00:38:42,120
+you know, some people are having dreams that are in the modern world, some in the future
+
+851
+00:38:42,120 --> 00:38:46,440
+even, and you know, it's, it's just, have you, what are the dreams you, I assume you
+
+852
+00:38:46,440 --> 00:38:47,320
+guys have been having dreams.
+
+853
+00:38:47,320 --> 00:38:48,520
+How long have you been in contingent?
+
+854
+00:38:48,520 --> 00:38:51,320
+Just like out of that, that book, isn't it?
+
+855
+00:38:51,320 --> 00:38:51,800
+The book?
+
+856
+00:38:51,800 --> 00:38:52,280
+Which book?
+
+857
+00:38:52,280 --> 00:38:53,560
+I study a lot of occult books.
+
+858
+00:38:53,560 --> 00:38:55,080
+Is there a specific book you're talking about?
+
+859
+00:38:55,080 --> 00:38:56,680
+Looking at the two officers.
+
+860
+00:38:56,680 --> 00:38:58,200
+It's, it's similar for sure.
+
+861
+00:38:58,200 --> 00:39:02,040
+The, the, the thing we saw though, had the light emitting from a mouth.
+
+862
+00:39:02,040 --> 00:39:04,120
+It wasn't being held like an orb.
+
+863
+00:39:04,120 --> 00:39:07,160
+It's odd, but you've been having dreams about this.
+
+864
+00:39:07,160 --> 00:39:09,720
+I mean, everybody has weird dreams.
+
+865
+00:39:09,720 --> 00:39:12,520
+Harry over there told us you were in town visiting some friends.
+
+866
+00:39:12,520 --> 00:39:13,400
+Who were you visiting?
+
+867
+00:39:13,400 --> 00:39:14,520
+The Dudley's?
+
+868
+00:39:14,520 --> 00:39:15,720
+Just some friends of mine.
+
+869
+00:39:15,720 --> 00:39:18,920
+They were, unfortunately, they were persuaded.
+
+870
+00:39:18,920 --> 00:39:24,920
+They, see, they, they lost their cat to all this mess and unfortunately when, when they
+
+871
+00:39:24,920 --> 00:39:30,360
+were promised an option to, I don't know if you've heard, the pastor is saying he
+
+872
+00:39:30,360 --> 00:39:32,840
+can turn back time if you follow him.
+
+873
+00:39:32,840 --> 00:39:36,680
+So, you know, they, they really want their cat back.
+
+874
+00:39:36,680 --> 00:39:37,720
+They think that's the only way to...
+
+875
+00:39:37,720 --> 00:39:41,320
+Their cat's probably just in the river there with all the other cats and dogs.
+
+876
+00:39:41,320 --> 00:39:43,960
+Have we encountered the Dudley's before or is this new?
+
+877
+00:39:43,960 --> 00:39:45,800
+Uh, you would know, there's just some...
+
+878
+00:39:45,800 --> 00:39:47,800
+But we haven't like ran into them.
+
+879
+00:39:47,800 --> 00:39:48,920
+Not in the podcast, no.
+
+880
+00:39:48,920 --> 00:39:50,760
+They're just contention citizens.
+
+881
+00:39:50,760 --> 00:39:52,040
+Did you tell them to check the river?
+
+882
+00:39:52,040 --> 00:39:53,960
+That's where a lot of them are ending up.
+
+883
+00:39:53,960 --> 00:39:59,800
+Well, see, the issue is, is that yesterday the, the rivers were all emptied.
+
+884
+00:39:59,800 --> 00:40:05,960
+Uh, both the creek, the pond, everything was emptied by the collectors.
+
+885
+00:40:05,960 --> 00:40:11,720
+So they took all the animals back to the FCFC, which is what they're calling this bullshit
+
+886
+00:40:11,720 --> 00:40:11,960
+now.
+
+887
+00:40:11,960 --> 00:40:13,560
+Did they get their cat back then?
+
+888
+00:40:13,560 --> 00:40:14,040
+I don't know.
+
+889
+00:40:14,040 --> 00:40:14,920
+I haven't seen him since.
+
+890
+00:40:14,920 --> 00:40:16,440
+I'm not going behind that fish wall.
+
+891
+00:40:16,440 --> 00:40:17,640
+Are you kidding me?
+
+892
+00:40:17,640 --> 00:40:18,840
+Have you seen that shit?
+
+893
+00:40:18,840 --> 00:40:20,840
+I've got to let Murphy in real quick.
+
+894
+00:40:20,840 --> 00:40:22,840
+He's got to go behind the fish wall to get Murphy.
+
+895
+00:40:23,960 --> 00:40:39,720
+Gary and Harry, I mean, we were, uh, about to go investigate the pond.
+
+896
+00:40:39,720 --> 00:40:43,880
+Uh, I think there might be something at the bottom of it, but Claire, you said that all
+
+897
+00:40:43,880 --> 00:40:45,240
+the water got drained out of it.
+
+898
+00:40:45,240 --> 00:40:45,960
+Is that right?
+
+899
+00:40:45,960 --> 00:40:46,440
+Yeah.
+
+900
+00:40:46,440 --> 00:40:47,640
+I don't know how they did it.
+
+901
+00:40:47,640 --> 00:40:54,200
+I also don't know how there's a floating, like, wall of water surrounding the entire
+
+902
+00:40:54,200 --> 00:40:55,080
+campus of the church.
+
+903
+00:40:55,080 --> 00:40:59,720
+Well, I'm sure there's a solid explanation for it, and that's kind of what we're trying
+
+904
+00:40:59,720 --> 00:40:59,880
+to get to the bottom of.
+
+905
+00:40:59,880 --> 00:41:06,120
+I'm the head archivist and director of the City County Historical Commission, and I've
+
+906
+00:41:06,120 --> 00:41:11,080
+worked there for about 18 years, and I don't know if you've studied much history, but I
+
+907
+00:41:11,080 --> 00:41:13,480
+certainly, sorry, this kind of sounds like I'm being a dick.
+
+908
+00:41:13,480 --> 00:41:18,280
+I'm really trying not to be, but historically speaking, I don't remember this ever happening.
+
+909
+00:41:18,280 --> 00:41:21,640
+Yeah, but I mean, like, they do this kind of stuff all the time in Vegas.
+
+910
+00:41:21,640 --> 00:41:22,200
+Oh.
+
+911
+00:41:22,200 --> 00:41:22,920
+Bellagio.
+
+912
+00:41:22,920 --> 00:41:25,480
+It's a Bellagio sort of situation, I'd imagine.
+
+913
+00:41:25,480 --> 00:41:28,520
+Does the water normally stay up the whole time?
+
+914
+00:41:28,520 --> 00:41:30,680
+With lights and mirrors, yeah.
+
+915
+00:41:30,680 --> 00:41:31,400
+Magnets.
+
+916
+00:41:31,400 --> 00:41:32,120
+Wow.
+
+917
+00:41:32,120 --> 00:41:34,040
+I guess I need to go to Las Vegas then.
+
+918
+00:41:34,760 --> 00:41:36,600
+It's not all it's cracked up to be.
+
+919
+00:41:36,600 --> 00:41:40,440
+Hey, Zach, when you were describing Casey, and you said he was a janitor of the church,
+
+920
+00:41:40,440 --> 00:41:41,960
+do we know that in character?
+
+921
+00:41:41,960 --> 00:41:44,120
+Yeah, you would know that he's the janitor, yeah.
+
+922
+00:41:44,120 --> 00:41:45,640
+He's been the janitor for years.
+
+923
+00:41:45,640 --> 00:41:48,200
+I'd like to go over, talk to him too, if you want.
+
+924
+00:41:48,200 --> 00:41:50,200
+Okay, roll a humant for me right off the bat.
+
+925
+00:41:50,200 --> 00:41:50,840
+Can I help?
+
+926
+00:41:50,840 --> 00:41:52,200
+Are you all going over?
+
+927
+00:41:52,200 --> 00:41:53,080
+Yeah, I'm gonna go with him.
+
+928
+00:41:54,040 --> 00:41:54,920
+We'll bring Clara and Harry and Gary.
+
+929
+00:41:54,920 --> 00:41:56,920
+I mean, you don't have to disengage with Clara, I was just saying.
+
+930
+00:41:56,920 --> 00:41:58,520
+We'll call him over to us, I guess.
+
+931
+00:41:59,880 --> 00:42:01,000
+Uh, I failed.
+
+932
+00:42:01,000 --> 00:42:02,360
+A 92 on a 30.
+
+933
+00:42:02,360 --> 00:42:04,520
+37 on a 80.
+
+934
+00:42:05,240 --> 00:42:05,960
+Yeah, they'll do it.
+
+935
+00:42:06,520 --> 00:42:08,120
+He's not reading right now.
+
+936
+00:42:08,920 --> 00:42:15,160
+He's listening in, and he was very intrigued when this group of people walked in.
+
+937
+00:42:15,160 --> 00:42:19,000
+Also, Clark, what did you do with the body of Drew Carey?
+
+938
+00:42:19,000 --> 00:42:20,120
+I'm probably still holding it.
+
+939
+00:42:20,920 --> 00:42:22,360
+He's still over the top?
+
+940
+00:42:22,360 --> 00:42:27,480
+Okay, so Tyler's back paws are just like, his front paws are on your back,
+
+941
+00:42:27,480 --> 00:42:30,760
+and he's just like sniffing at Drew Carey this whole time,
+
+942
+00:42:30,760 --> 00:42:36,520
+and Jimmy Sanders is just like wandering kind of in circles around the room mumbling to himself.
+
+943
+00:42:36,920 --> 00:42:41,240
+I want to set Drew up against a pillar, and I don't know if it's a roll or not,
+
+944
+00:42:41,240 --> 00:42:42,840
+but try and see if I can revive.
+
+945
+00:42:42,840 --> 00:42:45,000
+Yeah, go ahead and roll first aid.
+
+946
+00:42:48,920 --> 00:42:49,560
+I pass.
+
+947
+00:42:49,560 --> 00:42:51,480
+A four on a 30.
+
+948
+00:42:51,480 --> 00:42:57,400
+Oh, yeah, I've got some smelling salts actually here for you there, Clark.
+
+949
+00:42:57,400 --> 00:42:59,080
+That's exactly what I could use, thank you.
+
+950
+00:42:59,080 --> 00:43:02,600
+Yeah, I was gonna ask, but I thought that that would be odd.
+
+951
+00:43:02,600 --> 00:43:04,440
+Yeah, just a passed roll.
+
+952
+00:43:05,000 --> 00:43:06,600
+You know, opens up all sorts of doors.
+
+953
+00:43:14,520 --> 00:43:15,560
+Carey, you with us?
+
+954
+00:43:15,560 --> 00:43:16,040
+You with us?
+
+955
+00:43:16,040 --> 00:43:16,760
+Yeah, hey.
+
+956
+00:43:17,400 --> 00:43:24,840
+And then just staring up at you and staring all around this room, Drew Carey is confused.
+
+957
+00:43:24,840 --> 00:43:27,480
+Carey, we died in the car crash and we're in hell.
+
+958
+00:43:29,080 --> 00:43:33,000
+We dragged you down here with us, and we turned Tyler into a hell dog,
+
+959
+00:43:33,000 --> 00:43:36,360
+and it's gonna nibble at your feet for all of eternity.
+
+960
+00:43:39,080 --> 00:43:46,760
+Tyler's just like licking Drew Carey's, you know, face and feet back and forth.
+
+961
+00:43:46,760 --> 00:43:48,440
+There's more where that came from.
+
+962
+00:43:48,440 --> 00:43:49,960
+Oh, hey there, Tyler.
+
+963
+00:43:49,960 --> 00:43:51,160
+Oh my God, it's so good.
+
+964
+00:43:51,720 --> 00:43:55,240
+And Drew starts crying, and it's just like, thank you.
+
+965
+00:43:55,240 --> 00:43:58,520
+Oh my God, thank you so much for keeping him safe.
+
+966
+00:43:59,080 --> 00:44:00,280
+I lead the dog off.
+
+967
+00:44:00,280 --> 00:44:02,840
+If you don't mind, I'd just like to talk to my dog, please.
+
+968
+00:44:02,840 --> 00:44:03,720
+Thank you very much.
+
+969
+00:44:03,720 --> 00:44:06,280
+You can talk to Tyler after you answer some of our questions.
+
+970
+00:44:06,280 --> 00:44:07,400
+Boys, can you help me out here?
+
+971
+00:44:09,320 --> 00:44:10,120
+Tyler, shut up.
+
+972
+00:44:10,120 --> 00:44:10,520
+Tyler!
+
+973
+00:44:19,240 --> 00:44:24,760
+If you're listening, write in an NPC with like special powers and they can help us.
+
+974
+00:44:24,760 --> 00:44:32,600
+This is Bubba Jenkins and he knows everything.
+
+975
+00:44:32,600 --> 00:44:34,680
+You can ask him anything and he knows the answer.
+
+976
+00:44:36,840 --> 00:44:43,240
+Clara Blankenship, this NPC from Annie B was the first NPC sent in.
+
+977
+00:44:44,120 --> 00:44:52,200
+And I believe in the description, it did say that she owns all of Silas Cole's journals.
+
+978
+00:44:54,840 --> 00:44:56,360
+Okay, so she was trying to help us.
+
+979
+00:44:56,360 --> 00:44:58,040
+She literally did exactly that.
+
+980
+00:45:01,320 --> 00:45:02,520
+That's great.
+
+981
+00:45:02,520 --> 00:45:03,320
+That's really funny.
+
+982
+00:45:03,320 --> 00:45:05,080
+Was the tattoo written in on there too?
+
+983
+00:45:05,080 --> 00:45:06,360
+The tattoo was on there, yeah.
+
+984
+00:45:06,360 --> 00:45:06,760
+Cool.
+
+985
+00:45:06,760 --> 00:45:07,240
+I love it.
+
+986
+00:45:13,640 --> 00:45:14,840
+Oh, who's a good boy?
+
+987
+00:45:14,840 --> 00:45:15,640
+Who's a good boy?
+
+988
+00:45:15,640 --> 00:45:16,840
+I love you, Tyler.
+
+989
+00:45:16,840 --> 00:45:18,920
+Carrie, you took a big hit back there.
+
+990
+00:45:18,920 --> 00:45:20,600
+Are you feeling all right?
+
+991
+00:45:20,600 --> 00:45:23,480
+No, not at all, but it doesn't even matter.
+
+992
+00:45:23,480 --> 00:45:24,280
+Everything is fine.
+
+993
+00:45:24,280 --> 00:45:24,760
+Thank you.
+
+994
+00:45:25,320 --> 00:45:29,560
+Now that the love of my life is here with me and everything is fine.
+
+995
+00:45:29,560 --> 00:45:33,080
+Your original mission was to bring us back to the church, is that right?
+
+996
+00:45:33,080 --> 00:45:33,480
+Yes.
+
+997
+00:45:33,480 --> 00:45:37,960
+And was that with the explicit purpose of getting Keith back to the church or was it
+
+998
+00:45:37,960 --> 00:45:39,240
+all three of us at that point?
+
+999
+00:45:39,240 --> 00:45:44,680
+Well, I mean, he doesn't want you alive, Clark.
+
+1000
+00:45:44,680 --> 00:45:50,520
+And John, even though you're not technically John, I believe, thank you very much.
+
+1001
+00:45:50,520 --> 00:45:55,240
+I think that, you know, you're John inside of your dad and that's fine.
+
+1002
+00:45:55,240 --> 00:46:01,160
+But you two, you three technically are responsible for the death of his family.
+
+1003
+00:46:01,880 --> 00:46:06,680
+I don't know if you were aware of that when you just crashed a car and then bailed out
+
+1004
+00:46:06,680 --> 00:46:07,800
+of our town.
+
+1005
+00:46:07,800 --> 00:46:09,000
+That's not what happened.
+
+1006
+00:46:09,000 --> 00:46:17,160
+We told a very reliable canine entity to tell the town people what was going on while we
+
+1007
+00:46:17,160 --> 00:46:17,640
+were gone.
+
+1008
+00:46:18,440 --> 00:46:21,240
+Now, if that didn't get communicated to the town, I'm sorry.
+
+1009
+00:46:21,240 --> 00:46:23,480
+I'm sorry, but we sent it into the station.
+
+1010
+00:46:23,480 --> 00:46:25,960
+You think I don't listen to 694.2?
+
+1011
+00:46:25,960 --> 00:46:26,920
+Have you heard Kudzu?
+
+1012
+00:46:30,680 --> 00:46:32,280
+That new song is a real banger.
+
+1013
+00:46:33,160 --> 00:46:36,440
+I just played this morning for the first time and it blew me away.
+
+1014
+00:46:36,440 --> 00:46:41,080
+Okay, well, Kerry, we might have you just stay here until we go to the-
+
+1015
+00:46:41,080 --> 00:46:42,520
+Why do you keep calling him Kerry?
+
+1016
+00:46:42,520 --> 00:46:49,800
+That's Councilwoman Kerry Pages who used the magic slash haunted radio to swap bodies
+
+1017
+00:46:50,760 --> 00:46:53,800
+with our good friend, Ru.
+
+1018
+00:46:53,800 --> 00:46:57,880
+I don't know who you guys are all looking at, but all of their eyes are very wide right
+
+1019
+00:46:57,880 --> 00:46:58,380
+now.
+
+1020
+00:47:00,200 --> 00:47:06,680
+She's been working with a pastor trying to trick us into going back to the church, but
+
+1021
+00:47:06,680 --> 00:47:08,200
+we figured her out.
+
+1022
+00:47:08,200 --> 00:47:17,640
+And if y'all don't still believe us, why would Councilwoman Pages' dog Tyler run up to Drew
+
+1023
+00:47:17,640 --> 00:47:18,520
+Andrews?
+
+1024
+00:47:18,520 --> 00:47:19,640
+Yeah, see, exactly.
+
+1025
+00:47:19,640 --> 00:47:22,040
+It's like dogs only like one person.
+
+1026
+00:47:22,040 --> 00:47:23,560
+I dramatically let the dog go.
+
+1027
+00:47:27,000 --> 00:47:35,000
+In the style of those movies where the young boy and the evil guy of the movie are on opposite
+
+1028
+00:47:35,000 --> 00:47:40,760
+sides of a dog and they're both calling to it, it goes to the, I guess, the evil person
+
+1029
+00:47:40,760 --> 00:47:43,240
+in this situation, technically, from your perspective.
+
+1030
+00:47:44,280 --> 00:47:49,800
+But Tyler runs to the body of Drew Andrews and Kerry Pages grabs it around the neck once
+
+1031
+00:47:49,800 --> 00:47:50,600
+more.
+
+1032
+00:47:50,600 --> 00:47:52,360
+Oh my God, yes, Tyler.
+
+1033
+00:47:52,360 --> 00:47:52,920
+I love you.
+
+1034
+00:47:52,920 --> 00:47:53,560
+I love you.
+
+1035
+00:47:53,560 --> 00:47:54,760
+And it's like, thank you.
+
+1036
+00:47:54,760 --> 00:47:55,480
+Thank you, John.
+
+1037
+00:47:55,480 --> 00:47:59,480
+I know you didn't want to do that, but it's just, this is my everything.
+
+1038
+00:48:00,120 --> 00:48:03,000
+Harry, it's just that everything is fucked.
+
+1039
+00:48:03,000 --> 00:48:05,160
+You know how we thought that most things were fucked?
+
+1040
+00:48:05,160 --> 00:48:06,760
+It seems that everything is fucked.
+
+1041
+00:48:07,400 --> 00:48:08,680
+Yeah, yeah.
+
+1042
+00:48:08,680 --> 00:48:14,120
+Yeah, Gary, you've always been kind of open to the idea that things were hinky in the
+
+1043
+00:48:14,120 --> 00:48:14,920
+world, weren't you?
+
+1044
+00:48:14,920 --> 00:48:16,360
+Yeah, it's a great word for it.
+
+1045
+00:48:16,360 --> 00:48:18,520
+Is this ticking off any boxes?
+
+1046
+00:48:18,520 --> 00:48:22,120
+Like, oh yeah, I read about when body switching happened in that one book.
+
+1047
+00:48:22,120 --> 00:48:25,720
+Is this ringing any bells in any of your research or anything?
+
+1048
+00:48:25,720 --> 00:48:26,840
+How about goo?
+
+1049
+00:48:26,840 --> 00:48:28,920
+Was goo on your radar before today?
+
+1050
+00:48:28,920 --> 00:48:32,440
+Does this remind you of a certain Lindsay Lohan movie?
+
+1051
+00:48:32,440 --> 00:48:35,560
+Or perhaps have you researched the works of Silas Cole?
+
+1052
+00:48:35,560 --> 00:48:37,880
+That's a lot of questions all at once, fellas.
+
+1053
+00:48:37,880 --> 00:48:45,000
+And you know, I'm into a lot of this here stuff, but you know, I've seen some actual
+
+1054
+00:48:45,000 --> 00:48:46,600
+magic in my life.
+
+1055
+00:48:46,600 --> 00:48:51,320
+So yeah, I mean, I knew that this was all part of this.
+
+1056
+00:48:51,320 --> 00:48:56,040
+I mean, you'll remember the conversation we had on the phone when you were on the way
+
+1057
+00:48:56,040 --> 00:48:56,680
+to the city.
+
+1058
+00:48:56,680 --> 00:48:57,480
+How could we forget?
+
+1059
+00:48:58,360 --> 00:49:01,400
+It was your grandfather?
+
+1060
+00:49:01,400 --> 00:49:03,880
+Was it grandfather or father gave him the spell?
+
+1061
+00:49:03,880 --> 00:49:05,480
+Well, my grandfather gave me the book.
+
+1062
+00:49:05,480 --> 00:49:08,200
+It had, you know, three pages left in it.
+
+1063
+00:49:08,840 --> 00:49:11,320
+And they were specifically for the three of you.
+
+1064
+00:49:11,320 --> 00:49:15,720
+And boy, those words danced off light like the page and just lit like a fire.
+
+1065
+00:49:15,720 --> 00:49:18,360
+Are there any of those pages left or was...
+
+1066
+00:49:18,920 --> 00:49:19,960
+Well, no.
+
+1067
+00:49:19,960 --> 00:49:25,080
+There were three in there for us and it burnt out in the spell that he did over our heads.
+
+1068
+00:49:25,080 --> 00:49:26,040
+Because there's three of us.
+
+1069
+00:49:26,040 --> 00:49:26,920
+That makes sense.
+
+1070
+00:49:26,920 --> 00:49:28,920
+Hey, why wasn't there a page for Justin?
+
+1071
+00:49:28,920 --> 00:49:29,800
+Who's Justin?
+
+1072
+00:49:30,440 --> 00:49:31,080
+Never mind.
+
+1073
+00:49:31,080 --> 00:49:34,040
+You think there weren't a bunch of pages that created Wolf the dog?
+
+1074
+00:49:39,000 --> 00:49:39,560
+Good point.
+
+1075
+00:49:40,840 --> 00:49:42,520
+No, there were only three when I got it.
+
+1076
+00:49:42,520 --> 00:49:44,200
+It was very thick, very thick.
+
+1077
+00:49:44,200 --> 00:49:47,000
+But when you'd open it up, you could only get to like three pages.
+
+1078
+00:49:47,640 --> 00:49:49,880
+And then once they were gone, it was just empty.
+
+1079
+00:49:49,880 --> 00:49:53,080
+It was just shell on both sides, but it was still full.
+
+1080
+00:49:53,080 --> 00:49:55,640
+It looked like a book, but there's nothing in there.
+
+1081
+00:49:55,640 --> 00:49:59,160
+We found a book that will only open to one page.
+
+1082
+00:49:59,160 --> 00:50:00,920
+Kind of looks like her tattoo.
+
+1083
+00:50:00,920 --> 00:50:02,040
+The page that it opens up to.
+
+1084
+00:50:02,040 --> 00:50:05,000
+The book itself, it was maybe skin bound.
+
+1085
+00:50:05,000 --> 00:50:07,960
+Was the book you had bound by perhaps skin?
+
+1086
+00:50:07,960 --> 00:50:09,240
+Man skin.
+
+1087
+00:50:09,240 --> 00:50:13,080
+The face of Gary Daley loses blood.
+
+1088
+00:50:14,680 --> 00:50:16,440
+Yeah, I sure didn't like touching that book.
+
+1089
+00:50:16,440 --> 00:50:18,280
+I wanted to get rid of it as fast as I could.
+
+1090
+00:50:18,920 --> 00:50:21,320
+You got it from your grandfather?
+
+1091
+00:50:21,320 --> 00:50:21,960
+Yeah.
+
+1092
+00:50:21,960 --> 00:50:24,280
+Yeah, when the pages were gone, what did you do with it?
+
+1093
+00:50:24,280 --> 00:50:26,600
+Well, I don't.
+
+1094
+00:50:27,720 --> 00:50:29,320
+Did you give it to Clark's parents?
+
+1095
+00:50:31,880 --> 00:50:33,160
+And Gary starts crying.
+
+1096
+00:50:33,720 --> 00:50:36,920
+Clark, we found it in Jim's house.
+
+1097
+00:50:36,920 --> 00:50:38,600
+It would have been Jim, right?
+
+1098
+00:50:38,600 --> 00:50:41,080
+That you gave it to if you give it to anybody.
+
+1099
+00:50:41,080 --> 00:50:43,560
+No, I haven't really mentioned to you in all the hubbub,
+
+1100
+00:50:44,120 --> 00:50:49,160
+what with the dog and the body switching and, you know, the fish magic.
+
+1101
+00:50:49,160 --> 00:50:53,240
+I'm just imagining all the NPCs encircling you while you're having this conversation.
+
+1102
+00:50:54,440 --> 00:50:55,560
+Sorry, what was that?
+
+1103
+00:50:55,560 --> 00:51:01,240
+When I was having my augury, as it was, and I saw that
+
+1104
+00:51:02,760 --> 00:51:06,440
+the entity before us that pretends to be Drew cannot be trusted.
+
+1105
+00:51:07,400 --> 00:51:13,960
+When I saw that, I also saw a vision of Kacelle searching your parents' home for that book.
+
+1106
+00:51:14,920 --> 00:51:18,520
+And Karen and Jim seemed to want it desperately.
+
+1107
+00:51:19,320 --> 00:51:23,480
+But Kevin found it and he didn't reveal it to the others.
+
+1108
+00:51:24,600 --> 00:51:26,040
+That's all I saw.
+
+1109
+00:51:26,040 --> 00:51:27,160
+Do you know where it is now?
+
+1110
+00:51:28,040 --> 00:51:29,480
+Clark, I'm so sorry.
+
+1111
+00:51:31,480 --> 00:51:37,000
+I knew how much power it had, but I didn't know that people were going to be after it
+
+1112
+00:51:37,000 --> 00:51:38,040
+the way they were.
+
+1113
+00:51:38,040 --> 00:51:42,040
+And I think they died because I gave it to them.
+
+1114
+00:51:43,480 --> 00:51:48,760
+Clark is staring at Gary with a little bit of anger and a little bit of confusion.
+
+1115
+00:51:49,560 --> 00:51:52,120
+Like this is really hitting some notes.
+
+1116
+00:51:52,200 --> 00:51:58,040
+I didn't, I didn't mean to, I didn't mean to cause their death or nothing.
+
+1117
+00:51:58,040 --> 00:52:01,080
+I just, I knew I needed to get rid of it because I didn't.
+
+1118
+00:52:01,080 --> 00:52:07,160
+I don't remember much about that day, but I do remember I heard, I heard a voice and
+
+1119
+00:52:08,200 --> 00:52:10,280
+they did, they said something about Karen.
+
+1120
+00:52:10,280 --> 00:52:13,720
+Karen, they said Karen did a magic trick and they all had to get out of there.
+
+1121
+00:52:14,680 --> 00:52:17,880
+And that's, that was the last time I,
+
+1122
+00:52:17,880 --> 00:52:22,760
+I don't, I don't understand though.
+
+1123
+00:52:22,760 --> 00:52:25,400
+I don't, why did you, why would you give them a book like that?
+
+1124
+00:52:25,400 --> 00:52:27,640
+Why would you think that they would want a book like that?
+
+1125
+00:52:27,640 --> 00:52:29,160
+They were customers.
+
+1126
+00:52:29,160 --> 00:52:31,480
+They were at the Daily Foam almost daily.
+
+1127
+00:52:31,480 --> 00:52:35,000
+And they always asked about the signs up on the wall.
+
+1128
+00:52:35,000 --> 00:52:41,320
+And we would talk often about, you know, conspiracy theories and occult texts.
+
+1129
+00:52:41,320 --> 00:52:43,400
+And they seem knowledgeable about that.
+
+1130
+00:52:43,400 --> 00:52:47,240
+No, they were just, they just had a passing interest, I think.
+
+1131
+00:52:47,240 --> 00:52:49,320
+Why did you need to give it to them?
+
+1132
+00:52:49,320 --> 00:52:51,880
+It was a book made out of a human.
+
+1133
+00:52:51,880 --> 00:52:52,760
+I didn't want it.
+
+1134
+00:52:53,480 --> 00:52:55,400
+And my parents did, did they take it?
+
+1135
+00:52:55,400 --> 00:52:57,480
+Did, did they, did they take the book?
+
+1136
+00:52:57,480 --> 00:52:59,400
+Like, did they know what they had?
+
+1137
+00:52:59,400 --> 00:53:05,320
+Did they, did they seem, did they seem gleeful in having it or was it just a curiosity for them?
+
+1138
+00:53:05,320 --> 00:53:07,240
+I don't remember seeing it in the house personally.
+
+1139
+00:53:07,240 --> 00:53:10,120
+So they obviously secreted it away or something.
+
+1140
+00:53:10,120 --> 00:53:12,680
+Well, it seemed to be a curiosity.
+
+1141
+00:53:12,760 --> 00:53:19,480
+But when I told them, I mean, I told them what it could do.
+
+1142
+00:53:20,200 --> 00:53:24,440
+So they knew, they knew the power that it had if they actually trusted me.
+
+1143
+00:53:24,440 --> 00:53:25,320
+What could it do?
+
+1144
+00:53:25,320 --> 00:53:27,880
+Yeah, you said the pages were empty, right?
+
+1145
+00:53:27,880 --> 00:53:29,240
+They couldn't do anything anymore, right?
+
+1146
+00:53:29,240 --> 00:53:34,280
+Well, I mean, they knew what it had been capable of doing previous, I suppose.
+
+1147
+00:53:34,280 --> 00:53:36,120
+Can I human Gary here?
+
+1148
+00:53:36,120 --> 00:53:37,960
+Yeah, you both want to roll?
+
+1149
+00:53:37,960 --> 00:53:38,460
+Sure.
+
+1150
+00:53:38,460 --> 00:53:44,860
+I fail 71 on a 30.
+
+1151
+00:53:45,580 --> 00:53:47,020
+75 on a 50.
+
+1152
+00:53:47,020 --> 00:53:47,740
+Fuck.
+
+1153
+00:53:47,740 --> 00:53:48,780
+Seems genuine to you guys.
+
+1154
+00:53:49,580 --> 00:53:50,860
+Coming across as genuine.
+
+1155
+00:53:50,860 --> 00:53:52,620
+I don't cheat on my rolls, motherfucker.
+
+1156
+00:53:53,740 --> 00:53:55,260
+No, I was talking about Gary.
+
+1157
+00:53:55,260 --> 00:53:55,760
+Oh.
+
+1158
+00:53:58,220 --> 00:54:00,700
+I knew exactly how to, now I get what you meant.
+
+1159
+00:54:00,700 --> 00:54:01,900
+Also, you said you failed.
+
+1160
+00:54:02,780 --> 00:54:03,260
+Bullshit.
+
+1161
+00:54:03,260 --> 00:54:03,760
+I know.
+
+1162
+00:54:06,220 --> 00:54:07,020
+Fucking liar.
+
+1163
+00:54:08,460 --> 00:54:11,500
+I've seen Luke take too long to think about what he writes sometimes.
+
+1164
+00:54:15,580 --> 00:54:18,700
+Gary, it's your grandfather's book.
+
+1165
+00:54:18,700 --> 00:54:19,580
+Do you know where he got it?
+
+1166
+00:54:19,580 --> 00:54:21,660
+What was your grandfather's name, by the way?
+
+1167
+00:54:21,660 --> 00:54:23,100
+Well, I'd have to look that up.
+
+1168
+00:54:25,020 --> 00:54:26,140
+Can I human that?
+
+1169
+00:54:28,220 --> 00:54:29,260
+That's not in there.
+
+1170
+00:54:29,260 --> 00:54:30,620
+That's not in the podcast.
+
+1171
+00:54:30,620 --> 00:54:31,120
+Fuck.
+
+1172
+00:54:31,660 --> 00:54:33,340
+I don't know if I ever said it.
+
+1173
+00:54:33,340 --> 00:54:35,100
+Oh, you mean in the vision?
+
+1174
+00:54:35,100 --> 00:54:35,740
+Yeah.
+
+1175
+00:54:35,740 --> 00:54:36,540
+You didn't say it.
+
+1176
+00:54:36,540 --> 00:54:37,820
+You just said grandfather.
+
+1177
+00:54:37,820 --> 00:54:40,700
+His name was, um, Gary?
+
+1178
+00:54:41,740 --> 00:54:42,700
+Grant Father.
+
+1179
+00:54:44,940 --> 00:54:47,740
+His name was Grant Father Bailey.
+
+1180
+00:54:51,740 --> 00:54:53,980
+And you don't know where he got that?
+
+1181
+00:54:53,980 --> 00:54:56,380
+Where, you know where old Grant got that book?
+
+1182
+00:54:57,100 --> 00:55:01,900
+Well, uh, we all, I mean, we all thought he was pretty crazy, but.
+
+1183
+00:55:01,900 --> 00:55:05,020
+And he looks over at Clara Blankenship's arm.
+
+1184
+00:55:05,900 --> 00:55:07,820
+You see that figure right there?
+
+1185
+00:55:07,820 --> 00:55:11,820
+That looks to be about what he described that dropped it off at the Daily Fuh.
+
+1186
+00:55:11,820 --> 00:55:13,100
+After closing time.
+
+1187
+00:55:13,100 --> 00:55:13,980
+Can you imagine that?
+
+1188
+00:55:13,980 --> 00:55:15,020
+Didn't even buy anything.
+
+1189
+00:55:16,060 --> 00:55:17,980
+Some people are just rude.
+
+1190
+00:55:19,020 --> 00:55:22,940
+You don't know if it's a bad day, a bad, uh, bad childhood.
+
+1191
+00:55:22,940 --> 00:55:25,180
+It's like, he has no respect for other people's time.
+
+1192
+00:55:29,340 --> 00:55:31,500
+I don't know anybody with the problem with that.
+
+1193
+00:55:31,500 --> 00:55:32,000
+Blind.
+
+1194
+00:55:32,000 --> 00:55:36,720
+So does that, does that tattoo ring a bell for anybody?
+
+1195
+00:55:36,720 --> 00:55:38,240
+Have you ever seen anything like that?
+
+1196
+00:55:38,240 --> 00:55:38,640
+Yeah.
+
+1197
+00:55:38,640 --> 00:55:44,640
+Weird man who I took to be some sort of robot at the time approached me, uh, uh, outside
+
+1198
+00:55:44,640 --> 00:55:49,680
+the hospital after I went to follow up on some, some lead, it seems like years ago now.
+
+1199
+00:55:50,880 --> 00:55:54,640
+I remember that he gave you that note that was in binary, right?
+
+1200
+00:55:54,640 --> 00:55:55,120
+Yeah.
+
+1201
+00:55:55,120 --> 00:55:58,640
+And it said, uh, John, I killed the cheese pops.
+
+1202
+00:55:58,640 --> 00:56:00,000
+He was rogue like that?
+
+1203
+00:56:00,000 --> 00:56:00,880
+He sure was.
+
+1204
+00:56:02,080 --> 00:56:05,680
+I guess it was just cause it was in binary that I assumed it was mechanical.
+
+1205
+00:56:05,680 --> 00:56:10,640
+Uh, and then he, then he said, say hi to me for me.
+
+1206
+00:56:11,440 --> 00:56:13,200
+Do you reckon that might've been old Clark?
+
+1207
+00:56:14,160 --> 00:56:17,520
+We've certainly seen old me in robes.
+
+1208
+00:56:17,520 --> 00:56:21,520
+That's that's when, when he did that thing in the mausoleum, he was wearing a robe.
+
+1209
+00:56:21,520 --> 00:56:24,480
+John like jots down suspect has been seen in robes.
+
+1210
+00:56:25,200 --> 00:56:35,520
+But that would, that would mean that I, when I was, when I was a kid, Gary, Gary, you were
+
+1211
+00:56:35,520 --> 00:56:36,080
+there.
+
+1212
+00:56:36,080 --> 00:56:36,640
+What?
+
+1213
+00:56:36,640 --> 00:56:38,320
+When I was a kid, I came to visit mr.
+
+1214
+00:56:38,320 --> 00:56:41,920
+Fingersen at the library and you were there and you were reading a book.
+
+1215
+00:56:42,720 --> 00:56:45,200
+And when you read from the book, do you remember this?
+
+1216
+00:56:45,200 --> 00:56:45,600
+Okay.
+
+1217
+00:56:45,600 --> 00:56:47,120
+No, it was not my fault.
+
+1218
+00:56:47,120 --> 00:56:48,720
+I stand by that though.
+
+1219
+00:56:48,720 --> 00:56:50,320
+The book of, you know, St.
+
+1220
+00:56:50,880 --> 00:56:55,440
+Oscythe witches or whatever I was reading that day does not have anything to do with
+
+1221
+00:56:55,440 --> 00:56:57,840
+any cloaked figures except for witches.
+
+1222
+00:56:57,840 --> 00:57:01,840
+You know, obviously sometimes we're cloaks, but either way, Gary, whether you did it or
+
+1223
+00:57:01,840 --> 00:57:05,200
+not, which I think you did, but whether you did it or not, you were there.
+
+1224
+00:57:05,200 --> 00:57:07,520
+And we saw that you remember that there was a cloak.
+
+1225
+00:57:07,520 --> 00:57:08,480
+There was a cloak man.
+
+1226
+00:57:08,480 --> 00:57:13,440
+He, he locked up the doors to the library and he was, he was being chased or chasing
+
+1227
+00:57:13,440 --> 00:57:13,920
+someone.
+
+1228
+00:57:13,920 --> 00:57:18,160
+He goes like, he's going to grab onto Clara Blankenship's arm to look closer at the
+
+1229
+00:57:18,160 --> 00:57:18,560
+tattoo.
+
+1230
+00:57:18,560 --> 00:57:20,320
+And then he's like, Oh my God, I'm so sorry.
+
+1231
+00:57:20,320 --> 00:57:23,680
+I did not mean to touch your arm to look at your tattoo.
+
+1232
+00:57:23,680 --> 00:57:24,960
+That would be extremely rude.
+
+1233
+00:57:24,960 --> 00:57:26,720
+Can I just look at that much closer?
+
+1234
+00:57:26,720 --> 00:57:28,400
+And she's like, yeah, of course, that's fine.
+
+1235
+00:57:28,400 --> 00:57:31,120
+And very closely puts his face right up to her arm.
+
+1236
+00:57:31,120 --> 00:57:35,680
+This motherfucker right here is exactly who was outside the Mary Cole public library
+
+1237
+00:57:35,680 --> 00:57:36,000
+that day.
+
+1238
+00:57:36,000 --> 00:57:37,200
+I swear to God.
+
+1239
+00:57:37,200 --> 00:57:40,560
+And thankfully that figure locked us in, right?
+
+1240
+00:57:40,560 --> 00:57:40,880
+Yeah.
+
+1241
+00:57:40,880 --> 00:57:44,560
+He used some sort of chains or something because there were these big tall creatures.
+
+1242
+00:57:45,200 --> 00:57:46,240
+Oh my goodness.
+
+1243
+00:57:46,240 --> 00:57:48,320
+I'm having all sorts of flashbacks right now.
+
+1244
+00:57:48,320 --> 00:57:49,360
+Yeah, they were wearing suits.
+
+1245
+00:57:49,360 --> 00:57:52,560
+They were these lanky translucent skin fuckers.
+
+1246
+00:57:52,560 --> 00:57:56,320
+I told John they, they, they were, they were the, they were the, they were those creatures.
+
+1247
+00:57:56,320 --> 00:57:59,360
+I remember now it was the, it was the thing that's been yelling at us.
+
+1248
+00:58:00,480 --> 00:58:02,560
+They were chasing the robed figure.
+
+1249
+00:58:02,560 --> 00:58:04,800
+And now you're saying that that could be old me.
+
+1250
+00:58:05,600 --> 00:58:06,000
+I don't know.
+
+1251
+00:58:07,280 --> 00:58:08,560
+I turned to Clara.
+
+1252
+00:58:08,560 --> 00:58:09,520
+I am so sorry.
+
+1253
+00:58:09,520 --> 00:58:14,400
+I know you guys are having like a whole thing right now and it seems, seems really important.
+
+1254
+00:58:15,280 --> 00:58:20,800
+But I, if I can, since the figure that you're talking about was in my dreams and has been
+
+1255
+00:58:20,800 --> 00:58:27,680
+in my recurring dreams for the past few years and a long time now, I have this video that
+
+1256
+00:58:27,680 --> 00:58:30,800
+I found online from this dude in contention way back when.
+
+1257
+00:58:30,800 --> 00:58:36,720
+And since it's been scrubbed from the internet and I'm pretty sure that like some sort of
+
+1258
+00:58:36,720 --> 00:58:41,840
+black ops special secret service kind of like men in black shit took it off the internet
+
+1259
+00:58:41,840 --> 00:58:43,680
+because I looked him up recently.
+
+1260
+00:58:43,680 --> 00:58:44,960
+I think he disappeared.
+
+1261
+00:58:46,160 --> 00:58:46,800
+Whose video?
+
+1262
+00:58:46,800 --> 00:58:48,080
+His name's John Peters.
+
+1263
+00:58:50,560 --> 00:58:51,840
+It's this YouTube video.
+
+1264
+00:58:51,840 --> 00:58:56,080
+He used to have a channel where he talked about the dreams he had during this coma that
+
+1265
+00:58:56,080 --> 00:58:58,240
+he was in for like a while.
+
+1266
+00:58:58,240 --> 00:59:00,080
+He was in the hospital for an extended time.
+
+1267
+00:59:00,080 --> 00:59:01,840
+Could be any John Peters in a coma.
+
+1268
+00:59:01,840 --> 00:59:09,840
+So for listeners, you can go to any of our social media sites, Instagram at pretending
+
+1269
+00:59:09,840 --> 00:59:14,800
+pod, Twitter at pretending pod, or go to the Facebook page, which is pretending to be people.
+
+1270
+00:59:14,800 --> 00:59:16,720
+And you can find this video.
+
+1271
+00:59:16,720 --> 00:59:19,200
+I'll play the audio of it right now.
+
+1272
+00:59:19,200 --> 00:59:20,320
+If I can make that happen.
+
+1273
+00:59:26,880 --> 00:59:28,240
+Hello everybody.
+
+1274
+00:59:28,240 --> 00:59:34,480
+Welcome back to John Peters channel where I'm talking about my visions that I saw while
+
+1275
+00:59:34,480 --> 00:59:39,840
+having a over a month long coma here in contention.
+
+1276
+00:59:40,880 --> 00:59:49,760
+I believe these visions showed me a world or a land that is parallel to our own simultaneously
+
+1277
+00:59:49,760 --> 00:59:50,640
+existing.
+
+1278
+00:59:50,640 --> 00:59:59,680
+I was led there by a man who only carried a black Nike bag and when he reached out to
+
+1279
+00:59:59,680 --> 01:00:09,520
+shake my hand upon introductions, it smelled of sweet meats like a grill and my hand burned
+
+1280
+01:00:09,520 --> 01:00:10,480
+and burned.
+
+1281
+01:00:11,680 --> 01:00:13,280
+That is all for now.
+
+1282
+01:00:13,280 --> 01:00:16,400
+Like and subscribe and I will update more soon.
+
+1283
+01:00:16,400 --> 01:00:17,360
+Oh, what the fuck?
+
+1284
+01:00:20,720 --> 01:00:23,040
+It's the best fucking thing in the world.
+
+1285
+01:00:24,400 --> 01:00:26,720
+Do y'all remember that motherfucker having such big eyes?
+
+1286
+01:01:00,480 --> 01:01:03,600
+The only one trying to
+
+1287
+01:01:09,840 --> 01:01:13,600
+try
+
+1288
+01:01:29,680 --> 01:01:31,600
+to
+

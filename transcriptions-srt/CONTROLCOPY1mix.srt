@@ -1,0 +1,6100 @@
+1
+00:00:00,000 --> 00:00:09,840
+Well, babies, I cannot believe I finally arrived at Ocean City, New Jersey, and it's 2016?
+
+2
+00:00:09,840 --> 00:00:11,400
+And it's March?
+
+3
+00:00:11,400 --> 00:00:15,360
+Well, fuck, this should be a fun detour, I guess.
+
+4
+00:00:15,360 --> 00:00:17,000
+God damn it.
+
+5
+00:00:17,000 --> 00:00:18,760
+I guess...
+
+6
+00:00:18,760 --> 00:00:22,200
+Guess I can do another radio show or something.
+
+7
+00:00:22,200 --> 00:00:27,880
+We're live from 694.2 PTBP or whatever.
+
+8
+00:00:27,920 --> 00:00:30,640
+Some nice person wrote us a thing.
+
+9
+00:00:30,640 --> 00:00:32,080
+Maybe I'll read that.
+
+10
+00:00:32,080 --> 00:00:38,320
+This week's Howlin' with Wolf comes from Dale Armont in Arkansas, who tweeted about the
+
+11
+00:00:38,320 --> 00:00:44,120
+show and tagged at Pretending Pod, which is always the third thing I do while sitting
+
+12
+00:00:44,120 --> 00:00:45,120
+on the toilet.
+
+13
+00:00:45,120 --> 00:00:46,840
+Do you sit down to pee?
+
+14
+00:00:46,840 --> 00:00:48,260
+I sure do.
+
+15
+00:00:48,260 --> 00:00:49,760
+It's comfy.
+
+16
+00:00:49,760 --> 00:00:56,360
+Thanks for tweeting about the show and tagging at Pretending Pod Dale Armont from Arkansas.
+
+17
+00:00:56,360 --> 00:00:57,360
+He writes,
+
+18
+00:01:21,840 --> 00:01:24,000
+Oh wow, Dale.
+
+19
+00:01:24,000 --> 00:01:31,000
+A Wolfie never reveals their secrets, especially secrets about their incredibly moisturized
+
+20
+00:01:31,000 --> 00:01:32,000
+nipples.
+
+21
+00:01:32,000 --> 00:01:33,000
+Wink.
+
+22
+00:01:33,000 --> 00:01:37,960
+If you want to write up something for your wolf to how, send in your message as a five-star
+
+23
+00:01:37,960 --> 00:01:44,680
+review on Apple Podcasts, and I'll read it here on 694.2 PTBP.
+
+24
+00:01:44,680 --> 00:01:51,040
+Ocean City, New Jersey's newest and only radio station, probably.
+
+25
+00:01:51,040 --> 00:01:57,200
+And I'll be right back after a word from our only sponsor, Zach.
+
+26
+00:01:57,200 --> 00:01:58,200
+What's up, what's up?
+
+27
+00:01:58,200 --> 00:01:59,200
+It's Zach.
+
+28
+00:01:59,200 --> 00:02:00,680
+I am here to tell you four things.
+
+29
+00:02:00,680 --> 00:02:04,460
+First, I want to say thank you to this community.
+
+30
+00:02:04,460 --> 00:02:12,440
+After some last minute donations from you folks, we've raised $1,525 to help keep
+
+31
+00:02:12,440 --> 00:02:15,840
+Springfieldians warm this winter.
+
+32
+00:02:15,840 --> 00:02:18,000
+That's absolutely incredible.
+
+33
+00:02:18,000 --> 00:02:22,200
+Thank you to each and every one of you listening who's told a friend about the show or joined
+
+34
+00:02:22,200 --> 00:02:24,980
+the Patreon or tagged us on the internet.
+
+35
+00:02:24,980 --> 00:02:27,280
+This is all thanks to you.
+
+36
+00:02:27,280 --> 00:02:32,360
+Second, I want to say thank you to all of you eager listeners for your patience.
+
+37
+00:02:32,360 --> 00:02:33,720
+Here's a little life update.
+
+38
+00:02:33,720 --> 00:02:39,600
+Taylor and I have moved back to Springfield, Missouri, and we will be in Springfield, Missouri
+
+39
+00:02:39,600 --> 00:02:44,380
+until we eventually die in Springfield, Missouri.
+
+40
+00:02:44,380 --> 00:02:45,380
+We love it here.
+
+41
+00:02:45,380 --> 00:02:46,440
+The food game is strong.
+
+42
+00:02:46,440 --> 00:02:47,440
+It's cheap.
+
+43
+00:02:47,480 --> 00:02:52,780
+We just started a big boy job at a real company and we're about to move into a rental while
+
+44
+00:02:52,780 --> 00:02:56,680
+we house hunt in this super fun market.
+
+45
+00:02:56,680 --> 00:03:03,880
+I'm hoping the transition won't affect our release schedule too much, but I'm an optimist
+
+46
+00:03:03,880 --> 00:03:04,880
+for real though.
+
+47
+00:03:04,880 --> 00:03:10,160
+We have some really cool shit planned and we're all super stoked about it.
+
+48
+00:03:10,200 --> 00:03:16,320
+Third, we just recently released our 27th Patreon bonus episode.
+
+49
+00:03:16,320 --> 00:03:21,880
+Luke GM'd a game of Uncanny Rally for Joe, Thomas, and me.
+
+50
+00:03:21,880 --> 00:03:25,840
+It's one of those one-page RPGs from Grant Hallett.
+
+51
+00:03:25,840 --> 00:03:29,360
+We played malfunctioning military androids on the run.
+
+52
+00:03:29,360 --> 00:03:35,060
+It was delightfully silly and Luke did a wonderful job leading us on our wacky way.
+
+53
+00:03:35,060 --> 00:03:43,900
+So for $5 a month you can hear that and 26 other bonus episodes which do include a 13
+
+54
+00:03:43,900 --> 00:03:51,420
+episode long mostly homebrew Delta Green campaign that winds through time by connecting surviving
+
+55
+00:03:51,420 --> 00:03:59,620
+agents from each mission to continued unnatural mysteries and military conspiracies.
+
+56
+00:03:59,620 --> 00:04:06,060
+And finally, if you're an esteemed naughty denizen of the den of sin, get ready for this
+
+57
+00:04:06,060 --> 00:04:13,460
+Thursday, the eve of New Year's Eve, January 30th at 7pm Central Time.
+
+58
+00:04:13,460 --> 00:04:19,500
+We're gonna hang out and celebrate the end of 2021, talk about our plans for 2022, and
+
+59
+00:04:19,500 --> 00:04:26,040
+we're also each in charge of bringing a segment to the episode, so we'll see what happens
+
+60
+00:04:26,040 --> 00:04:27,660
+with that.
+
+61
+00:04:27,660 --> 00:04:32,420
+If you have any suggestions, post them on the internet.
+
+62
+00:04:32,420 --> 00:04:39,820
+And come hang out this Thursday night, yeah, New Year's Eve, January 30th at 7pm Central
+
+63
+00:04:39,820 --> 00:04:40,820
+Time.
+
+64
+00:04:40,820 --> 00:04:46,280
+Okay, sorry that took so long, thanks for listening to our podcast, bye.
+
+65
+00:04:46,280 --> 00:04:51,780
+If that sad Zach character gave you the blues, and God knows he gives me the blues, you're
+
+66
+00:04:51,780 --> 00:04:55,180
+welcome to cheer up now, it's time for the news.
+
+67
+00:04:55,420 --> 00:05:02,620
+A former Delta Green agent named Arvon Chilton is missing and on the run today after a string
+
+68
+00:05:02,620 --> 00:05:08,080
+of brutal homicides have all pointed in his singular direction.
+
+69
+00:05:08,080 --> 00:05:12,100
+He is assumed to be armed and dangerous.
+
+70
+00:05:12,100 --> 00:05:17,260
+Again, this is a former Delta Green agent named Arvon Chilton.
+
+71
+00:05:17,260 --> 00:05:24,200
+Mr. Chilton parked his car in the driveway of his ex-wife, Eileen McCarty, and her new
+
+72
+00:05:24,200 --> 00:05:26,920
+husband, Marcus McCarty.
+
+73
+00:05:26,920 --> 00:05:35,000
+Then, this fucking dude, Arvon Chilton, walked inside, disabled and tied up the new husband,
+
+74
+00:05:35,000 --> 00:05:39,320
+and then slowly cut Eileen McCarty to pieces in front of the guy.
+
+75
+00:05:39,320 --> 00:05:45,540
+Later, Arvon Chilton carefully cut out the new husband's eyes, all before he disemboweled
+
+76
+00:05:45,540 --> 00:05:50,040
+and untied the blind, bleeding out broken man.
+
+77
+00:05:50,200 --> 00:05:55,680
+Marcus McCarty died sometime later, crawling towards the front door.
+
+78
+00:05:55,680 --> 00:05:58,080
+Welcome to 694.2.
+
+79
+00:05:58,080 --> 00:06:03,640
+If you aren't down with that level of awful, this show might not be good for you.
+
+80
+00:06:03,640 --> 00:06:10,200
+But for now, let's just groove on this melodic palate cleanser that's brand spanking new.
+
+81
+00:06:10,200 --> 00:06:14,680
+It's Brian Bolger with Bad in a Good Way.
+
+82
+00:06:20,040 --> 00:06:25,480
+The deep end, but the drowning's been just fine
+
+83
+00:06:25,480 --> 00:06:33,800
+And when my ears pop and the shell shock of this pit stop frees my mind
+
+84
+00:06:33,800 --> 00:06:41,960
+I'll be alright, I can go there now that I've stared death in the face
+
+85
+00:06:41,960 --> 00:06:49,640
+I'll be alright, I can go there now that I've stared death in the face
+
+86
+00:06:54,200 --> 00:06:56,360
+Welcome to Pretending to Be People.
+
+87
+00:06:56,360 --> 00:07:01,880
+We're gonna play Control Copy, which is a Delta Green scenario written by Dennis Detwiller,
+
+88
+00:07:01,880 --> 00:07:06,280
+one of the creators of the game, Delta Green, the Role Playing Game.
+
+89
+00:07:06,280 --> 00:07:08,280
+Yeah!
+
+90
+00:07:08,280 --> 00:07:10,280
+Oh, too much.
+
+91
+00:07:12,120 --> 00:07:15,720
+We are playing Control Copy specifically because we put up a poll
+
+92
+00:07:19,880 --> 00:07:21,560
+on our Patreon.
+
+93
+00:07:21,560 --> 00:07:23,800
+And only those who pay us money could vote.
+
+94
+00:07:23,800 --> 00:07:28,840
+And only those who pay us money could vote, and they chose Control Copy.
+
+95
+00:07:28,840 --> 00:07:33,800
+Hey, let's introduce ourselves to anyone who is listening to this who hasn't listened to us before.
+
+96
+00:07:33,800 --> 00:07:37,400
+My name is Zach, and I'm gonna be your handler today,
+
+97
+00:07:37,400 --> 00:07:41,720
+as well as after you listen to this when you go back and listen to all of season one,
+
+98
+00:07:41,720 --> 00:07:44,840
+of Pretending to Be People, I'll be the handler for that as well.
+
+99
+00:07:44,840 --> 00:07:49,240
+I'm Joe! I play. I'm one of the characters. I play in all the games.
+
+100
+00:07:50,760 --> 00:07:51,720
+Every single one of them.
+
+101
+00:07:53,720 --> 00:07:57,880
+What is your role, Joe? How do you see your role here at Pretending to Be People?
+
+102
+00:07:57,880 --> 00:08:02,280
+I think the most official role I have is note taker, and even that's tenuous at times,
+
+103
+00:08:02,280 --> 00:08:05,640
+because I get involved in what's happening and forget to write stuff down.
+
+104
+00:08:05,640 --> 00:08:08,120
+That happens to everybody, man. That's role playing, baby.
+
+105
+00:08:08,120 --> 00:08:08,840
+Yeah, that's what my problem is.
+
+106
+00:08:08,920 --> 00:08:12,920
+That's happened to Luke and I for the last 60 episodes.
+
+107
+00:08:12,920 --> 00:08:14,120
+I was so enthralled.
+
+108
+00:08:16,280 --> 00:08:22,200
+I'm Luke. I play, too. And my goal, my role...
+
+109
+00:08:22,200 --> 00:08:23,080
+What's your goal?
+
+110
+00:08:23,080 --> 00:08:23,960
+Goal? Have fun.
+
+111
+00:08:24,680 --> 00:08:25,960
+Role. Have fun.
+
+112
+00:08:27,720 --> 00:08:30,840
+I don't take notes.
+
+113
+00:08:33,960 --> 00:08:34,760
+They're all up here.
+
+114
+00:08:35,320 --> 00:08:37,000
+He points at his head.
+
+115
+00:08:37,000 --> 00:08:37,880
+Yeah, audio.
+
+116
+00:08:39,320 --> 00:08:40,600
+He pointed at Joe's notebook.
+
+117
+00:08:43,000 --> 00:08:48,280
+But yeah, you know, I just kind of go with the flow, and I try to get things rolling, you know?
+
+118
+00:08:48,920 --> 00:08:50,600
+Yes, you certainly do that.
+
+119
+00:08:50,600 --> 00:08:54,760
+You can really feel the energy just, like, shooting off of him.
+
+120
+00:08:56,520 --> 00:09:00,360
+I'm Thomas, and sometimes I take notes, and...
+
+121
+00:09:01,160 --> 00:09:04,040
+I thought that this just became whether or not you take notes.
+
+122
+00:09:04,040 --> 00:09:04,760
+Notes or no notes.
+
+123
+00:09:04,760 --> 00:09:06,760
+I plan to take notes on this campaign.
+
+124
+00:09:07,640 --> 00:09:09,480
+Joe was like, I'm Joe, and I'm a character,
+
+125
+00:09:09,480 --> 00:09:12,120
+so I just want to make it clear that I'm Thomas, and I'm a person.
+
+126
+00:09:13,720 --> 00:09:15,400
+But I do play characters on the show.
+
+127
+00:09:17,400 --> 00:09:22,120
+All right, so that's us, and this is Delta Green,
+
+128
+00:09:22,120 --> 00:09:24,760
+and we're going to play Delta Green.
+
+129
+00:09:25,320 --> 00:09:26,440
+Are you guys ready to play Delta Green?
+
+130
+00:09:26,440 --> 00:09:27,320
+I'm scared.
+
+131
+00:09:28,680 --> 00:09:31,960
+Normally, on season one of Pretending to Be People,
+
+132
+00:09:31,960 --> 00:09:36,120
+we played an amalgamation of Delta Green and Pulp Cthulhu.
+
+133
+00:09:36,520 --> 00:09:40,440
+And you guys had lots of hit points and luck to spend.
+
+134
+00:09:40,920 --> 00:09:45,800
+However, in this game today, you will have no special talents.
+
+135
+00:09:45,800 --> 00:09:49,080
+Your hit points will be your strength plus your con,
+
+136
+00:09:49,640 --> 00:09:55,000
+divided by two, as opposed to just strength plus con,
+
+137
+00:09:55,640 --> 00:09:57,880
+and you will have no luck.
+
+138
+00:09:58,520 --> 00:10:02,120
+So let's introduce your characters.
+
+139
+00:10:02,120 --> 00:10:04,840
+A young boy, far larger than average for his age,
+
+140
+00:10:05,800 --> 00:10:08,360
+sits crying in the hallway of an elementary school
+
+141
+00:10:08,360 --> 00:10:10,440
+as a group of children laugh and run away.
+
+142
+00:10:11,400 --> 00:10:15,240
+He's wearing a yellow long-sleeve t-shirt and blue overalls.
+
+143
+00:10:15,240 --> 00:10:18,200
+His glasses are thick, thick enough to give the illusion
+
+144
+00:10:18,200 --> 00:10:21,000
+that the wearer has cartoonishly giant eyes.
+
+145
+00:10:21,000 --> 00:10:23,560
+The tears are magnified behind the glass lenses
+
+146
+00:10:23,560 --> 00:10:26,680
+as he sniffles and laughs echo down the hallway.
+
+147
+00:10:26,680 --> 00:10:29,560
+A small boy approaches the weeping, hulking figure.
+
+148
+00:10:29,560 --> 00:10:31,560
+They're assholes, fuck them.
+
+149
+00:10:31,560 --> 00:10:33,000
+What's your name, Bigfoot?
+
+150
+00:10:35,320 --> 00:10:36,280
+Kevin.
+
+151
+00:10:36,280 --> 00:10:38,280
+The crying boy says as he wipes his face
+
+152
+00:10:38,280 --> 00:10:41,560
+and looks up at the acne-ridden face of Elwood Boyd.
+
+153
+00:10:41,560 --> 00:10:43,400
+Kevin wipes the sweat from his face
+
+154
+00:10:43,400 --> 00:10:45,640
+and looks up into the stadium lights.
+
+155
+00:10:45,640 --> 00:10:47,720
+The light glints off his athletic goggles,
+
+156
+00:10:47,720 --> 00:10:49,560
+which give his eyes a bulging look.
+
+157
+00:10:50,280 --> 00:10:58,280
+Menyen! Menyen! Menyen! Menyen! Menyen! Menyen! Menyen!
+
+158
+00:10:58,280 --> 00:11:01,080
+The crowd chants his nickname as he stands on the field,
+
+159
+00:11:01,080 --> 00:11:03,320
+towering above the other boys surrounding him.
+
+160
+00:11:03,720 --> 00:11:04,520
+Hike!
+
+161
+00:11:04,520 --> 00:11:06,120
+The sound of young men shouting
+
+162
+00:11:06,120 --> 00:11:08,520
+and football pads clashing fills the air.
+
+163
+00:11:08,520 --> 00:11:11,960
+Kevin throws the boy opposite him to the ground with a crunch.
+
+164
+00:11:11,960 --> 00:11:14,040
+His eyes focus on the opposing quarterback
+
+165
+00:11:14,040 --> 00:11:15,800
+and he launches himself forward.
+
+166
+00:11:15,800 --> 00:11:18,120
+The small, frail boy holding the football
+
+167
+00:11:18,120 --> 00:11:20,280
+is almost invisible under Kevin's shadow
+
+168
+00:11:20,280 --> 00:11:22,680
+as the monstrous high schooler leaps towards him.
+
+169
+00:11:22,680 --> 00:11:24,680
+Ahh!
+
+170
+00:11:24,680 --> 00:11:28,200
+A piercing scream is heard as Kevin smashes into the child,
+
+171
+00:11:28,200 --> 00:11:29,800
+sending the boy flying backwards
+
+172
+00:11:29,800 --> 00:11:31,560
+and the football up into the air.
+
+173
+00:11:32,120 --> 00:11:33,800
+Kevin jumps up to grab the ball
+
+174
+00:11:33,800 --> 00:11:35,560
+and sprints towards the end zone.
+
+175
+00:11:35,560 --> 00:11:37,640
+The entire crowd is chanting his name
+
+176
+00:11:37,640 --> 00:11:39,400
+as he hulks toward the goal.
+
+177
+00:11:39,400 --> 00:11:41,480
+When the minion reaches the end of the field,
+
+178
+00:11:41,480 --> 00:11:43,480
+he spikes the football down.
+
+179
+00:11:43,480 --> 00:11:45,320
+Instead of bouncing back into the air,
+
+180
+00:11:45,320 --> 00:11:48,040
+the ball burrows itself into the earth.
+
+181
+00:11:48,040 --> 00:11:49,240
+What's your last name again?
+
+182
+00:11:49,240 --> 00:11:50,280
+Gelato.
+
+183
+00:11:50,280 --> 00:11:53,960
+That's another defensive touchdown
+
+184
+00:11:53,960 --> 00:11:59,000
+for Kevin Gelato and the Spiro Agnu High!
+
+185
+00:11:59,000 --> 00:12:00,520
+Nope, I already have this written out.
+
+186
+00:12:01,960 --> 00:12:08,360
+That's the end of the minions five undefeated years
+
+187
+00:12:08,360 --> 00:12:10,120
+here at Spiro Agnu High!
+
+188
+00:12:10,840 --> 00:12:14,040
+The announcer shouts as the crowd runs onto the field.
+
+189
+00:12:14,040 --> 00:12:15,640
+I'm so proud of you bro!
+
+190
+00:12:15,640 --> 00:12:17,960
+You're gonna do big things!
+
+191
+00:12:17,960 --> 00:12:20,040
+The voice of Stuart, Kevin's younger brother,
+
+192
+00:12:20,040 --> 00:12:23,720
+fades out as we see Kevin standing in an elegant hallway
+
+193
+00:12:23,720 --> 00:12:25,320
+with a dumb smile on his face.
+
+194
+00:12:25,880 --> 00:12:28,520
+The smile quickly fades into a stony expression
+
+195
+00:12:28,520 --> 00:12:30,120
+as Elwood's voice fades in,
+
+196
+00:12:30,120 --> 00:12:32,440
+asking questions not necessarily intended
+
+197
+00:12:32,440 --> 00:12:33,720
+to be answered by Kevin.
+
+198
+00:12:34,280 --> 00:12:36,280
+Kevin gives Elwood a quick smile,
+
+199
+00:12:36,280 --> 00:12:38,840
+but the eyes behind his goggles are deeply sad.
+
+200
+00:12:40,200 --> 00:12:42,200
+Okay Elwood, let's go.
+
+201
+00:12:43,080 --> 00:12:43,580
+Nice!
+
+202
+00:12:44,360 --> 00:12:45,240
+And Elwood.
+
+203
+00:12:45,240 --> 00:12:45,740
+Hey!
+
+204
+00:12:47,240 --> 00:12:48,440
+I'm playing Elwood.
+
+205
+00:12:48,440 --> 00:12:49,800
+Elwood Boyd.
+
+206
+00:12:50,680 --> 00:12:53,400
+And see Kevin, if I turn this here, click,
+
+207
+00:12:54,040 --> 00:12:56,840
+and I snip this here, we should get...
+
+208
+00:12:57,560 --> 00:12:59,640
+And a safe door slowly opens in front of them,
+
+209
+00:12:59,640 --> 00:13:02,520
+revealing a cartoonish horde of jewels and cash.
+
+210
+00:13:03,080 --> 00:13:06,280
+A smile spreads across Elwood Boyd's pale, pockmarked,
+
+211
+00:13:06,280 --> 00:13:09,240
+and pimpled face, revealing rows of yellowed teeth
+
+212
+00:13:09,240 --> 00:13:11,320
+that seem to have all collectively decided
+
+213
+00:13:11,320 --> 00:13:12,920
+no two would grow in the same angle.
+
+214
+00:13:16,760 --> 00:13:19,080
+He stands wearing an argyle sweater vest
+
+215
+00:13:19,080 --> 00:13:20,920
+over a yellow-brown colored button-up,
+
+216
+00:13:20,920 --> 00:13:22,680
+khaki pants, and golfing shoes,
+
+217
+00:13:22,680 --> 00:13:24,840
+but the whole ensemble looks like it was recently
+
+218
+00:13:24,840 --> 00:13:28,040
+retrieved from a dumpster, all wrinkled and lightly,
+
+219
+00:13:28,040 --> 00:13:29,880
+and in some places not so lightly,
+
+220
+00:13:29,880 --> 00:13:32,040
+stained and fitting poorly.
+
+221
+00:13:32,040 --> 00:13:34,520
+Kevin hands Elwood a fresh duffel bag,
+
+222
+00:13:35,160 --> 00:13:37,240
+and Elwood extends a thin, bony arm
+
+223
+00:13:37,240 --> 00:13:39,240
+to start scooping in the latest score.
+
+224
+00:13:39,240 --> 00:13:40,760
+See, there's nothing to it.
+
+225
+00:13:40,760 --> 00:13:43,240
+Well, at least for me, I don't know how you'd fare.
+
+226
+00:13:43,240 --> 00:13:46,200
+But it's like I can see the inner workings of these things.
+
+227
+00:13:49,240 --> 00:13:49,960
+I always have.
+
+228
+00:13:49,960 --> 00:13:51,320
+I don't know where this comes from.
+
+229
+00:13:52,600 --> 00:13:53,640
+Here, take this bag too.
+
+230
+00:13:54,280 --> 00:13:56,760
+And Elwood stands and hands another duffel bag
+
+231
+00:13:56,760 --> 00:13:57,560
+over to Kevin.
+
+232
+00:13:58,200 --> 00:14:00,520
+He now has three draped over his body.
+
+233
+00:14:00,520 --> 00:14:02,440
+All right, so we've gone through every room, right?
+
+234
+00:14:02,440 --> 00:14:03,400
+I started to lose track.
+
+235
+00:14:03,400 --> 00:14:04,360
+This place is so big.
+
+236
+00:14:04,920 --> 00:14:07,560
+You said this guy was some kind of money manager or something.
+
+237
+00:14:07,560 --> 00:14:08,600
+Hoo-wee!
+
+238
+00:14:08,600 --> 00:14:09,960
+Must be good in the manage-
+
+239
+00:14:09,960 --> 00:14:10,680
+money management.
+
+240
+00:14:10,680 --> 00:14:11,000
+Fuck.
+
+241
+00:14:13,240 --> 00:14:16,200
+Must be good in the money management.
+
+242
+00:14:16,200 --> 00:14:17,240
+Hoo-wee!
+
+243
+00:14:17,240 --> 00:14:19,160
+Must be good money managing that money.
+
+244
+00:14:22,360 --> 00:14:23,160
+Let's try it again.
+
+245
+00:14:23,160 --> 00:14:27,480
+Must be good money in managing that money.
+
+246
+00:14:27,480 --> 00:14:28,840
+Come on, let's get out of here.
+
+247
+00:14:28,840 --> 00:14:30,520
+We gotta go see Julian.
+
+248
+00:14:30,520 --> 00:14:33,080
+They make their way toward the garage at this point,
+
+249
+00:14:33,720 --> 00:14:35,960
+passing rooms that have obviously been picked over.
+
+250
+00:14:35,960 --> 00:14:37,800
+There's things kind of scattered here and there,
+
+251
+00:14:37,800 --> 00:14:39,720
+but it's mostly empty rooms at this point.
+
+252
+00:14:39,720 --> 00:14:42,440
+They walk by a kitchen and there's a guy sprawled on the floor
+
+253
+00:14:43,160 --> 00:14:44,200
+just in his boxers.
+
+254
+00:14:45,000 --> 00:14:47,320
+Man, you really whacked him good, big guy.
+
+255
+00:14:47,320 --> 00:14:48,760
+Yeah, he'll be out for hours.
+
+256
+00:14:49,800 --> 00:14:51,080
+Right before they get to the garage door,
+
+257
+00:14:51,080 --> 00:14:55,480
+they see a picture on the wall and it's of a family all-
+
+258
+00:14:55,480 --> 00:15:00,680
+I'm sorry, he jacked that guy off so good that he passed out for hours?
+
+259
+00:15:01,320 --> 00:15:02,360
+Really got him.
+
+260
+00:15:02,360 --> 00:15:03,160
+Whatever you say.
+
+261
+00:15:04,760 --> 00:15:07,560
+There's a family photo on the wall right by the garage door
+
+262
+00:15:07,560 --> 00:15:09,720
+of a family in like a fall setting.
+
+263
+00:15:10,520 --> 00:15:12,440
+Hey, you almost forgot one, dummy.
+
+264
+00:15:12,440 --> 00:15:15,400
+Even though it's just a picture, there's good money in frames.
+
+265
+00:15:15,400 --> 00:15:16,280
+We can sell the frame.
+
+266
+00:15:16,840 --> 00:15:17,960
+They get out to the garage.
+
+267
+00:15:17,960 --> 00:15:20,200
+They load up the SUV of the homeowner.
+
+268
+00:15:20,200 --> 00:15:22,200
+Elwood waits in the passenger seat.
+
+269
+00:15:22,200 --> 00:15:24,280
+Come on, come on, we don't have all day.
+
+270
+00:15:24,280 --> 00:15:26,040
+Well, I guess we kind of do.
+
+271
+00:15:26,040 --> 00:15:28,600
+I already snipped the alarms and I took care of the cameras
+
+272
+00:15:29,480 --> 00:15:31,960
+and the security guy at the gate, you took care of him.
+
+273
+00:15:32,680 --> 00:15:33,800
+But anyway, I want to get out of here.
+
+274
+00:15:33,800 --> 00:15:34,840
+Come on, let's go.
+
+275
+00:15:34,840 --> 00:15:40,680
+Kevin walks out the door with a frame and three double bags.
+
+276
+00:15:41,720 --> 00:15:44,360
+Everything's just like packed on this dude like a mule.
+
+277
+00:15:46,120 --> 00:15:47,880
+That's how it was picture made for sure.
+
+278
+00:15:47,880 --> 00:15:51,160
+Is this happening in the present day or like shortly after that high school game?
+
+279
+00:15:51,160 --> 00:15:52,360
+No, this is present day.
+
+280
+00:15:52,360 --> 00:15:55,240
+Yeah, you were daydreaming about that when we were doing this.
+
+281
+00:15:57,240 --> 00:15:58,040
+That's actually perfect.
+
+282
+00:16:00,520 --> 00:16:04,440
+They pull up into an old camera shop and they pull around the back.
+
+283
+00:16:04,440 --> 00:16:07,640
+They've done it a million times before and they're greeted by Julian.
+
+284
+00:16:07,640 --> 00:16:08,680
+Oh, he's your fence.
+
+285
+00:16:08,680 --> 00:16:09,400
+He's my fence.
+
+286
+00:16:09,400 --> 00:16:10,120
+Got you.
+
+287
+00:16:10,120 --> 00:16:12,360
+Comes out and says, what'd you bring for me today?
+
+288
+00:16:12,360 --> 00:16:13,480
+Oh, just the usual.
+
+289
+00:16:13,480 --> 00:16:17,720
+Some vases, socks, books, candlesticks, jewelry, bedsheets.
+
+290
+00:16:18,360 --> 00:16:19,720
+Kevin, tell some of the keys.
+
+291
+00:16:19,720 --> 00:16:20,840
+You got your car?
+
+292
+00:16:20,840 --> 00:16:21,240
+All right.
+
+293
+00:16:21,240 --> 00:16:23,800
+Julian cuts them off and says, hey, smelly Ellie.
+
+294
+00:16:23,800 --> 00:16:25,640
+You know I only care about the jewels, right?
+
+295
+00:16:25,640 --> 00:16:27,880
+You don't have to make me sell people's socks.
+
+296
+00:16:27,880 --> 00:16:28,840
+They're used.
+
+297
+00:16:28,840 --> 00:16:30,120
+Elwood replies.
+
+298
+00:16:31,640 --> 00:16:33,080
+Hey, they still work, don't they?
+
+299
+00:16:33,080 --> 00:16:36,040
+That means they have value to somebody and that means they have value to me.
+
+300
+00:16:36,040 --> 00:16:36,440
+Socks.
+
+301
+00:16:37,160 --> 00:16:37,720
+Socks.
+
+302
+00:16:37,720 --> 00:16:40,440
+Usually there's even some cash in this frame, I'm sure.
+
+303
+00:16:41,320 --> 00:16:44,040
+Oh, Elwood, you took the family photos.
+
+304
+00:16:45,480 --> 00:16:49,240
+He, uh, he assures them that there's going to be, uh, some cash form in a week.
+
+305
+00:16:49,240 --> 00:16:49,800
+Okay.
+
+306
+00:16:49,800 --> 00:16:51,000
+After he sells all this stuff.
+
+307
+00:16:51,000 --> 00:16:51,400
+Yeah.
+
+308
+00:16:51,400 --> 00:16:55,640
+And, uh, Elwood turns to Kevin and says, all right, let's, uh, let's head back home.
+
+309
+00:16:55,640 --> 00:16:56,920
+Maybe Ma's made chili.
+
+310
+00:16:56,920 --> 00:16:57,640
+Oh yeah.
+
+311
+00:16:58,360 --> 00:16:59,000
+Chili.
+
+312
+00:16:59,000 --> 00:17:01,960
+So they get back to Elmira Boyd's basement apartment.
+
+313
+00:17:01,960 --> 00:17:02,600
+Okay.
+
+314
+00:17:02,600 --> 00:17:05,560
+And oh, they noticed the TV's on.
+
+315
+00:17:05,560 --> 00:17:06,200
+Oh shit.
+
+316
+00:17:06,200 --> 00:17:06,920
+She's still awake.
+
+317
+00:17:06,920 --> 00:17:07,160
+All right.
+
+318
+00:17:07,160 --> 00:17:08,040
+Come, come, come on.
+
+319
+00:17:08,600 --> 00:17:09,240
+Is this your mom?
+
+320
+00:17:10,760 --> 00:17:12,040
+Hey, hey, hey ma.
+
+321
+00:17:12,040 --> 00:17:13,400
+Um, we're, we're home.
+
+322
+00:17:13,960 --> 00:17:14,600
+Home.
+
+323
+00:17:14,600 --> 00:17:18,680
+Uh, Elmira Boyd is laying on the couch in her nightgown and she stirs awake.
+
+324
+00:17:18,680 --> 00:17:19,480
+Kind of startled.
+
+325
+00:17:20,600 --> 00:17:23,320
+Oh, did you boys have fun at the golf range?
+
+326
+00:17:24,760 --> 00:17:27,800
+Uh, Elwood says, yeah, I hit two holes in one.
+
+327
+00:17:27,800 --> 00:17:28,440
+Hole in one.
+
+328
+00:17:29,960 --> 00:17:32,680
+She said, well, you keep telling me you should go pro.
+
+329
+00:17:34,280 --> 00:17:35,400
+I see these guys on TV.
+
+330
+00:17:35,400 --> 00:17:37,320
+They aren't hitting holes in one every time they go out.
+
+331
+00:17:37,320 --> 00:17:38,200
+It seems like you do.
+
+332
+00:17:38,200 --> 00:17:47,320
+Uh, she tousles his greasy mop top and kind of wipes her hand off on her nightgown.
+
+333
+00:17:48,840 --> 00:17:49,640
+She's going up to bed.
+
+334
+00:17:49,640 --> 00:17:50,600
+I made some chili.
+
+335
+00:17:50,600 --> 00:17:51,960
+There's some chili in the fridge there.
+
+336
+00:17:51,960 --> 00:17:53,960
+Oh, and uh, somebody left that for you.
+
+337
+00:17:53,960 --> 00:17:55,720
+It's something about an opera.
+
+338
+00:17:55,720 --> 00:17:58,680
+And uh, when Elwood hears this, his heart skips a beat.
+
+339
+00:17:58,680 --> 00:17:59,080
+Yeah.
+
+340
+00:17:59,080 --> 00:18:01,000
+And he turns to his mom.
+
+341
+00:18:01,000 --> 00:18:04,360
+He's walking up the stairs and says, oh, um, thanks mom.
+
+342
+00:18:04,360 --> 00:18:07,400
+Um, hey, uh, Kevin and I, we were thinking of taking a trip.
+
+343
+00:18:07,400 --> 00:18:12,920
+We were, uh, we're going to go to, um, uh, Colorado and hit the, hit the golf courses
+
+344
+00:18:12,920 --> 00:18:13,240
+out there.
+
+345
+00:18:13,240 --> 00:18:14,360
+I heard they're beautiful.
+
+346
+00:18:14,360 --> 00:18:16,600
+We might be, uh, might be gone for a few days.
+
+347
+00:18:17,240 --> 00:18:18,040
+You have a good night.
+
+348
+00:18:19,240 --> 00:18:22,280
+And, uh, Elmira says, oh, uh, okay.
+
+349
+00:18:22,280 --> 00:18:23,560
+You boys have fun out there.
+
+350
+00:18:23,560 --> 00:18:24,600
+Don't get into any trouble.
+
+351
+00:18:25,320 --> 00:18:26,600
+He picks up the envelope.
+
+352
+00:18:26,600 --> 00:18:27,480
+Perfect.
+
+353
+00:18:27,480 --> 00:18:27,880
+Perfect.
+
+354
+00:18:27,880 --> 00:18:28,280
+Perfect.
+
+355
+00:18:30,280 --> 00:18:30,920
+I love that.
+
+356
+00:18:30,920 --> 00:18:31,160
+Okay.
+
+357
+00:18:31,160 --> 00:18:33,720
+Can you give me a quick rundown of what your character looks like?
+
+358
+00:18:33,720 --> 00:18:37,160
+Yeah, he's a greasy and, uh, he's got pimpled and pockmarked face.
+
+359
+00:18:37,800 --> 00:18:40,280
+He's really, uh, super duper skinny.
+
+360
+00:18:40,280 --> 00:18:43,400
+He kind of walks around with his arms folded, but at the wrists.
+
+361
+00:18:44,440 --> 00:18:44,840
+Amazing.
+
+362
+00:18:45,400 --> 00:18:50,280
+And, uh, yeah, he's wearing a ratty sweater vest and a button up with the collar popping
+
+363
+00:18:50,280 --> 00:18:51,720
+at the top, but it all looks wrong.
+
+364
+00:18:51,720 --> 00:18:53,400
+It just looks like it doesn't fit right.
+
+365
+00:18:53,400 --> 00:18:55,560
+Maybe even the buttons are kind of mismatched.
+
+366
+00:18:55,560 --> 00:19:01,800
+One year for Christmas, my grandma got me a sweater vest and it was matching the shirt,
+
+367
+00:19:01,800 --> 00:19:04,520
+the long sleeve dress shirt that would go underneath it.
+
+368
+00:19:04,520 --> 00:19:04,760
+Right.
+
+369
+00:19:05,480 --> 00:19:07,080
+Size on these two.
+
+370
+00:19:07,480 --> 00:19:13,000
+Two items, extra, extra large on the shirt and small on the vest.
+
+371
+00:19:13,880 --> 00:19:14,280
+Perfect.
+
+372
+00:19:14,920 --> 00:19:15,320
+Huh?
+
+373
+00:19:15,320 --> 00:19:16,120
+Did it fit?
+
+374
+00:19:16,120 --> 00:19:17,320
+You know, neither one did.
+
+375
+00:19:19,400 --> 00:19:20,920
+It was wrong both directions.
+
+376
+00:19:22,280 --> 00:19:24,680
+Just mix them together and you'll get the right size.
+
+377
+00:19:24,680 --> 00:19:26,760
+Yeah, it was, it was an interesting look.
+
+378
+00:19:26,760 --> 00:19:28,600
+Very puffy in the arms.
+
+379
+00:19:28,600 --> 00:19:28,920
+All right.
+
+380
+00:19:28,920 --> 00:19:30,120
+Well, Kevin.
+
+381
+00:19:30,120 --> 00:19:31,240
+Yes, of course, please.
+
+382
+00:19:31,240 --> 00:19:35,880
+Kevin, uh, is very large, especially standing next to Elwood.
+
+383
+00:19:35,880 --> 00:19:36,440
+Certainly.
+
+384
+00:19:36,440 --> 00:19:38,600
+He's just shy of seven feet tall.
+
+385
+00:19:39,320 --> 00:19:43,160
+He is hundreds of pounds of, of just muscle.
+
+386
+00:19:43,160 --> 00:19:49,400
+Like it looks like he works out multiple times a day, but like his skin is kind of like yellowish.
+
+387
+00:19:49,960 --> 00:19:55,000
+He's got huge, instead of glasses, they're like, like athletic goggles.
+
+388
+00:19:55,000 --> 00:19:59,880
+Like, you know, they would play in wrapped around his head, makes his eyes look huge.
+
+389
+00:19:59,880 --> 00:20:03,880
+He just still most comfortable wearing those after wearing them for sports.
+
+390
+00:20:03,880 --> 00:20:04,440
+Right.
+
+391
+00:20:04,440 --> 00:20:09,080
+Well, cause he wore them and when he played football and in, in like junior high and high
+
+392
+00:20:09,080 --> 00:20:12,280
+school, pretty much all he did was play football and hang out with Elwood.
+
+393
+00:20:13,160 --> 00:20:18,600
+So it just kind of like became comfortable to him, but you can tell, like, just the way he looks,
+
+394
+00:20:18,600 --> 00:20:23,000
+there's, he's probably got something like genetically wrong with him.
+
+395
+00:20:23,000 --> 00:20:25,960
+Cause he just like never stopped growing and it's huge.
+
+396
+00:20:25,960 --> 00:20:29,400
+And his head is kind of like oddly square.
+
+397
+00:20:29,400 --> 00:20:30,360
+He's an Andre giant.
+
+398
+00:20:31,560 --> 00:20:32,680
+Or an Alton giant.
+
+399
+00:20:32,680 --> 00:20:33,320
+Wadler.
+
+400
+00:20:33,400 --> 00:20:36,360
+Yeah, dude, Robert Wadler guys huge.
+
+401
+00:20:36,360 --> 00:20:42,920
+And he, uh, he was from a town that was pretty near to where I grew up over by St. Louis.
+
+402
+00:20:42,920 --> 00:20:43,420
+Yeah.
+
+403
+00:20:43,960 --> 00:20:44,840
+Huge motherfucker.
+
+404
+00:20:44,840 --> 00:20:45,480
+That guy.
+
+405
+00:20:45,480 --> 00:20:50,920
+But yeah, this guy's huge, uh, yellow long sleeve t-shirt blue, like bib overalls.
+
+406
+00:20:51,480 --> 00:20:56,520
+Uh, those goggles, uh, he's like bald, except for like stealthy bald,
+
+407
+00:20:56,520 --> 00:21:01,160
+except for like three long stringy hairs that he kind of comes over on his head.
+
+408
+00:21:01,160 --> 00:21:02,440
+Oh, okay.
+
+409
+00:21:02,440 --> 00:21:04,280
+So you've been building Homer Simpson.
+
+410
+00:21:05,000 --> 00:21:05,400
+Yeah.
+
+411
+00:21:05,400 --> 00:21:05,800
+Yeah.
+
+412
+00:21:05,800 --> 00:21:06,520
+Homer Simpson.
+
+413
+00:21:07,480 --> 00:21:09,640
+He's large, but quiet.
+
+414
+00:21:09,640 --> 00:21:10,120
+All right.
+
+415
+00:21:10,120 --> 00:21:10,680
+Sick.
+
+416
+00:21:10,680 --> 00:21:13,880
+Uh, it seems to have kind of a soft voice that repeats.
+
+417
+00:21:13,880 --> 00:21:14,440
+Yeah.
+
+418
+00:21:14,440 --> 00:21:14,920
+Boyd's.
+
+419
+00:21:15,720 --> 00:21:15,960
+Yeah.
+
+420
+00:21:15,960 --> 00:21:20,040
+He can form full sentences, but doesn't like to a lot.
+
+421
+00:21:20,040 --> 00:21:22,280
+He likes Elwood speak for him.
+
+422
+00:21:22,280 --> 00:21:22,600
+Okay.
+
+423
+00:21:23,800 --> 00:21:25,320
+And even Elwood isn't that great at it.
+
+424
+00:21:27,480 --> 00:21:30,440
+Well, let's meet someone who should be speaking for the group.
+
+425
+00:21:30,680 --> 00:21:30,920
+Yeah.
+
+426
+00:21:30,920 --> 00:21:35,800
+So as Kevin is daydreaming about his football stardom, his, his five glorious
+
+427
+00:21:35,800 --> 00:21:42,600
+years of high school football of undefeated high school football way, way in the
+
+428
+00:21:42,600 --> 00:21:46,920
+background of that memory behind the throng of cheering fans, you see Clarissa
+
+429
+00:21:46,920 --> 00:21:53,000
+Sparrow, short, serious student body president she's managing a small hot dog
+
+430
+00:21:53,000 --> 00:21:56,760
+stand, the profits from which will benefit a local canine leukemia fund.
+
+431
+00:21:57,000 --> 00:22:00,040
+She gets visibly flustered at the sophomore work in the stand with her, who
+
+432
+00:22:00,040 --> 00:22:04,200
+is chatting with some friends instead of boiling dogs, Clarissa snaps to get his
+
+433
+00:22:04,200 --> 00:22:06,200
+attention and points sharply to station.
+
+434
+00:22:06,760 --> 00:22:09,240
+She glares at his friends and they sheepishly disperse.
+
+435
+00:22:09,800 --> 00:22:14,840
+Clarissa takes a deep sigh and massages her temples and then turns around with a
+
+436
+00:22:14,840 --> 00:22:15,880
+genuine smile.
+
+437
+00:22:16,040 --> 00:22:16,760
+And she asked for Mrs.
+
+438
+00:22:16,760 --> 00:22:18,040
+Elmira Boyd's order.
+
+439
+00:22:18,040 --> 00:22:18,760
+Is there a limit?
+
+440
+00:22:18,920 --> 00:22:21,640
+I just want to support those sick little doggies as much as I can.
+
+441
+00:22:21,880 --> 00:22:22,680
+I'm so sorry.
+
+442
+00:22:22,760 --> 00:22:25,480
+We only have 10 hot and ready at the moment, Mrs.
+
+443
+00:22:25,480 --> 00:22:31,720
+Boyd, we would have more if everyone was doing their duty, come back in a few
+
+444
+00:22:31,720 --> 00:22:33,480
+minutes and we'll have as many as you can carry.
+
+445
+00:22:33,480 --> 00:22:34,120
+I promise.
+
+446
+00:22:34,120 --> 00:22:35,560
+Oh, thank you, Clarissa.
+
+447
+00:22:35,560 --> 00:22:36,760
+You're, you're such a darling.
+
+448
+00:22:36,760 --> 00:22:38,920
+It's so sweet of you to help those pups like this.
+
+449
+00:22:38,920 --> 00:22:43,400
+Kevin's daydream is reaching its moment of climactic triumph over on the field.
+
+450
+00:22:43,400 --> 00:22:45,320
+He's, he's spiking the ball.
+
+451
+00:22:45,320 --> 00:22:46,680
+The crowd's going crazy.
+
+452
+00:22:47,240 --> 00:22:49,880
+And as, as they erupt cheering, his name,
+
+453
+00:22:50,120 --> 00:22:53,480
+Clarissa's head kind of darts over inadvertently towards the field.
+
+454
+00:22:53,480 --> 00:22:57,480
+And the sophomore working with her, it takes that moment to dip away from the
+
+455
+00:22:57,480 --> 00:23:00,120
+stand and disappear into the crowd with his friends.
+
+456
+00:23:01,160 --> 00:23:02,680
+She's more hurt than angry.
+
+457
+00:23:03,400 --> 00:23:06,120
+What makes it so hard for other people to do the right thing?
+
+458
+00:23:06,840 --> 00:23:11,640
+Work hard, follow the rules, do what is expected, stay true to your word, and
+
+459
+00:23:11,640 --> 00:23:12,520
+you'll have a good life.
+
+460
+00:23:13,560 --> 00:23:16,120
+She shakes that thought from her mind and gets back to work.
+
+461
+00:23:16,920 --> 00:23:19,400
+She shakes that thought from her mind and gets back to work.
+
+462
+00:23:20,040 --> 00:23:21,320
+There are hot dogs to move.
+
+463
+00:23:22,200 --> 00:23:27,320
+In the present day, Kevin is snapping out of his daydream as Elmira Boyd offers
+
+464
+00:23:27,320 --> 00:23:31,720
+him and Elwood the chili and mentions the envelope that came for them.
+
+465
+00:23:32,680 --> 00:23:37,080
+Elsewhere in the world that night, Agent Clarissa Sparrow, criminal profiler for
+
+466
+00:23:37,080 --> 00:23:40,280
+the FBI, is coming home to her small one bedroom apartment.
+
+467
+00:23:40,840 --> 00:23:44,760
+She opens the door and finds an identical envelope slipped under it.
+
+468
+00:23:44,760 --> 00:23:49,640
+She's currently dressed in a smart, sensible gray pantsuit, and she has the
+
+469
+00:23:49,640 --> 00:23:54,040
+same smart, sensible haircut she did in Kevin's daydream back in high school.
+
+470
+00:23:54,040 --> 00:23:57,880
+She's staring intensely at the envelope as a cat comes up and rubs her leg in
+
+471
+00:23:57,880 --> 00:24:01,880
+greeting, and she thinks about the way she's tried to live her life since then.
+
+472
+00:24:01,880 --> 00:24:06,920
+Work hard, follow the rules, do what's expected of you, stay true to your word.
+
+473
+00:24:06,920 --> 00:24:11,240
+She never questioned that that was the right path until her first night at the
+
+474
+00:24:11,240 --> 00:24:12,040
+opera.
+
+475
+00:24:12,040 --> 00:24:15,400
+She saw things on that mission that shook her to the core.
+
+476
+00:24:15,400 --> 00:24:20,040
+The minds of hardened veterans cracked apart under supernatural pressures, the
+
+477
+00:24:20,040 --> 00:24:25,800
+bodies of innocents torn apart by unnatural forces, and the lies, bribes, and
+
+478
+00:24:25,800 --> 00:24:30,920
+killings that had taken her and her other agents to conceal the truth that had
+
+479
+00:24:30,920 --> 00:24:31,560
+been unleashed.
+
+480
+00:24:32,840 --> 00:24:38,040
+Her composure, though, distinguished her on that first mission, where more
+
+481
+00:24:38,040 --> 00:24:42,920
+senior agents had lost their minds, she kept it together, and she was soon asked
+
+482
+00:24:42,920 --> 00:24:45,400
+to move from friendly to agent.
+
+483
+00:24:46,440 --> 00:24:51,720
+She draws on that composure now, massaging her temples, taking a deep sigh.
+
+484
+00:24:52,440 --> 00:24:55,880
+She leans down, scratches the cat's ear, and picks up the envelope.
+
+485
+00:24:55,880 --> 00:24:58,360
+Nice, so we've got our three characters.
+
+486
+00:24:58,360 --> 00:25:03,240
+Quick, give me a rundown of what Clarissa looks like, and also what is her last
+
+487
+00:25:03,240 --> 00:25:03,800
+name.
+
+488
+00:25:03,800 --> 00:25:04,440
+Sparrow.
+
+489
+00:25:04,440 --> 00:25:06,840
+Oh, Clarissa Sparrow.
+
+490
+00:25:06,840 --> 00:25:07,800
+I like it.
+
+491
+00:25:08,120 --> 00:25:11,240
+And what does she look like when we see Clarissa?
+
+492
+00:25:11,240 --> 00:25:14,120
+Is she still short, serious, and the student body president?
+
+493
+00:25:14,680 --> 00:25:17,400
+Yes, Clarissa Sparrow.
+
+494
+00:25:17,400 --> 00:25:23,640
+That's kind of a very subtle, very subtle little nod to Clarissa Starling in Silence
+
+495
+00:25:23,640 --> 00:25:24,120
+of the Lambs.
+
+496
+00:25:25,240 --> 00:25:27,880
+And she looks exactly like Jodie Foster in Silence of the Lambs.
+
+497
+00:25:30,680 --> 00:25:33,800
+Which was playing when I arrived here today.
+
+498
+00:25:33,800 --> 00:25:34,280
+Research.
+
+499
+00:25:34,920 --> 00:25:39,800
+I'd never seen Silence of the Lambs, and while we were setting up, I feel like I kind
+
+500
+00:25:39,800 --> 00:25:41,400
+of watched the whole thing.
+
+501
+00:25:41,400 --> 00:25:42,440
+You saw most of it.
+
+502
+00:25:42,440 --> 00:25:43,320
+Pretty much did, yeah.
+
+503
+00:25:43,320 --> 00:25:47,800
+I saw all the key scenes, I think, that I was like, oh, that's from this.
+
+504
+00:25:47,800 --> 00:25:49,640
+Yeah, it puts the lotion in the basket.
+
+505
+00:25:49,640 --> 00:25:50,440
+Would you fuck me?
+
+506
+00:25:51,160 --> 00:25:52,360
+I'd fuck me.
+
+507
+00:25:52,360 --> 00:25:53,000
+That was pretty cool.
+
+508
+00:25:54,760 --> 00:25:55,640
+That was cool, dude.
+
+509
+00:25:55,640 --> 00:25:59,080
+Yeah, I just want to have that mindset, you know?
+
+510
+00:25:59,080 --> 00:26:03,160
+Like, are you supposed to be jealous of that character?
+
+511
+00:26:03,160 --> 00:26:04,440
+That Wild Bill grindset?
+
+512
+00:26:08,520 --> 00:26:09,880
+Hashtag grindset.
+
+513
+00:26:09,880 --> 00:26:15,240
+These envelopes that have been left for you summon you to a nearby airport and give you
+
+514
+00:26:15,240 --> 00:26:18,120
+access to a private aircraft hangar.
+
+515
+00:26:18,120 --> 00:26:24,680
+And there, you are briefed on this mission by a lone member of the special access group
+
+516
+00:26:24,680 --> 00:26:28,840
+with identification from the National Reconnaissance Office.
+
+517
+00:26:28,840 --> 00:26:31,800
+And he introduces himself as John Smith.
+
+518
+00:26:32,360 --> 00:26:35,400
+You're given file work on the case.
+
+519
+00:26:35,400 --> 00:26:41,720
+And this case involves a former Delta Green agent named Arvin Chilton.
+
+520
+00:26:42,280 --> 00:26:46,920
+And Arvin Chilton was a Delta Green agent for a long time.
+
+521
+00:26:46,920 --> 00:26:50,920
+And then he retired in Ocean City, New Jersey.
+
+522
+00:26:50,920 --> 00:26:51,960
+Well, hmm.
+
+523
+00:26:52,520 --> 00:26:58,520
+Recently, it seems, Arvin Chilton has gone on a bit of a murder spree.
+
+524
+00:26:59,400 --> 00:27:02,440
+His ex-wife is dead.
+
+525
+00:27:02,440 --> 00:27:05,560
+His ex-wife's partner, new husband, is dead.
+
+526
+00:27:06,200 --> 00:27:08,280
+His old partner is dead.
+
+527
+00:27:09,480 --> 00:27:13,640
+There's also a gas station attendant who is dead.
+
+528
+00:27:14,280 --> 00:27:21,640
+Arvin Chilton was seen on camera stabbing this gas station employee in the back and
+
+529
+00:27:21,720 --> 00:27:29,800
+then disemboweling him as a car pulled up and filled their tank of gas not five feet
+
+530
+00:27:29,800 --> 00:27:32,600
+from where this disembowelment was taking place.
+
+531
+00:27:33,480 --> 00:27:37,240
+The person filling up their tank kind of looks around.
+
+532
+00:27:37,240 --> 00:27:39,160
+It looks like they're hearing something.
+
+533
+00:27:39,160 --> 00:27:45,080
+They almost look in the exact direction of Chilton and this dying man.
+
+534
+00:27:45,080 --> 00:27:51,080
+But then the driver just puts the gas pump back in and gets in their car and drives off.
+
+535
+00:27:52,600 --> 00:27:55,160
+That's probably what flagged Delta Green the most.
+
+536
+00:27:57,080 --> 00:28:04,920
+So your three agents are placed on a private aircraft and flown to Woodbine Municipal Airport
+
+537
+00:28:04,920 --> 00:28:10,120
+in Woodbine, New Jersey, which is approximately five miles from Ocean City, New Jersey,
+
+538
+00:28:11,000 --> 00:28:14,040
+as well as the apartment of Arvin Chilton.
+
+539
+00:28:14,760 --> 00:28:15,400
+Excuse me.
+
+540
+00:28:16,360 --> 00:28:17,800
+Is your name Kevin Gelato?
+
+541
+00:28:18,520 --> 00:28:19,020
+Yes.
+
+542
+00:28:19,740 --> 00:28:22,060
+Uh, I don't know if you remember me.
+
+543
+00:28:22,620 --> 00:28:23,500
+Clarissa Sparrow.
+
+544
+00:28:24,220 --> 00:28:26,860
+Agent Clarissa Sparrow, FBI.
+
+545
+00:28:26,860 --> 00:28:35,820
+Kevin kind of looks at her and it cuts to Kevin crying in the bathroom at school and
+
+546
+00:28:35,820 --> 00:28:36,620
+Clarissa like...
+
+547
+00:28:37,660 --> 00:28:42,620
+Clarissa, Clarissa, Clarissa is banging on the door and she's like,
+
+548
+00:28:42,620 --> 00:28:44,540
+I'm sorry, but you need a hall pass.
+
+549
+00:28:45,980 --> 00:28:47,420
+You didn't have a bathroom pass.
+
+550
+00:28:47,420 --> 00:28:48,780
+You need to come out immediately.
+
+551
+00:28:49,100 --> 00:28:53,180
+Kevin comes out and Clarissa like sees he's crying and comforts him.
+
+552
+00:28:53,180 --> 00:28:57,260
+But yeah, she's like patting him on the back while also writing up a little like,
+
+553
+00:28:58,380 --> 00:28:59,820
+writing him up with the other hand.
+
+554
+00:28:59,820 --> 00:29:00,320
+Yeah.
+
+555
+00:29:00,780 --> 00:29:05,580
+It's like, I understand that this is a tough time in our lives where everybody's got some
+
+556
+00:29:05,580 --> 00:29:10,220
+hidden battle they don't see, but it only really takes a couple seconds to get that
+
+557
+00:29:10,220 --> 00:29:12,540
+bathroom pass and the rules are there for a reason.
+
+558
+00:29:13,420 --> 00:29:13,920
+Thank you.
+
+559
+00:29:14,880 --> 00:29:18,960
+And he comes back into reality and...
+
+560
+00:29:20,000 --> 00:29:21,600
+Oh, yeah.
+
+561
+00:29:21,600 --> 00:29:22,080
+Hi.
+
+562
+00:29:22,080 --> 00:29:22,640
+Hey.
+
+563
+00:29:22,640 --> 00:29:23,280
+Hi.
+
+564
+00:29:23,280 --> 00:29:24,720
+What are you doing here?
+
+565
+00:29:24,720 --> 00:29:26,320
+I don't have a bathroom pass.
+
+566
+00:29:28,160 --> 00:29:28,720
+What?
+
+567
+00:29:28,720 --> 00:29:30,160
+You're the hall monitor.
+
+568
+00:29:30,160 --> 00:29:31,440
+I'm with the FBI.
+
+569
+00:29:31,440 --> 00:29:35,600
+I was a hall monitor for all 12 years of my public schooling.
+
+570
+00:29:37,360 --> 00:29:38,640
+You were the football giant.
+
+571
+00:29:39,440 --> 00:29:40,720
+Weren't you going to go pro?
+
+572
+00:29:40,720 --> 00:29:42,400
+Those days are behind him.
+
+573
+00:29:42,400 --> 00:29:43,280
+Jesus Christ.
+
+574
+00:29:44,720 --> 00:29:48,080
+The Elwood turns sideways and you finally see him.
+
+575
+00:29:48,080 --> 00:29:51,520
+Yeah, he leers out from behind the giant.
+
+576
+00:29:52,480 --> 00:29:54,000
+Oh, look, it's a little birdie.
+
+577
+00:29:55,840 --> 00:29:58,240
+Elwood Boyd, smelly Ellie.
+
+578
+00:29:58,240 --> 00:29:59,280
+Good to see you, I guess.
+
+579
+00:30:00,000 --> 00:30:01,280
+How you been?
+
+580
+00:30:01,280 --> 00:30:04,720
+I never, I never wrote up anybody more than you.
+
+581
+00:30:04,720 --> 00:30:06,400
+You sure did seem to have a thing for me.
+
+582
+00:30:06,400 --> 00:30:06,880
+Yeah.
+
+583
+00:30:06,880 --> 00:30:08,080
+I had a thing for justice.
+
+584
+00:30:08,880 --> 00:30:09,520
+I still do.
+
+585
+00:30:10,160 --> 00:30:10,960
+That's why I'm here.
+
+586
+00:30:10,960 --> 00:30:11,520
+What?
+
+587
+00:30:11,520 --> 00:30:13,120
+Why are you two here?
+
+588
+00:30:13,120 --> 00:30:13,600
+Elwood.
+
+589
+00:30:15,120 --> 00:30:15,760
+It's his reason.
+
+590
+00:30:17,680 --> 00:30:18,880
+We're here for a thing.
+
+591
+00:30:20,160 --> 00:30:22,240
+It's opera night.
+
+592
+00:30:22,240 --> 00:30:23,040
+Opera.
+
+593
+00:30:23,040 --> 00:30:26,960
+You two are here for the night at the opera.
+
+594
+00:30:26,960 --> 00:30:33,440
+You can reach in and find what was left for you in this envelope, which was FBI credentials
+
+595
+00:30:33,440 --> 00:30:37,680
+that will not hold up for more than, you know, two or three days.
+
+596
+00:30:37,680 --> 00:30:39,440
+But they'll hold up for a little bit.
+
+597
+00:30:39,440 --> 00:30:42,800
+Yeah, it looks like we're on the same playing field today.
+
+598
+00:30:42,800 --> 00:30:48,000
+Clarissa is now terrified because she has actual FBI credentials.
+
+599
+00:30:48,000 --> 00:30:48,240
+Right.
+
+600
+00:30:48,240 --> 00:30:53,040
+She knows she's going to have, like, if these two fuck up when she's trying to interact
+
+601
+00:30:53,040 --> 00:30:58,480
+with real FBI, it's going to mean everything she's worked for could go down the shitter.
+
+602
+00:30:59,040 --> 00:31:01,520
+Yeah, but hey, they seem on the up and up.
+
+603
+00:31:04,960 --> 00:31:11,200
+It looks like Kevin and I here possess a set of skills that are indispensable for today.
+
+604
+00:31:12,160 --> 00:31:13,280
+What do you make of that?
+
+605
+00:31:13,280 --> 00:31:17,040
+The Delta Green pair, you know, like a character sheet for you.
+
+606
+00:31:17,040 --> 00:31:18,000
+Any kind of overview.
+
+607
+00:31:19,040 --> 00:31:20,160
+What skills would those be?
+
+608
+00:31:23,840 --> 00:31:29,280
+I'm good at getting in the places and I can take things without people seeing that those
+
+609
+00:31:29,280 --> 00:31:30,080
+things got taken.
+
+610
+00:31:31,280 --> 00:31:32,000
+I smash.
+
+611
+00:31:34,880 --> 00:31:37,120
+Okay, so we got a Hulk and a thief.
+
+612
+00:31:38,000 --> 00:31:42,560
+As much as I'm loathe to admit it, those skills might come in handy.
+
+613
+00:31:42,560 --> 00:31:45,120
+I reckon you couldn't get by without us.
+
+614
+00:31:45,120 --> 00:31:47,200
+I reckon I could get by without just about anyone.
+
+615
+00:31:48,640 --> 00:31:51,040
+But here's the deal.
+
+616
+00:31:51,040 --> 00:31:56,560
+If you two have to pass as FBI with me, you're going to keep your mouth shut when we're talking
+
+617
+00:31:56,560 --> 00:31:57,360
+to real FBI.
+
+618
+00:31:58,000 --> 00:31:59,200
+You're not going to embarrass me.
+
+619
+00:32:00,000 --> 00:32:03,200
+You're not going to jeopardize what I do outside of this.
+
+620
+00:32:03,200 --> 00:32:07,920
+In order, I'd say sure, maybe, and we'll see.
+
+621
+00:32:11,120 --> 00:32:13,680
+Thomas doesn't remember what he just proposed to you, so yeah.
+
+622
+00:32:13,680 --> 00:32:14,640
+I was like, what is your...
+
+623
+00:32:16,640 --> 00:32:18,720
+If Elwood likes it, I'll do it.
+
+624
+00:32:18,720 --> 00:32:20,800
+Yeah, I mean, they summoned us.
+
+625
+00:32:20,800 --> 00:32:24,720
+They obviously see that we are needed here and we're going to do what we can.
+
+626
+00:32:25,280 --> 00:32:29,440
+Okay, so she's got your credentials, like the FBI credentials in her hands, and she's
+
+627
+00:32:29,440 --> 00:32:31,440
+like, consider these hall passes.
+
+628
+00:32:32,160 --> 00:32:37,840
+This is a privilege and not a right, and it can be revoked at any moment, and she passes
+
+629
+00:32:37,840 --> 00:32:38,400
+it out to you.
+
+630
+00:32:40,080 --> 00:32:40,580
+Thanks.
+
+631
+00:32:41,120 --> 00:32:51,520
+Once you've landed, the pilot actually pops out from the pirate's cabin, which it says
+
+632
+00:32:51,520 --> 00:32:58,480
+on the door, and he's got a peg leg and a fun three-point hat with the skull and crossbones
+
+633
+00:32:58,480 --> 00:32:59,120
+on it.
+
+634
+00:32:59,680 --> 00:33:01,280
+It's themed chartered airplanes.
+
+635
+00:33:01,280 --> 00:33:09,520
+It's March 25th, which is when this specific company celebrates Halloween, and he says,
+
+636
+00:33:09,520 --> 00:33:21,120
+argh, there's a car outside waiting for ye, and there's a key, a skeleton key that's on
+
+637
+00:33:21,120 --> 00:33:21,600
+the wheel.
+
+638
+00:33:22,240 --> 00:33:25,440
+Thanks for flying our American Airlines.
+
+639
+00:33:25,520 --> 00:33:30,720
+And so there's a car waiting for you guys.
+
+640
+00:33:30,720 --> 00:33:31,760
+What kind of car do you want?
+
+641
+00:33:31,760 --> 00:33:32,720
+A Jaguar.
+
+642
+00:33:32,720 --> 00:33:34,160
+Okay, there's a Jaguar.
+
+643
+00:33:37,040 --> 00:33:43,440
+Okay, there's an old shitty used Jaguar waiting for you guys to the point to where like the
+
+644
+00:33:43,440 --> 00:33:46,720
+mount, like the hood ornament is missing.
+
+645
+00:33:46,720 --> 00:33:48,960
+This is like a beat up old Jag.
+
+646
+00:33:48,960 --> 00:33:51,040
+Can I use my mechanic role too?
+
+647
+00:33:51,680 --> 00:33:53,120
+Which is what we call my uncle.
+
+648
+00:33:56,320 --> 00:34:01,360
+Kevin would know that on this old Jag, the hood ornament actually pops out.
+
+649
+00:34:02,640 --> 00:34:05,520
+So can I do a mechanic role to see if I can get it to pop out?
+
+650
+00:34:05,520 --> 00:34:06,480
+Absolutely you can.
+
+651
+00:34:10,640 --> 00:34:11,440
+It's broken.
+
+652
+00:34:12,720 --> 00:34:18,640
+So you guys see this enormous monstrosity in a yellow shirt and blue overalls and these
+
+653
+00:34:18,640 --> 00:34:24,240
+big thick goggles and three strands of hair walk over to this car and kind of.
+
+654
+00:34:24,240 --> 00:34:29,040
+Kind of touching where the hood ornament should be and he like pokes it, but his finger
+
+655
+00:34:29,040 --> 00:34:30,720
+just goes down into the metal.
+
+656
+00:34:31,360 --> 00:34:36,880
+He poked it way too hard and he like completely destroys where it would pop out.
+
+657
+00:34:36,880 --> 00:34:38,880
+Just like pressing aluminum foil.
+
+658
+00:34:38,880 --> 00:34:42,320
+Yeah, like crushing a little tin little coke can.
+
+659
+00:34:43,440 --> 00:34:49,040
+Kevin gets in the passenger seat of the car and the car just like almost touches the ground
+
+660
+00:34:49,040 --> 00:34:50,560
+with him in it.
+
+661
+00:34:50,560 --> 00:34:59,600
+As you guys head off to the Ocean City Police Department, it's currently March 25th, 2016.
+
+662
+00:34:59,600 --> 00:35:04,560
+The first murder happened on March 21st, so that was four days ago.
+
+663
+00:35:04,560 --> 00:35:10,240
+It is strange that there's some reason that he looked right directly at it happening and
+
+664
+00:35:10,240 --> 00:35:11,760
+he didn't do anything about it.
+
+665
+00:35:11,760 --> 00:35:12,260
+Nothing.
+
+666
+00:35:12,720 --> 00:35:14,000
+You think maybe he was scared?
+
+667
+00:35:14,640 --> 00:35:15,140
+Yeah.
+
+668
+00:35:16,160 --> 00:35:17,280
+Do you think that?
+
+669
+00:35:17,280 --> 00:35:22,480
+Perhaps there was some sort of optical refraction in the way.
+
+670
+00:35:22,480 --> 00:35:25,280
+Some natural phenomenon we can't really see getting in the way.
+
+671
+00:35:25,280 --> 00:35:27,040
+Maybe some kind of glare on the window.
+
+672
+00:35:27,920 --> 00:35:31,760
+Elwood, you've been reading those magic books.
+
+673
+00:35:31,760 --> 00:35:32,800
+I don't like.
+
+674
+00:35:32,800 --> 00:35:33,300
+Maybe.
+
+675
+00:35:34,480 --> 00:35:36,160
+Is there something like that?
+
+676
+00:35:37,520 --> 00:35:41,520
+There is nothing in Penn and Teller's How to Do Magic to prepare me for this.
+
+677
+00:35:41,520 --> 00:35:42,020
+No.
+
+678
+00:35:43,120 --> 00:35:44,400
+Yeah, I never liked.
+
+679
+00:35:44,400 --> 00:35:46,240
+It's always made me scared.
+
+680
+00:35:46,240 --> 00:35:47,280
+I love Penn and Teller.
+
+681
+00:35:47,280 --> 00:35:48,640
+They are good, aren't they?
+
+682
+00:35:48,640 --> 00:35:49,360
+They're serious.
+
+683
+00:35:50,320 --> 00:35:52,640
+He pulled a card out of my ear.
+
+684
+00:35:52,640 --> 00:35:54,000
+I couldn't feel it in there.
+
+685
+00:35:57,280 --> 00:35:58,960
+Maybe he's a magician.
+
+686
+00:36:00,160 --> 00:36:02,160
+I guess maybe some kind of sleight of hand.
+
+687
+00:36:02,160 --> 00:36:03,040
+He distracted him.
+
+688
+00:36:03,680 --> 00:36:06,800
+He maybe waved his hand in the air and that's what the guy looked at and then.
+
+689
+00:36:07,680 --> 00:36:11,120
+And maybe we didn't see that happen because it worked on us too.
+
+690
+00:36:11,680 --> 00:36:13,600
+Is this your first night at the opera?
+
+691
+00:36:13,600 --> 00:36:15,920
+No, I've done a couple.
+
+692
+00:36:16,480 --> 00:36:22,400
+You ever see anything on either of those nights that might be explained by close-up magic?
+
+693
+00:36:23,520 --> 00:36:27,600
+You think you get one of those envelopes when Penn and Teller are loose?
+
+694
+00:36:29,200 --> 00:36:32,560
+Well, it says here he was a Delta Green agent.
+
+695
+00:36:32,560 --> 00:36:36,560
+I assume that they just want us to make sure that all the T's are dotted and the I's are crossed.
+
+696
+00:36:39,520 --> 00:36:40,720
+Cross your I's.
+
+697
+00:36:40,800 --> 00:36:44,160
+If he's a magician, he's bad.
+
+698
+00:36:45,360 --> 00:36:48,320
+He does seem to leave a trail of bodies everywhere he goes.
+
+699
+00:36:48,320 --> 00:36:50,800
+That's not something that Penn and Teller do as far as I know.
+
+700
+00:36:50,800 --> 00:36:54,720
+Agent Clarissa puts in some headphones and starts reviewing the files herself.
+
+701
+00:36:57,360 --> 00:37:01,200
+The Ocean City Police Station is buzzing.
+
+702
+00:37:01,200 --> 00:37:04,480
+It is an extremely busy day here.
+
+703
+00:37:04,480 --> 00:37:06,080
+People are running around.
+
+704
+00:37:06,560 --> 00:37:12,640
+It's around 11 30 a.m. on March 25, 2016.
+
+705
+00:37:12,640 --> 00:37:16,480
+Someone greets you at the counter as the three of you arrive.
+
+706
+00:37:19,040 --> 00:37:20,400
+Hell yes, hi.
+
+707
+00:37:20,400 --> 00:37:23,040
+Special Agent Clarissa Sparrow, FBI.
+
+708
+00:37:23,920 --> 00:37:26,960
+These are my partners on this particular task force.
+
+709
+00:37:26,960 --> 00:37:27,840
+She slaps.
+
+710
+00:37:27,840 --> 00:37:29,120
+Luke is waving.
+
+711
+00:37:30,480 --> 00:37:31,920
+Kevin starts waving really good.
+
+712
+00:37:31,920 --> 00:37:35,680
+And Clarissa without even looking just slaps his hand down behind her.
+
+713
+00:37:36,480 --> 00:37:39,840
+Elwitt's kind of in the back legs kind of cross looking at the floor.
+
+714
+00:37:39,840 --> 00:37:44,000
+Quinlan and Gambeson are still at lunch, but you can talk to Garza.
+
+715
+00:37:44,000 --> 00:37:45,520
+Agent Garza from the FBI.
+
+716
+00:37:46,240 --> 00:37:48,480
+Sorry, he's in the first conference room.
+
+717
+00:37:48,480 --> 00:37:49,680
+That's where we have him set up.
+
+718
+00:37:49,680 --> 00:37:50,080
+Thank you.
+
+719
+00:37:50,080 --> 00:37:50,800
+And she points.
+
+720
+00:37:51,440 --> 00:37:56,800
+And you see an extremely large man, massively obese in his mid 60s.
+
+721
+00:37:56,800 --> 00:38:00,480
+He has a graying comb over and a gray suit.
+
+722
+00:38:00,480 --> 00:38:07,040
+He's wearing a red tie and you see red suspenders are poking out from his suit jacket,
+
+723
+00:38:07,040 --> 00:38:10,480
+which will not even get close to closing,
+
+724
+00:38:10,480 --> 00:38:15,520
+like to the point to where you can see both suspenders in full visibility.
+
+725
+00:38:16,080 --> 00:38:19,200
+And he's just om-nomming a grinder.
+
+726
+00:38:19,200 --> 00:38:20,960
+He is just going to town.
+
+727
+00:38:20,960 --> 00:38:24,960
+He's just like, oh, come in, come in, come on in.
+
+728
+00:38:25,840 --> 00:38:26,720
+Sit down.
+
+729
+00:38:26,800 --> 00:38:27,520
+You're the FBI?
+
+730
+00:38:30,480 --> 00:38:34,000
+Sorry, I got to get through this lunch while we're going, if that's cool.
+
+731
+00:38:34,000 --> 00:38:35,920
+I'm just going to eat while I talk.
+
+732
+00:38:35,920 --> 00:38:36,480
+Is that good?
+
+733
+00:38:36,480 --> 00:38:37,120
+You like that?
+
+734
+00:38:37,120 --> 00:38:39,200
+Elwitt, do you want him to eat while we talk?
+
+735
+00:38:40,640 --> 00:38:41,140
+Sure.
+
+736
+00:38:41,440 --> 00:38:41,760
+Good.
+
+737
+00:38:41,760 --> 00:38:42,260
+Yeah.
+
+738
+00:38:42,960 --> 00:38:47,920
+He goes, stands up, goes to shake your hand and he's got mayo like all over his fingers.
+
+739
+00:38:47,920 --> 00:38:48,880
+And he's like, oh shit.
+
+740
+00:38:48,880 --> 00:38:54,720
+And he rubs it just immediately on his jacket and then reaches his hand back out and says,
+
+741
+00:38:54,720 --> 00:38:57,680
+Agent Garza, but everybody calls me Uncle Jimmy.
+
+742
+00:38:57,680 --> 00:39:01,440
+Clarissa nods curtly, does not extend her hand and says,
+
+743
+00:39:02,160 --> 00:39:05,600
+Agent Clarissa Sparrow, priest to meet you, Agent Garza.
+
+744
+00:39:05,600 --> 00:39:06,100
+Sparrow.
+
+745
+00:39:06,960 --> 00:39:07,600
+All right.
+
+746
+00:39:07,600 --> 00:39:08,080
+Sounds good.
+
+747
+00:39:08,080 --> 00:39:08,720
+Agent Boyd.
+
+748
+00:39:09,360 --> 00:39:11,120
+And I firmly grabbed his hand.
+
+749
+00:39:11,120 --> 00:39:15,600
+And when I pull it away, I do a quick lick of my hand.
+
+750
+00:39:15,600 --> 00:39:16,100
+Jesus.
+
+751
+00:39:16,800 --> 00:39:19,360
+Whoa, did you get some of my sandwich in there?
+
+752
+00:39:19,360 --> 00:39:20,640
+Some of the mayonnaise was on there.
+
+753
+00:39:20,640 --> 00:39:21,280
+It's fine.
+
+754
+00:39:21,280 --> 00:39:22,160
+Okay.
+
+755
+00:39:22,160 --> 00:39:22,560
+All right.
+
+756
+00:39:22,640 --> 00:39:23,140
+Hi.
+
+757
+00:39:23,760 --> 00:39:24,000
+Wow.
+
+758
+00:39:24,000 --> 00:39:25,120
+You're a big fella, aren't you?
+
+759
+00:39:25,760 --> 00:39:26,480
+Did you play a game?
+
+760
+00:39:27,360 --> 00:39:28,880
+Those days are behind him though.
+
+761
+00:39:28,880 --> 00:39:31,040
+I still like to think about it.
+
+762
+00:39:31,040 --> 00:39:33,760
+I mean, you look like you could go pro any second.
+
+763
+00:39:33,760 --> 00:39:34,800
+I could have.
+
+764
+00:39:34,800 --> 00:39:35,840
+What happened?
+
+765
+00:39:35,840 --> 00:39:37,200
+Elwitt told me not to.
+
+766
+00:39:37,200 --> 00:39:38,800
+He decided not to.
+
+767
+00:39:38,800 --> 00:39:40,720
+Yeah, I decided not to.
+
+768
+00:39:40,720 --> 00:39:42,560
+Well, let's get down to brass tacks here.
+
+769
+00:39:42,560 --> 00:39:45,680
+And he slams pictures down on the desk in front of you.
+
+770
+00:39:45,680 --> 00:39:52,240
+Also, quick shout out to Dylan B from Deadwood, South Dakota for the NPC
+
+771
+00:39:52,240 --> 00:39:53,440
+Uncle Jimmy.
+
+772
+00:39:53,440 --> 00:39:55,440
+That one is just the TV show.
+
+773
+00:39:57,280 --> 00:40:01,760
+And Dylan B is a patron at at least our $10 level.
+
+774
+00:40:01,760 --> 00:40:06,160
+So he gets to create an NPC and a location that might get used.
+
+775
+00:40:06,160 --> 00:40:06,960
+An empuk.
+
+776
+00:40:06,960 --> 00:40:07,680
+An empuk.
+
+777
+00:40:07,680 --> 00:40:09,200
+And this is an empuk.
+
+778
+00:40:09,200 --> 00:40:14,640
+And so we've got this jovial man who insists that everyone call him uncle,
+
+779
+00:40:14,640 --> 00:40:18,080
+who is out of breath and sweating with any movement.
+
+780
+00:40:18,080 --> 00:40:18,580
+Nice.
+
+781
+00:40:19,280 --> 00:40:20,320
+All right, let's get down.
+
+782
+00:40:20,640 --> 00:40:22,960
+And he slams these pictures down on the table.
+
+783
+00:40:22,960 --> 00:40:26,880
+And it is horribly disturbing crime scene photos.
+
+784
+00:40:26,880 --> 00:40:28,560
+So everyone roll sanity for me.
+
+785
+00:40:29,360 --> 00:40:29,860
+Pass.
+
+786
+00:40:31,040 --> 00:40:33,760
+I also pass a 29 on a 45.
+
+787
+00:40:33,760 --> 00:40:35,600
+I got a 14 on a 45.
+
+788
+00:40:35,600 --> 00:40:37,600
+72 on an 80.
+
+789
+00:40:37,600 --> 00:40:38,160
+Oh, wow.
+
+790
+00:40:38,160 --> 00:40:39,760
+Okay, so everyone 80.
+
+791
+00:40:39,760 --> 00:40:40,160
+Jesus.
+
+792
+00:40:40,160 --> 00:40:41,760
+So everyone passes.
+
+793
+00:40:41,760 --> 00:40:43,760
+You are going to lose no sanity.
+
+794
+00:40:43,760 --> 00:40:45,200
+You've all seen stuff like this.
+
+795
+00:40:45,280 --> 00:40:47,680
+And he looks up at your faces.
+
+796
+00:40:47,680 --> 00:40:52,320
+And then he looks back down at these bloody violent pictures
+
+797
+00:40:52,320 --> 00:40:56,160
+where this normal home has been completely torn up.
+
+798
+00:40:56,160 --> 00:41:01,680
+And the two victims are missing their eyes and tongues.
+
+799
+00:41:02,240 --> 00:41:07,120
+Blood is covering the faces and splattering the ground behind them.
+
+800
+00:41:07,120 --> 00:41:12,160
+And the woman, Eileen McCarty, the ex-wife of Arvin Chilton,
+
+801
+00:41:12,160 --> 00:41:16,400
+is basically it's impossible to tell who she is.
+
+802
+00:41:16,400 --> 00:41:20,640
+And even her husband, it's impossible to really make out their faces,
+
+803
+00:41:20,640 --> 00:41:24,640
+because without an eyes and with all this blood covering bruises,
+
+804
+00:41:24,640 --> 00:41:29,520
+without eyes, without eyes, it's going to be hard to recognize these folks.
+
+805
+00:41:29,520 --> 00:41:30,640
+And he slams down.
+
+806
+00:41:30,640 --> 00:41:31,360
+He goes down.
+
+807
+00:41:31,360 --> 00:41:33,200
+You see anything crazy out of the ordinary?
+
+808
+00:41:33,200 --> 00:41:35,120
+You looked at all this information.
+
+809
+00:41:35,120 --> 00:41:38,160
+You saw there's no sign of forced entry.
+
+810
+00:41:38,160 --> 00:41:41,680
+Clearly, a neighbor even saw the husband and wife
+
+811
+00:41:41,680 --> 00:41:43,840
+let this ex-husband into their house.
+
+812
+00:41:44,480 --> 00:41:45,760
+You saw the weapon.
+
+813
+00:41:45,760 --> 00:41:48,560
+It was this large hook knife, I guess.
+
+814
+00:41:49,120 --> 00:41:53,200
+But me personally, if you're asking me, which you are,
+
+815
+00:41:53,840 --> 00:41:56,240
+I don't think that that body...
+
+816
+00:41:56,240 --> 00:41:59,600
+And he points at this just destroyed face.
+
+817
+00:41:59,600 --> 00:42:02,400
+I don't think that that's Eileen McCarty.
+
+818
+00:42:04,000 --> 00:42:06,800
+What reason do you have to believe that that's not Eileen McCarty?
+
+819
+00:42:06,800 --> 00:42:16,320
+Eileen McCarty was seen by witnesses in New York state on March 23rd at a gas station.
+
+820
+00:42:17,040 --> 00:42:19,040
+When was this picture taken?
+
+821
+00:42:19,040 --> 00:42:20,320
+That was March 21st.
+
+822
+00:42:20,320 --> 00:42:21,440
+That was the day of the murder.
+
+823
+00:42:22,160 --> 00:42:25,360
+Medical examiner said, you know, torture, death.
+
+824
+00:42:25,920 --> 00:42:30,320
+The torture was prolonged, extremely violent, obviously.
+
+825
+00:42:30,320 --> 00:42:33,840
+And he taps really hard and gets mayonnaise all over the pictures
+
+826
+00:42:33,840 --> 00:42:35,120
+that he's put out on this desk.
+
+827
+00:42:37,040 --> 00:42:37,920
+But I'm not worried.
+
+828
+00:42:37,920 --> 00:42:38,480
+I'm not worried.
+
+829
+00:42:38,480 --> 00:42:39,120
+You guys are here.
+
+830
+00:42:39,120 --> 00:42:40,800
+You guys are here to take care of everything.
+
+831
+00:42:40,800 --> 00:42:43,280
+And I understand that we needed reinforcements on this thing.
+
+832
+00:42:43,280 --> 00:42:44,560
+It's already been three days.
+
+833
+00:42:44,560 --> 00:42:45,920
+Everything's up in the air right now.
+
+834
+00:42:45,920 --> 00:42:48,320
+Everyone's pretty fucking confused.
+
+835
+00:42:48,320 --> 00:42:52,560
+But I think one of three things is going to happen.
+
+836
+00:42:52,560 --> 00:42:55,520
+He's either going to use his credit card, which we've tagged.
+
+837
+00:42:55,520 --> 00:42:59,280
+He's going to get pulled over or ticketed in a known car.
+
+838
+00:42:59,280 --> 00:43:03,280
+Or he's just going to overplay his hand in some other way.
+
+839
+00:43:03,280 --> 00:43:05,680
+He's going to make a mistake and then we'll get him.
+
+840
+00:43:05,680 --> 00:43:06,640
+He's a desperate man.
+
+841
+00:43:07,440 --> 00:43:09,680
+Desperate man make desperate moves.
+
+842
+00:43:10,640 --> 00:43:14,080
+And that allows for reasonable people to catch him.
+
+843
+00:43:15,360 --> 00:43:17,520
+Is the footage from the gas station,
+
+844
+00:43:17,520 --> 00:43:20,400
+is that his last known appearance for us?
+
+845
+00:43:20,400 --> 00:43:21,200
+Yeah.
+
+846
+00:43:21,200 --> 00:43:21,440
+Yeah.
+
+847
+00:43:21,440 --> 00:43:23,520
+It's the last time we saw him.
+
+848
+00:43:23,520 --> 00:43:29,200
+Also, that gas station, I think, and he like picks around at some of his notes.
+
+849
+00:43:29,200 --> 00:43:33,760
+He's like, yeah, actually that gas station is where?
+
+850
+00:43:33,760 --> 00:43:34,480
+Eileen.
+
+851
+00:43:35,040 --> 00:43:38,400
+Eileen McCarty was seen the same day of that murder.
+
+852
+00:43:39,120 --> 00:43:40,240
+She was seen there.
+
+853
+00:43:40,240 --> 00:43:42,480
+Eileen McCarty was seen at the same gas station
+
+854
+00:43:42,480 --> 00:43:44,720
+where that attendant was brutally murdered by.
+
+855
+00:43:44,720 --> 00:43:45,040
+Yeah.
+
+856
+00:43:45,040 --> 00:43:47,120
+And two days after she supposedly died.
+
+857
+00:43:47,120 --> 00:43:48,400
+According to what witnesses?
+
+858
+00:43:48,400 --> 00:43:49,440
+Multiple witnesses.
+
+859
+00:43:50,720 --> 00:43:51,280
+Who?
+
+860
+00:43:51,280 --> 00:43:51,840
+Multiple.
+
+861
+00:43:55,680 --> 00:43:57,520
+Is that all you, Zach Note?
+
+862
+00:43:57,520 --> 00:43:58,960
+Multiple witnesses.
+
+863
+00:44:00,320 --> 00:44:01,200
+What do you want to know?
+
+864
+00:44:01,200 --> 00:44:04,240
+What do you want to know if they're like smart, if they could see?
+
+865
+00:44:04,880 --> 00:44:10,560
+I want to know why people in not her state at a gas station could identify her.
+
+866
+00:44:10,560 --> 00:44:12,320
+We were showing photos.
+
+867
+00:44:12,320 --> 00:44:16,720
+Have we identified the person on that footage that pulled up to the gas station?
+
+868
+00:44:16,720 --> 00:44:18,240
+No, the one who left, no.
+
+869
+00:44:18,240 --> 00:44:21,360
+But we did identify the guy who died.
+
+870
+00:44:22,000 --> 00:44:24,800
+His name was Quentin Harris, who's 59.
+
+871
+00:44:24,800 --> 00:44:27,920
+Do you think the guy in the car that drove off did it?
+
+872
+00:44:27,920 --> 00:44:29,680
+Well, no.
+
+873
+00:44:29,680 --> 00:44:30,240
+No.
+
+874
+00:44:30,240 --> 00:44:32,480
+Cause it's on tape.
+
+875
+00:44:32,480 --> 00:44:33,360
+It's Arvin Chilton.
+
+876
+00:44:33,440 --> 00:44:34,080
+You saw it.
+
+877
+00:44:35,040 --> 00:44:35,360
+Yeah.
+
+878
+00:44:36,000 --> 00:44:36,880
+Okay.
+
+879
+00:44:36,880 --> 00:44:37,200
+Yeah.
+
+880
+00:44:37,200 --> 00:44:38,000
+You saw that, right?
+
+881
+00:44:38,560 --> 00:44:39,280
+Yeah.
+
+882
+00:44:39,280 --> 00:44:40,240
+Do you want to watch it again?
+
+883
+00:44:41,120 --> 00:44:43,120
+No, he's well aware.
+
+884
+00:44:43,120 --> 00:44:44,080
+He's testing you.
+
+885
+00:44:44,080 --> 00:44:47,040
+He's got an interesting investigative mind.
+
+886
+00:44:47,040 --> 00:44:52,400
+But why don't you save the mind games for Kevin is extremely confused, but just nods
+
+887
+00:44:52,400 --> 00:44:53,520
+his head and agrees.
+
+888
+00:44:55,360 --> 00:44:58,960
+Was Eileen McCarty seen at the gas station before or after the murder?
+
+889
+00:44:58,960 --> 00:44:59,840
+Before.
+
+890
+00:44:59,840 --> 00:45:00,640
+How long before?
+
+891
+00:45:01,360 --> 00:45:03,200
+He picks through a couple more notes.
+
+892
+00:45:03,200 --> 00:45:08,960
+Mayo is just spreading throughout, slowly getting on everything.
+
+893
+00:45:08,960 --> 00:45:15,200
+If any of those drops kind of come near Elwood, he's wiping a finger up and tasting it.
+
+894
+00:45:15,200 --> 00:45:22,000
+Oh, uncle Jimmy looks over at Clarissa and is just like, how long have you three been
+
+895
+00:45:22,000 --> 00:45:22,720
+working together?
+
+896
+00:45:23,280 --> 00:45:24,960
+This partnership is very recent.
+
+897
+00:45:24,960 --> 00:45:25,460
+Hmm.
+
+898
+00:45:26,400 --> 00:45:27,360
+I'm sorry.
+
+899
+00:45:27,360 --> 00:45:29,120
+He's been my friend a long time.
+
+900
+00:45:29,120 --> 00:45:30,400
+Yeah, I get that.
+
+901
+00:45:30,400 --> 00:45:31,760
+I see that in the two of you.
+
+902
+00:45:31,760 --> 00:45:32,400
+All right.
+
+903
+00:45:32,400 --> 00:45:35,520
+So, yeah, if you want any phone records, there's really not much there.
+
+904
+00:45:35,520 --> 00:45:38,400
+We've got it tracked and an alert is set on it.
+
+905
+00:45:38,400 --> 00:45:42,640
+So if he makes any phone calls, we're going to know about it.
+
+906
+00:45:42,640 --> 00:45:44,320
+And I think that's how we're going to get him.
+
+907
+00:45:45,440 --> 00:45:47,520
+Nothing out of sorts.
+
+908
+00:45:47,520 --> 00:45:51,680
+He did call Eileen on the morning of March 16th.
+
+909
+00:45:51,680 --> 00:45:54,480
+So that's five days pre death.
+
+910
+00:45:55,280 --> 00:45:57,760
+Supposed death of Eileen McCarty.
+
+911
+00:45:57,760 --> 00:45:59,760
+Did we try just calling him?
+
+912
+00:45:59,760 --> 00:46:00,160
+Yeah.
+
+913
+00:46:00,160 --> 00:46:00,960
+What happened?
+
+914
+00:46:00,960 --> 00:46:01,920
+He didn't pick up.
+
+915
+00:46:01,920 --> 00:46:02,880
+Can I try?
+
+916
+00:46:02,880 --> 00:46:04,400
+No, I mean, sure.
+
+917
+00:46:04,400 --> 00:46:05,360
+You can if you want.
+
+918
+00:46:05,360 --> 00:46:06,080
+I don't care.
+
+919
+00:46:06,080 --> 00:46:06,400
+Yes.
+
+920
+00:46:06,400 --> 00:46:07,680
+I dialed the phone number.
+
+921
+00:46:08,720 --> 00:46:09,360
+Okay.
+
+922
+00:46:09,360 --> 00:46:12,400
+Did you learn about that March 16th call from phone records?
+
+923
+00:46:12,400 --> 00:46:12,880
+Yeah.
+
+924
+00:46:12,880 --> 00:46:15,520
+How long did they indicate that that phone call lasted?
+
+925
+00:46:15,520 --> 00:46:17,520
+Two minutes, one second.
+
+926
+00:46:17,520 --> 00:46:18,880
+71 seconds.
+
+927
+00:46:18,880 --> 00:46:20,560
+Oh, 71 is wrong.
+
+928
+00:46:20,560 --> 00:46:21,060
+Huh.
+
+929
+00:46:21,520 --> 00:46:22,960
+121.
+
+930
+00:46:22,960 --> 00:46:25,760
+No, math was never my strong suit.
+
+931
+00:46:25,760 --> 00:46:27,920
+Uncle Jimmy's good at a lot of stuff.
+
+932
+00:46:27,920 --> 00:46:28,720
+Math ain't it?
+
+933
+00:46:28,720 --> 00:46:29,220
+Ha.
+
+934
+00:46:29,620 --> 00:46:34,660
+Did you have many nieces and nephews, Agent Garza?
+
+935
+00:46:35,220 --> 00:46:37,620
+Yeah, four.
+
+936
+00:46:37,620 --> 00:46:38,660
+What are their full names?
+
+937
+00:46:38,660 --> 00:46:39,220
+What do they do?
+
+938
+00:46:40,420 --> 00:46:43,060
+Where were they on March 23rd?
+
+939
+00:46:43,700 --> 00:46:44,200
+Why?
+
+940
+00:46:44,740 --> 00:46:46,580
+Anything that can help.
+
+941
+00:46:46,580 --> 00:46:47,060
+It's weird.
+
+942
+00:46:47,060 --> 00:46:47,540
+Didn't you say?
+
+943
+00:46:47,540 --> 00:46:50,420
+We've also got credit card tracking info.
+
+944
+00:46:50,420 --> 00:46:55,380
+It's completely normal until March 20th, day before the first murder.
+
+945
+00:46:55,380 --> 00:46:58,020
+Becomes irregular and then ceases.
+
+946
+00:46:58,820 --> 00:46:59,940
+What does that mean?
+
+947
+00:46:59,940 --> 00:47:02,260
+Yeah, it got weird and then stopped.
+
+948
+00:47:02,260 --> 00:47:03,060
+Like what?
+
+949
+00:47:03,060 --> 00:47:08,180
+Yeah, basically he was clearly using the card not in Ocean City.
+
+950
+00:47:08,180 --> 00:47:14,020
+The card was being used up toward New York and then it just stops.
+
+951
+00:47:14,020 --> 00:47:18,420
+So it's clear that he used it, then committed the murder, hasn't used it since.
+
+952
+00:47:18,420 --> 00:47:19,860
+And what was his last call?
+
+953
+00:47:21,540 --> 00:47:22,020
+Let's see.
+
+954
+00:47:22,660 --> 00:47:23,940
+Go to the last page.
+
+955
+00:47:23,940 --> 00:47:25,300
+Flip, flip, flip, flip, flip.
+
+956
+00:47:26,180 --> 00:47:29,380
+Yeah, it goes to Alexander Duchesne.
+
+957
+00:47:30,340 --> 00:47:31,780
+What do we know about him?
+
+958
+00:47:31,780 --> 00:47:33,380
+He's the landlord.
+
+959
+00:47:34,020 --> 00:47:34,980
+Of Chilton?
+
+960
+00:47:34,980 --> 00:47:37,060
+Yeah, he's Arvin Chilton's landlord.
+
+961
+00:47:37,060 --> 00:47:38,980
+Alexander Duchesne, old guy.
+
+962
+00:47:38,980 --> 00:47:40,180
+How long did that call last?
+
+963
+00:47:40,900 --> 00:47:47,060
+That call was 29 seconds or zero minutes and 29 seconds.
+
+964
+00:47:47,060 --> 00:47:48,820
+Have we talked to him?
+
+965
+00:47:48,820 --> 00:47:49,860
+Quick math.
+
+966
+00:47:49,860 --> 00:47:51,140
+Have we talked to Duchesne?
+
+967
+00:47:51,140 --> 00:47:52,660
+Yeah, we've talked to Duchesne.
+
+968
+00:47:52,660 --> 00:47:53,620
+What did he say?
+
+969
+00:47:53,620 --> 00:47:54,980
+Talked to him on the 23rd.
+
+970
+00:47:55,860 --> 00:47:59,220
+He said that Arvin's been living with him for five years.
+
+971
+00:47:59,220 --> 00:48:00,740
+Arvin lives upstairs.
+
+972
+00:48:01,460 --> 00:48:06,420
+It's like one of those houses where just the upstairs is an apartment.
+
+973
+00:48:06,420 --> 00:48:10,660
+It's got an external doorway, stairs on the outside.
+
+974
+00:48:11,300 --> 00:48:15,060
+Gone up there into Arvin's apartment, but downstairs is where the old man lives.
+
+975
+00:48:15,700 --> 00:48:16,420
+I don't know, man.
+
+976
+00:48:16,420 --> 00:48:17,380
+Seems like a shut-in.
+
+977
+00:48:18,180 --> 00:48:22,580
+When Eileen was at that gas station, was that the Quinlan on duty at that time?
+
+978
+00:48:22,580 --> 00:48:24,500
+Does she have contact with Quinlan?
+
+979
+00:48:24,500 --> 00:48:26,340
+Uh, yeah, let's look.
+
+980
+00:48:26,340 --> 00:48:29,940
+And he'll flip through some video and...
+
+981
+00:48:33,220 --> 00:48:33,860
+Oh, no.
+
+982
+00:48:35,940 --> 00:48:36,660
+Oh, wow.
+
+983
+00:48:36,660 --> 00:48:37,140
+Yeah, no.
+
+984
+00:48:38,100 --> 00:48:40,580
+All the inside tapes must have gotten taken.
+
+985
+00:48:41,220 --> 00:48:42,020
+Bye.
+
+986
+00:48:42,020 --> 00:48:43,380
+That's really weird.
+
+987
+00:48:43,380 --> 00:48:44,100
+Who took him?
+
+988
+00:48:45,220 --> 00:48:48,740
+No, I mean, like, we never got him and he's flipping through and he's looking.
+
+989
+00:48:48,740 --> 00:48:49,940
+Yeah, they were never checked in.
+
+990
+00:48:49,940 --> 00:48:52,740
+Clarissa gives a little cough and she says,
+
+991
+00:48:52,740 --> 00:48:55,380
+Can I speak with my associates in the hallway for one moment?
+
+992
+00:48:55,380 --> 00:49:00,180
+Yeah, actually, I'm really busy here as he, like, finishes this huge sandwich.
+
+993
+00:49:00,180 --> 00:49:03,620
+There's a third of it left and he just shoves the entire thing in his mouth.
+
+994
+00:49:03,620 --> 00:49:06,180
+And he's like, I'll wrap up here.
+
+995
+00:49:06,180 --> 00:49:11,220
+And so if you guys want to head over to Chilton's and just kind of get lay of the land,
+
+996
+00:49:12,100 --> 00:49:17,860
+I'm sure you can talk to, uh, when, uh, uh, what are their names?
+
+997
+00:49:17,940 --> 00:49:20,980
+Quinlan and Gambeson, the PDs around here.
+
+998
+00:49:22,100 --> 00:49:24,740
+They'll be back after lunch and you can talk to them.
+
+999
+00:49:25,300 --> 00:49:28,260
+But yeah, go ahead and just head on out and we'll talk.
+
+1000
+00:49:28,260 --> 00:49:29,780
+We'll catch up later if you want.
+
+1001
+00:49:29,780 --> 00:49:31,380
+But he has seen the video.
+
+1002
+00:49:31,380 --> 00:49:31,780
+He has.
+
+1003
+00:49:32,340 --> 00:49:33,700
+He's very confused by it.
+
+1004
+00:49:33,700 --> 00:49:35,060
+It doesn't make any sense to him.
+
+1005
+00:49:35,060 --> 00:49:36,660
+And so that's all.
+
+1006
+00:49:36,660 --> 00:49:39,220
+He passed his sanity check and he's like,
+
+1007
+00:49:40,180 --> 00:49:40,980
+Yeah, I don't know.
+
+1008
+00:49:40,980 --> 00:49:41,780
+People are strange.
+
+1009
+00:49:41,780 --> 00:49:44,260
+The guy probably didn't want to be caught up in anything.
+
+1010
+00:49:44,260 --> 00:49:45,620
+Just needed to get away.
+
+1011
+00:49:45,620 --> 00:49:47,220
+You know, the bystander effect.
+
+1012
+00:49:47,220 --> 00:49:49,700
+He honestly probably had a little pot on him.
+
+1013
+00:49:49,700 --> 00:49:52,020
+You know, a lot of them do.
+
+1014
+00:49:52,020 --> 00:49:52,820
+Yeah.
+
+1015
+00:49:52,820 --> 00:49:53,940
+Bystanders.
+
+1016
+00:49:53,940 --> 00:49:54,580
+Yeah.
+
+1017
+00:49:54,580 --> 00:49:57,380
+Bystanders typically more like high standards.
+
+1018
+00:49:57,380 --> 00:49:58,180
+Am I right?
+
+1019
+00:49:58,180 --> 00:49:59,700
+That's very funny, Agent Garza.
+
+1020
+00:49:59,700 --> 00:50:00,180
+Thank you.
+
+1021
+00:50:00,180 --> 00:50:02,260
+Uh, Uncle Jimmy, you can call me Uncle Jimmy.
+
+1022
+00:50:04,020 --> 00:50:06,900
+This was, um, thank you for your assistance, Agent Garza.
+
+1023
+00:50:06,900 --> 00:50:07,860
+Thanks for coming.
+
+1024
+00:50:07,860 --> 00:50:08,260
+All right.
+
+1025
+00:50:08,260 --> 00:50:08,980
+Uh, yeah.
+
+1026
+00:50:08,980 --> 00:50:10,020
+Holler if you need anything.
+
+1027
+00:50:10,020 --> 00:50:11,140
+Here's my phone number.
+
+1028
+00:50:11,140 --> 00:50:12,420
+Here's my card.
+
+1029
+00:50:12,420 --> 00:50:14,340
+I'll be here or I'll be elsewhere.
+
+1030
+00:50:15,220 --> 00:50:16,580
+Isn't that how it always goes?
+
+1031
+00:50:16,580 --> 00:50:17,780
+Where are you guys staying?
+
+1032
+00:50:17,780 --> 00:50:18,820
+You have a pleasant evening.
+
+1033
+00:50:18,820 --> 00:50:19,140
+Okay.
+
+1034
+00:50:21,220 --> 00:50:23,380
+When you guys pull up to Arvin Chilton's apartment,
+
+1035
+00:50:23,380 --> 00:50:27,860
+it is literally half a mile from the police station.
+
+1036
+00:50:27,860 --> 00:50:29,620
+This neighborhood is really nice.
+
+1037
+00:50:29,620 --> 00:50:33,380
+It's just this like March 20, what is it?
+
+1038
+00:50:33,380 --> 00:50:34,180
+March 25th.
+
+1039
+00:50:34,180 --> 00:50:34,820
+Shit.
+
+1040
+00:50:34,820 --> 00:50:35,620
+March 25th.
+
+1041
+00:50:35,620 --> 00:50:37,780
+It's a beautiful sunny day.
+
+1042
+00:50:38,500 --> 00:50:43,540
+Big fluffers are up in the clouds and blue skies.
+
+1043
+00:50:43,540 --> 00:50:48,420
+All of these buildings have like white trim on the columns
+
+1044
+00:50:48,420 --> 00:50:52,980
+and the stairwells and the, the, uh, what are these Thomas?
+
+1045
+00:50:52,980 --> 00:50:53,860
+Braillings.
+
+1046
+00:50:53,860 --> 00:50:54,740
+Like a railing.
+
+1047
+00:50:54,740 --> 00:50:55,060
+Yeah.
+
+1048
+00:50:55,060 --> 00:50:57,380
+Like railings are all, uh, white.
+
+1049
+00:50:57,380 --> 00:50:59,860
+You pull up to a cute little baby blue home.
+
+1050
+00:50:59,860 --> 00:51:01,140
+It's two stories.
+
+1051
+00:51:01,140 --> 00:51:07,380
+And like Uncle Jimmy said, there is a staircase on the left side of this house
+
+1052
+00:51:07,380 --> 00:51:13,860
+that leads up to a tiny little duplex up above this tiny little home.
+
+1053
+00:51:14,580 --> 00:51:18,500
+And you guys pull up at about 1230 PM.
+
+1054
+00:51:19,060 --> 00:51:20,420
+It's about 1230 PM.
+
+1055
+00:51:22,500 --> 00:51:24,340
+We've just arrived at the home of...
+
+1056
+00:51:24,340 --> 00:51:27,300
+Are you like talking into a voice recorder?
+
+1057
+00:51:27,300 --> 00:51:30,180
+Are you, uh, are you going to be taking notes this whole time?
+
+1058
+00:51:30,820 --> 00:51:33,460
+Does that make you uncomfortable, Mr. Boyd?
+
+1059
+00:51:33,460 --> 00:51:36,900
+I feel like we need to be careful about what kind of records we keep on
+
+1060
+00:51:36,900 --> 00:51:37,780
+a case like this.
+
+1061
+00:51:37,780 --> 00:51:38,980
+Yeah, we need to be careful.
+
+1062
+00:51:40,100 --> 00:51:41,140
+You're absolutely right.
+
+1063
+00:51:41,140 --> 00:51:47,460
+But I have to keep some official records since we are technically investigating this for the FBI.
+
+1064
+00:51:47,460 --> 00:51:49,620
+There has to be the official cover and then...
+
+1065
+00:51:49,620 --> 00:51:52,180
+And then every now and then it switches off.
+
+1066
+00:51:52,180 --> 00:51:53,060
+Wink, wink.
+
+1067
+00:51:53,060 --> 00:51:54,580
+You roughly get the idea.
+
+1068
+00:51:54,580 --> 00:51:55,140
+Yeah.
+
+1069
+00:51:55,140 --> 00:52:00,260
+Kevin walks up the stairs and knocks on the door and it like shakes the home.
+
+1070
+00:52:00,260 --> 00:52:04,420
+With every step of these shaky old stairs,
+
+1071
+00:52:04,420 --> 00:52:07,940
+this thing is like almost giving way under Kevin.
+
+1072
+00:52:08,580 --> 00:52:11,060
+And when you get up there, you see a sign on the door.
+
+1073
+00:52:11,060 --> 00:52:11,860
+Taped up.
+
+1074
+00:52:11,860 --> 00:52:15,060
+Police investigation ongoing.
+
+1075
+00:52:15,060 --> 00:52:16,180
+Blah, blah, blah, blah, blah.
+
+1076
+00:52:16,180 --> 00:52:16,900
+Nonsense.
+
+1077
+00:52:16,900 --> 00:52:20,100
+Agent Garza gave you keys to children's apartment.
+
+1078
+00:52:20,100 --> 00:52:20,740
+What's going on?
+
+1079
+00:52:20,740 --> 00:52:24,500
+And there is a light on in the downstairs apartment.
+
+1080
+00:52:24,500 --> 00:52:30,100
+Yeah, Kevin's hands are a little too big to really functionally use a key.
+
+1081
+00:52:30,100 --> 00:52:31,380
+So he steps back and...
+
+1082
+00:52:31,780 --> 00:52:38,020
+Sorry, I had you be a thief and then I gave you keys to get in.
+
+1083
+00:52:38,020 --> 00:52:38,900
+That's my bad, Joe.
+
+1084
+00:52:39,780 --> 00:52:41,780
+Yeah, that was the only time this was going to come in handy.
+
+1085
+00:52:43,380 --> 00:52:46,260
+He was pulling out the lockpick set from his back pocket and then saw
+
+1086
+00:52:47,300 --> 00:52:51,060
+Agent Sparrows put a key in the door and it just deflates even more.
+
+1087
+00:52:53,460 --> 00:52:56,500
+I guess we're still waiting for that skill set to come in use.
+
+1088
+00:52:56,500 --> 00:52:58,180
+There will be a time, I'm sure of it.
+
+1089
+00:52:58,260 --> 00:53:03,940
+Perhaps this whole mission will be the time that you learn that your criminal ways will not pay.
+
+1090
+00:53:04,580 --> 00:53:07,940
+I mean, they paid for most of the things in my life so far.
+
+1091
+00:53:08,980 --> 00:53:10,260
+They paid pretty good.
+
+1092
+00:53:10,260 --> 00:53:14,340
+She turns on you and is brandishing the key in your face and she's like,
+
+1093
+00:53:14,980 --> 00:53:18,420
+no, sir, you will receive your come up,
+
+1094
+00:53:18,420 --> 00:53:22,340
+but I'm willing to work with your kind against these unnatural forces.
+
+1095
+00:53:22,340 --> 00:53:23,860
+Don't do that to him.
+
+1096
+00:53:23,860 --> 00:53:29,620
+And Kevin's standing there like pushing away the threatening key from Elvit's face.
+
+1097
+00:53:30,580 --> 00:53:33,060
+All right then, as long as we understand each other and
+
+1098
+00:53:33,940 --> 00:53:39,140
+Clarissa is genuinely very intimidated by the Robert Wadlow man.
+
+1099
+00:53:40,580 --> 00:53:42,020
+Yeah, who wouldn't be?
+
+1100
+00:53:42,020 --> 00:53:42,740
+Are you okay?
+
+1101
+00:53:44,260 --> 00:53:45,620
+Thanks for having my back there, Kevin.
+
+1102
+00:53:46,420 --> 00:53:46,900
+I'm fine.
+
+1103
+00:53:46,900 --> 00:53:47,700
+Thank you.
+
+1104
+00:53:47,700 --> 00:53:49,460
+I was a little worried.
+
+1105
+00:53:49,460 --> 00:53:53,620
+It's a 640 square foot apartment.
+
+1106
+00:53:53,620 --> 00:53:56,740
+This looks like about a 640 square feet.
+
+1107
+00:53:57,620 --> 00:54:00,740
+Right here must be tens of dollars.
+
+1108
+00:54:00,740 --> 00:54:02,180
+So you walk into the bedroom.
+
+1109
+00:54:02,180 --> 00:54:05,060
+Like when you open up the door, you're walking into the studio.
+
+1110
+00:54:05,060 --> 00:54:09,860
+It's a bedroom and there's one door to the bathroom all around.
+
+1111
+00:54:09,860 --> 00:54:11,220
+There's a record collection.
+
+1112
+00:54:11,220 --> 00:54:13,220
+There's a bunch of Elvis Presley.
+
+1113
+00:54:13,220 --> 00:54:17,940
+There's a bookshelf filled with the works of the immortal bard himself, William Shakespeare,
+
+1114
+00:54:18,660 --> 00:54:26,100
+as well as a DVD collection that shows he did not shy away from the film adaptations.
+
+1115
+00:54:26,100 --> 00:54:28,820
+And there's really not much else around here.
+
+1116
+00:54:28,820 --> 00:54:31,780
+So he's got like these Shakespeares and some books
+
+1117
+00:54:31,780 --> 00:54:35,300
+and then also DVD copies of just those same plays and books.
+
+1118
+00:54:36,180 --> 00:54:38,340
+Is there a computer anywhere near here?
+
+1119
+00:54:38,340 --> 00:54:40,100
+There is not a computer, no.
+
+1120
+00:54:40,100 --> 00:54:41,620
+Well, it looks like there's nothing to see here.
+
+1121
+00:54:41,620 --> 00:54:42,900
+Let's move on to the next place.
+
+1122
+00:54:43,460 --> 00:54:45,540
+Everybody roll alertness for me.
+
+1123
+00:54:48,340 --> 00:54:49,540
+Critical success.
+
+1124
+00:54:49,540 --> 00:54:50,740
+55 on an 80.
+
+1125
+00:54:50,740 --> 00:54:51,940
+A regular success.
+
+1126
+00:54:51,940 --> 00:54:53,380
+A 30 on a 70.
+
+1127
+00:54:53,380 --> 00:54:54,740
+I got a 97.
+
+1128
+00:54:54,740 --> 00:54:55,140
+Okay.
+
+1129
+00:54:55,140 --> 00:54:57,620
+So Kevin is completely startled.
+
+1130
+00:54:58,340 --> 00:55:04,820
+Boyd, Elwood, Elwood Boyd is not startled.
+
+1131
+00:55:04,820 --> 00:55:12,420
+You see this coming, but before you even see anyone creeping up behind you
+
+1132
+00:55:12,420 --> 00:55:16,260
+and kind of like putting themselves around the doorway,
+
+1133
+00:55:16,900 --> 00:55:24,740
+Clarissa, you smell old bandages in the air.
+
+1134
+00:55:26,260 --> 00:55:32,740
+The odor is strong enough for you to immediately turn around.
+
+1135
+00:55:32,740 --> 00:55:34,820
+She turns around and expects to find a mummy.
+
+1136
+00:55:36,740 --> 00:55:40,180
+Expecting a mummy, you see Alexander Duchesne.
+
+1137
+00:55:40,180 --> 00:55:43,220
+He is 79 years of age.
+
+1138
+00:55:43,220 --> 00:55:47,780
+He is around five foot six, 210 pounds.
+
+1139
+00:55:47,780 --> 00:55:48,740
+An old man.
+
+1140
+00:55:48,740 --> 00:55:54,340
+He has carefully quaffed white hair and he has heavy black glasses.
+
+1141
+00:55:54,340 --> 00:56:00,900
+He is clothed in old often mended clothing and a pork pie hat.
+
+1142
+00:56:01,860 --> 00:56:08,900
+And he has a long winding scar up the right half of his face.
+
+1143
+00:56:08,900 --> 00:56:15,940
+It's clear that he drinks due to the large nose with burst capillaries,
+
+1144
+00:56:15,940 --> 00:56:22,500
+just filling this big, almost like pulsating thing on the tip of his nose.
+
+1145
+00:56:22,500 --> 00:56:26,260
+And he moves slowly, seemingly with great pain,
+
+1146
+00:56:26,260 --> 00:56:29,380
+as he kind of like pops his head around the side and is like,
+
+1147
+00:56:32,820 --> 00:56:34,020
+More officers.
+
+1148
+00:56:34,900 --> 00:56:36,500
+Hello, more officers.
+
+1149
+00:56:36,900 --> 00:56:37,700
+Hello, there.
+
+1150
+00:56:37,700 --> 00:56:42,020
+Before he can, he's like coming up the stairs into the doorway behind us.
+
+1151
+00:56:42,020 --> 00:56:42,980
+Yeah, he's right there.
+
+1152
+00:56:42,980 --> 00:56:47,060
+Before he can like get in, Clarissa is advancing like with her badge out and she says,
+
+1153
+00:56:47,060 --> 00:56:52,020
+Special Agent Clarissa Sparrow, sir, this is an act of crime scene investigation.
+
+1154
+00:56:52,020 --> 00:56:54,020
+You were compromising that crime scene.
+
+1155
+00:56:54,020 --> 00:56:55,300
+Are you Mr. Duchesne?
+
+1156
+00:56:55,300 --> 00:56:58,100
+Oh, I'm so sorry, yeah, yeah, I'm Mr. Duchesne.
+
+1157
+00:56:58,100 --> 00:56:59,860
+I'm going to have to ask you to go back downstairs.
+
+1158
+00:56:59,860 --> 00:57:03,940
+Slowly, he raises his hands in the air with a wry smile and he's like,
+
+1159
+00:57:04,900 --> 00:57:06,340
+Sorry, sorry.
+
+1160
+00:57:07,540 --> 00:57:09,860
+Sir, we're going to come speak to you in a moment, please.
+
+1161
+00:57:09,860 --> 00:57:11,140
+Okay, please do, come on.
+
+1162
+00:57:11,140 --> 00:57:12,260
+Please wait for us downstairs.
+
+1163
+00:57:12,260 --> 00:57:13,060
+Whenever you're ready.
+
+1164
+00:57:13,060 --> 00:57:13,700
+Yes, fine.
+
+1165
+00:57:13,700 --> 00:57:14,180
+That's fine.
+
+1166
+00:57:14,180 --> 00:57:19,220
+And he slowly creeps back around and like you can almost hear his bones creaking
+
+1167
+00:57:19,860 --> 00:57:24,500
+with the pain look on his face as he turns around and it's like, okay.
+
+1168
+00:57:24,500 --> 00:57:30,900
+And just kind of waves one hand up in the air as his other hand grabs the rail like intensely.
+
+1169
+00:57:30,900 --> 00:57:32,340
+Kevin waves back at him.
+
+1170
+00:57:32,340 --> 00:57:33,780
+And he heads back down the stairs.
+
+1171
+00:57:34,020 --> 00:57:34,520
+Really?
+
+1172
+00:57:35,540 --> 00:57:36,980
+That was a landlord.
+
+1173
+00:57:36,980 --> 00:57:41,620
+Elwood wants to, um, clock this apartment for things that, uh, might be valuable.
+
+1174
+00:57:41,620 --> 00:57:42,020
+Oh, okay.
+
+1175
+00:57:42,020 --> 00:57:42,420
+Yeah, yeah.
+
+1176
+00:57:42,420 --> 00:57:45,380
+Go ahead and roll search for criminology.
+
+1177
+00:57:46,100 --> 00:57:46,900
+Yeah, absolutely.
+
+1178
+00:57:47,540 --> 00:57:48,500
+This is what you guys do.
+
+1179
+00:57:49,540 --> 00:57:50,180
+Fuck.
+
+1180
+00:57:50,180 --> 00:57:52,820
+I critically fail either one.
+
+1181
+00:57:52,820 --> 00:57:56,260
+I've got a 60 criminology and I rolled a 77.
+
+1182
+00:57:56,260 --> 00:58:02,900
+There's a Shakespeare play inside the book has a pamphlet.
+
+1183
+00:58:02,900 --> 00:58:06,260
+Like you would receive when you went and actually saw a play.
+
+1184
+00:58:06,260 --> 00:58:07,140
+What are those called?
+
+1185
+00:58:07,140 --> 00:58:07,860
+A play bill.
+
+1186
+00:58:07,860 --> 00:58:08,500
+Play bill.
+
+1187
+00:58:08,500 --> 00:58:09,620
+A play bill.
+
+1188
+00:58:09,620 --> 00:58:15,780
+When you, when you flick through some of these, these books, this play bill pops out and you
+
+1189
+00:58:15,780 --> 00:58:23,860
+are dead fucking certain that a, this is from an early original, like one of the first American
+
+1190
+00:58:23,860 --> 00:58:26,180
+runs of this Shakespeare production.
+
+1191
+00:58:26,180 --> 00:58:27,860
+This is a globe theater play bill.
+
+1192
+00:58:27,860 --> 00:58:36,660
+And it's like signed by some important director who signed by John Wilkes Booth.
+
+1193
+00:58:36,660 --> 00:58:38,980
+It's signed by John Wilkes Booth.
+
+1194
+00:58:38,980 --> 00:58:40,340
+Wasn't his brother an actor?
+
+1195
+00:58:40,980 --> 00:58:44,660
+I think as was, he was a very famous actor.
+
+1196
+00:58:44,660 --> 00:58:50,180
+And so you are dead fucking positive that this is going to bring in at least like 10
+
+1197
+00:58:50,180 --> 00:58:50,740
+grand.
+
+1198
+00:58:50,740 --> 00:58:52,020
+I pocket it.
+
+1199
+00:58:52,020 --> 00:58:54,100
+I try to do it feefully.
+
+1200
+00:58:54,100 --> 00:58:54,980
+Oh, you don't.
+
+1201
+00:58:54,980 --> 00:58:55,940
+They both see you.
+
+1202
+00:58:56,820 --> 00:58:58,340
+Oh, I see you get that.
+
+1203
+00:58:58,340 --> 00:59:03,540
+And I just like grab a random book and put it in my back pocket.
+
+1204
+00:59:05,380 --> 00:59:05,940
+What the hell?
+
+1205
+00:59:05,940 --> 00:59:06,420
+What?
+
+1206
+00:59:06,420 --> 00:59:08,660
+What are you grabbing evidence for?
+
+1207
+00:59:08,660 --> 00:59:10,420
+It's signed by John Wilkes Booth.
+
+1208
+00:59:10,420 --> 00:59:12,100
+This gets a pretty penny.
+
+1209
+00:59:12,100 --> 00:59:14,340
+I grab it from her hands.
+
+1210
+00:59:16,740 --> 00:59:20,580
+All right, let's do a dexterity competition.
+
+1211
+00:59:22,100 --> 00:59:23,300
+No, you're not in this.
+
+1212
+00:59:23,300 --> 00:59:23,940
+Crit fail.
+
+1213
+00:59:23,940 --> 00:59:25,140
+Oh my God.
+
+1214
+00:59:25,140 --> 00:59:26,340
+Regular fail.
+
+1215
+00:59:26,340 --> 00:59:29,620
+All right, well, that still means that we rip the book in half.
+
+1216
+00:59:29,620 --> 00:59:31,780
+Yeah, you 100% rip the book in half.
+
+1217
+00:59:34,020 --> 00:59:36,100
+Oh, no, I thought at least it's all its value.
+
+1218
+00:59:36,100 --> 00:59:38,020
+Oh God, you did this.
+
+1219
+00:59:38,740 --> 00:59:39,380
+You did this.
+
+1220
+00:59:39,940 --> 00:59:43,620
+A little tear starts to form at the edge of Kevin's eye.
+
+1221
+00:59:43,620 --> 00:59:44,980
+Damn it, Kevin.
+
+1222
+00:59:44,980 --> 00:59:46,020
+It wasn't your fault.
+
+1223
+00:59:46,020 --> 00:59:46,660
+He did this.
+
+1224
+00:59:47,780 --> 00:59:48,260
+He start.
+
+1225
+00:59:50,020 --> 00:59:52,580
+You two, you keep your hands to yourself.
+
+1226
+00:59:53,380 --> 00:59:54,740
+Stand right in the middle of this room.
+
+1227
+00:59:55,460 --> 00:59:56,340
+Don't touch anything else.
+
+1228
+00:59:56,340 --> 00:59:59,380
+Elwood kind of rolls his eyes, but also looks at Kevin like,
+
+1229
+01:00:00,340 --> 01:00:02,020
+that sounds like she knows what she's doing.
+
+1230
+01:00:03,060 --> 01:00:07,940
+Now let me use my investigators eyes to search this room.
+
+1231
+01:00:07,940 --> 01:00:08,660
+Do it.
+
+1232
+01:00:08,660 --> 01:00:10,180
+35, success.
+
+1233
+01:00:10,180 --> 01:00:10,740
+Nice.
+
+1234
+01:00:10,740 --> 01:00:14,500
+You find there's a record collection with a bunch of Elvis Presley.
+
+1235
+01:00:14,500 --> 01:00:20,340
+There's a bookshelf filled with the works of the immortal bard himself, William Shakespeare,
+
+1236
+01:00:20,340 --> 01:00:22,580
+one of which is torn in half on the floor.
+
+1237
+01:00:23,300 --> 01:00:28,980
+And you also see a DVD collection that shows he did not shy away from the film adaptations.
+
+1238
+01:00:31,700 --> 01:00:34,180
+Everything appears to be as it seems in this room.
+
+1239
+01:00:34,180 --> 01:00:35,940
+Should we go rough up the landlord?
+
+1240
+01:00:38,580 --> 01:00:41,860
+If it comes to that, of course, Kevin, that just can't be our immediate.
+
+1241
+01:00:41,860 --> 01:00:43,540
+We're on official business here.
+
+1242
+01:00:43,540 --> 01:00:46,900
+And he says that kind of sarcastically with an eye toward Sparrow.
+
+1243
+01:00:46,900 --> 01:00:49,620
+Sparrow doesn't catch that and she like nods in approval.
+
+1244
+01:00:50,260 --> 01:00:50,740
+That's right.
+
+1245
+01:00:52,900 --> 01:00:53,220
+Okay.
+
+1246
+01:00:53,220 --> 01:00:54,820
+I'll put my mean face on.
+
+1247
+01:00:55,540 --> 01:01:00,900
+And his face turns mean, but it actually is like kind of scary.
+
+1248
+01:01:00,900 --> 01:01:07,540
+Like the happy, dumb smile goes to like a serious, like zoned in face and idea roll.
+
+1249
+01:01:07,540 --> 01:01:08,100
+Yeah.
+
+1250
+01:01:08,100 --> 01:01:10,180
+For some, for anything we might be missing here.
+
+1251
+01:01:10,180 --> 01:01:11,060
+Yeah, sure.
+
+1252
+01:01:11,060 --> 01:01:15,300
+What is that based off of intelligence pass 62 on a 70.
+
+1253
+01:01:15,300 --> 01:01:17,060
+You have cleaned this room.
+
+1254
+01:01:17,060 --> 01:01:19,140
+Like it is, it has been clocked.
+
+1255
+01:01:19,140 --> 01:01:23,780
+You have garnered all the information you are going to get from Arvin Chilton's apartment.
+
+1256
+01:01:23,780 --> 01:01:25,780
+I believe we've gathered everything we can here.
+
+1257
+01:01:25,780 --> 01:01:27,540
+Let's go at this time.
+
+1258
+01:01:28,260 --> 01:01:31,060
+Let's go talk with Mr. Dushane.
+
+1259
+01:01:31,060 --> 01:01:33,620
+That does seem like the next course of action.
+
+1260
+01:01:33,620 --> 01:01:34,340
+After you.
+
+1261
+01:01:34,340 --> 01:01:36,100
+No, no, I insist after you.
+
+1262
+01:01:36,100 --> 01:01:37,940
+I start clomping down the stairs.
+
+1263
+01:01:37,940 --> 01:01:42,100
+As you're clomping down the stairs, you actually hear coming out of the basement,
+
+1264
+01:01:42,100 --> 01:01:46,980
+not even basement, just the first floor apartment of this two story duplex.
+
+1265
+01:01:47,540 --> 01:01:50,260
+This, uh, this high wine.
+
+1266
+01:02:00,580 --> 01:02:01,540
+Is he making us tea?
+
+1267
+01:02:01,540 --> 01:02:02,740
+Yeah, he's making you tea.
+
+1268
+01:02:02,740 --> 01:02:03,220
+That's nice.
+
+1269
+01:02:06,260 --> 01:02:12,740
+Okay, the entire house shakes and you hear a coughing fit from inside.
+
+1270
+01:02:12,740 --> 01:02:25,220
+Just this coming, coming, coming, and the door opens and you see this man.
+
+1271
+01:02:25,220 --> 01:02:26,580
+It's the same man as before.
+
+1272
+01:02:27,540 --> 01:02:29,460
+And he's, he's wearing the same clothes.
+
+1273
+01:02:30,260 --> 01:02:31,380
+It's crazy.
+
+1274
+01:02:31,380 --> 01:02:35,060
+And this close to him, you're overwhelmed by his odor.
+
+1275
+01:02:35,060 --> 01:02:36,660
+He smells really bad.
+
+1276
+01:02:36,660 --> 01:02:41,860
+And for the two of you who didn't smell it earlier, it's like old bandages bad.
+
+1277
+01:02:41,940 --> 01:02:43,380
+And he seems to have a cold.
+
+1278
+01:02:43,380 --> 01:02:46,420
+He's like coughing and he's just like sniffling a bunch.
+
+1279
+01:02:46,420 --> 01:02:48,820
+He invites you inside really eagerly.
+
+1280
+01:02:48,820 --> 01:02:50,580
+He's just like, come on, come on, come on, come on.
+
+1281
+01:02:50,580 --> 01:02:50,900
+Okay.
+
+1282
+01:02:50,900 --> 01:02:52,580
+Um, I have tea.
+
+1283
+01:02:52,580 --> 01:02:54,260
+I have tea for you guys.
+
+1284
+01:02:54,260 --> 01:02:57,140
+If you want tea, um, I've put out some, some plates.
+
+1285
+01:02:57,140 --> 01:02:57,940
+I've got some more food.
+
+1286
+01:02:57,940 --> 01:02:58,740
+Here's some chairs.
+
+1287
+01:02:58,740 --> 01:03:00,340
+You can sit here and here.
+
+1288
+01:03:00,340 --> 01:03:02,900
+Um, your, your name was Sparrow, right?
+
+1289
+01:03:02,900 --> 01:03:03,460
+Agent Sparrow.
+
+1290
+01:03:04,980 --> 01:03:06,660
+I pass him my FBI card.
+
+1291
+01:03:06,660 --> 01:03:07,060
+Perfect.
+
+1292
+01:03:07,060 --> 01:03:08,340
+And do you guys have cards too?
+
+1293
+01:03:08,980 --> 01:03:10,420
+No, they're just getting theirs made up.
+
+1294
+01:03:10,420 --> 01:03:11,060
+Unfortunately.
+
+1295
+01:03:11,060 --> 01:03:12,020
+Oh, okay.
+
+1296
+01:03:16,340 --> 01:03:17,140
+Sorry.
+
+1297
+01:03:17,140 --> 01:03:17,640
+Sorry.
+
+1298
+01:03:18,740 --> 01:03:20,020
+I'll wash my hands real quick.
+
+1299
+01:03:20,020 --> 01:03:22,100
+He goes back and starts washing his hands.
+
+1300
+01:03:22,100 --> 01:03:29,220
+And you see, uh, looking around this place, you see a very sad home decorated by an old
+
+1301
+01:03:29,220 --> 01:03:31,060
+man with no relatives.
+
+1302
+01:03:31,060 --> 01:03:35,860
+There's an ashtray on the table and it hasn't been used.
+
+1303
+01:03:35,860 --> 01:03:36,820
+It's clean.
+
+1304
+01:03:36,820 --> 01:03:39,460
+There's a bunch of rolled up newspapers in a bucket.
+
+1305
+01:03:39,940 --> 01:03:42,740
+A few mops are in the corner of the room strangely.
+
+1306
+01:03:42,740 --> 01:03:46,100
+And there's an odd number of baseballs placed around.
+
+1307
+01:03:46,100 --> 01:03:55,060
+There's a copy of as you like it sitting on the coffee table and he brings out a spread.
+
+1308
+01:03:55,060 --> 01:04:01,460
+I mean, just like a charcutte, but like the way a 79 year old shut in would, would bring
+
+1309
+01:04:01,460 --> 01:04:02,580
+you charcutte.
+
+1310
+01:04:02,580 --> 01:04:05,620
+And so it's just these like charcutte cold cuts.
+
+1311
+01:04:06,180 --> 01:04:08,100
+Oh, it's charcutte as hell.
+
+1312
+01:04:08,100 --> 01:04:10,260
+The charcutte is good.
+
+1313
+01:04:10,260 --> 01:04:13,780
+It's cold cuts and some cheeses.
+
+1314
+01:04:13,780 --> 01:04:20,660
+And then there's a bowl on the plate with some big olives on it, green and black olives.
+
+1315
+01:04:20,660 --> 01:04:29,460
+And he sits down and he's just like, I'm sorry, he screams as he eases into a chair that you
+
+1316
+01:04:29,460 --> 01:04:31,860
+think is like the only place where he sits.
+
+1317
+01:04:32,740 --> 01:04:37,380
+Elwood wants to put a grimy finger into the olive bowl and pick up a bunch.
+
+1318
+01:04:37,380 --> 01:04:39,060
+Like as he's setting it down.
+
+1319
+01:04:39,060 --> 01:04:39,940
+Oh yeah, yeah, yeah.
+
+1320
+01:04:39,940 --> 01:04:40,500
+He's already.
+
+1321
+01:04:41,220 --> 01:04:41,940
+Oh yeah, yeah.
+
+1322
+01:04:41,940 --> 01:04:44,020
+Please, please eat up, eat up.
+
+1323
+01:04:44,020 --> 01:04:48,260
+Pretty sure I know what kind of maniac Joe took before this game started.
+
+1324
+01:04:48,260 --> 01:04:48,500
+Yeah.
+
+1325
+01:04:48,500 --> 01:04:54,020
+As soon as Kevin sees Elwood doing that, he's grabbing some stuff off the board, but it's
+
+1326
+01:04:54,020 --> 01:04:57,380
+like one handful is like half of the stuff on there.
+
+1327
+01:04:57,380 --> 01:04:59,860
+And he's just like, dig in, dig in.
+
+1328
+01:05:00,660 --> 01:05:02,500
+Agent Sparrow, dig in.
+
+1329
+01:05:02,500 --> 01:05:04,420
+I'm going to grab some tea for everyone.
+
+1330
+01:05:04,420 --> 01:05:06,980
+And he goes in and no tea for me, please.
+
+1331
+01:05:07,300 --> 01:05:08,340
+Chocolate milk.
+
+1332
+01:05:08,340 --> 01:05:09,460
+I do.
+
+1333
+01:05:09,460 --> 01:05:11,460
+I love chocolate milk.
+
+1334
+01:05:11,460 --> 01:05:13,700
+Who doesn't love chocolate milk?
+
+1335
+01:05:13,700 --> 01:05:14,980
+Just make that too.
+
+1336
+01:05:14,980 --> 01:05:15,700
+Thank you.
+
+1337
+01:05:15,700 --> 01:05:17,060
+Two chocolate milks.
+
+1338
+01:05:17,060 --> 01:05:20,260
+And you hear him rummaging in the fridge for a while.
+
+1339
+01:05:20,260 --> 01:05:21,060
+Can I do a search?
+
+1340
+01:05:22,180 --> 01:05:25,060
+Can someone else do a search of this room?
+
+1341
+01:05:25,060 --> 01:05:26,260
+I'd like to clock.
+
+1342
+01:05:26,260 --> 01:05:27,700
+I'd like to clock around the room.
+
+1343
+01:05:27,700 --> 01:05:28,180
+Yeah.
+
+1344
+01:05:28,180 --> 01:05:29,700
+Oh, crit success.
+
+1345
+01:05:29,700 --> 01:05:31,380
+Oh, 33 again.
+
+1346
+01:05:31,940 --> 01:05:33,540
+Regular pass with a 16.
+
+1347
+01:05:33,540 --> 01:05:34,260
+Okay.
+
+1348
+01:05:34,260 --> 01:05:39,860
+With a regular pass, you think that the baseballs are placed very strangely around this room.
+
+1349
+01:05:39,860 --> 01:05:44,100
+And why does an old man have a bunch of baseballs hanging around?
+
+1350
+01:05:44,100 --> 01:05:45,460
+They're like a distinct pattern.
+
+1351
+01:05:46,020 --> 01:05:46,980
+No, not really.
+
+1352
+01:05:46,980 --> 01:05:48,500
+What about to me?
+
+1353
+01:05:48,500 --> 01:05:49,780
+Roll SIGINT, I guess.
+
+1354
+01:05:50,900 --> 01:05:51,860
+No, it's a fail.
+
+1355
+01:05:51,860 --> 01:05:53,220
+It's an 89 on a 40.
+
+1356
+01:05:53,220 --> 01:05:54,260
+Yeah, that ain't going to do it.
+
+1357
+01:05:54,260 --> 01:05:59,700
+And then with the crit success, you note he has a copy of As You Like It.
+
+1358
+01:05:59,700 --> 01:06:00,100
+For me, what is that?
+
+1359
+01:06:00,100 --> 01:06:01,620
+Which is written by Shakespeare.
+
+1360
+01:06:01,620 --> 01:06:01,860
+Yeah.
+
+1361
+01:06:01,860 --> 01:06:02,580
+Okay.
+
+1362
+01:06:02,580 --> 01:06:02,980
+Okay.
+
+1363
+01:06:02,980 --> 01:06:04,500
+So that's what I wanted to ask about.
+
+1364
+01:06:04,500 --> 01:06:07,780
+Does this copy of As You Like It look like it came from one of the sets upstairs?
+
+1365
+01:06:07,780 --> 01:06:08,580
+Yeah, totally.
+
+1366
+01:06:09,140 --> 01:06:10,900
+Same printing, same publishing company.
+
+1367
+01:06:10,900 --> 01:06:11,220
+Yeah.
+
+1368
+01:06:11,220 --> 01:06:14,900
+Clarissa is picking it up and is holding it and waiting for him to get back in the room.
+
+1369
+01:06:14,900 --> 01:06:15,300
+Cool.
+
+1370
+01:06:15,300 --> 01:06:17,300
+Kevin's like, he likes Shakespeare too?
+
+1371
+01:06:17,300 --> 01:06:23,700
+So he comes back in with tea for himself and chocolate milk for Elwood and Kevin.
+
+1372
+01:06:24,260 --> 01:06:29,620
+And then he looks at Agent Sparrow and he's like, seriously, dig in.
+
+1373
+01:06:30,260 --> 01:06:30,900
+Hey, thanks.
+
+1374
+01:06:30,900 --> 01:06:32,340
+Are you a thief too?
+
+1375
+01:06:32,340 --> 01:06:33,940
+So she's holding the book, she says.
+
+1376
+01:06:33,940 --> 01:06:35,860
+Complete works of William Shakespeare.
+
+1377
+01:06:36,500 --> 01:06:37,060
+Huffington.
+
+1378
+01:06:38,100 --> 01:06:38,660
+Huffington.
+
+1379
+01:06:41,140 --> 01:06:42,260
+Fartington Publishers.
+
+1380
+01:06:43,700 --> 01:06:45,780
+Third edition, 1976.
+
+1381
+01:06:45,780 --> 01:06:46,260
+Yeah.
+
+1382
+01:06:46,260 --> 01:06:49,300
+That's the same one that Alvin Chilton had upstairs.
+
+1383
+01:06:49,300 --> 01:06:50,820
+Did you take this from his room?
+
+1384
+01:06:50,820 --> 01:06:51,860
+Oh, no.
+
+1385
+01:06:51,860 --> 01:06:53,780
+Arvin lent that to me.
+
+1386
+01:06:54,740 --> 01:06:56,980
+He lent it to me to read.
+
+1387
+01:06:56,980 --> 01:06:57,620
+When?
+
+1388
+01:06:57,620 --> 01:06:58,660
+Can I humint that?
+
+1389
+01:06:58,660 --> 01:06:59,620
+Yeah, you can humint that.
+
+1390
+01:06:59,620 --> 01:07:02,420
+Fuck.
+
+1391
+01:07:03,060 --> 01:07:04,580
+It's a 52 on a 50.
+
+1392
+01:07:04,580 --> 01:07:05,940
+I got a 16 on an 80.
+
+1393
+01:07:06,500 --> 01:07:08,740
+I got a 45 on a 20.
+
+1394
+01:07:09,780 --> 01:07:15,140
+With his success, you see that he seems to be telling the truth.
+
+1395
+01:07:15,140 --> 01:07:18,180
+He did get it from Arvin Chilton.
+
+1396
+01:07:18,180 --> 01:07:20,740
+Arvin gave it to me.
+
+1397
+01:07:20,740 --> 01:07:21,860
+He gave it to me.
+
+1398
+01:07:22,820 --> 01:07:25,540
+He's not feeling weird or wonky around by cops.
+
+1399
+01:07:25,540 --> 01:07:27,700
+He's like, I didn't take it.
+
+1400
+01:07:27,700 --> 01:07:30,020
+Is Arvin's crime spree public knowledge?
+
+1401
+01:07:30,660 --> 01:07:31,140
+Yes.
+
+1402
+01:07:31,140 --> 01:07:32,900
+And he's identified as a suspect.
+
+1403
+01:07:32,900 --> 01:07:33,620
+Arvin.
+
+1404
+01:07:33,620 --> 01:07:33,860
+Yeah.
+
+1405
+01:07:33,860 --> 01:07:34,580
+Yes.
+
+1406
+01:07:34,580 --> 01:07:35,220
+Okay.
+
+1407
+01:07:35,220 --> 01:07:37,460
+So, like, this guy knows that Arvin is...
+
+1408
+01:07:37,460 --> 01:07:38,820
+He didn't do it.
+
+1409
+01:07:38,820 --> 01:07:39,540
+I swear.
+
+1410
+01:07:39,540 --> 01:07:40,420
+Like, he wouldn't...
+
+1411
+01:07:43,060 --> 01:07:44,260
+He wouldn't have done it.
+
+1412
+01:07:44,260 --> 01:07:45,220
+He was a good guy.
+
+1413
+01:07:45,220 --> 01:07:46,740
+Well, that's what we're trying to figure out.
+
+1414
+01:07:46,740 --> 01:07:48,980
+We're trying to figure out who did these horrible things.
+
+1415
+01:07:48,980 --> 01:07:51,300
+Now, when did Arvin lend you that book?
+
+1416
+01:07:53,780 --> 01:07:54,340
+My mind.
+
+1417
+01:07:55,140 --> 01:07:57,140
+You know, it's a...
+
+1418
+01:07:57,140 --> 01:07:58,900
+Try and think, please.
+
+1419
+01:08:00,100 --> 01:08:01,300
+It fails so much.
+
+1420
+01:08:03,220 --> 01:08:06,660
+The 20th, maybe the 19th.
+
+1421
+01:08:06,660 --> 01:08:10,100
+Maybe it was right before he disappeared on the 21st.
+
+1422
+01:08:10,660 --> 01:08:11,620
+It was very recent.
+
+1423
+01:08:11,620 --> 01:08:12,500
+Yeah, it was recent.
+
+1424
+01:08:12,500 --> 01:08:14,100
+Did you and Arvin talk often?
+
+1425
+01:08:14,100 --> 01:08:15,620
+Yeah, he was really nice.
+
+1426
+01:08:15,620 --> 01:08:21,460
+He would pick me up groceries if I needed something and I wasn't doing well.
+
+1427
+01:08:21,460 --> 01:08:22,180
+I had a fall.
+
+1428
+01:08:25,220 --> 01:08:29,220
+Two years ago and he took such good care of me.
+
+1429
+01:08:29,860 --> 01:08:31,940
+What's the last thing you guys talked about?
+
+1430
+01:08:34,340 --> 01:08:37,460
+He was getting ready to go to Starbucks.
+
+1431
+01:08:37,460 --> 01:08:38,420
+That's where he worked.
+
+1432
+01:08:39,060 --> 01:08:40,020
+That's where he worked.
+
+1433
+01:08:40,020 --> 01:08:43,540
+And I haven't seen him since that morning.
+
+1434
+01:08:43,540 --> 01:08:46,100
+He was getting ready to go in for a shift.
+
+1435
+01:08:46,100 --> 01:08:48,180
+Did he see another character that day?
+
+1436
+01:08:48,180 --> 01:08:50,180
+No, everything seems so normal.
+
+1437
+01:08:50,820 --> 01:08:55,620
+And honestly, people talk about him doing all these horrible things.
+
+1438
+01:08:55,620 --> 01:08:56,420
+He wouldn't have done it.
+
+1439
+01:08:56,420 --> 01:08:57,700
+Agent Asparrow, please.
+
+1440
+01:08:57,700 --> 01:09:00,260
+You have to try some of these cold cuts or these olives.
+
+1441
+01:09:00,260 --> 01:09:00,820
+Aren't they good?
+
+1442
+01:09:00,820 --> 01:09:02,900
+Did Arvin seem like a troubled man to you?
+
+1443
+01:09:02,900 --> 01:09:06,660
+He ignores your question completely and is waiting for an answer.
+
+1444
+01:09:06,660 --> 01:09:09,460
+Elwood is licking his fingers off.
+
+1445
+01:09:09,460 --> 01:09:11,460
+Yeah, the olives are great.
+
+1446
+01:09:11,460 --> 01:09:13,460
+They're like old, which Elwood loves.
+
+1447
+01:09:16,500 --> 01:09:17,300
+They taste old.
+
+1448
+01:09:17,940 --> 01:09:19,300
+That's the way I like them.
+
+1449
+01:09:20,260 --> 01:09:20,760
+Good.
+
+1450
+01:09:21,220 --> 01:09:25,780
+Kevin, ever since he played football, has been very in tune with his body.
+
+1451
+01:09:26,500 --> 01:09:33,620
+Does he feel sick or weird or anything from the half board of meat that he's eaten?
+
+1452
+01:09:34,180 --> 01:09:35,060
+Roll Constitution.
+
+1453
+01:09:38,020 --> 01:09:38,900
+Crit success.
+
+1454
+01:09:38,900 --> 01:09:43,140
+You are extremely worried about how long this meat has been left out.
+
+1455
+01:09:43,140 --> 01:09:46,740
+You are very worried about how long this meat has been left out.
+
+1456
+01:09:46,740 --> 01:09:55,060
+It is not reacting in your tum tum the way that a nice shock bowl would feel in your tummy.
+
+1457
+01:09:55,060 --> 01:09:57,220
+Um, I'm sick.
+
+1458
+01:09:57,220 --> 01:10:00,260
+And he gets up and goes and throws up in the kitchen sink.
+
+1459
+01:10:00,980 --> 01:10:02,740
+He's trying to make us sick.
+
+1460
+01:10:02,740 --> 01:10:04,820
+Are you trying to poison us, Mr. Deschenes?
+
+1461
+01:10:04,820 --> 01:10:06,260
+No, no, God, no.
+
+1462
+01:10:06,260 --> 01:10:07,220
+I'm sorry.
+
+1463
+01:10:07,220 --> 01:10:10,500
+I must have just forgotten when I bought it.
+
+1464
+01:10:10,500 --> 01:10:11,540
+I would never.
+
+1465
+01:10:11,540 --> 01:10:14,820
+You could go away for a long time if you tried to do harm to federal agents.
+
+1466
+01:10:14,820 --> 01:10:15,940
+Is that what you're trying to do?
+
+1467
+01:10:15,940 --> 01:10:17,860
+Oh my goodness.
+
+1468
+01:10:17,860 --> 01:10:19,220
+No, no.
+
+1469
+01:10:19,220 --> 01:10:22,340
+Kevin comes back over and sits down and grabs another hand.
+
+1470
+01:10:22,340 --> 01:10:24,980
+Like without thinking, just grabs another handful of meat.
+
+1471
+01:10:24,980 --> 01:10:26,500
+Elwood tries to grab his hand.
+
+1472
+01:10:26,500 --> 01:10:27,780
+It's already in his mouth.
+
+1473
+01:10:29,060 --> 01:10:32,500
+He like lifts you up off of your chair to take a bite.
+
+1474
+01:10:33,380 --> 01:10:35,460
+Kevin, he just said it didn't make you feel good.
+
+1475
+01:10:36,100 --> 01:10:37,940
+Oh, well.
+
+1476
+01:10:37,940 --> 01:10:40,100
+And he just kind of sits there chewing on it.
+
+1477
+01:10:40,100 --> 01:10:42,260
+He's holding, uh, Elwood's holding his hand out in front of Kevin.
+
+1478
+01:10:42,260 --> 01:10:43,060
+Spit it out.
+
+1479
+01:10:43,060 --> 01:10:43,940
+Spit it out.
+
+1480
+01:10:43,940 --> 01:10:46,020
+Kevin spits out his food into Elwood's hand.
+
+1481
+01:10:46,020 --> 01:10:48,180
+Clarissa is watching that just like wide-eyed.
+
+1482
+01:10:49,380 --> 01:10:52,180
+Elwood takes it and puts it back onto the charcuterie board.
+
+1483
+01:10:53,700 --> 01:10:54,500
+Now, where were we?
+
+1484
+01:10:55,140 --> 01:10:57,220
+Yeah, uh, where were we?
+
+1485
+01:10:57,220 --> 01:11:05,540
+Deschenes' face is twisted and contorted into this so grossed out and so happy.
+
+1486
+01:11:05,540 --> 01:11:11,700
+It's clear that he's like a little freak in this moment and he's just like super into it.
+
+1487
+01:11:12,260 --> 01:11:15,780
+He really gets along with Elwood like immediately.
+
+1488
+01:11:15,780 --> 01:11:17,700
+The vibes are there.
+
+1489
+01:11:17,700 --> 01:11:20,420
+The aura around both of them is similar.
+
+1490
+01:11:20,420 --> 01:11:21,060
+Similar, yeah.
+
+1491
+01:11:21,780 --> 01:11:25,700
+The reason Kevin didn't notice his stink is because he's used to Elwood's stink.
+
+1492
+01:11:27,780 --> 01:11:34,180
+Mr. Deschenes, did Arvin mention this particular play as one of his favorites?
+
+1493
+01:11:34,180 --> 01:11:35,620
+Is there a reason he lent it to you?
+
+1494
+01:11:36,420 --> 01:11:39,060
+Yeah, he thought it was fitting.
+
+1495
+01:11:41,780 --> 01:11:46,580
+Feels like I'm on the last bend of the deep end.
+
+1496
+01:11:46,580 --> 01:11:49,780
+But the drowning's been just fine.
+
+1497
+01:11:50,420 --> 01:11:58,020
+And when my ears pop and the shell shock of this pit stop frees my mind.
+
+1498
+01:11:58,740 --> 01:12:00,820
+I'll be alright.
+
+1499
+01:12:00,820 --> 01:12:04,900
+I can go there now that I stare.
+
+1500
+01:12:04,900 --> 01:12:06,900
+Death in the face.
+
+1501
+01:12:06,900 --> 01:12:08,980
+I'll be alright.
+
+1502
+01:12:08,980 --> 01:12:12,740
+I can go there now that I stare.
+
+1503
+01:12:12,740 --> 01:12:14,260
+Death in the face.
+
+1504
+01:12:31,300 --> 01:12:38,260
+Doesn't it always seem like the parts that made us laugh now make us cry?
+
+1505
+01:12:39,460 --> 01:12:46,740
+Doesn't it always seem like the villain Paul in the strings is a regular guy?
+
+1506
+01:12:47,860 --> 01:12:53,140
+You and me have gone bad in a good way, I promise.
+
+1507
+01:12:55,940 --> 01:13:01,380
+Kerosene wipes clean what we couldn't bear to tarnish.
+
+1508
+01:13:03,940 --> 01:13:05,940
+I'll be alright.
+
+1509
+01:13:05,940 --> 01:13:09,940
+I can go there now that I stare.
+
+1510
+01:13:09,940 --> 01:13:12,020
+Death in the face.
+
+1511
+01:13:12,020 --> 01:13:14,100
+I'll be alright.
+
+1512
+01:13:14,100 --> 01:13:17,860
+I can go there now that I stare.
+
+1513
+01:13:17,860 --> 01:13:20,900
+Death in the face.
+
+1514
+01:13:35,940 --> 01:14:00,900
+There's a conundrum in the wisdom of my spirit.
+
+1515
+01:14:00,900 --> 01:14:08,740
+Whitewashed hymns and the deadliest sins push me to my limit.
+
+1516
+01:14:08,740 --> 01:14:16,900
+But when you deconstruct, you shit out of luck for a minute.
+
+1517
+01:14:16,900 --> 01:14:22,900
+After the last bend, you can break it all down to rebuild it.
+
+1518
+01:14:22,900 --> 01:14:48,900
+You and me have gone bad in a good way, I promise.
+
+1519
+01:14:48,900 --> 01:14:56,900
+You and me have gone bad in a good way, I promise.
+
+1520
+01:14:56,900 --> 01:14:58,900
+I'll be alright.
+
+1521
+01:14:58,900 --> 01:15:02,900
+I can go there now that I stare.
+
+1522
+01:15:02,900 --> 01:15:04,900
+Death in the face.
+
+1523
+01:15:04,900 --> 01:15:06,900
+I'll be alright.
+
+1524
+01:15:06,900 --> 01:15:12,900
+I can go there now that I stare.
+
+1525
+01:15:18,900 --> 01:15:24,900
+You and me have gone bad in a good way, I promise.
+

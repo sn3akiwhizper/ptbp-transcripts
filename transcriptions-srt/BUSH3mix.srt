@@ -1,0 +1,4376 @@
+1
+00:00:00,000 --> 00:00:04,400
+Well, well, well, hello there once again.
+
+2
+00:00:04,400 --> 00:00:11,200
+Fancy catching you here at this place we call the Radio Waves.
+
+3
+00:00:11,200 --> 00:00:14,080
+Come on in and have yourself a seat.
+
+4
+00:00:14,080 --> 00:00:18,240
+Stay a while, listen to me, Wolf the Dog.
+
+5
+00:00:18,240 --> 00:00:27,280
+Broadcast from 694.2 PTBP, the greatest radio station ever by galactic mile.
+
+6
+00:00:27,280 --> 00:00:31,440
+That's like a country mile, but for space.
+
+7
+00:00:31,440 --> 00:00:36,080
+Speaking of great things, this week's Howlin' with Wolf is from Zach,
+
+8
+00:00:36,080 --> 00:00:42,960
+out in Ventura County, California, who tweeted about the show and tagged at Pretending Pod.
+
+9
+00:00:42,960 --> 00:00:46,320
+Hey, listener, what a fine idea, hmm?
+
+10
+00:00:46,320 --> 00:00:51,040
+Just a little tweet to tell your friends that you're the kind of freak
+
+11
+00:00:51,040 --> 00:00:55,520
+that don't shy away from the horrors of at Pretending Pod.
+
+12
+00:00:55,520 --> 00:01:01,360
+Sounds pretty cool to me, thanks Zach from Ventura County, California.
+
+13
+00:01:01,360 --> 00:01:02,640
+Zach writes,
+
+14
+00:01:02,640 --> 00:01:06,240
+Hey Wolf, love you and everyone on the show.
+
+15
+00:01:06,240 --> 00:01:11,360
+For anyone listening in SoCal looking for their own furry critter companion,
+
+16
+00:01:11,360 --> 00:01:14,400
+check out the Ventura County Animal Shelter.
+
+17
+00:01:14,400 --> 00:01:21,200
+They got dogs, cats, rabbits, and all manner of cute cuddly critters looking for homes.
+
+18
+00:01:21,200 --> 00:01:26,960
+No unnatural horrors, just members of the coalition you haven't met yet.
+
+19
+00:01:26,960 --> 00:01:31,120
+You never know when you'll need a friend to tell you to hide in the creek.
+
+20
+00:01:31,120 --> 00:01:33,040
+Thank you for all your hard work.
+
+21
+00:01:33,040 --> 00:01:35,760
+Can't wait to see what's next in season two.
+
+22
+00:01:36,720 --> 00:01:41,360
+Well, thanks for writing in, Zach, about these dang good animals.
+
+23
+00:01:41,360 --> 00:01:46,560
+I share a special bond with all creatures of all dimensions,
+
+24
+00:01:46,560 --> 00:01:51,360
+and a cool name, Zach, if it's even a real name.
+
+25
+00:01:51,360 --> 00:01:54,880
+I don't know a single human being named Zach.
+
+26
+00:01:54,880 --> 00:01:58,880
+Zach is a fake name invented by the Illuminati.
+
+27
+00:01:58,880 --> 00:02:03,280
+If you know anyone named Zach, report them to the agency.
+
+28
+00:02:03,840 --> 00:02:06,000
+Do not approach a Zach.
+
+29
+00:02:06,000 --> 00:02:09,600
+Do not lock eyes with any of them.
+
+30
+00:02:09,600 --> 00:02:11,920
+They do not exist in this space.
+
+31
+00:02:12,560 --> 00:02:16,720
+They are from elsewhere that does not exist.
+
+32
+00:02:17,360 --> 00:02:20,400
+If you want to write up something for your wolf to how,
+
+33
+00:02:20,400 --> 00:02:22,880
+tag at pretending pod on the internet.
+
+34
+00:02:22,880 --> 00:02:25,120
+All of our links are in the show notes.
+
+35
+00:02:25,120 --> 00:02:29,200
+And if you really like this show, like you like like this show,
+
+36
+00:02:29,200 --> 00:02:34,400
+and you want to show it by showering us with $6 and 66 in coins,
+
+37
+00:02:34,400 --> 00:02:37,360
+mostly dimes, at least one penny,
+
+38
+00:02:37,360 --> 00:02:41,280
+you'll be pleased to know that one of those links down there in the show notes
+
+39
+00:02:41,280 --> 00:02:46,000
+is to our Patreon at patreon.com slash pretending pod.
+
+40
+00:02:46,000 --> 00:02:49,920
+That money buys Papa Wolf the special grease.
+
+41
+00:02:49,920 --> 00:02:54,480
+This month, you'll get to hear the PTBP boys break down some mistakes
+
+42
+00:02:54,480 --> 00:02:58,320
+that were edited out of their recent run of control copy.
+
+43
+00:02:58,320 --> 00:03:01,840
+In a Patreon exclusive bonus episode that Zach,
+
+44
+00:03:02,480 --> 00:03:06,560
+not a real name, is calling how to be a bad GM.
+
+45
+00:03:06,560 --> 00:03:08,400
+You won't want to miss this one.
+
+46
+00:03:08,400 --> 00:03:12,560
+It's over an hour of laughing at that dumb ass Zach's mistakes
+
+47
+00:03:12,560 --> 00:03:16,480
+while he desperately tries to learn how to do better next time.
+
+48
+00:03:16,480 --> 00:03:20,880
+But if hyperbolic headlines aren't your thing, don't worry.
+
+49
+00:03:20,880 --> 00:03:22,480
+It's time for the news.
+
+50
+00:03:23,040 --> 00:03:28,240
+Last time, Dr. Rusty Hooch, the never missed scientist.
+
+51
+00:03:28,240 --> 00:03:32,400
+Dr. Olivia Miller, the sad single mom surgeon.
+
+52
+00:03:32,400 --> 00:03:36,800
+Doreen Maureen, the iPad scrolling Pinterest lady
+
+53
+00:03:36,800 --> 00:03:42,400
+and the refrigerated pocket having basic training dropout, the Chuckster.
+
+54
+00:03:42,400 --> 00:03:48,320
+They went to a corrugated metal hunting cabin in the middle of the Arkansas woods,
+
+55
+00:03:48,320 --> 00:03:55,200
+posing as Dr. Ann Falsom, the Bigfoot scientist and friend to B-U-S-H
+
+56
+00:03:55,200 --> 00:04:00,080
+in order to retrieve the corpse of an unnatural creature.
+
+57
+00:04:00,080 --> 00:04:03,680
+However, when Dr. Ann Falsom and her team
+
+58
+00:04:03,680 --> 00:04:06,640
+entered the headquarters of Bigfoot underground,
+
+59
+00:04:06,720 --> 00:04:10,160
+search and hunt, the air was sucked out of the room.
+
+60
+00:04:10,160 --> 00:04:16,960
+Bleeding out on a tarp on a pool table was not the corpse of any sort of Bigfoot,
+
+61
+00:04:16,960 --> 00:04:22,800
+but rather it was the bruised and bullet-riddled body of a 12-year-old boy.
+
+62
+00:04:22,800 --> 00:04:28,480
+And as Carl Lambert growled in confusion, it became clear to everyone else
+
+63
+00:04:28,480 --> 00:04:33,040
+that this dead boy on the table was somehow Michael Lambert,
+
+64
+00:04:33,040 --> 00:04:36,400
+Carl's brother who weren't missing over 30 years ago.
+
+65
+00:04:36,960 --> 00:04:40,080
+Something about that math just don't add up.
+
+66
+00:04:40,080 --> 00:04:47,120
+But that's family for you, always complex, emotional and time-bending.
+
+67
+00:04:47,120 --> 00:04:51,680
+Here's a brand new track that hits that same familial trinity.
+
+68
+00:04:51,680 --> 00:04:56,240
+It's Molly Healy with Circles.
+
+69
+00:05:03,040 --> 00:05:15,040
+Searing star, deafening heat, you don't know why you found it.
+
+70
+00:05:15,040 --> 00:05:31,040
+In this fate as your widest portion, you'd better learn how to keep it.
+
+71
+00:05:33,040 --> 00:05:37,440
+I don't know how old you guys are.
+
+72
+00:05:37,440 --> 00:05:40,000
+You strike me roughly my age, but I don't know.
+
+73
+00:05:40,000 --> 00:05:41,120
+I don't want to assume.
+
+74
+00:05:41,120 --> 00:05:42,000
+How old are you guys?
+
+75
+00:05:42,000 --> 00:05:42,480
+Almost 30.
+
+76
+00:05:42,480 --> 00:05:43,360
+Sub 30?
+
+77
+00:05:43,360 --> 00:05:45,520
+Yeah, we're about to turn 30.
+
+78
+00:05:45,520 --> 00:05:46,800
+And then Allie's 19.
+
+79
+00:05:46,800 --> 00:05:48,480
+I'm so, I'm 24.
+
+80
+00:05:50,400 --> 00:05:51,200
+I'm the baby.
+
+81
+00:05:52,480 --> 00:05:57,040
+Well, I mean, I'm happy then that you, because you recently came out of the closet, right?
+
+82
+00:05:57,040 --> 00:06:00,960
+So, uh, because I was like, if you're over 30, I'm like, oh man, what a,
+
+83
+00:06:00,960 --> 00:06:03,440
+so many years you, you lost out on pussy.
+
+84
+00:06:05,600 --> 00:06:08,800
+How much pussy would you have gotten in homeschool?
+
+85
+00:06:11,120 --> 00:06:12,000
+Actually a lot.
+
+86
+00:06:12,000 --> 00:06:12,800
+They're all gay.
+
+87
+00:06:15,520 --> 00:06:16,160
+Amazing.
+
+88
+00:06:17,520 --> 00:06:19,360
+I think Allie's pussy game's strong.
+
+89
+00:06:26,000 --> 00:06:28,240
+It sounded better coming out of her mouth than mine.
+
+90
+00:06:31,520 --> 00:06:37,280
+Let's talk about your characters and what situation they are currently in.
+
+91
+00:06:37,280 --> 00:06:41,920
+I think things ended interestingly.
+
+92
+00:06:41,920 --> 00:06:45,920
+So I'd like to dive into each of your minds for a quick moment.
+
+93
+00:06:46,800 --> 00:06:52,480
+As you've lost either one sanity for three of you or five sanity for the Chuckster.
+
+94
+00:06:56,400 --> 00:06:59,120
+Is there anything going on in the Chuckster's mind
+
+95
+00:06:59,120 --> 00:07:04,720
+other than just cool, cool, cool, cool, cool, cool, cool, cool.
+
+96
+00:07:04,720 --> 00:07:10,800
+As you are looking at this, uh, I assume that the, the flood of chemicals to your brain
+
+97
+00:07:10,800 --> 00:07:16,960
+that is just shutting you down right now is enough to make it hard to, uh, to assess the
+
+98
+00:07:16,960 --> 00:07:17,680
+situation.
+
+99
+00:07:17,680 --> 00:07:22,160
+But I just want to know what's going on in that, in that little fucking pea brain.
+
+100
+00:07:22,880 --> 00:07:30,720
+I think, uh, the Chuckster has always had the ability to like, I don't know, think everything's
+
+101
+00:07:30,720 --> 00:07:31,120
+chill.
+
+102
+00:07:31,120 --> 00:07:32,400
+Everything's fine.
+
+103
+00:07:32,400 --> 00:07:37,360
+Like even when bad things happen, like getting kicked out of basic training, he's just like,
+
+104
+00:07:37,360 --> 00:07:42,480
+it's cool, crack a brew and move on with my life and it's all good and everything's happy.
+
+105
+00:07:42,480 --> 00:07:47,200
+But this is the first time where he's like faced with his own mortality, that something
+
+106
+00:07:47,200 --> 00:07:48,960
+bad could actually happen to him.
+
+107
+00:07:48,960 --> 00:07:53,280
+And he does have a very close relationship with his parents, but he has been lying to
+
+108
+00:07:53,280 --> 00:07:57,120
+them because he wants them to be proud of his accomplishments.
+
+109
+00:07:57,120 --> 00:08:04,560
+And he's feeling this, I might not measure up and this might be the end and maybe I need
+
+110
+00:08:04,560 --> 00:08:06,240
+to take things more seriously.
+
+111
+00:08:06,240 --> 00:08:06,800
+Damn.
+
+112
+00:08:06,800 --> 00:08:08,160
+That's like really internal.
+
+113
+00:08:08,160 --> 00:08:10,880
+I was just like, yo, what happened to the Bigfoot?
+
+114
+00:08:10,880 --> 00:08:12,640
+And you're like, I have to change my life.
+
+115
+00:08:15,440 --> 00:08:18,320
+I think I'm going to start, uh, doing yoga.
+
+116
+00:08:18,320 --> 00:08:19,920
+I think that's what he's thinking about.
+
+117
+00:08:19,920 --> 00:08:25,280
+I got to start, I'm going to start washing my vegetables before I eat them.
+
+118
+00:08:25,280 --> 00:08:28,800
+Because maybe they have vegetables.
+
+119
+00:08:28,800 --> 00:08:29,440
+Yeah, that's true.
+
+120
+00:08:29,440 --> 00:08:31,920
+Maybe I need to figure out what vegetables are.
+
+121
+00:08:33,760 --> 00:08:36,160
+What's going through Dr. Olivia Miller's mind?
+
+122
+00:08:36,160 --> 00:08:42,960
+Normally, I think she would, um, be able to separate her professionality with her emotions,
+
+123
+00:08:42,960 --> 00:08:46,080
+like, because she's seen so many, so many dead bodies in her life.
+
+124
+00:08:46,080 --> 00:08:51,280
+And also, you know, you know, people coming in from accidents and gnarly shit like that.
+
+125
+00:08:51,280 --> 00:08:55,680
+Uh, so I think that's why she didn't lose all of her sanity, like Chuck Steere.
+
+126
+00:08:56,240 --> 00:09:02,560
+Coming from when she had that scene with her daughter, it's always rough to see a child.
+
+127
+00:09:03,280 --> 00:09:06,000
+It pulls at her heart string a little bit more so.
+
+128
+00:09:06,000 --> 00:09:12,160
+And also in this way, uh, but also knowing what's going on in the world, having a sense
+
+129
+00:09:12,160 --> 00:09:17,440
+of the unnatural and the weird occult thinking it's coming for children.
+
+130
+00:09:17,440 --> 00:09:23,520
+I think she's only been exposed so far to adults having gone through these terrible things.
+
+131
+00:09:23,520 --> 00:09:27,440
+And so now, uh, faced with a child, it's unsettling to her.
+
+132
+00:09:27,440 --> 00:09:33,920
+But I think she taps into her professionality immediately and will try to assess the situation.
+
+133
+00:09:34,720 --> 00:09:38,720
+Notice that Carl is reacting the way he's reacting, so he did not know.
+
+134
+00:09:39,280 --> 00:09:45,680
+Um, and she will, yeah, she will slowly try to approach the corpse
+
+135
+00:09:45,680 --> 00:09:48,240
+and make a medical assessment of it.
+
+136
+00:09:48,240 --> 00:09:49,120
+Yeah, totally.
+
+137
+00:09:49,120 --> 00:09:54,560
+I think Doreen is kind of in the weird mix of just like going back and forth
+
+138
+00:09:54,560 --> 00:09:58,640
+between feeling like completely sick because it's a child and she's been
+
+139
+00:09:58,640 --> 00:10:01,600
+haunted by these little metal melting children.
+
+140
+00:10:01,680 --> 00:10:10,080
+But at the same time, there's like a weird wrong comfort because she is like an agent
+
+141
+00:10:10,080 --> 00:10:18,880
+and has dealt with like murder before this almost feels like routine routine to her.
+
+142
+00:10:18,880 --> 00:10:19,520
+I know.
+
+143
+00:10:19,520 --> 00:10:24,240
+But I think that's part of the reason why she lost less sanity.
+
+144
+00:10:24,240 --> 00:10:25,440
+Another day in the office.
+
+145
+00:10:25,440 --> 00:10:25,600
+Yeah.
+
+146
+00:10:25,600 --> 00:10:28,160
+She's like good at compartmentalizing.
+
+147
+00:10:28,160 --> 00:10:28,560
+Yeah.
+
+148
+00:10:28,560 --> 00:10:31,440
+So does she like spring to action type of person or?
+
+149
+00:10:31,920 --> 00:10:35,840
+She'd probably be the first one to move forward.
+
+150
+00:10:35,840 --> 00:10:36,400
+Yeah.
+
+151
+00:10:36,400 --> 00:10:39,040
+What would even like, what is her move?
+
+152
+00:10:40,800 --> 00:10:41,440
+Check this out.
+
+153
+00:10:41,440 --> 00:10:43,360
+I know that you're not an FBI agent.
+
+154
+00:10:44,400 --> 00:10:50,160
+And I know that we don't always know what the proper like move is.
+
+155
+00:10:50,160 --> 00:10:53,840
+You know, when you're playing someone who just has a completely different job in life
+
+156
+00:10:53,840 --> 00:10:55,200
+than we do, it's role playing.
+
+157
+00:10:55,200 --> 00:10:58,000
+But you know, what would be Doreen's next move?
+
+158
+00:10:58,000 --> 00:10:58,800
+There's a body.
+
+159
+00:10:59,440 --> 00:11:00,880
+Nobody touch it.
+
+160
+00:11:00,880 --> 00:11:02,640
+Trying to find evidence.
+
+161
+00:11:02,640 --> 00:11:08,160
+Rusty over here should take this moment to like analyze the body.
+
+162
+00:11:08,160 --> 00:11:08,960
+Maybe me too.
+
+163
+00:11:08,960 --> 00:11:09,520
+Sure.
+
+164
+00:11:09,520 --> 00:11:16,000
+And, and Dr. Miller, of course, surgeon, you guys have like a good team for, for analyzing
+
+165
+00:11:16,000 --> 00:11:17,600
+the situation for sure.
+
+166
+00:11:17,600 --> 00:11:21,040
+I think it's interesting because Doreen, I would imagine is normally trying to figure
+
+167
+00:11:21,040 --> 00:11:22,160
+out who killed the body.
+
+168
+00:11:22,160 --> 00:11:22,640
+Right.
+
+169
+00:11:22,640 --> 00:11:26,720
+But in this case, you know, you know, it's pretty obvious, you know.
+
+170
+00:11:26,720 --> 00:11:33,120
+But I think the question right now is how did this body get here when did it, is this
+
+171
+00:11:33,120 --> 00:11:36,720
+morphed from something else or like, did something put this here?
+
+172
+00:11:36,720 --> 00:11:37,520
+Totally.
+
+173
+00:11:37,520 --> 00:11:38,240
+Yeah.
+
+174
+00:11:38,240 --> 00:11:44,240
+Rusty, I think she's pretty almost in a twisted way, like finally paying attention.
+
+175
+00:11:44,240 --> 00:11:45,760
+Like she's interested now.
+
+176
+00:11:46,800 --> 00:11:50,400
+Like she's been a little preoccupied with her personal life.
+
+177
+00:11:50,400 --> 00:11:55,200
+She's pretty selfish and private and she's been pretty like annoyed by her fellow agent.
+
+178
+00:11:55,200 --> 00:11:56,720
+So she hasn't really been giving a shit.
+
+179
+00:11:56,720 --> 00:12:00,240
+And it's very one-to-one with Ali's experience so far in the game.
+
+180
+00:12:00,240 --> 00:12:02,240
+I was very annoyed by my fellow agents.
+
+181
+00:12:02,240 --> 00:12:03,280
+Didn't really give a shit.
+
+182
+00:12:04,800 --> 00:12:07,760
+But now that there's a dead body, I'm pretty stoked.
+
+183
+00:12:07,760 --> 00:12:13,280
+Well, and like, cause her experiences with the unnatural occurrences were like very impersonal
+
+184
+00:12:13,280 --> 00:12:16,080
+because she was so far removed from everything else.
+
+185
+00:12:16,080 --> 00:12:19,520
+So everyone else had a more like personal hands-on experience.
+
+186
+00:12:19,520 --> 00:12:24,640
+So now that she's seeing this body, she's like kind of finally like taking it seriously
+
+187
+00:12:24,640 --> 00:12:29,840
+and is actually like interested and she needs to be interested in something to do her job well.
+
+188
+00:12:31,280 --> 00:12:35,360
+Is she thinking like, I see my next Nobel prize.
+
+189
+00:12:36,640 --> 00:12:37,440
+Exactly.
+
+190
+00:12:37,440 --> 00:12:41,440
+I think like probably for everyone, the Delta green part of your brain
+
+191
+00:12:41,440 --> 00:12:44,960
+in the back of your brain is saying, where's the evidence?
+
+192
+00:12:45,520 --> 00:12:48,160
+How do we destroy it and make sure this doesn't get out?
+
+193
+00:12:48,880 --> 00:12:52,400
+And finally, there is a certain amount of evidence
+
+194
+00:12:52,400 --> 00:12:57,840
+that lives inside the brains of witnesses, right?
+
+195
+00:12:57,840 --> 00:13:00,960
+So you do know that Jerome Dyer is another Delta green agent.
+
+196
+00:13:00,960 --> 00:13:07,280
+It's fine if he knows, but there are two civilians in this room right now, Carl Lambert,
+
+197
+00:13:07,280 --> 00:13:14,480
+crying for Michael, who you remember to be the name of his younger brother who went missing
+
+198
+00:13:14,480 --> 00:13:19,760
+almost 30 years ago, but who is still a 12 year old corpse on this table right now.
+
+199
+00:13:21,120 --> 00:13:24,080
+And then you have Janice Ruth, who is also in this room.
+
+200
+00:13:24,080 --> 00:13:31,600
+So I'm going to cut to her real quick as she is going to make a beeline for the front door.
+
+201
+00:13:32,720 --> 00:13:33,200
+Hell no.
+
+202
+00:13:36,720 --> 00:13:37,840
+Am I real quick?
+
+203
+00:13:37,840 --> 00:13:39,680
+Am I pretty incapacitated?
+
+204
+00:13:39,680 --> 00:13:40,320
+Oh yeah.
+
+205
+00:13:40,320 --> 00:13:40,720
+Okay.
+
+206
+00:13:40,720 --> 00:13:41,040
+Yeah.
+
+207
+00:13:41,040 --> 00:13:41,520
+Sorry.
+
+208
+00:13:41,520 --> 00:13:44,640
+Ellie, you said Dr. Miller was going to be really interested in going up to the body,
+
+209
+00:13:44,640 --> 00:13:49,600
+but as soon as Janice Ruth starts making a move, you reacted immediately.
+
+210
+00:13:49,600 --> 00:13:51,360
+So let's go to you.
+
+211
+00:13:51,360 --> 00:13:53,280
+Do you step into her way or?
+
+212
+00:13:54,000 --> 00:13:59,040
+The thing is I want to, Ellie, but I don't know if my character would be,
+
+213
+00:13:59,040 --> 00:14:04,960
+have that sort of role in her behavior because she's unbelievably clumsy and
+
+214
+00:14:06,080 --> 00:14:07,360
+like my dex is not great.
+
+215
+00:14:08,000 --> 00:14:15,360
+So I feel like it would be one of those like situations where I'm like somebody stop her,
+
+216
+00:14:15,360 --> 00:14:19,680
+but I would try to motion for her if I can, like I can roll for it.
+
+217
+00:14:19,680 --> 00:14:20,560
+I mean, who knows?
+
+218
+00:14:20,560 --> 00:14:20,960
+I don't know.
+
+219
+00:14:20,960 --> 00:14:21,760
+Alertness.
+
+220
+00:14:21,760 --> 00:14:23,040
+Would that be a thing or?
+
+221
+00:14:23,040 --> 00:14:23,280
+Yeah.
+
+222
+00:14:23,280 --> 00:14:27,840
+Let's actually just have all three of you who've succeeded on your sanity checks.
+
+223
+00:14:27,840 --> 00:14:34,960
+If you could all roll alertness and actually Lindsey is Doreen's alertness or search higher.
+
+224
+00:14:34,960 --> 00:14:35,840
+I succeed.
+
+225
+00:14:35,840 --> 00:14:36,480
+Okay, great.
+
+226
+00:14:36,480 --> 00:14:37,680
+I got a little roll.
+
+227
+00:14:37,680 --> 00:14:38,480
+I got a 12.
+
+228
+00:14:38,480 --> 00:14:39,360
+Oh, nice.
+
+229
+00:14:39,360 --> 00:14:42,560
+I got a 97 on a 20.
+
+230
+00:14:42,560 --> 00:14:44,800
+My alertness is higher than my search.
+
+231
+00:14:44,800 --> 00:14:45,760
+And what did you roll?
+
+232
+00:14:46,320 --> 00:14:46,960
+Oh, I sorry.
+
+233
+00:14:46,960 --> 00:14:47,680
+I haven't rolled yet.
+
+234
+00:14:51,200 --> 00:14:54,480
+74 on a 70.
+
+235
+00:14:56,560 --> 00:14:56,880
+Okay.
+
+236
+00:14:56,880 --> 00:15:02,480
+So Ellie, I'm going to give you the option since you're the only one who succeeded.
+
+237
+00:15:02,480 --> 00:15:05,920
+Are you, uh, are you going to make a move toward the door to stop Janice Ruth before
+
+238
+00:15:05,920 --> 00:15:09,040
+she goes out or are you going to immediately check out the body?
+
+239
+00:15:09,040 --> 00:15:14,080
+Miller wants to check out the body, but she is the body, but she is a super, super, she's
+
+240
+00:15:14,080 --> 00:15:14,800
+cool right now.
+
+241
+00:15:14,800 --> 00:15:16,080
+She's cool headed, level headed.
+
+242
+00:15:16,080 --> 00:15:17,680
+So she knows exactly what's going on.
+
+243
+00:15:17,680 --> 00:15:19,680
+Her perception is on point.
+
+244
+00:15:19,680 --> 00:15:24,560
+So she just straight up goes to, uh, she catches Ruth by the arm.
+
+245
+00:15:26,240 --> 00:15:27,520
+Oh, there's no need.
+
+246
+00:15:27,520 --> 00:15:29,120
+There's no need to panic.
+
+247
+00:15:29,120 --> 00:15:31,200
+No, are you kidding me?
+
+248
+00:15:31,200 --> 00:15:31,700
+Panic?
+
+249
+00:15:33,360 --> 00:15:33,860
+Panicking.
+
+250
+00:15:36,000 --> 00:15:38,960
+You seem to have been through a lot.
+
+251
+00:15:38,960 --> 00:15:39,920
+This happens a lot.
+
+252
+00:15:39,920 --> 00:15:47,280
+And she is going to lie and she's going to try to convince Ruth that she is hallucinating.
+
+253
+00:15:47,280 --> 00:15:50,320
+She's been hallucinating, uh, had some sort of head trauma.
+
+254
+00:15:50,320 --> 00:15:54,880
+She's going to try to do like a medical, do the power of suggestion of like, how have
+
+255
+00:15:54,880 --> 00:15:55,920
+you been sleeping lately?
+
+256
+00:15:55,920 --> 00:15:58,160
+Have you had any head trauma?
+
+257
+00:15:58,160 --> 00:15:58,720
+All right.
+
+258
+00:15:58,720 --> 00:15:59,840
+Uh, do you have psychotherapy?
+
+259
+00:15:59,840 --> 00:16:00,240
+Yes.
+
+260
+00:16:00,240 --> 00:16:00,800
+Oh, awesome.
+
+261
+00:16:00,800 --> 00:16:02,400
+Go ahead and roll psychotherapy.
+
+262
+00:16:03,200 --> 00:16:04,800
+Uh, not super high.
+
+263
+00:16:05,760 --> 00:16:08,240
+41 for psychotherapy.
+
+264
+00:16:09,840 --> 00:16:11,600
+Where's my psychotherapy?
+
+265
+00:16:11,600 --> 00:16:13,680
+Where the fuck is my fucking psychotherapy?
+
+266
+00:16:13,680 --> 00:16:16,720
+Uh, no, um, I have nevermind.
+
+267
+00:16:16,720 --> 00:16:17,840
+Uh, no, I failed.
+
+268
+00:16:21,040 --> 00:16:22,240
+I know what it was.
+
+269
+00:16:22,240 --> 00:16:23,120
+I know what it was.
+
+270
+00:16:23,120 --> 00:16:24,080
+I know what it is.
+
+271
+00:16:24,080 --> 00:16:24,580
+No.
+
+272
+00:16:27,120 --> 00:16:28,000
+Calm down.
+
+273
+00:16:28,000 --> 00:16:28,640
+Calm down.
+
+274
+00:16:28,640 --> 00:16:31,760
+I just, I can't, I can't, I can't, I can't.
+
+275
+00:16:33,120 --> 00:16:34,320
+Um, I'm going to, yeah.
+
+276
+00:16:35,120 --> 00:16:36,720
+She's going to need to be restrained.
+
+277
+00:16:36,720 --> 00:16:36,960
+Yeah.
+
+278
+00:16:36,960 --> 00:16:37,360
+All right.
+
+279
+00:16:37,360 --> 00:16:40,160
+So, uh, can I punch her in the face?
+
+280
+00:16:40,160 --> 00:16:40,640
+Jesus.
+
+281
+00:16:41,920 --> 00:16:44,080
+Can I just, can I try and restart?
+
+282
+00:16:44,080 --> 00:16:45,280
+I probably have.
+
+283
+00:16:45,280 --> 00:16:45,520
+Yeah.
+
+284
+00:16:45,520 --> 00:16:50,400
+I think at this point, if, uh, the other two who have succeeded on their sanity checks
+
+285
+00:16:50,400 --> 00:16:52,160
+want to, want to move in to help.
+
+286
+00:16:52,160 --> 00:16:52,480
+Yeah.
+
+287
+00:16:52,480 --> 00:16:55,520
+I think I probably have things to help restrain.
+
+288
+00:16:55,520 --> 00:16:58,480
+Medical doctor, do you have an inhaler in your bag?
+
+289
+00:16:59,120 --> 00:17:06,320
+I didn't take one out last week, but, uh, do I, Zach, please?
+
+290
+00:17:06,320 --> 00:17:06,800
+Always.
+
+291
+00:17:07,600 --> 00:17:10,960
+I, I like to think that everyone has everything.
+
+292
+00:17:10,960 --> 00:17:12,480
+Everyone's very well prepared.
+
+293
+00:17:12,480 --> 00:17:14,000
+You wouldn't be in Delta Green if you weren't.
+
+294
+00:17:14,000 --> 00:17:14,400
+Oh, what's this?
+
+295
+00:17:14,400 --> 00:17:16,160
+A million dollars in my pocket.
+
+296
+00:17:19,200 --> 00:17:19,680
+Okay.
+
+297
+00:17:19,680 --> 00:17:25,280
+I'm gonna shove the inhaler in her and try to shove a inhaler in her mouth.
+
+298
+00:17:26,000 --> 00:17:31,680
+So as Dr. Hooch and Doreen Marine kind of grab either side of this woman and set her
+
+299
+00:17:31,680 --> 00:17:36,720
+down onto the ground, still with the echo of cool, cool, cool, cool.
+
+300
+00:17:36,720 --> 00:17:38,160
+She's in the background.
+
+301
+00:17:38,160 --> 00:17:42,160
+Uh, Dr. Miller pulls out an inhaler, helps Janice Ruth with.
+
+302
+00:17:42,160 --> 00:17:51,840
+Uh, you look over and you see Jerome Dyer.
+
+303
+00:17:51,840 --> 00:17:54,320
+Agent Dyer is, uh, is comforting.
+
+304
+00:17:55,040 --> 00:18:00,400
+Carl Lambert, who is now on his knees, kind of crawled up toward the pool table.
+
+305
+00:18:00,400 --> 00:18:03,920
+He's got his elbows on the pool table and his hands flat.
+
+306
+00:18:03,920 --> 00:18:09,200
+Chin is on his hands and he's just crying and staring at the face.
+
+307
+00:18:09,520 --> 00:18:15,680
+You know, kind of from the side, uh, on this corpse of this, again, just completely bruised
+
+308
+00:18:15,680 --> 00:18:21,600
+every single part of the skin all the way down is blue and black and purple with bruising.
+
+309
+00:18:21,600 --> 00:18:27,520
+And there's just slug hole after slug hole with blood just pouring out and pooling on
+
+310
+00:18:27,520 --> 00:18:28,400
+this tarp below.
+
+311
+00:18:28,960 --> 00:18:36,560
+And Jerome Dyer is just comforting Carl as best he can as Carl is just weeping and moaning.
+
+312
+00:18:36,560 --> 00:18:37,840
+This was a separate room, right?
+
+313
+00:18:38,400 --> 00:18:43,360
+Basically the setup of this room is you walk in the front door on your right, there's a
+
+314
+00:18:43,360 --> 00:18:44,160
+bathroom.
+
+315
+00:18:44,160 --> 00:18:46,480
+There's not like a door to the bathroom.
+
+316
+00:18:46,480 --> 00:18:51,200
+There's just a stall door with a toilet in the stall with a sink next to it.
+
+317
+00:18:51,200 --> 00:18:53,600
+That's all still open in this room.
+
+318
+00:18:54,160 --> 00:19:01,120
+There's a skee-ball table right next to our skee-ball, you know, uh, not table machine,
+
+319
+00:19:01,120 --> 00:19:04,160
+machine, skee-ball machine right next to the toilet.
+
+320
+00:19:04,800 --> 00:19:10,480
+And, um, uh, and then, you know, uh, in the middle of the room is this pool table with
+
+321
+00:19:10,480 --> 00:19:15,360
+the tarp on it where this boy's body is laying lifeless in the corner of the room.
+
+322
+00:19:15,360 --> 00:19:23,280
+There's some couches and a TV, and then all hanging on the walls is equipment for both
+
+323
+00:19:23,280 --> 00:19:28,080
+Bigfoot hunting and for YouTube video making the two most important things in life.
+
+324
+00:19:28,720 --> 00:19:32,960
+And you also would notice that, uh, there's some like work desks and stuff where they've
+
+325
+00:19:32,960 --> 00:19:35,280
+got their, uh, computer set up.
+
+326
+00:19:35,280 --> 00:19:40,720
+Jerome Dyer's looking back at one of the computers and he pulls out his phone and looks at the
+
+327
+00:19:40,720 --> 00:19:43,360
+time and, and then, and that doesn't matter.
+
+328
+00:19:43,360 --> 00:19:46,320
+I was just, I just kept talking for some reason.
+
+329
+00:19:46,320 --> 00:19:51,600
+Okay, so, uh, just like, and then this happens, and then this happens.
+
+330
+00:19:53,200 --> 00:20:00,720
+Dr. Millie would, uh, tries to get the attention of, uh, Dr. Rusty Hooch or Dr. Falsom.
+
+331
+00:20:01,120 --> 00:20:06,400
+Pretend name is right now and be like, we should try to look at the body, but we need
+
+332
+00:20:06,400 --> 00:20:08,960
+to calm these two assholes down first.
+
+333
+00:20:08,960 --> 00:20:13,200
+Um, but she doesn't say that she tries to do it with her eyebrows.
+
+334
+00:20:13,200 --> 00:20:13,700
+Exactly.
+
+335
+00:20:14,400 --> 00:20:19,440
+Can I go out to the lab and cook something up to knock them out?
+
+336
+00:20:19,440 --> 00:20:21,600
+Oh yeah, absolutely.
+
+337
+00:20:21,600 --> 00:20:21,920
+Okay.
+
+338
+00:20:21,920 --> 00:20:28,640
+So I see Dr. Miller looking at me and I just kind of sneak out the back while you two are
+
+339
+00:20:28,640 --> 00:20:29,840
+holding her down.
+
+340
+00:20:29,840 --> 00:20:34,880
+As Dr. Miller can kind of go look at the body, Doreen is still with Janice Ruth and
+
+341
+00:20:34,880 --> 00:20:38,560
+Janice looks up at you and she's like, are you going to help?
+
+342
+00:20:39,440 --> 00:20:40,240
+What's happening?
+
+343
+00:20:40,240 --> 00:20:42,400
+Honey, I got my iPad out in the car.
+
+344
+00:20:42,400 --> 00:20:43,360
+Let me just go get it.
+
+345
+00:20:43,360 --> 00:20:44,640
+It'll calm you down.
+
+346
+00:20:44,640 --> 00:20:46,240
+It calms me down every night.
+
+347
+00:20:46,240 --> 00:20:47,440
+Oh no, no, I need you.
+
+348
+00:20:47,440 --> 00:20:48,880
+I need you right here.
+
+349
+00:20:48,880 --> 00:20:49,440
+All right.
+
+350
+00:20:49,440 --> 00:20:49,940
+Okay.
+
+351
+00:20:50,560 --> 00:20:51,600
+What do we do?
+
+352
+00:20:51,600 --> 00:20:54,560
+I pull out my personal cell phone and I pull up Pinterest.
+
+353
+00:20:54,560 --> 00:20:55,060
+Okay.
+
+354
+00:20:55,060 --> 00:20:59,060
+What do we do?
+
+355
+00:20:59,060 --> 00:21:00,580
+Just look at the pretty pictures, honey.
+
+356
+00:21:00,580 --> 00:21:01,780
+Just look at the pretty pictures.
+
+357
+00:21:01,780 --> 00:21:06,980
+This is literally like you're at the zoo, like on one side of the glass, like showing
+
+358
+00:21:06,980 --> 00:21:10,180
+the chimpanzee, like pictures of other chimpanzees.
+
+359
+00:21:10,180 --> 00:21:12,100
+And they're like telling you like, oh, nice.
+
+360
+00:21:12,100 --> 00:21:12,340
+Okay.
+
+361
+00:21:12,340 --> 00:21:13,540
+You can swipe to the next one.
+
+362
+00:21:14,100 --> 00:21:16,820
+I love that video, but this is Janice Ruth's version.
+
+363
+00:21:16,820 --> 00:21:18,500
+She's like, that's nice.
+
+364
+00:21:18,500 --> 00:21:19,540
+Let's go to the next one.
+
+365
+00:21:20,580 --> 00:21:21,140
+Oh, thank you.
+
+366
+00:21:21,140 --> 00:21:22,020
+That's a nice couch.
+
+367
+00:21:22,980 --> 00:21:23,480
+Oh God.
+
+368
+00:21:24,340 --> 00:21:26,820
+What is, is it like interior design porn?
+
+369
+00:21:26,820 --> 00:21:28,980
+I'm showing her videos of cooking.
+
+370
+00:21:30,020 --> 00:21:35,220
+I'm showing her like TikTok cooking videos and then like, and then interior design.
+
+371
+00:21:35,220 --> 00:21:39,460
+Those like tiny cooking videos where everything's super small and she's like,
+
+372
+00:21:39,460 --> 00:21:40,500
+everything's made of felt.
+
+373
+00:21:40,500 --> 00:21:43,620
+She's like, how did they make a spatula so small?
+
+374
+00:21:45,620 --> 00:21:48,020
+She like actually gets upset again because she doesn't understand.
+
+375
+00:21:48,660 --> 00:21:52,180
+While she's, while, uh, Janice Ruth is distracted.
+
+376
+00:21:52,180 --> 00:21:53,620
+Can I come back in with the shit?
+
+377
+00:21:53,620 --> 00:21:55,220
+But I need to approach Dr.
+
+378
+00:21:55,220 --> 00:21:56,260
+Miller first.
+
+379
+00:21:56,260 --> 00:22:02,580
+Rural pharmacy for what got, what got up, what you made for what happened in the lab.
+
+380
+00:22:02,580 --> 00:22:03,940
+55 on an 80.
+
+381
+00:22:03,940 --> 00:22:05,460
+That is a critical success.
+
+382
+00:22:07,300 --> 00:22:07,700
+Oh my gosh.
+
+383
+00:22:07,700 --> 00:22:09,220
+You're going to knock her out forever.
+
+384
+00:22:14,020 --> 00:22:14,660
+Oh my gosh.
+
+385
+00:22:14,660 --> 00:22:15,620
+You can fucking kill her.
+
+386
+00:22:15,620 --> 00:22:20,500
+Perfect because it's a critical success.
+
+387
+00:22:20,500 --> 00:22:24,660
+You can, uh, and because we made so many jokes about potions,
+
+388
+00:22:24,660 --> 00:22:28,180
+uh, you can give this if, I mean, if they'll take it right.
+
+389
+00:22:28,180 --> 00:22:32,820
+You have a liquid that is going to be clear.
+
+390
+00:22:33,380 --> 00:22:35,780
+It is going to be unscented.
+
+391
+00:22:35,780 --> 00:22:42,580
+It will have no taste and you cannot see it and they will only wake up when you, um,
+
+392
+00:22:42,660 --> 00:22:45,780
+is it the yin yang twins who said, snap your fingers?
+
+393
+00:22:45,780 --> 00:22:46,280
+Yeah.
+
+394
+00:22:48,340 --> 00:22:55,140
+Wait, can it be in a tiny, tiny cauldron and then maybe have some like smoke coming out of it?
+
+395
+00:22:56,820 --> 00:23:05,940
+Sometimes when you interject, it's useful all the time.
+
+396
+00:23:05,940 --> 00:23:11,300
+No, but it's as tiny as the tiny cooking videos, so she's intrigued.
+
+397
+00:23:11,380 --> 00:23:11,540
+Yeah.
+
+398
+00:23:11,540 --> 00:23:12,980
+She actually really likes it.
+
+399
+00:23:12,980 --> 00:23:14,020
+My God.
+
+400
+00:23:15,220 --> 00:23:15,620
+All right.
+
+401
+00:23:15,620 --> 00:23:22,980
+So I, um, I have this tiny, tiny culture in my hand, but I, I approached Dr.
+
+402
+00:23:22,980 --> 00:23:26,500
+Miller while Janice Ruth is being distracted with tiny cooking videos.
+
+403
+00:23:28,180 --> 00:23:32,660
+All right, listen, I've got something and I'm talking low so I can use my, my normal voice.
+
+404
+00:23:33,940 --> 00:23:35,940
+I'm not in character right now.
+
+405
+00:23:35,940 --> 00:23:38,900
+I've got something that'll knock these fuckers out, but as soon as I give it to him,
+
+406
+00:23:38,900 --> 00:23:40,660
+we're not going to be able to ask him a damn thing.
+
+407
+00:23:40,660 --> 00:23:41,940
+So do I need to wait a second?
+
+408
+00:23:41,940 --> 00:23:42,740
+What do I do?
+
+409
+00:23:42,740 --> 00:23:43,460
+That's a good point.
+
+410
+00:23:44,020 --> 00:23:48,580
+Like it, it seems like, um, our friend here has been able to calm her down somewhat.
+
+411
+00:23:48,580 --> 00:23:50,180
+Let's try to talk to them before.
+
+412
+00:23:50,180 --> 00:23:55,140
+And if they become aggravated again, let's use your little cauldron.
+
+413
+00:23:55,140 --> 00:23:56,340
+All right, we're going to need a word.
+
+414
+00:23:57,140 --> 00:23:57,700
+Banana.
+
+415
+00:23:58,340 --> 00:23:59,700
+But banana, got it.
+
+416
+00:24:00,260 --> 00:24:01,540
+That's my safety word.
+
+417
+00:24:03,060 --> 00:24:05,940
+You say banana, those fuckers knocked out immediately.
+
+418
+00:24:06,660 --> 00:24:07,300
+Exactly.
+
+419
+00:24:07,300 --> 00:24:07,700
+Perfect.
+
+420
+00:24:07,700 --> 00:24:08,260
+Thank you.
+
+421
+00:24:08,260 --> 00:24:08,900
+Thank you.
+
+422
+00:24:08,900 --> 00:24:09,540
+Good job.
+
+423
+00:24:09,540 --> 00:24:10,500
+Good thinking there.
+
+424
+00:24:10,500 --> 00:24:14,580
+She gives like a nod of approval to, uh, to Rusty.
+
+425
+00:24:14,580 --> 00:24:21,300
+And then I go and I hide my, I hide my, Rusty comes immediately.
+
+426
+00:24:26,580 --> 00:24:28,340
+Then I hide my tiny cauldrons.
+
+427
+00:24:30,020 --> 00:24:31,380
+Where do you hide it?
+
+428
+00:24:31,380 --> 00:24:32,660
+I put it in the corner.
+
+429
+00:24:34,900 --> 00:24:36,980
+Labeled tiny cauldron.
+
+430
+00:24:37,060 --> 00:24:42,740
+The Chuckster is coming out of his, uh, of his temp insane temp insane.
+
+431
+00:24:42,740 --> 00:24:44,580
+So it started out like really high.
+
+432
+00:24:44,580 --> 00:24:45,620
+Cool, cool, cool.
+
+433
+00:24:45,620 --> 00:24:51,780
+And as he comes back, it's like, cool, cool, cool, cool, cool, cool, cool, cool, cool,
+
+434
+00:24:51,780 --> 00:24:53,300
+cool, cool, cool, cool, cool.
+
+435
+00:24:54,500 --> 00:24:55,860
+And then that's him just being normal.
+
+436
+00:24:58,740 --> 00:24:59,060
+Okay.
+
+437
+00:24:59,060 --> 00:25:00,420
+You're looking at this situation.
+
+438
+00:25:00,420 --> 00:25:06,500
+Currently we have Doreen Marine is showing Pinterest videos to Janice Ruth
+
+439
+00:25:06,500 --> 00:25:08,340
+and keeping her calm in the corner.
+
+440
+00:25:08,340 --> 00:25:12,340
+I'm picturing her in the corner, like up against the bathroom stall door.
+
+441
+00:25:12,340 --> 00:25:19,380
+It's literally the exact same shot of Doreen, like over someone and like a bathroom stall.
+
+442
+00:25:19,380 --> 00:25:23,460
+But this time she's helping as opposed to slamming a teenager into the toilet.
+
+443
+00:25:24,420 --> 00:25:31,140
+Dr. Rusty Hooch is carefully placing a tiny cauldron into the corner for safekeeping.
+
+444
+00:25:31,220 --> 00:25:37,700
+And, um, Dr. Olivia Miller is heading straight to the body to give it a thorough look over
+
+445
+00:25:37,700 --> 00:25:41,380
+as the Chuckster comes out of the situation and also sees
+
+446
+00:25:41,380 --> 00:25:49,860
+Carl Lambert staring at the body with agent Jerome Dyer kind of stroking his, um, lack of hair.
+
+447
+00:25:49,860 --> 00:25:53,220
+Can I roll a medicine to see, uh, what I see?
+
+448
+00:25:53,860 --> 00:25:55,300
+Yes, please roll.
+
+449
+00:25:56,260 --> 00:26:00,900
+Oh, well, 55 on a 60 actually.
+
+450
+00:26:00,900 --> 00:26:03,380
+Holy fucking shit, Ellie.
+
+451
+00:26:04,500 --> 00:26:05,220
+55.
+
+452
+00:26:10,500 --> 00:26:19,300
+So, um, because you critically succeeded mathematically, it just fucking happens all
+
+453
+00:26:19,300 --> 00:26:19,780
+the time.
+
+454
+00:26:20,740 --> 00:26:21,220
+Wait, it is.
+
+455
+00:26:21,700 --> 00:26:21,940
+Okay.
+
+456
+00:26:21,940 --> 00:26:24,180
+So it's, uh, one is a create zero.
+
+457
+00:26:24,180 --> 00:26:25,860
+One is the critical success.
+
+458
+00:26:26,500 --> 00:26:29,540
+Um, and then 100 is a critical fail.
+
+459
+00:26:29,540 --> 00:26:33,780
+So if you've got, that's 11 chances to critical out of a hundred.
+
+460
+00:26:33,780 --> 00:26:38,020
+So there's an 11% chance, but I feel like it's happening more than 11% of the time.
+
+461
+00:26:39,460 --> 00:26:40,420
+God is in this house.
+
+462
+00:26:40,420 --> 00:26:42,500
+No, it's still happening to me, but it's a crit fail.
+
+463
+00:26:45,700 --> 00:26:46,020
+Okay.
+
+464
+00:26:46,020 --> 00:26:53,460
+So with that being said, I am going to have Lindsay, Allie, Taylor, go ahead and take
+
+465
+00:26:53,460 --> 00:26:56,420
+off your headphones and get the fuck out of the living room.
+
+466
+00:26:56,420 --> 00:26:58,500
+So you can't hear me talk to Ellie right now.
+
+467
+00:26:59,940 --> 00:27:00,440
+What?
+
+468
+00:27:01,220 --> 00:27:03,140
+This is a game mechanic in the game.
+
+469
+00:27:03,140 --> 00:27:04,020
+That's so funny.
+
+470
+00:27:04,020 --> 00:27:07,380
+So Ellie, I like to run closed games.
+
+471
+00:27:07,380 --> 00:27:12,980
+So, uh, you know, obviously with all the introduction stuff, I think it's fun to let
+
+472
+00:27:12,980 --> 00:27:17,780
+everyone in on like the character full, like character idea of each person, even
+
+473
+00:27:17,780 --> 00:27:21,300
+though you meet as strangers and you wouldn't know all that information beforehand.
+
+474
+00:27:21,300 --> 00:27:26,660
+But once we get into the shit and someone learns a piece of valuable information that
+
+475
+00:27:26,660 --> 00:27:31,140
+the others wouldn't know, I think it's fun to just give that piece of information to
+
+476
+00:27:31,140 --> 00:27:33,140
+the person playing the character who knows it.
+
+477
+00:27:33,700 --> 00:27:34,260
+Okay.
+
+478
+00:27:34,260 --> 00:27:34,900
+Interesting.
+
+479
+00:27:34,900 --> 00:27:35,220
+All right.
+
+480
+00:27:35,220 --> 00:27:38,740
+So I can make a decision later whether I share it or not.
+
+481
+00:27:39,380 --> 00:27:40,420
+Yeah.
+
+482
+00:27:40,420 --> 00:27:45,060
+And this is kind of a pretty, uh, pivotal moment in the story.
+
+483
+00:27:45,060 --> 00:27:49,060
+So as Dr.
+
+484
+00:27:49,060 --> 00:27:55,700
+Olivia Miller checks out this body underneath all this bruising, all this black and blue
+
+485
+00:27:55,700 --> 00:28:06,420
+and purple bruising up near the chest of this boy, there seems to be a rash and it's in
+
+486
+00:28:06,420 --> 00:28:08,100
+the form of a circle.
+
+487
+00:28:08,660 --> 00:28:14,740
+You see the biggest circle first, and it probably goes over the shoulder, under the arm a little
+
+488
+00:28:14,740 --> 00:28:21,540
+bit around the pectoral muscle, over the clavicle, and then back around forming an enormous circle
+
+489
+00:28:21,540 --> 00:28:26,900
+over the, over the chest, kind of exactly where you would put your hand over your heart
+
+490
+00:28:26,900 --> 00:28:29,460
+to, uh, you know, swear an oath.
+
+491
+00:28:30,180 --> 00:28:33,460
+And then you notice a smaller circle just inside that bigger one.
+
+492
+00:28:34,420 --> 00:28:41,380
+And these are just these red rashes and they're thick lines as they get closer to the center.
+
+493
+00:28:41,380 --> 00:28:43,620
+And you see, it's like a bullseye.
+
+494
+00:28:43,620 --> 00:28:44,660
+It's like a target.
+
+495
+00:28:45,300 --> 00:28:49,460
+And in the very middle, you begin to look really closely.
+
+496
+00:28:49,460 --> 00:28:51,540
+You've got your gloves on, you're all suited up.
+
+497
+00:28:51,540 --> 00:28:59,540
+So you're able to kind of move the skin around and the skin is so wrinkly, like it's been
+
+498
+00:28:59,540 --> 00:29:04,580
+stretched out and now it's kind of sunken back in.
+
+499
+00:29:04,580 --> 00:29:07,860
+Like, oh, my doorbell rang.
+
+500
+00:29:07,860 --> 00:29:08,500
+That's odd.
+
+501
+00:29:08,500 --> 00:29:09,220
+Oh, perfect.
+
+502
+00:29:10,340 --> 00:29:11,940
+And, uh, I'm sorry.
+
+503
+00:29:11,940 --> 00:29:13,300
+I'm going to get that real quick.
+
+504
+00:29:13,300 --> 00:29:15,060
+This is the worst time to do this.
+
+505
+00:29:19,620 --> 00:29:20,660
+Sorry about that.
+
+506
+00:29:20,660 --> 00:29:25,220
+It's my good friend Joe's birthday, uh, in three days.
+
+507
+00:29:25,220 --> 00:29:26,900
+And that was his birthday present in the mail.
+
+508
+00:29:27,300 --> 00:29:27,800
+Yay.
+
+509
+00:29:29,300 --> 00:29:29,800
+Okay.
+
+510
+00:29:30,340 --> 00:29:32,260
+Back into the most intense thing we've done.
+
+511
+00:29:32,980 --> 00:29:33,480
+Yeah.
+
+512
+00:29:34,900 --> 00:29:37,220
+I'm like, I'm like, okay, so it's stretched out.
+
+513
+00:29:37,220 --> 00:29:37,780
+He's big.
+
+514
+00:29:37,780 --> 00:29:38,180
+Okay.
+
+515
+00:29:38,180 --> 00:29:46,100
+You notice as you kind of pinch at the center of this bullseye, there's a divot dug out
+
+516
+00:29:46,100 --> 00:29:54,500
+in the skin as if there was something, like if a golf ball were to land on the green,
+
+517
+00:29:54,980 --> 00:30:01,540
+uh, from a high place, then it would make a round spot in the grass.
+
+518
+00:30:01,540 --> 00:30:02,820
+Like a crater.
+
+519
+00:30:02,820 --> 00:30:03,380
+Yes.
+
+520
+00:30:03,380 --> 00:30:10,500
+Like a very, very small crater, just a, um, concave skin spot.
+
+521
+00:30:11,380 --> 00:30:16,100
+But because it's so wrinkly, it's almost like, um, it's almost like if you had an
+
+522
+00:30:16,100 --> 00:30:21,140
+uninflated balloon that you've taken scissors to just like an edge part of.
+
+523
+00:30:21,140 --> 00:30:26,980
+So there's just a little hole, like a little circle hole there in the skin.
+
+524
+00:30:28,020 --> 00:30:34,820
+And because you critically succeeded out of the corner of your eye, as you're pinching
+
+525
+00:30:34,820 --> 00:30:50,340
+the skin and noticing this little hole, you see something tiny black with countless legs.
+
+526
+00:30:51,700 --> 00:31:01,860
+Crawling on the ground of the dirty tile floor and this weird impromptu cabin barn thing.
+
+527
+00:31:03,860 --> 00:31:07,460
+And it looks to your eyes like a tick.
+
+528
+00:31:08,180 --> 00:31:09,940
+You've never seen a tick like this.
+
+529
+00:31:09,940 --> 00:31:16,180
+It has so many legs all around to where as it's moving, it just kind of looks like it's
+
+530
+00:31:16,180 --> 00:31:18,020
+floating right above the ground.
+
+531
+00:31:18,580 --> 00:31:19,080
+Ugh.
+
+532
+00:31:19,620 --> 00:31:20,980
+Go ahead and roll sanity.
+
+533
+00:31:23,140 --> 00:31:25,700
+31 on to my current 55.
+
+534
+00:31:26,260 --> 00:31:26,740
+Okay.
+
+535
+00:31:26,740 --> 00:31:29,060
+You're not going to lose any sanity.
+
+536
+00:31:29,060 --> 00:31:36,020
+You know, from your medical training and experience that a bull's eye rash is actually
+
+537
+00:31:36,020 --> 00:31:38,740
+a common occurrence in tick bites.
+
+538
+00:31:38,740 --> 00:31:39,780
+Tick bites.
+
+539
+00:31:39,780 --> 00:31:40,740
+Tick bites.
+
+540
+00:31:40,740 --> 00:31:41,060
+Yeah.
+
+541
+00:31:41,060 --> 00:31:43,060
+I've actually had a fair amount of ticks.
+
+542
+00:31:43,060 --> 00:31:44,740
+They're common in Sweden.
+
+543
+00:31:44,740 --> 00:31:45,060
+Yeah.
+
+544
+00:31:45,060 --> 00:31:49,380
+So, you know, it's always a bad sign when you get like, because you can get that several
+
+545
+00:31:49,380 --> 00:31:53,060
+weeks after they've stung you and then you have to.
+
+546
+00:31:53,060 --> 00:31:53,540
+Yeah.
+
+547
+00:31:53,540 --> 00:31:54,100
+All right.
+
+548
+00:31:54,100 --> 00:32:00,580
+Well, my theory, if we're now doing it secretly, and I had this theory last time when you
+
+549
+00:32:00,580 --> 00:32:07,780
+reveal the body and everyone's reaction is that it's somehow this boy is Bigfoot, right?
+
+550
+00:32:07,780 --> 00:32:11,060
+But he's morphing back like a werewolf or something.
+
+551
+00:32:11,060 --> 00:32:12,020
+That's my thing.
+
+552
+00:32:12,020 --> 00:32:12,420
+Right.
+
+553
+00:32:12,420 --> 00:32:12,920
+Yeah.
+
+554
+00:32:13,320 --> 00:32:19,240
+But, you know, much more awful way, but I didn't account for the tick.
+
+555
+00:32:19,240 --> 00:32:23,320
+So now I'm a little, I'm a little interested and curious, but I don't know.
+
+556
+00:32:23,320 --> 00:32:25,240
+So do I have to tell them or is it up to me?
+
+557
+00:32:25,240 --> 00:32:26,360
+You don't have to tell them.
+
+558
+00:32:27,000 --> 00:32:31,400
+You can just describe your actions however you would like, but I'm going to have basically
+
+559
+00:32:31,400 --> 00:32:36,440
+this will be your moment is your moment of knowledge is going to be your turn here.
+
+560
+00:32:36,440 --> 00:32:42,680
+And then as we, as we bring everyone back in, I'm actually going to move into combat
+
+561
+00:32:42,680 --> 00:32:46,360
+order and we're going to like, we're in combat rounds.
+
+562
+00:32:47,160 --> 00:32:47,660
+Okay.
+
+563
+00:32:49,720 --> 00:32:55,720
+Hello, please come back and record the rest of the day.
+
+564
+00:32:58,360 --> 00:33:01,080
+Zach, this is such a good, like, you're such a good GM.
+
+565
+00:33:01,080 --> 00:33:01,400
+Thank you.
+
+566
+00:33:02,280 --> 00:33:02,760
+Thank you.
+
+567
+00:33:02,760 --> 00:33:03,480
+Great.
+
+568
+00:33:03,480 --> 00:33:04,120
+So much fun.
+
+569
+00:33:04,120 --> 00:33:05,320
+What'd y'all talk about?
+
+570
+00:33:05,320 --> 00:33:05,960
+Welcome back.
+
+571
+00:33:05,960 --> 00:33:07,800
+We're moving into combat order.
+
+572
+00:33:07,800 --> 00:33:11,960
+I would like to know what your dexterity are because we're going to move from whoever
+
+573
+00:33:11,960 --> 00:33:16,280
+has the highest dexterity down to whoever has the lowest dexterity.
+
+574
+00:33:16,280 --> 00:33:18,920
+So do you want the score or the times five score?
+
+575
+00:33:18,920 --> 00:33:19,560
+Either one.
+
+576
+00:33:19,560 --> 00:33:21,480
+Cause I'll know the difference.
+
+577
+00:33:21,480 --> 00:33:22,120
+12.
+
+578
+00:33:22,120 --> 00:33:22,600
+Okay.
+
+579
+00:33:23,160 --> 00:33:23,720
+12.
+
+580
+00:33:23,720 --> 00:33:24,760
+Oh shit.
+
+581
+00:33:24,760 --> 00:33:25,560
+10.
+
+582
+00:33:25,560 --> 00:33:26,440
+Fine.
+
+583
+00:33:26,440 --> 00:33:26,940
+10.
+
+584
+00:33:27,480 --> 00:33:28,120
+Damn.
+
+585
+00:33:28,120 --> 00:33:28,680
+Okay.
+
+586
+00:33:28,680 --> 00:33:31,720
+So yeah, rock, scissors, paper.
+
+587
+00:33:31,720 --> 00:33:35,160
+This will be hilarious because Lindsay and Ellie have the delay.
+
+588
+00:33:35,160 --> 00:33:37,080
+So let's start with Ali and Taylor.
+
+589
+00:33:37,960 --> 00:33:38,360
+Okay.
+
+590
+00:33:38,360 --> 00:33:39,320
+Do you do shoot?
+
+591
+00:33:39,320 --> 00:33:40,600
+Shoot is for losers.
+
+592
+00:33:40,600 --> 00:33:41,480
+Rock, paper, shoot.
+
+593
+00:33:41,960 --> 00:33:42,920
+Rock, paper, shoot.
+
+594
+00:33:44,600 --> 00:33:44,840
+All right.
+
+595
+00:33:44,840 --> 00:33:45,800
+Ali goes first.
+
+596
+00:33:46,760 --> 00:33:48,360
+Uh, rock, paper, shoot.
+
+597
+00:33:50,040 --> 00:33:51,320
+This is going to be hilarious.
+
+598
+00:33:52,600 --> 00:33:54,440
+I'm just going to close my eyes and do it.
+
+599
+00:33:55,240 --> 00:33:55,640
+All right.
+
+600
+00:33:55,640 --> 00:33:56,680
+Rock, paper, scissors.
+
+601
+00:33:57,560 --> 00:33:58,120
+Open your eyes.
+
+602
+00:33:59,160 --> 00:33:59,640
+Oh, fuck.
+
+603
+00:34:02,920 --> 00:34:03,480
+All right.
+
+604
+00:34:03,480 --> 00:34:05,640
+So it is going to go Dr.
+
+605
+00:34:05,640 --> 00:34:09,480
+Rusty Hooch, then Chuck the Chuckster, then.
+
+606
+00:34:09,480 --> 00:34:13,560
+Actually, after that experience that I had, uh, where I lost my sanity,
+
+607
+00:34:13,560 --> 00:34:15,640
+I'm, I'm trying to be more serious.
+
+608
+00:34:15,640 --> 00:34:18,040
+So I'm like, call me, call me Charles.
+
+609
+00:34:18,040 --> 00:34:18,280
+Now
+
+610
+00:34:22,520 --> 00:34:29,880
+he says to God inside his own head, he's like, I really say that to yourself.
+
+611
+00:34:29,880 --> 00:34:31,400
+You're like, you get this together.
+
+612
+00:34:31,400 --> 00:34:32,200
+Chuckster.
+
+613
+00:34:32,200 --> 00:34:34,360
+No, get this together.
+
+614
+00:34:34,360 --> 00:34:35,080
+Charles.
+
+615
+00:34:38,040 --> 00:34:38,600
+Amazing.
+
+616
+00:34:40,360 --> 00:34:40,360
+
+
+617
+00:34:41,160 --> 00:34:45,080
+Charles, the serious, very serious boy.
+
+618
+00:34:47,720 --> 00:34:49,000
+We're going to start with Jerome.
+
+619
+00:34:49,720 --> 00:34:51,560
+Then we're going to do Dr.
+
+620
+00:34:51,560 --> 00:34:57,160
+Rusty Hooch, Charles, Charles, Charles.
+
+621
+00:34:57,160 --> 00:34:58,440
+You can call me Charles T's.
+
+622
+00:34:58,440 --> 00:35:00,360
+I'll call you just Charles.
+
+623
+00:35:00,360 --> 00:35:04,200
+Then, uh, then it will be Carl.
+
+624
+00:35:04,200 --> 00:35:06,440
+And then we'll have Doreen and Miller.
+
+625
+00:35:06,440 --> 00:35:07,880
+And then I don't know.
+
+626
+00:35:07,880 --> 00:35:09,000
+I'm just saying this out loud.
+
+627
+00:35:09,080 --> 00:35:10,040
+I'm going to cut it from the show.
+
+628
+00:35:11,960 --> 00:35:13,720
+Oh, so we can say weird stuff.
+
+629
+00:35:13,720 --> 00:35:16,520
+And I like poop, poop, poop, poop, poop, poop, poop.
+
+630
+00:35:16,520 --> 00:35:17,880
+And now it's all staying in.
+
+631
+00:35:17,880 --> 00:35:19,640
+Janice Ruth is going to be last.
+
+632
+00:35:19,640 --> 00:35:22,520
+So, uh, okay.
+
+633
+00:35:22,520 --> 00:35:25,800
+So as far as you guys know, everything is the exact same.
+
+634
+00:35:25,800 --> 00:35:28,600
+When you look over, you can notice that Dr.
+
+635
+00:35:28,600 --> 00:35:33,240
+Miller is, uh, is pinching at the skin on the chest of this corpse.
+
+636
+00:35:33,240 --> 00:35:37,800
+She is wearing like a full hazmat suit and gloves at this point, as are
+
+637
+00:35:38,520 --> 00:35:39,320
+all four of you.
+
+638
+00:35:39,320 --> 00:35:43,560
+If you forgot about that and your mental image of the scene, throw it back in there.
+
+639
+00:35:44,280 --> 00:35:46,760
+And so we're going to have Dr.
+
+640
+00:35:46,760 --> 00:35:48,680
+Hooch kick this thing off.
+
+641
+00:35:48,680 --> 00:35:50,280
+As you also would see, Dr.
+
+642
+00:35:50,280 --> 00:35:57,800
+Miller is now releasing the skin and begins looking for, uh, something in her
+
+643
+00:35:57,800 --> 00:36:01,080
+pockets or bag that she has with her.
+
+644
+00:36:01,080 --> 00:36:01,800
+And it's Dr.
+
+645
+00:36:01,800 --> 00:36:02,360
+Hooch's turn.
+
+646
+00:36:02,360 --> 00:36:02,680
+Dr.
+
+647
+00:36:02,680 --> 00:36:04,040
+Hooch, what do you do?
+
+648
+00:36:04,040 --> 00:36:04,280
+Okay.
+
+649
+00:36:04,280 --> 00:36:07,800
+So I run over there because I'm supposed to be the doctor.
+
+650
+00:36:08,760 --> 00:36:10,200
+Aren't you a scientist?
+
+651
+00:36:10,200 --> 00:36:12,200
+Yeah, but, uh, and Folsom.
+
+652
+00:36:12,200 --> 00:36:13,640
+Oh, that's right.
+
+653
+00:36:14,680 --> 00:36:16,920
+We're still keeping up appearances at this point.
+
+654
+00:36:16,920 --> 00:36:17,560
+I forgot.
+
+655
+00:36:17,560 --> 00:36:21,320
+So I put my cauldron down and I quickly remember that I'm supposed to be the
+
+656
+00:36:21,320 --> 00:36:22,520
+doctor in the situation.
+
+657
+00:36:22,520 --> 00:36:23,960
+So I run over to Dr.
+
+658
+00:36:23,960 --> 00:36:30,760
+Miller, put my British accent back on and I loudly say, I loudly say this.
+
+659
+00:36:34,680 --> 00:36:35,880
+Right.
+
+660
+00:36:35,880 --> 00:36:37,320
+Let me take a look at the body.
+
+661
+00:36:37,320 --> 00:36:38,360
+Don't no one touch.
+
+662
+00:36:38,360 --> 00:36:39,560
+Move aside, move aside.
+
+663
+00:36:41,880 --> 00:36:44,040
+Which is perfect because she's already moving aside.
+
+664
+00:36:44,040 --> 00:36:45,320
+It is now Charles's turn.
+
+665
+00:36:45,320 --> 00:36:46,920
+I don't understand.
+
+666
+00:36:47,480 --> 00:36:49,880
+Is everything as I saw it last?
+
+667
+00:36:49,880 --> 00:36:50,380
+Yep.
+
+668
+00:36:51,000 --> 00:36:51,400
+Okay.
+
+669
+00:36:51,400 --> 00:36:55,080
+That's kind of the uncomfortable thing about moving into dexterity order in
+
+670
+00:36:55,080 --> 00:36:58,200
+Delta Green is sometimes you don't know why or why.
+
+671
+00:36:58,200 --> 00:37:02,280
+Cause a lot of times we'd be in moving in dexterity order when you're in combat
+
+672
+00:37:02,280 --> 00:37:04,360
+and then like a gunfight or a chase.
+
+673
+00:37:05,400 --> 00:37:09,400
+So this could be either one of those, but it also could just be me being like,
+
+674
+00:37:09,400 --> 00:37:13,560
+and now we're moving in dexterity order to make it seem like the tight
+
+675
+00:37:13,560 --> 00:37:14,920
+intention of the situation.
+
+676
+00:37:14,920 --> 00:37:15,160
+Okay.
+
+677
+00:37:15,160 --> 00:37:20,440
+I think that I'm going to use my two months of basic training knowledge.
+
+678
+00:37:20,440 --> 00:37:25,640
+I'm going to, I'm going to barrel roll over to the door and secure it.
+
+679
+00:37:25,640 --> 00:37:27,800
+I'm going to secure the place so that no one can escape.
+
+680
+00:37:27,800 --> 00:37:29,720
+Ocular pat down of the entire place.
+
+681
+00:37:29,720 --> 00:37:32,760
+You are at the only doors, the entrance and the exit.
+
+682
+00:37:32,760 --> 00:37:33,560
+Excellent move.
+
+683
+00:37:34,200 --> 00:37:37,400
+Jerome Dyer is still very much calming down Carl.
+
+684
+00:37:38,200 --> 00:37:42,440
+As Carl begins, let's see, actually, I'm going to go ahead and roll for Carl's
+
+685
+00:37:42,440 --> 00:37:43,320
+sanity here.
+
+686
+00:37:45,320 --> 00:37:50,680
+Carl's eyes begin to turn to anger.
+
+687
+00:37:51,320 --> 00:37:56,920
+And if anyone were to notice you, you, you're hearing Carl's sobs become more
+
+688
+00:37:57,000 --> 00:37:59,720
+just like, what the fuck?
+
+689
+00:38:05,960 --> 00:38:08,520
+Which I'm realizing now would be hard not to notice.
+
+690
+00:38:08,520 --> 00:38:12,040
+And Janice Ruth is, I'm just okay.
+
+691
+00:38:12,040 --> 00:38:13,320
+I'm just going to be okay.
+
+692
+00:38:13,320 --> 00:38:14,600
+I'm just going to be okay.
+
+693
+00:38:14,600 --> 00:38:17,400
+And I keep rolling really high sanity checks.
+
+694
+00:38:17,400 --> 00:38:19,480
+And so I'm going to lose my mind again a little bit.
+
+695
+00:38:19,480 --> 00:38:21,560
+And she looks up at Doreen.
+
+696
+00:38:21,560 --> 00:38:22,680
+She says, I'm fine now.
+
+697
+00:38:23,240 --> 00:38:27,640
+And she's going to try to stand up and, uh, and move toward the door that both.
+
+698
+00:38:27,640 --> 00:38:30,760
+Now Doreen is kind of in the way of, as well as Charles.
+
+699
+00:38:31,640 --> 00:38:32,360
+Is it my turn?
+
+700
+00:38:32,360 --> 00:38:32,680
+Yeah.
+
+701
+00:38:32,680 --> 00:38:37,880
+I think for Doreen specifically, she's just really ready to help with the body,
+
+702
+00:38:37,880 --> 00:38:44,120
+but I guess if she's fucking relegated, taking care of old lady on the ground.
+
+703
+00:38:44,120 --> 00:38:45,240
+She sure did.
+
+704
+00:38:45,800 --> 00:38:51,960
+I guess for this turn, I'm going to try and convince Janice to not leave the premises.
+
+705
+00:38:51,960 --> 00:38:52,840
+Yeah, great.
+
+706
+00:38:52,840 --> 00:38:57,560
+If you want to roll persuade or psychotherapy, which everyone's higher.
+
+707
+00:39:02,920 --> 00:39:05,480
+I rolled an 86 on a 50.
+
+708
+00:39:06,760 --> 00:39:09,160
+Damn, not lucky with the rolls.
+
+709
+00:39:09,160 --> 00:39:10,840
+At least it's not a crit fail.
+
+710
+00:39:10,840 --> 00:39:12,040
+At least it's not a crit fail.
+
+711
+00:39:12,600 --> 00:39:19,160
+Janice Ruth stands up and is going to move past you.
+
+712
+00:39:19,240 --> 00:39:23,560
+Now only has Charles between herself and the door.
+
+713
+00:39:23,560 --> 00:39:25,400
+Dr. Miller, it is your turn.
+
+714
+00:39:25,400 --> 00:39:32,040
+Dr. Miller sees that Janice is on her way to the door and she says with, uh, I'm going
+
+715
+00:39:32,040 --> 00:39:36,680
+to roll a persuade for this and she's going to say, if you leave, I have reasons to believe
+
+716
+00:39:36,680 --> 00:39:37,880
+that we're all going to die.
+
+717
+00:39:37,880 --> 00:39:39,960
+That is a strong persuade.
+
+718
+00:39:39,960 --> 00:39:46,680
+Uh, it's also weird and crazy, so I'm not going to get, I was, I was like, she deserves
+
+719
+00:39:46,680 --> 00:39:51,400
+a plus 20 on that until I thought about Janice Ruth in that situation, which is like, what
+
+720
+00:39:51,400 --> 00:39:53,480
+the fuck are you talking about, dude?
+
+721
+00:39:53,960 --> 00:40:02,200
+Uh, so go ahead and, uh, we'll just go straight up and down and roll that persuade.
+
+722
+00:40:02,760 --> 00:40:06,120
+Um, 15 on a 40 persuade.
+
+723
+00:40:06,120 --> 00:40:06,760
+Excellent.
+
+724
+00:40:06,760 --> 00:40:07,320
+Excellent.
+
+725
+00:40:07,880 --> 00:40:12,280
+Uh, she turns around, puts her hand behind her back.
+
+726
+00:40:12,920 --> 00:40:14,440
+Is that a threat?
+
+727
+00:40:14,440 --> 00:40:15,320
+It's not a threat.
+
+728
+00:40:15,320 --> 00:40:17,320
+It's a warning and it goes for all of you.
+
+729
+00:40:17,320 --> 00:40:22,120
+And she looks at the Carl who's crying and, um, and everyone in the room is just like,
+
+730
+00:40:22,120 --> 00:40:23,000
+nobody leaves.
+
+731
+00:40:23,560 --> 00:40:27,720
+I have reason to believe that there's something really wrong going on here.
+
+732
+00:40:27,720 --> 00:40:33,000
+When you look down, you notice that, uh, the floor is just white and tile and there's some
+
+733
+00:40:33,000 --> 00:40:36,680
+dirt spread around it, but you don't see anything else anymore.
+
+734
+00:40:36,680 --> 00:40:42,200
+Cause you've taken your eyes off the ground and, uh, we're going to head back to the top
+
+735
+00:40:42,200 --> 00:40:43,160
+of the order with Jerome.
+
+736
+00:40:43,160 --> 00:40:45,400
+Jerome's like, come on, Carl, it's going to be okay.
+
+737
+00:40:45,400 --> 00:40:46,440
+It's going to be okay.
+
+738
+00:40:46,440 --> 00:40:46,840
+All right.
+
+739
+00:40:46,840 --> 00:40:47,560
+Stay with me.
+
+740
+00:40:47,560 --> 00:40:48,120
+Stay with me.
+
+741
+00:40:50,360 --> 00:40:51,560
+Like a car that won't start.
+
+742
+00:40:52,760 --> 00:40:54,600
+And, uh, Charles, what are you doing?
+
+743
+00:40:54,600 --> 00:40:54,920
+Okay.
+
+744
+00:40:54,920 --> 00:40:59,720
+So I'm feeling very confident with your confidence.
+
+745
+00:40:59,720 --> 00:41:00,040
+Sorry.
+
+746
+00:41:00,040 --> 00:41:05,080
+Just to give you a quick rundown, Janice turned her back to you when she turned to talk to
+
+747
+00:41:05,080 --> 00:41:06,040
+Dr. Miller.
+
+748
+00:41:06,040 --> 00:41:10,040
+When she put her hand behind her back, you see that she's reaching for a gun that is
+
+749
+00:41:10,040 --> 00:41:12,440
+in her like waistband.
+
+750
+00:41:12,440 --> 00:41:12,840
+Okay.
+
+751
+00:41:12,840 --> 00:41:16,200
+And you are literally within arm's reach of both.
+
+752
+00:41:16,200 --> 00:41:19,000
+You can grab her hand, you can grab her wrist, you can grab her gun, you can punch your butt.
+
+753
+00:41:20,680 --> 00:41:21,160
+Well, okay.
+
+754
+00:41:21,160 --> 00:41:26,280
+I think I'll use my, I would like to talk and move at the same time and humans typically
+
+755
+00:41:26,280 --> 00:41:26,680
+do that.
+
+756
+00:41:26,680 --> 00:41:27,720
+You can definitely do that.
+
+757
+00:41:27,720 --> 00:41:27,960
+Okay.
+
+758
+00:41:29,400 --> 00:41:31,240
+You're like, what can I do?
+
+759
+00:41:31,240 --> 00:41:32,200
+What can I do in this game?
+
+760
+00:41:32,200 --> 00:41:33,640
+It's kind of two things at once.
+
+761
+00:41:33,640 --> 00:41:33,880
+Yeah.
+
+762
+00:41:34,520 --> 00:41:37,480
+Talking, talking is always like kind of a free action.
+
+763
+00:41:37,480 --> 00:41:37,960
+Freebie.
+
+764
+00:41:37,960 --> 00:41:38,200
+Yeah.
+
+765
+00:41:38,200 --> 00:41:38,760
+Okay.
+
+766
+00:41:38,760 --> 00:41:41,560
+So I am action wise.
+
+767
+00:41:41,560 --> 00:41:46,040
+I am using my athletics to reach for the gun.
+
+768
+00:41:46,040 --> 00:41:46,360
+Okay.
+
+769
+00:41:46,360 --> 00:41:49,000
+And also I'm going to do like a, I can picture this.
+
+770
+00:41:49,000 --> 00:41:54,920
+So she's turned around and I'm going to stick my leg between her legs and then wrap it around
+
+771
+00:41:54,920 --> 00:41:57,000
+one and get her down to a kneeling position.
+
+772
+00:41:57,720 --> 00:41:58,280
+Okay.
+
+773
+00:41:58,280 --> 00:41:59,240
+Yeah, that's rad.
+
+774
+00:41:59,240 --> 00:42:01,560
+Go ahead and roll athletics.
+
+775
+00:42:01,560 --> 00:42:06,760
+This is like a wrestling move or, um, I guess athletics.
+
+776
+00:42:07,720 --> 00:42:12,600
+I mean, if you want to give me something I have higher in like unarmed combat actually
+
+777
+00:42:12,600 --> 00:42:13,720
+is probably closer.
+
+778
+00:42:13,720 --> 00:42:14,440
+That's lower though.
+
+779
+00:42:14,440 --> 00:42:14,680
+Yeah.
+
+780
+00:42:14,680 --> 00:42:15,160
+Go ahead and roll.
+
+781
+00:42:15,880 --> 00:42:17,480
+I'm going to go ahead and roll athletics.
+
+782
+00:42:19,800 --> 00:42:20,600
+You know what?
+
+783
+00:42:20,600 --> 00:42:21,240
+I'm going to go.
+
+784
+00:42:24,920 --> 00:42:29,480
+I pass either one 39 on a 40 or on a 50 or a 60.
+
+785
+00:42:29,480 --> 00:42:29,800
+Whoa.
+
+786
+00:42:32,680 --> 00:42:33,400
+All right.
+
+787
+00:42:33,400 --> 00:42:34,280
+The jig is up.
+
+788
+00:42:35,240 --> 00:42:37,080
+What the fuck is going on here?
+
+789
+00:42:37,080 --> 00:42:39,320
+I turned to Jerome.
+
+790
+00:42:40,040 --> 00:42:41,720
+You got to fill us in, bro.
+
+791
+00:42:41,720 --> 00:42:43,160
+Like this shit's crazy.
+
+792
+00:42:43,160 --> 00:42:44,360
+Absolutely no idea.
+
+793
+00:42:44,360 --> 00:42:47,720
+This was a goddamn Bigfoot five minutes ago.
+
+794
+00:42:47,720 --> 00:42:50,520
+Well then how the fuck did it turn into a little boy?
+
+795
+00:42:50,520 --> 00:42:52,040
+I'm not a doctor.
+
+796
+00:42:52,040 --> 00:42:55,080
+And you both just like whip pan turn to the other two.
+
+797
+00:42:56,680 --> 00:43:01,560
+I think someone should look to see if there is security footage so we can see a transformation.
+
+798
+00:43:01,560 --> 00:43:02,600
+Did I skip Dr.
+
+799
+00:43:02,600 --> 00:43:03,480
+Hooch's turn?
+
+800
+00:43:03,480 --> 00:43:04,040
+Yes.
+
+801
+00:43:05,000 --> 00:43:06,840
+Allie, you didn't speak up at all.
+
+802
+00:43:06,840 --> 00:43:07,560
+I thought I went.
+
+803
+00:43:07,560 --> 00:43:09,400
+I was like, I guess I go after Taylor.
+
+804
+00:43:09,400 --> 00:43:12,040
+I guess I, I guess I lost rock, paper, scissors.
+
+805
+00:43:13,160 --> 00:43:15,400
+I forgot I won rock, paper, scissors.
+
+806
+00:43:15,400 --> 00:43:17,800
+I forgot to, you know, have you go next.
+
+807
+00:43:17,800 --> 00:43:18,600
+So it's your turn.
+
+808
+00:43:19,560 --> 00:43:19,960
+Okay.
+
+809
+00:43:19,960 --> 00:43:24,680
+So I, now that things are getting a little more out of hand with these two civilians,
+
+810
+00:43:24,680 --> 00:43:31,320
+I look directly at Doreen and then I glance over at the cauldron in the corner so that
+
+811
+00:43:31,320 --> 00:43:33,160
+she knows she needs to go get it.
+
+812
+00:43:33,160 --> 00:43:36,040
+And I'm still like hovering over the body playing Dr.
+
+813
+00:43:36,040 --> 00:43:36,760
+Anne Folsom.
+
+814
+00:43:37,480 --> 00:43:38,360
+I'm so sorry.
+
+815
+00:43:38,360 --> 00:43:41,880
+I, if you could hold, just everyone hold for a moment.
+
+816
+00:43:42,520 --> 00:43:45,240
+My Pro Tools is not responding and I'm having a heart attack.
+
+817
+00:43:45,240 --> 00:43:46,200
+Oh, you're doing great.
+
+818
+00:43:46,200 --> 00:43:48,600
+What do you use your Pro Tools for?
+
+819
+00:43:48,600 --> 00:43:49,560
+Recording.
+
+820
+00:43:49,560 --> 00:43:51,800
+Oh, that's bad.
+
+821
+00:43:51,800 --> 00:43:52,300
+Yeah.
+
+822
+00:43:52,680 --> 00:43:53,180
+Oh no.
+
+823
+00:43:53,720 --> 00:43:54,360
+Yep.
+
+824
+00:43:54,360 --> 00:43:55,080
+I just realized.
+
+825
+00:43:55,080 --> 00:43:57,480
+Hey guys, it's all still there.
+
+826
+00:43:57,480 --> 00:44:06,680
+It literally did full not responding white screen and then boom, back to fully in motion.
+
+827
+00:44:10,760 --> 00:44:11,720
+Can you imagine?
+
+828
+00:44:11,720 --> 00:44:12,520
+Oh my God.
+
+829
+00:44:12,520 --> 00:44:13,000
+Let's get this man a shot.
+
+830
+00:44:13,000 --> 00:44:17,400
+I had to rerecord an entire, two entire episodes once.
+
+831
+00:44:18,120 --> 00:44:18,620
+No.
+
+832
+00:44:19,880 --> 00:44:26,440
+That it was like, it was like a very cool finale, like all the revelations and it's
+
+833
+00:44:26,680 --> 00:44:28,760
+like gone.
+
+834
+00:44:28,760 --> 00:44:30,920
+That fucking sucks.
+
+835
+00:44:30,920 --> 00:44:31,240
+Yeah.
+
+836
+00:44:31,240 --> 00:44:34,840
+But it actually, the second time around was better because then they could rehearse.
+
+837
+00:44:34,840 --> 00:44:35,960
+Yeah, of course.
+
+838
+00:44:35,960 --> 00:44:36,460
+Yep.
+
+839
+00:44:36,840 --> 00:44:37,080
+Yeah.
+
+840
+00:44:37,080 --> 00:44:40,840
+We recorded, we rerecorded our first episode because it was the first time we were ever
+
+841
+00:44:40,840 --> 00:44:44,200
+on mic and we finished and we were like, that sucked.
+
+842
+00:44:46,920 --> 00:44:47,640
+All right.
+
+843
+00:44:47,640 --> 00:44:53,800
+Let's move on to, well, if I'm being honest, didn't hear a goddamn word you said Allie.
+
+844
+00:44:53,800 --> 00:44:58,520
+So I'm still doctor who just still hovering over the body playing and fall some playing
+
+845
+00:44:58,520 --> 00:45:03,400
+doctor, but she looks over her shoulder directly at Doreen and then looks over at the cauldron
+
+846
+00:45:03,400 --> 00:45:05,560
+to let Doreen know that she needs to go grab that.
+
+847
+00:45:05,560 --> 00:45:05,800
+Yes.
+
+848
+00:45:05,800 --> 00:45:07,400
+Go ahead and roll alertness for me.
+
+849
+00:45:07,400 --> 00:45:07,900
+Okay.
+
+850
+00:45:09,400 --> 00:45:09,640
+Damn.
+
+851
+00:45:09,640 --> 00:45:11,480
+Why'd you give me such a low alertness?
+
+852
+00:45:11,480 --> 00:45:11,640
+Yeah.
+
+853
+00:45:11,640 --> 00:45:12,200
+Sorry, dude.
+
+854
+00:45:12,760 --> 00:45:13,320
+Wait.
+
+855
+00:45:13,320 --> 00:45:13,960
+Holy shit.
+
+856
+00:45:15,400 --> 00:45:16,520
+Is that a great success?
+
+857
+00:45:16,520 --> 00:45:18,200
+No, 11 would be.
+
+858
+00:45:18,200 --> 00:45:20,200
+Oh, what does it mean?
+
+859
+00:45:20,200 --> 00:45:21,560
+It means you passed.
+
+860
+00:45:21,560 --> 00:45:22,040
+Oh, okay.
+
+861
+00:45:22,040 --> 00:45:22,760
+I pass.
+
+862
+00:45:22,760 --> 00:45:23,400
+Congrats.
+
+863
+00:45:23,400 --> 00:45:23,960
+Thank you.
+
+864
+00:45:23,960 --> 00:45:24,680
+Uh, okay.
+
+865
+00:45:24,680 --> 00:45:28,440
+Instead of leaving, instead of leaving the room this time, Lindsay and Taylor, just take
+
+866
+00:45:28,440 --> 00:45:29,240
+off your headphones.
+
+867
+00:45:29,800 --> 00:45:33,240
+And then if you just like put your fingers in your ears and wiggle them a little bit,
+
+868
+00:45:34,520 --> 00:45:35,800
+maybe don't make that noise.
+
+869
+00:45:39,160 --> 00:45:40,040
+Dr.
+
+870
+00:45:40,040 --> 00:45:40,680
+Hooch.
+
+871
+00:45:40,680 --> 00:45:41,080
+Yeah.
+
+872
+00:45:41,080 --> 00:45:50,440
+As you look at Doreen, Marine, you see that there is a small tick on the ground that is
+
+873
+00:45:50,440 --> 00:45:58,440
+crawling directly towards the military boots that are planted firmly on the ground in
+
+874
+00:45:58,440 --> 00:45:59,480
+between Doreen.
+
+875
+00:46:00,120 --> 00:46:02,440
+I don't know why I'm describing her feet so weird.
+
+876
+00:46:03,480 --> 00:46:04,600
+It's heading toward her boots.
+
+877
+00:46:05,640 --> 00:46:06,520
+It's a small tick.
+
+878
+00:46:07,320 --> 00:46:08,680
+I need you to roll sanity.
+
+879
+00:46:09,240 --> 00:46:09,480
+Okay.
+
+880
+00:46:11,080 --> 00:46:12,360
+It's just a bug.
+
+881
+00:46:12,360 --> 00:46:14,440
+You got 71 on a 55.
+
+882
+00:46:14,440 --> 00:46:16,280
+Oh, it's probably not just a bug.
+
+883
+00:46:16,280 --> 00:46:17,720
+You're going to lose one sanity.
+
+884
+00:46:18,600 --> 00:46:19,480
+You've seen ticks.
+
+885
+00:46:20,360 --> 00:46:24,520
+Ticks don't have that many legs, Dr.
+
+886
+00:46:24,520 --> 00:46:25,320
+Hooch.
+
+887
+00:46:25,320 --> 00:46:32,920
+This thing basically is floating as a wild amount of legs, but also seemingly a changing
+
+888
+00:46:32,920 --> 00:46:39,160
+amount of legs carries this thing as if it's floating just off the ground directly toward
+
+889
+00:46:39,160 --> 00:46:39,800
+Doreen Marine.
+
+890
+00:46:39,800 --> 00:46:45,480
+As you, as you, uh, point at her and then give her the eyes, you know, over to, over
+
+891
+00:46:45,480 --> 00:46:46,840
+to the vial.
+
+892
+00:46:46,840 --> 00:46:48,280
+Do I get another action?
+
+893
+00:46:48,600 --> 00:46:50,120
+Because you failed your sanity?
+
+894
+00:46:50,760 --> 00:46:53,880
+No, but you do see this thing.
+
+895
+00:46:53,880 --> 00:46:59,000
+And so the knowledge that you possess and making the move toward Marine of having her,
+
+896
+00:46:59,000 --> 00:47:00,840
+which is handy that you're telling her to move.
+
+897
+00:47:02,040 --> 00:47:02,760
+Yeah, I guess.
+
+898
+00:47:02,760 --> 00:47:04,440
+That does work out quite well for you.
+
+899
+00:47:05,320 --> 00:47:05,960
+Okay.
+
+900
+00:47:05,960 --> 00:47:06,460
+Okay.
+
+901
+00:47:06,920 --> 00:47:07,420
+Okay.
+
+902
+00:47:08,360 --> 00:47:09,320
+Understood.
+
+903
+00:47:09,320 --> 00:47:10,760
+Hey, did you fucking get me?
+
+904
+00:47:10,760 --> 00:47:11,400
+All right.
+
+905
+00:47:11,400 --> 00:47:11,640
+Yeah.
+
+906
+00:47:11,640 --> 00:47:15,320
+So I motion to Doreen Marine to go over to the cauldron in the corner.
+
+907
+00:47:15,320 --> 00:47:18,520
+The cauldron to get the, uh, the sleepy time medicine.
+
+908
+00:47:18,520 --> 00:47:19,720
+Banana time.
+
+909
+00:47:19,720 --> 00:47:22,440
+It's fucking banana time.
+
+910
+00:47:23,240 --> 00:47:30,840
+Uh, and with that, I need everyone else to roll sanity.
+
+911
+00:47:30,840 --> 00:47:34,680
+So Charles, Doreen, Dr.
+
+912
+00:47:34,680 --> 00:47:36,040
+Miller, go ahead and roll.
+
+913
+00:47:36,840 --> 00:47:37,480
+Alertness.
+
+914
+00:47:37,480 --> 00:47:37,980
+Sorry.
+
+915
+00:47:38,440 --> 00:47:39,880
+Did I say alertness or sanity?
+
+916
+00:47:39,880 --> 00:47:40,440
+You said sanity.
+
+917
+00:47:40,440 --> 00:47:41,320
+Oh, alertness.
+
+918
+00:47:41,320 --> 00:47:42,120
+Roll alertness.
+
+919
+00:47:42,120 --> 00:47:43,320
+Thank God.
+
+920
+00:47:43,320 --> 00:47:48,200
+Because if it was sanity, I would have crit failed, but I crit success.
+
+921
+00:47:50,760 --> 00:47:51,880
+44.
+
+922
+00:47:51,880 --> 00:47:52,840
+Congratulations.
+
+923
+00:47:52,840 --> 00:47:54,840
+Yeah, that was a real turnaround.
+
+924
+00:47:54,840 --> 00:47:55,240
+Lindsay.
+
+925
+00:47:55,800 --> 00:47:58,680
+51 on a 70.
+
+926
+00:47:58,680 --> 00:47:59,880
+Oh, success.
+
+927
+00:47:59,880 --> 00:48:00,680
+And Dr.
+
+928
+00:48:00,680 --> 00:48:03,560
+Miller fail 34 on a 20.
+
+929
+00:48:03,560 --> 00:48:03,800
+Dr.
+
+930
+00:48:03,800 --> 00:48:09,800
+Miller seems to be looking all around on the floor, trying to find something that she may
+
+931
+00:48:09,800 --> 00:48:13,160
+have seen previously, but is now lost Doreen.
+
+932
+00:48:13,160 --> 00:48:18,040
+You see it right in front of your boots on the ground, crawling toward you.
+
+933
+00:48:18,040 --> 00:48:24,120
+And Charles, you also see this little, little creature.
+
+934
+00:48:24,120 --> 00:48:28,600
+Um, no, go ahead and roll a sanity, both Charles and Doreen.
+
+935
+00:48:28,600 --> 00:48:29,960
+Why is sanity so low?
+
+936
+00:48:32,760 --> 00:48:35,320
+Yeah, I failed 4259.
+
+937
+00:48:35,320 --> 00:48:36,600
+Oh, that's a success.
+
+938
+00:48:36,600 --> 00:48:38,680
+So, uh, you have so much sanity.
+
+939
+00:48:40,760 --> 00:48:43,080
+I only lost one earlier when you lost like five.
+
+940
+00:48:43,080 --> 00:48:43,320
+Okay.
+
+941
+00:48:43,320 --> 00:48:43,640
+Sorry.
+
+942
+00:48:43,640 --> 00:48:45,080
+Lindsay, take off your headphones again.
+
+943
+00:48:45,080 --> 00:48:46,440
+As you just, oh wait, no, hold on.
+
+944
+00:48:46,440 --> 00:48:46,920
+Sorry.
+
+945
+00:48:46,920 --> 00:48:48,200
+Keep them on just for a moment.
+
+946
+00:48:48,200 --> 00:48:48,680
+Listen to me.
+
+947
+00:48:48,680 --> 00:48:50,200
+Listen to the words coming out of my mouth.
+
+948
+00:48:50,200 --> 00:48:51,320
+You see just a tick.
+
+949
+00:48:51,320 --> 00:48:52,840
+There's just a tick on the ground.
+
+950
+00:48:52,840 --> 00:48:53,480
+It's normal.
+
+951
+00:48:53,480 --> 00:48:54,200
+You're out in the woods.
+
+952
+00:48:54,200 --> 00:48:54,840
+There's a tick.
+
+953
+00:48:54,840 --> 00:48:56,360
+There's, you know, sometimes there's crickets.
+
+954
+00:48:56,360 --> 00:48:57,400
+Sometimes there's ants.
+
+955
+00:48:58,200 --> 00:48:59,800
+No, it's just like a normal tick.
+
+956
+00:48:59,800 --> 00:49:01,240
+I mean, ticks are not great.
+
+957
+00:49:01,240 --> 00:49:04,440
+You don't want it to be near your foot, I suppose, but that's all you see.
+
+958
+00:49:04,440 --> 00:49:05,400
+You take off your headphones.
+
+959
+00:49:05,400 --> 00:49:05,960
+No big deal.
+
+960
+00:49:05,960 --> 00:49:12,520
+Hey, uh, Chuckster, this thing has so many goddamn legs.
+
+961
+00:49:12,520 --> 00:49:14,840
+Uh, like this is not a tick.
+
+962
+00:49:14,840 --> 00:49:20,280
+This is, it looks like a tick, but it's almost like floating off the ground with how many
+
+963
+00:49:20,280 --> 00:49:23,000
+legs it has and the number of legs keeps changing.
+
+964
+00:49:23,000 --> 00:49:27,400
+And like with the critical success on the alertness, you actually notice that it is
+
+965
+00:49:27,400 --> 00:49:34,200
+almost like forming and reforming in different spots around like as it's moving toward Terrain's
+
+966
+00:49:34,200 --> 00:49:34,760
+boot.
+
+967
+00:49:34,760 --> 00:49:35,800
+I can picture that.
+
+968
+00:49:35,960 --> 00:49:36,840
+Yeah, me too.
+
+969
+00:49:39,400 --> 00:49:40,360
+Good storytelling.
+
+970
+00:49:40,360 --> 00:49:41,560
+Oh, hey, thanks dude.
+
+971
+00:49:44,280 --> 00:49:45,080
+I love you.
+
+972
+00:49:45,080 --> 00:49:45,800
+Love you too.
+
+973
+00:49:45,800 --> 00:49:47,000
+Shut up.
+
+974
+00:49:47,000 --> 00:49:48,920
+Get a room.
+
+975
+00:49:51,960 --> 00:49:53,320
+I'm so jealous of Lindsay.
+
+976
+00:49:53,320 --> 00:49:54,440
+She gets to close her ears.
+
+977
+00:49:57,800 --> 00:49:59,480
+Lindsay, they're saying bad things about you.
+
+978
+00:49:59,480 --> 00:50:00,520
+And Lindsay's back.
+
+979
+00:50:03,480 --> 00:50:04,760
+I messed up on the fun.
+
+980
+00:50:04,760 --> 00:50:06,600
+You have no idea how lucky you are.
+
+981
+00:50:06,600 --> 00:50:07,560
+Doreen, it's your turn.
+
+982
+00:50:07,560 --> 00:50:08,040
+What do you do?
+
+983
+00:50:08,040 --> 00:50:09,240
+I'm going for the cauldron.
+
+984
+00:50:09,240 --> 00:50:11,000
+Hey Zach, do I have to lose sanity points?
+
+985
+00:50:11,000 --> 00:50:12,280
+Yeah, just lose one.
+
+986
+00:50:12,280 --> 00:50:12,780
+Okay.
+
+987
+00:50:13,400 --> 00:50:14,200
+Thanks for asking.
+
+988
+00:50:15,000 --> 00:50:15,960
+You did have homework.
+
+989
+00:50:15,960 --> 00:50:17,240
+The rest of the class groans.
+
+990
+00:50:20,440 --> 00:50:21,880
+Roll dexterity.
+
+991
+00:50:23,640 --> 00:50:24,140
+Okay.
+
+992
+00:50:28,760 --> 00:50:29,260
+God.
+
+993
+00:50:30,440 --> 00:50:32,040
+Zero on.
+
+994
+00:50:33,240 --> 00:50:34,600
+I'm sorry, you rolled zero?
+
+995
+00:50:34,600 --> 00:50:37,640
+I rolled double zero.
+
+996
+00:50:37,640 --> 00:50:38,140
+Hey guys.
+
+997
+00:50:40,760 --> 00:50:43,720
+All right, so double zero means 100.
+
+998
+00:50:47,240 --> 00:50:51,400
+100 is literally the worst thing you can roll in this game.
+
+999
+00:50:51,960 --> 00:50:53,400
+And Zach, what did you roll?
+
+1000
+00:50:53,400 --> 00:50:57,720
+And this was a contest and I rolled a 38.
+
+1001
+00:50:57,720 --> 00:50:58,760
+You rolled a 100.
+
+1002
+00:51:00,680 --> 00:51:02,280
+So yeah, pretty easy.
+
+1003
+00:51:02,280 --> 00:51:05,080
+You move over to the cauldron in the corner.
+
+1004
+00:51:05,080 --> 00:51:05,560
+What do you do?
+
+1005
+00:51:05,560 --> 00:51:06,520
+Do I know what this is for?
+
+1006
+00:51:06,520 --> 00:51:11,560
+Do I know that this cauldron is like a potion that you've made that will knock them out?
+
+1007
+00:51:11,560 --> 00:51:16,360
+I mean, all I've done is go out, bring it in, and then look at you and look at it.
+
+1008
+00:51:16,360 --> 00:51:18,200
+So I grab it and I look at you.
+
+1009
+00:51:18,200 --> 00:51:21,640
+I just glance over at Janice Ruth.
+
+1010
+00:51:21,640 --> 00:51:25,560
+At this time, real quick, Ellie, if you could take off your headphones as well.
+
+1011
+00:51:26,360 --> 00:51:30,040
+Lindsay and Ally, take off your headphones and plug your ears.
+
+1012
+00:51:30,600 --> 00:51:31,320
+Me, it's me.
+
+1013
+00:51:32,280 --> 00:51:34,600
+Hey Taylor.
+
+1014
+00:51:34,600 --> 00:51:35,640
+Yeah, what's up?
+
+1015
+00:51:35,640 --> 00:51:36,440
+What's up, bro?
+
+1016
+00:51:36,440 --> 00:51:37,560
+You're my favorite.
+
+1017
+00:51:37,560 --> 00:51:38,920
+I love you so much.
+
+1018
+00:51:38,920 --> 00:51:41,080
+Should we pause like every five minutes to do this?
+
+1019
+00:51:41,080 --> 00:51:42,200
+Yeah, it's really fun.
+
+1020
+00:51:42,200 --> 00:51:43,400
+All right, should we get them back?
+
+1021
+00:51:45,080 --> 00:51:45,880
+Are you serious?
+
+1022
+00:51:47,560 --> 00:51:54,200
+Because you critically succeeded on your alertness check to see this weird fucking seemingly
+
+1023
+00:51:54,200 --> 00:51:56,920
+unnatural otherworldly bug.
+
+1024
+00:51:57,880 --> 00:52:03,800
+You also notice it, you know how I described how it like kind of blips in and out?
+
+1025
+00:52:04,920 --> 00:52:13,560
+It seems to blip a couple times as it jumps and it slides directly down into the military
+
+1026
+00:52:13,560 --> 00:52:20,360
+boots of one Doreen Marine and disappears into her boot.
+
+1027
+00:52:20,360 --> 00:52:26,840
+You process that information finally when she's across the room and has grabbed this
+
+1028
+00:52:27,720 --> 00:52:32,680
+cauldron, you finally think to yourself like, holy shit, that thing just like disappeared
+
+1029
+00:52:32,680 --> 00:52:33,560
+into her boot.
+
+1030
+00:52:33,560 --> 00:52:34,680
+That's so weird.
+
+1031
+00:52:34,680 --> 00:52:37,080
+And am I allowed to do anything or just know it?
+
+1032
+00:52:37,080 --> 00:52:39,640
+You just have to know that for now.
+
+1033
+00:52:39,640 --> 00:52:40,520
+I can't yell out?
+
+1034
+00:52:41,800 --> 00:52:43,480
+Let her act first if that's cool.
+
+1035
+00:52:44,360 --> 00:52:45,880
+We don't want to interrupt her.
+
+1036
+00:52:45,880 --> 00:52:47,480
+She seems to have something fun to do.
+
+1037
+00:52:48,200 --> 00:52:49,400
+I think she's excited about it.
+
+1038
+00:52:49,400 --> 00:52:49,880
+What do you think?
+
+1039
+00:52:52,600 --> 00:52:53,720
+All right, let's get it back.
+
+1040
+00:52:53,720 --> 00:52:54,680
+All right, come back.
+
+1041
+00:52:54,680 --> 00:52:55,320
+All right.
+
+1042
+00:52:55,320 --> 00:52:59,000
+Hold on, I have to wipe the earwax off my fingers onto my pants.
+
+1043
+00:53:00,440 --> 00:53:01,880
+Everyone stop what you're doing.
+
+1044
+00:53:06,440 --> 00:53:09,720
+This is the most grossed out I've ever been recording the show.
+
+1045
+00:53:10,520 --> 00:53:13,000
+And he records with Luke and Thomas.
+
+1046
+00:53:13,000 --> 00:53:14,280
+I'm so honored.
+
+1047
+00:53:15,960 --> 00:53:17,240
+No mention of Joe there.
+
+1048
+00:53:17,240 --> 00:53:18,120
+That's interesting.
+
+1049
+00:53:20,120 --> 00:53:20,760
+Joe's a saint.
+
+1050
+00:53:25,720 --> 00:53:26,680
+Yeah, no, no big deal.
+
+1051
+00:53:31,400 --> 00:53:32,520
+Doreen Marine, what do you do?
+
+1052
+00:53:33,160 --> 00:53:39,640
+I made eyes with Rusty Hooch, who just looks at Janice, right?
+
+1053
+00:53:39,640 --> 00:53:41,160
+I'm going to head towards Janice.
+
+1054
+00:53:41,160 --> 00:53:47,720
+And I think my plan is to just like try and like, as if she were my cat or my dog, just
+
+1055
+00:53:47,720 --> 00:53:51,720
+like pry her mouth open and give her some of this and like rubber throat to get her
+
+1056
+00:53:51,720 --> 00:53:52,360
+to swallow.
+
+1057
+00:53:55,960 --> 00:53:57,240
+As you're doing that.
+
+1058
+00:53:57,240 --> 00:54:00,440
+Doreen, pour it in your boot.
+
+1059
+00:54:03,320 --> 00:54:05,800
+So I poured in my boot, not all of it.
+
+1060
+00:54:07,320 --> 00:54:08,600
+Whoa, what the fuck?
+
+1061
+00:54:08,600 --> 00:54:09,640
+So trusting.
+
+1062
+00:54:09,640 --> 00:54:11,160
+Wow, so trusting.
+
+1063
+00:54:11,160 --> 00:54:12,440
+That's amazing.
+
+1064
+00:54:12,440 --> 00:54:14,280
+He seems pretty sure of himself.
+
+1065
+00:54:14,280 --> 00:54:18,440
+And also like, and once I became Charles, everyone just was like, wow, there's just
+
+1066
+00:54:18,440 --> 00:54:19,320
+something about him.
+
+1067
+00:54:19,320 --> 00:54:20,600
+I just trust him.
+
+1068
+00:54:20,600 --> 00:54:22,840
+He pulled that move where he got the gun.
+
+1069
+00:54:22,840 --> 00:54:25,640
+Charles in charge of our taste.
+
+1070
+00:54:31,480 --> 00:54:32,840
+Now recording.
+
+1071
+00:54:32,840 --> 00:54:34,200
+Now recording.
+
+1072
+00:54:34,200 --> 00:54:35,800
+You are now being recorded.
+
+1073
+00:54:40,920 --> 00:54:42,760
+That's how I'm going to laugh for this episode.
+
+1074
+00:54:42,760 --> 00:54:44,120
+If you guys are cool with that.
+
+1075
+00:54:45,480 --> 00:54:46,600
+Only if I can laugh like.
+
+1076
+00:54:48,600 --> 00:54:51,080
+That's a satisfying mic sound.
+
+1077
+00:54:51,480 --> 00:54:53,640
+That was dick-sucking sound.
+
+1078
+00:54:56,360 --> 00:54:57,480
+Satisfying.
+
+1079
+00:54:57,480 --> 00:54:57,880
+All right.
+
+1080
+00:55:51,080 --> 00:56:08,920
+Let's go.
+
+1081
+00:56:21,080 --> 00:56:37,080
+Falling fast into a deep abyss
+
+1082
+00:56:37,080 --> 00:56:41,080
+Till they chase you out again
+
+1083
+00:56:41,080 --> 00:56:47,080
+Find your feet on your broken bones
+
+1084
+00:56:47,080 --> 00:56:57,080
+Clear out the edge again
+
+1085
+00:57:17,080 --> 00:57:37,080
+Falling fast into a deep abyss
+
+1086
+00:57:37,080 --> 00:57:57,080
+Falling fast into a deep abyss
+
+1087
+00:57:57,080 --> 00:58:17,080
+Falling fast into a deep abyss
+
+1088
+00:58:17,080 --> 00:58:37,080
+Falling fast into a deep abyss
+
+1089
+00:58:37,080 --> 00:58:57,080
+Falling fast into a deep abyss
+
+1090
+00:58:57,080 --> 00:59:21,080
+Falling fast into a deep abyss
+
+1091
+00:59:21,080 --> 00:59:41,080
+Falling fast into a deep abyss
+
+1092
+00:59:41,080 --> 01:00:01,080
+Falling fast into a deep abyss
+
+1093
+01:00:01,080 --> 01:00:29,080
+Falling fast into a deep abyss
+
+1094
+01:00:29,080 --> 01:00:53,080
+Falling fast into a deep abyss
+
