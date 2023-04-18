@@ -1,0 +1,1631 @@
+{{Episode Table Row
+|episode_id=1
+|season_episode_number=S01E01
+|episode_wiki_page=S01E01 Blunt Force Trauma
+|episode_title_clean=Blunt Force Trauma
+|episode_release_date=November 18, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6mWGF7wpcBmy5y6XFNXjPQ
+|transcript_link=Transcript:S01E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=2
+|season_episode_number=S01E02
+|episode_wiki_page=S01E02 Into the Dog
+|episode_title_clean=Into the Dog
+|episode_release_date=December 1, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2LQ1MDcvp5ShZpZmCH8hPn
+|transcript_link=Transcript:S01E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=3
+|season_episode_number=S01E03
+|episode_wiki_page=S01E03 Old Turkey Neck
+|episode_title_clean=Old Turkey Neck
+|episode_release_date=December 1, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1X4mK5jrJDXBVypdTmUzqo
+|transcript_link=Transcript:S01E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=4
+|season_episode_number=S01E04
+|episode_wiki_page=S01E04 Heading for Contention
+|episode_title_clean=Heading for Contention
+|episode_release_date=December 9, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0SmknWiaqx05vRdBSdoi5U
+|transcript_link=Transcript:S01E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=5
+|season_episode_number=S01E05
+|episode_wiki_page=S01E05 Call the President
+|episode_title_clean=Call the President
+|episode_release_date=December 16, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3ugZLYvn8U9w0eOK47OzzZ
+|transcript_link=Transcript:S01E05
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=6
+|season_episode_number=S01E06
+|episode_wiki_page=S01E06 A Seriously Blown Opportunity
+|episode_title_clean=A Seriously Blown Opportunity
+|episode_release_date=December 23, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5mHcEaBYdYAI1FNHUcf0XQ
+|transcript_link=Transcript:S01E06
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=7
+|season_episode_number=S01E07
+|episode_wiki_page=S01E07 Three Pillows
+|episode_title_clean=Three Pillows
+|episode_release_date=December 30, 2018
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5WLfs6785FxFxna0ZazgUS
+|transcript_link=Transcript:S01E07
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=8
+|season_episode_number=S01E08
+|episode_wiki_page=S01E08 Witness Contention
+|episode_title_clean=Witness Contention
+|episode_release_date=January 6, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5zsMpOQYfErw9fZfsJ9yOY
+|transcript_link=Transcript:S01E08
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=9
+|season_episode_number=S01E09
+|episode_wiki_page=S01E09 Sucking Up Something
+|episode_title_clean=Sucking Up Something
+|episode_release_date=January 13, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2eZxVFOEGfBFnGyMNGSCYe
+|transcript_link=Transcript:S01E09
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=10
+|season_episode_number=S01E10
+|episode_wiki_page=S01E10 Honorary Police Officer
+|episode_title_clean=Honorary Police Officer
+|episode_release_date=January 20, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7E1qbv3JBEWjnBuRtyrylF
+|transcript_link=Transcript:S01E10
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=11
+|season_episode_number=S01E11
+|episode_wiki_page=S01E11 Not the Tooth Fairy
+|episode_title_clean=Not the Tooth Fairy
+|episode_release_date=January 27, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3xzuMyaBRyCkGbAy4ORjiQ
+|transcript_link=Transcript:S01E11
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=12
+|season_episode_number=S01E12
+|episode_wiki_page=S01E12 Off the Deep End
+|episode_title_clean=Off the Deep End
+|episode_release_date=February 3, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0MK1FmHSVBs2eJGyqbQxlh
+|transcript_link=Transcript:S01E12
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=13
+|season_episode_number=S01E13
+|episode_wiki_page=S01E13 CopNet
+|episode_title_clean=CopNet
+|episode_release_date=February 10, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3WNN9JDxMVmB42VsKQdxtX
+|transcript_link=Transcript:S01E13
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=14
+|season_episode_number=S01E14
+|episode_wiki_page=S01E14 Bishop's Big Bean Breakfast
+|episode_title_clean=Bishop's Big Bean Breakfast
+|episode_release_date=February 17, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1IdAeWDKaI6gjFnGTDBcU3
+|transcript_link=Transcript:S01E14
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=15
+|season_episode_number=S01E15
+|episode_wiki_page=S01E15 Sweater Vest, Sweater-Vest, Sweatervest
+|episode_title_clean=Sweater Vest, Sweater-Vest, Sweatervest
+|episode_release_date=February 24, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2VXEuzZ3Ct6sqr7GgGlFSc
+|transcript_link=Transcript:S01E15
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=16
+|season_episode_number=S01E16
+|episode_wiki_page=S01E16 Like Father, Like Surrogate Son
+|episode_title_clean=Like Father, Like Surrogate Son
+|episode_release_date=March 3, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6cNrIQRmnZzZ5ORrrIODLU
+|transcript_link=Transcript:S01E16
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=17
+|season_episode_number=S01E17
+|episode_wiki_page=S01E17 When the Time is Right
+|episode_title_clean=When the Time is Right
+|episode_release_date=March 10, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2UnO6TTzHgFVzlGF125uV5
+|transcript_link=Transcript:S01E17
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=18
+|season_episode_number=S01E18
+|episode_wiki_page=S01E18 Body Work
+|episode_title_clean=Body Work
+|episode_release_date=March 18, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0BYxxSWqPN1d5eycfmo1kZ
+|transcript_link=Transcript:S01E18
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=19
+|season_episode_number=S01E19
+|episode_wiki_page=S01E19 Time for Procedure
+|episode_title_clean=Time for Procedure
+|episode_release_date=March 25, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/28wJrfCjXGl0qjGSUaaOVb
+|transcript_link=Transcript:S01E19
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=20
+|season_episode_number=S01E20
+|episode_wiki_page=S01E20 Armed Combat
+|episode_title_clean=Armed Combat
+|episode_release_date=March 31, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7tzz1CD2BzKuYhAZ0991YE
+|transcript_link=Transcript:S01E20
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=21
+|season_episode_number=S01E21
+|episode_wiki_page=S01E21 Hurting and Tired and Mad
+|episode_title_clean=Hurting and Tired and Mad
+|episode_release_date=April 8, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/05Np0htCEBFsXwIwbq5T9n
+|transcript_link=Transcript:S01E21
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=22
+|season_episode_number=S01E22
+|episode_wiki_page=S01E22 My Smokeys
+|episode_title_clean=My Smokeys
+|episode_release_date=April 14, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6PmhHqsLY8lOAYN4RILgHX
+|transcript_link=Transcript:S01E22
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=23
+|season_episode_number=S01E23
+|episode_wiki_page=S01E23 Edward Was His Brother
+|episode_title_clean=Edward Was His Brother
+|episode_release_date=April 22, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4lK9G8RHu0rhvAqWBeLalf
+|transcript_link=Transcript:S01E23
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=24
+|season_episode_number=S01E24
+|episode_wiki_page=S01E24 So I Called The Mob
+|episode_title_clean=So I Called The Mob
+|episode_release_date=April 29, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6RRVHF0XEQjmtjpOxevnTy
+|transcript_link=Transcript:S01E24
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=25
+|season_episode_number=S01E25
+|episode_wiki_page=S01E25 It's Bean a While
+|episode_title_clean=It's Bean a While
+|episode_release_date=May 6, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7lOO4H0hxFc09LyyPJumou
+|transcript_link=Transcript:S01E25
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=26
+|season_episode_number=S01E26
+|episode_wiki_page=S01E26 Strap It On, Big Boy
+|episode_title_clean=Strap It On, Big Boy
+|episode_release_date=May 13, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/25nUUq6SwBsq2FoR5XBx6y
+|transcript_link=Transcript:S01E26
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=27
+|season_episode_number=S01E27
+|episode_wiki_page=S01E27 Kevin Can Wait
+|episode_title_clean=Kevin Can Wait
+|episode_release_date=May 20, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5UKEkWuF48wR5oG4WVqd6O
+|transcript_link=Transcript:S01E27
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=28
+|season_episode_number=S01E28
+|episode_wiki_page=S01E28 TableCop Gaming
+|episode_title_clean=TableCop Gaming
+|episode_release_date=May 27, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4YGd3owI7jpDgUydVvvtPB
+|transcript_link=Transcript:S01E28
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=29
+|season_episode_number=S01E29
+|episode_wiki_page=S01E29 Denizens of the Den of Sin
+|episode_title_clean=Denizens of the Den of Sin
+|episode_release_date=June 3, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/61ACF23hOG6VieldJ8UXCN
+|transcript_link=Transcript:S01E29
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=30
+|season_episode_number=S01E30
+|episode_wiki_page=S01E30 Chai Frappes
+|episode_title_clean=Chai Frappes
+|episode_release_date=June 9, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0eLGhXQBDJZe9KOCkbdgOy
+|transcript_link=Transcript:S01E30
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=31
+|season_episode_number=S01E31
+|episode_wiki_page=S01E31 Cashew Chicken Sunday
+|episode_title_clean=Cashew Chicken Sunday
+|episode_release_date=June 17, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/69y3kjDwZstPkU47NzOTkZ
+|transcript_link=Transcript:S01E31
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=32
+|season_episode_number=S01E32
+|episode_wiki_page=S01E32 Follow Your Nose
+|episode_title_clean=Follow Your Nose
+|episode_release_date=June 24, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3ilvdjR6TET69gyogRKfWc
+|transcript_link=Transcript:S01E32
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=33
+|season_episode_number=S01E33
+|episode_wiki_page=S01E33 Dead as Bob Hope
+|episode_title_clean=Dead as Bob Hope
+|episode_release_date=July 1, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3EcWqseWFWjbgcckccedAr
+|transcript_link=Transcript:S01E33
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=34
+|season_episode_number=S01E34
+|episode_wiki_page=S01E34 To Prevent Calamity
+|episode_title_clean=To Prevent Calamity
+|episode_release_date=July 8, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7tezbSi09Zu7oG20fzWWiK
+|transcript_link=Transcript:S01E34
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=35
+|season_episode_number=S01E35
+|episode_wiki_page=S01E35 Tell Me Rye
+|episode_title_clean=Tell Me Rye
+|episode_release_date=July 15, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5XATeBvVdmzPfGqYVARIOB
+|transcript_link=Transcript:S01E35
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=36
+|season_episode_number=S01E36
+|episode_wiki_page=S01E36 Zach is on Vacation; Balls
+|episode_title_clean=Zach is on Vacation; Balls
+|episode_release_date=July 21, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1SJyCQFPNZT0Q2A2z17LU9
+|transcript_link=Transcript:S01E36
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=37
+|season_episode_number=S01E37
+|episode_wiki_page=S01E37 Marvin on My Mind
+|episode_title_clean=Marvin on My Mind
+|episode_release_date=July 29, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5Z4fHUvgsgol8YzIQbwRBr
+|transcript_link=Transcript:S01E37
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=38
+|season_episode_number=S01E38
+|episode_wiki_page=S01E38 Keith-Shaped Hole
+|episode_title_clean=Keith-Shaped Hole
+|episode_release_date=August 5, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3KfboWWayFGrMqVzI28yj3
+|transcript_link=Transcript:S01E38
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=39
+|season_episode_number=S01E39
+|episode_wiki_page=S01E39 Noodle Him, Keith
+|episode_title_clean=Noodle Him, Keith
+|episode_release_date=August 12, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/585aa9pUttCMHcZqjQa9zM
+|transcript_link=Transcript:S01E39
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=40
+|season_episode_number=S01E40
+|episode_wiki_page=S01E40 Off the Hook
+|episode_title_clean=Off the Hook
+|episode_release_date=August 19, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/23qcUYZHgpM2wzKIysiWHI
+|transcript_link=Transcript:S01E40
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=41
+|season_episode_number=S01E41
+|episode_wiki_page=S01E41 Ooh Ooh Fhtagn
+|episode_title_clean=Ooh Ooh Fhtagn
+|episode_release_date=August 26, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2OtXgXmUPU1dtnmwxA2YwG
+|transcript_link=Transcript:S01E41
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=42
+|season_episode_number=S01E42
+|episode_wiki_page=S01E42 John Lee Pettimore is Dead
+|episode_title_clean=John Lee Pettimore is Dead
+|episode_release_date=September 2, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0kcbR5vA7tIId6c85KhPr8
+|transcript_link=Transcript:S01E42
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=43
+|season_episode_number=S01E43
+|episode_wiki_page=S01E43 I Don't Have a Heart and I'm Dandy
+|episode_title_clean=I Don't Have a Heart and I'm Dandy
+|episode_release_date=September 9, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1MwV93JxWILHUtCMWCxFjf
+|transcript_link=Transcript:S01E43
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=44
+|season_episode_number=S01E44
+|episode_wiki_page=S01E44 Balls? How Many?
+|episode_title_clean=Balls? How Many?
+|episode_release_date=September 16, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/77YZ2xB7PayCTUJ3vaKR3J
+|transcript_link=Transcript:S01E44
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=45
+|season_episode_number=S01E45
+|episode_wiki_page=S01E45 Cursed by Death Magic
+|episode_title_clean=Cursed by Death Magic
+|episode_release_date=September 23, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1ZUN9Yd012GwDQASQxz4RI
+|transcript_link=Transcript:S01E45
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=46
+|season_episode_number=S01E46
+|episode_wiki_page=S01E46 The Trip From Akron Was Worth It
+|episode_title_clean=The Trip From Akron Was Worth It
+|episode_release_date=September 30, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0gYL61pwQkAsdZNLv2x7ik
+|transcript_link=Transcript:S01E46
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=47
+|season_episode_number=S01E47
+|episode_wiki_page=S01E47 We Just Thieve and Stealth
+|episode_title_clean=We Just Thieve and Stealth
+|episode_release_date=October 7, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4RLiDuaCZ6tYZAmMtxH4a9
+|transcript_link=Transcript:S01E47
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=48
+|season_episode_number=S01E48
+|episode_wiki_page=S01E48 Love, Live, or Die
+|episode_title_clean=Love, Live, or Die
+|episode_release_date=October 14, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5U9DRVwoQvPgiF3R7mkww9
+|transcript_link=Transcript:S01E48
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=49
+|season_episode_number=S01E49
+|episode_wiki_page=S01E49 My Li'l Smokies
+|episode_title_clean=My Li'l Smokies
+|episode_release_date=October 21, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0MTXMCNCYCPOaKwnFhAUjy
+|transcript_link=Transcript:S01E49
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=50
+|season_episode_number=S01E50
+|episode_wiki_page=S01E50 Li'l Winkies
+|episode_title_clean=Li'l Winkies
+|episode_release_date=October 28, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/39l6vkrLoeizst5l6EFKJ5
+|transcript_link=Transcript:S01E50
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=51
+|season_episode_number=S01E51
+|episode_wiki_page=S01E51 Cabins in the Woods
+|episode_title_clean=Cabins in the Woods
+|episode_release_date=November 4, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5rXiPViC4HqgPqXuzfRlQ1
+|transcript_link=Transcript:S01E51
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=52
+|season_episode_number=S01E52
+|episode_wiki_page=S01E52 Eagerly Run Across His Back to a Witch's Cabin
+|episode_title_clean=Eagerly Run Across His Back to a Witch's Cabin
+|episode_release_date=November 12, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7IgUaXdm6KM69rh0Rj9vx1
+|transcript_link=Transcript:S01E52
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=53
+|season_episode_number=S01E53
+|episode_wiki_page=S01E53 Dead in Her Tracks
+|episode_title_clean=Dead in Her Tracks
+|episode_release_date=November 18, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/52qnVWGU8OZPSZAQGC3LGE
+|transcript_link=Transcript:S01E53
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=54
+|season_episode_number=S01E54
+|episode_wiki_page=S01E54 There's a Name in My Boot
+|episode_title_clean=There's a Name in My Boot
+|episode_release_date=November 25, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0NOKV3hc0WtuKuxNJCoaAL
+|transcript_link=Transcript:S01E54
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=55
+|season_episode_number=S01E55
+|episode_wiki_page=S01E55 The Painfully Easy Cipher
+|episode_title_clean=The Painfully Easy Cipher
+|episode_release_date=December 2, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7H21O3NUmoZcMqKvWLSXdW
+|transcript_link=Transcript:S01E55
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=56
+|season_episode_number=S01E56
+|episode_wiki_page=S01E56 Tie Goes to the Pusher
+|episode_title_clean=Tie Goes to the Pusher
+|episode_release_date=December 9, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3Ugt9ZMcUQbtwlnm3lDN4y
+|transcript_link=Transcript:S01E56
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=57
+|season_episode_number=S01E57
+|episode_wiki_page=S01E57 Them Contention Boys Are at It Again
+|episode_title_clean=Them Contention Boys Are at It Again
+|episode_release_date=December 16, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3AlDfvpmztAO3bBevlH8L8
+|transcript_link=Transcript:S01E57
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=58
+|season_episode_number=S01E58
+|episode_wiki_page=S01E58 Clarkold
+|episode_title_clean=Clarkold
+|episode_release_date=December 23, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6CyBcXcaxyhEdOFPXahfTM
+|transcript_link=Transcript:S01E58
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=59
+|season_episode_number=S01E59
+|episode_wiki_page=S01E59 BONUS: And Then You Shoot Him
+|episode_title_clean=BONUS: And Then You Shoot Him
+|episode_release_date=December 29, 2019
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/03fD8FGbMlD7S1XKZyOgOP
+|transcript_link=Transcript:S01E59
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=60
+|season_episode_number=S01E60
+|episode_wiki_page=S01E60 More Like Snapped Into It
+|episode_title_clean=More Like Snapped Into It
+|episode_release_date=January 3, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1XPkGA7qONdZwKYINKk237
+|transcript_link=Transcript:S01E60
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=61
+|season_episode_number=S01E61
+|episode_wiki_page=S01E61 It's Just What Happened
+|episode_title_clean=It's Just What Happened
+|episode_release_date=January 10, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3FjtCXvaaVOkIZ5cA6THie
+|transcript_link=Transcript:S01E61
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=62
+|season_episode_number=S01E62
+|episode_wiki_page=S01E62 Leon's Got the Numbers In Him
+|episode_title_clean=Leon's Got the Numbers In Him
+|episode_release_date=January 17, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6aHofkDaDuBg92l31QMOBh
+|transcript_link=Transcript:S01E62
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=63
+|season_episode_number=S01E63
+|episode_wiki_page=S01E63 Zach's Off the Podcast
+|episode_title_clean=Zach's Off the Podcast
+|episode_release_date=January 24, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1KOfeSPtBcWEmghP5glUTG
+|transcript_link=Transcript:S01E63
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=64
+|season_episode_number=S01E64
+|episode_wiki_page=S01E64 To Be Consistent
+|episode_title_clean=To Be Consistent
+|episode_release_date=January 31, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5RdVlbMVWAENJwNrFDzLao
+|transcript_link=Transcript:S01E64
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=65
+|season_episode_number=S01E65
+|episode_wiki_page=S01E65 694.2 Pledge Drive
+|episode_title_clean=694.2 Pledge Drive
+|episode_release_date=February 7, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2Ef1tkMMnu5uP7EjH0vJJN
+|transcript_link=Transcript:S01E65
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=66
+|season_episode_number=S01E66
+|episode_wiki_page=S01E66 Welcome to Calm Comfy Campground
+|episode_title_clean=Welcome to Calm Comfy Campground
+|episode_release_date=February 17, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5zmy92cSq1BIZOi8OMTAR3
+|transcript_link=Transcript:S01E66
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=67
+|season_episode_number=S01E67
+|episode_wiki_page=S01E67 Lil' Lakey Walk
+|episode_title_clean=Lil' Lakey Walk
+|episode_release_date=February 21, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6EOXfPt3BxykgpPQrQwLMz
+|transcript_link=Transcript:S01E67
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=68
+|season_episode_number=S01E68
+|episode_wiki_page=S01E68 Cream Won't Do
+|episode_title_clean=Cream Won't Do
+|episode_release_date=February 28, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7AquWMRi5gbhwV77UWKulm
+|transcript_link=Transcript:S01E68
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=69
+|season_episode_number=S01E69
+|episode_wiki_page=S01E69 Silicon Valley Villionaire
+|episode_title_clean=Silicon Valley Villionaire
+|episode_release_date=March 6, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/35xIjF9htm3Sns8sB38OfX
+|transcript_link=Transcript:S01E69
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=70
+|season_episode_number=S01E70
+|episode_wiki_page=S01E70 The Nectar of the Mango
+|episode_title_clean=The Nectar of the Mango
+|episode_release_date=March 18, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3BgCdEHcB70YtsdbN6oR8J
+|transcript_link=Transcript:S01E70
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=71
+|season_episode_number=S01E71
+|episode_wiki_page=S01E71 What Did You Touch?
+|episode_title_clean=What Did You Touch?
+|episode_release_date=March 20, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3ODXUBtUUtBkeHT3QDlfbf
+|transcript_link=Transcript:S01E71
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=72
+|season_episode_number=S01E72
+|episode_wiki_page=S01E72 Welcome to Calm Comfy Campground (Reprise)
+|episode_title_clean=Welcome to Calm Comfy Campground (Reprise)
+|episode_release_date=March 28, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4jrxRdbjgZbxhkImai1wSs
+|transcript_link=Transcript:S01E72
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=73
+|season_episode_number=S01E73
+|episode_wiki_page=S01E73 drewAndrewSMR
+|episode_title_clean=drewAndrewSMR
+|episode_release_date=April 7, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2oSFXOsSYHogxvVeMchZIZ
+|transcript_link=Transcript:S01E73
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=74
+|season_episode_number=S01E74
+|episode_wiki_page=S01E74 Contention Creek Critter Coalition
+|episode_title_clean=Contention Creek Critter Coalition
+|episode_release_date=April 11, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4WBpAikX8XzpW7C5WibmRV
+|transcript_link=Transcript:S01E74
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=75
+|season_episode_number=S01E75
+|episode_wiki_page=S01E75 Write That Down, Joe
+|episode_title_clean=Write That Down, Joe
+|episode_release_date=April 17, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6ShrbdGWKVNNhV2LU4EdJ3
+|transcript_link=Transcript:S01E75
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=76
+|season_episode_number=S01E76
+|episode_wiki_page=S01E76 Baby Drewver
+|episode_title_clean=Baby Drewver
+|episode_release_date=April 24, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0LspLB82qTVHJDm2cS2cM2
+|transcript_link=Transcript:S01E76
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=77
+|season_episode_number=S01E77
+|episode_wiki_page=S01E77 This Was a Sting, Drew
+|episode_title_clean=This Was a Sting, Drew
+|episode_release_date=May 2, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/48fK2DwPsTL5RroLnkah29
+|transcript_link=Transcript:S01E77
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=78
+|season_episode_number=S01E78
+|episode_wiki_page=S01E78 Bigger Fish to Fry
+|episode_title_clean=Bigger Fish to Fry
+|episode_release_date=May 8, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6Hl9El15F0v22CtInpdX4J
+|transcript_link=Transcript:S01E78
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=79
+|season_episode_number=S01E79
+|episode_wiki_page=S01E79 Binge Watching
+|episode_title_clean=Binge Watching
+|episode_release_date=May 20, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/144niqjP44Zrp30BRFLVbs
+|transcript_link=Transcript:S01E79
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=80
+|season_episode_number=S01E80
+|episode_wiki_page=S01E80 You're a Historical Society Guy
+|episode_title_clean=You're a Historical Society Guy
+|episode_release_date=May 29, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4ZtufBb7dBXFIU86RJ4y6M
+|transcript_link=Transcript:S01E80
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=81
+|season_episode_number=S01E81
+|episode_wiki_page=S01E81 The Tiniest, Wildest Wave Pool
+|episode_title_clean=The Tiniest, Wildest Wave Pool
+|episode_release_date=June 6, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/03HtDZ29zBY7KCgaCo1YrD
+|transcript_link=Transcript:S01E81
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=82
+|season_episode_number=S01E82
+|episode_wiki_page=S01E82 Grant Father Daly
+|episode_title_clean=Grant Father Daly
+|episode_release_date=June 12, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1ZuR0IYrUrL8UrNGCgLbpH
+|transcript_link=Transcript:S01E82
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=83
+|season_episode_number=S01E83
+|episode_wiki_page=S01E83 Wake Up, Lazy Bones
+|episode_title_clean=Wake Up, Lazy Bones
+|episode_release_date=June 19, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/08WlCoK2B1Y3xMCC6UcCIo
+|transcript_link=Transcript:S01E83
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=84
+|season_episode_number=S01E84
+|episode_wiki_page=S01E84 Soy Beans
+|episode_title_clean=Soy Beans
+|episode_release_date=June 28, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/512mgXZfFm8q6YzznlTPGE
+|transcript_link=Transcript:S01E84
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=85
+|season_episode_number=S01E85
+|episode_wiki_page=S01E85 Skin Grave
+|episode_title_clean=Skin Grave
+|episode_release_date=July 3, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3OPvQWwxgpkA1sfUtivZBG
+|transcript_link=Transcript:S01E85
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=86
+|season_episode_number=S01E86
+|episode_wiki_page=S01E86 An Elegant Compromise
+|episode_title_clean=An Elegant Compromise
+|episode_release_date=July 10, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/75u4goW9LXlEpX46E9yepI
+|transcript_link=Transcript:S01E86
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=87
+|season_episode_number=S01E87
+|episode_wiki_page=S01E87 Anyway, Here's Waterwall
+|episode_title_clean=Anyway, Here's Waterwall
+|episode_release_date=July 19, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1SCHTliw5BjjQZzNFD08il
+|transcript_link=Transcript:S01E87
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=88
+|season_episode_number=S01E88
+|episode_wiki_page=S01E88 More Human Than You Will Ever Be
+|episode_title_clean=More Human Than You Will Ever Be
+|episode_release_date=July 24, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7tejuqp1Mabqx7zFyKhl7u
+|transcript_link=Transcript:S01E88
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=89
+|season_episode_number=S01E89
+|episode_wiki_page=S01E89 Clark Remembers
+|episode_title_clean=Clark Remembers
+|episode_release_date=July 31, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1zQ5vYliGnkCzp4y5wksiG
+|transcript_link=Transcript:S01E89
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=90
+|season_episode_number=S00EBONUS
+|episode_wiki_page=S00EBONUS Lover in the Ice Part 1
+|episode_title_clean=Lover in the Ice Part 1
+|episode_release_date=August 6, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0Q8Y9OSkhkAZvhdDtTNjG9
+|transcript_link=Transcript:S00EBONUS
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=91
+|season_episode_number=S01E90
+|episode_wiki_page=S01E90 Net, Stick, and Chill
+|episode_title_clean=Net, Stick, and Chill
+|episode_release_date=August 14, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6WwK8S9TDd3WV5LwETXTHP
+|transcript_link=Transcript:S01E90
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=92
+|season_episode_number=S01E91
+|episode_wiki_page=S01E91 Air's Not Good Enough Here?
+|episode_title_clean=Air's Not Good Enough Here?
+|episode_release_date=August 20, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5ppN5BiRZ2iDr2ZuJ1ZAVC
+|transcript_link=Transcript:S01E91
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=93
+|season_episode_number=S01E92
+|episode_wiki_page=S01E92 Yee-Haw Means Family
+|episode_title_clean=Yee-Haw Means Family
+|episode_release_date=August 29, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4l8WalyJyHEohNtXZu7cXP
+|transcript_link=Transcript:S01E92
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=94
+|season_episode_number=S01E93
+|episode_wiki_page=S01E93 She Got Weird Shoes
+|episode_title_clean=She Got Weird Shoes
+|episode_release_date=September 5, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0Qam9KWbXHR5DsF7HYGYdl
+|transcript_link=Transcript:S01E93
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=95
+|season_episode_number=S01E94
+|episode_wiki_page=S01E94 With His Own Gun
+|episode_title_clean=With His Own Gun
+|episode_release_date=September 14, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3GMOUVrDPxuHx69Wuo8u58
+|transcript_link=Transcript:S01E94
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=96
+|season_episode_number=S01E95
+|episode_wiki_page=S01E95 The Dirty Dunham
+|episode_title_clean=The Dirty Dunham
+|episode_release_date=September 23, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4Qg73lWV5l7ZK94H9R3oE9
+|transcript_link=Transcript:S01E95
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=97
+|season_episode_number=S01E96
+|episode_wiki_page=S01E96 Season One Recap: Episodes 1-23
+|episode_title_clean=Season One Recap: Episodes 1-23
+|episode_release_date=October 6, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/53xsdklIuj7dZ10wGc0Fq7
+|transcript_link=Transcript:S01E96
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=98
+|season_episode_number=S01E97
+|episode_wiki_page=S01E97 Season One Recap: Episodes 24-46
+|episode_title_clean=Season One Recap: Episodes 24-46
+|episode_release_date=November 21, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3plGb2M9SybKDLzRvs43Uj
+|transcript_link=Transcript:S01E97
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=99
+|season_episode_number=SBP1E01
+|episode_wiki_page=SBP1E01 Bleak Prospect: Part One
+|episode_title_clean=Bleak Prospect: Part One
+|episode_release_date=December 14, 2020
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6bSWo1Cml5KJvsWvvPdp8n
+|transcript_link=Transcript:SBP1E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=100
+|season_episode_number=SBP1E02
+|episode_wiki_page=SBP1E02 Bleak Prospect: Part Two
+|episode_title_clean=Bleak Prospect: Part Two
+|episode_release_date=January 6, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/61rzGusn9HY0mgsLUg5tep
+|transcript_link=Transcript:SBP1E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=101
+|season_episode_number=S01E98
+|episode_wiki_page=S01E98 Season One Recap: Episodes 47-64
+|episode_title_clean=Season One Recap: Episodes 47-64
+|episode_release_date=January 29, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4ltlryI3mAUe6upaWZFB7V
+|transcript_link=Transcript:S01E98
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=102
+|season_episode_number=SBP1E03
+|episode_wiki_page=SBP1E03 Bleak Prospect: Part Three
+|episode_title_clean=Bleak Prospect: Part Three
+|episode_release_date=February 21, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5zmxMOiq1HrSbK6RROOgXY
+|transcript_link=Transcript:SBP1E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=103
+|season_episode_number=SBP1E04
+|episode_wiki_page=SBP1E04 Bleak Prospect: Part Four
+|episode_title_clean=Bleak Prospect: Part Four
+|episode_release_date=March 17, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2ekdlXObhLO7v6Sy7ca0ML
+|transcript_link=Transcript:SBP1E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=104
+|season_episode_number=S01E99
+|episode_wiki_page=S01E99 Season One Recap: Episodes 66-95
+|episode_title_clean=Season One Recap: Episodes 66-95
+|episode_release_date=June 19, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5P86MD40CMukQE5v2hRIX6
+|transcript_link=Transcript:S01E99
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=105
+|season_episode_number=S01E100
+|episode_wiki_page=S01E100 I'll Follow You Into the Flarp, Clark
+|episode_title_clean=I'll Follow You Into the Flarp, Clark
+|episode_release_date=June 30, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/26liVxB3m5QfGEbKMT66qX
+|transcript_link=Transcript:S01E100
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=106
+|season_episode_number=S01E101
+|episode_wiki_page=S01E101 An Ivory Endlessness
+|episode_title_clean=An Ivory Endlessness
+|episode_release_date=July 8, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/36rnLkKjldTPkdfvLn6BSf
+|transcript_link=Transcript:S01E101
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=107
+|season_episode_number=S01E102
+|episode_wiki_page=S01E102 Look At My Glorious War Paint
+|episode_title_clean=Look At My Glorious War Paint
+|episode_release_date=July 15, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2TSqqxIpo87SwDMBum9j21
+|transcript_link=Transcript:S01E102
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=108
+|season_episode_number=S01E103
+|episode_wiki_page=S01E103 I Am Agent Victor
+|episode_title_clean=I Am Agent Victor
+|episode_release_date=July 22, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5S9hRI49hI7TscriQgh8BM
+|transcript_link=Transcript:S01E103
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=109
+|season_episode_number=S01E104
+|episode_wiki_page=S01E104 In Over Your Head
+|episode_title_clean=In Over Your Head
+|episode_release_date=July 29, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6mT2bg11e9uvJGKItN4QqO
+|transcript_link=Transcript:S01E104
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=110
+|season_episode_number=S01E105
+|episode_wiki_page=S01E105 Tudu H'kan'u
+|episode_title_clean=Tudu H'kan'u
+|episode_release_date=August 5, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4HCjzKWVBHU9pu2Srx5VEp
+|transcript_link=Transcript:S01E105
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=111
+|season_episode_number=S01E106
+|episode_wiki_page=S01E106 Six to Midnight
+|episode_title_clean=Six to Midnight
+|episode_release_date=August 12, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/61Af4KfewpFjjiQjIHJtLV?si=626f01e3919849ee
+|transcript_link=Transcript:S01E106
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=112
+|season_episode_number=S01E107
+|episode_wiki_page=S01E107 Spill the Beans
+|episode_title_clean=Spill the Beans
+|episode_release_date=August 19, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1IFilqOK8PPUNpQH5hhlPs
+|transcript_link=Transcript:S01E107
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=113
+|season_episode_number=S01E108
+|episode_wiki_page=S01E108 This is a Very Serious Moment
+|episode_title_clean=This is a Very Serious Moment
+|episode_release_date=August 26, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0QyathkEh8gS2LKmoCDVEV
+|transcript_link=Transcript:S01E108
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=114
+|season_episode_number=S01E109
+|episode_wiki_page=S01E109 Pretty Awful Offal
+|episode_title_clean=Pretty Awful Offal
+|episode_release_date=August 26, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7mEQlknWRVzUNmV2v5gyCr
+|transcript_link=Transcript:S01E109
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=115
+|season_episode_number=S01E110
+|episode_wiki_page=S01E110 Cheerfully Crying Cneecap
+|episode_title_clean=Cheerfully Crying Cneecap
+|episode_release_date=September 3, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/16zi482ZljvSJlLDlPPBEO
+|transcript_link=Transcript:S01E110
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=116
+|season_episode_number=S01E111
+|episode_wiki_page=S01E111 A Bunch of Worms
+|episode_title_clean=A Bunch of Worms
+|episode_release_date=September 10, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/50bxuVvy0BqASKPmo1cLNl
+|transcript_link=Transcript:S01E111
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=117
+|season_episode_number=S01E112
+|episode_wiki_page=S01E112 Keiths
+|episode_title_clean=Keiths
+|episode_release_date=September 24, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5cJtSV0AmF00hKWWpMFLW2
+|transcript_link=Transcript:S01E112
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=118
+|season_episode_number=S01E113
+|episode_wiki_page=S01E113 Content
+|episode_title_clean=Content
+|episode_release_date=October 1, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0W2hptXRoJb6bS5dPx2T8W
+|transcript_link=Transcript:S01E113
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=119
+|season_episode_number=S01E114
+|episode_wiki_page=S01E114 Post Kill Clarity
+|episode_title_clean=Post Kill Clarity
+|episode_release_date=October 8, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5jkMUCDUqYG4tWZuWDqX0y?si=7588b6a5592d4a42
+|transcript_link=Transcript:S01E114
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=120
+|season_episode_number=S01E115
+|episode_wiki_page=S01E115 Reverse GOT EEM
+|episode_title_clean=Reverse GOT EEM
+|episode_release_date=October 22, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1LhmMNVfHUM9T97pyciu3M
+|transcript_link=Transcript:S01E115
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=121
+|season_episode_number=SCVRG1E01
+|episode_wiki_page=SCVRG1E01 Convergence: Part One
+|episode_title_clean=Convergence: Part One
+|episode_release_date=October 29, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5AyXGYlks5ly1xbVRfOytp
+|transcript_link=Transcript:SCVRG1E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=122
+|season_episode_number=SCVRG1E02
+|episode_wiki_page=SCVRG1E02 Convergence: Part Two
+|episode_title_clean=Convergence: Part Two
+|episode_release_date=November 4, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4ceE9H0WzSmegXHWwdFbi8
+|transcript_link=Transcript:SCVRG1E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCVRG1E03
+|episode_wiki_page=SCVRG1E03 Convergence: Part Three
+|episode_title_clean=Convergence: Part Three
+|episode_release_date=November 12, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7xw8wjEhb31Syo0880OIIi
+|transcript_link=Transcript:SCVRG1E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCVRG1E04
+|episode_wiki_page=SCVRG1E04 Convergence: Part Four
+|episode_title_clean=Convergence: Part Four
+|episode_release_date=November 19, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2zk1ERrTcfHzyyYO30Gcde
+|transcript_link=Transcript:SCVRG1E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCVRG1E05
+|episode_wiki_page=SCVRG1E05 Convergence: Part Five
+|episode_title_clean=Convergence: Part Five
+|episode_release_date=November 26, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6UAo6jUxgR4rKxS52LaVtr
+|transcript_link=Transcript:SCVRG1E05
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCNTRL1E01
+|episode_wiki_page=SCNTRL1E01 CONTROLCOPY: Part One
+|episode_title_clean=CONTROLCOPY: Part One
+|episode_release_date=December 3, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0hueptf0Le6J38gFmKjOUA
+|transcript_link=Transcript:SCNTRL1E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCNTRL1E02
+|episode_wiki_page=SCNTRL1E02 CONTROLCOPY: Part Two
+|episode_title_clean=CONTROLCOPY: Part Two
+|episode_release_date=December 28, 2021
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3toIbJjBdN5J6WcPqrIGmq
+|transcript_link=Transcript:SCNTRL1E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCNTRL1E03
+|episode_wiki_page=SCNTRL1E03 CONTROLCOPY: Part Three
+|episode_title_clean=CONTROLCOPY: Part Three
+|episode_release_date=January 4, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0f3HJsmUTlLrChMoIgQWPh
+|transcript_link=Transcript:SCNTRL1E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SCNTRL1E04
+|episode_wiki_page=SCNTRL1E04 CONTROLCOPY: Part Four
+|episode_title_clean=CONTROLCOPY: Part Four
+|episode_release_date=January 9, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0kPjqkHr7ymWrgMfk6V0fu
+|transcript_link=Transcript:SCNTRL1E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SBFUSH1E01
+|episode_wiki_page=SBFUSH1E01 OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part One
+|episode_title_clean=OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part One
+|episode_release_date=January 17, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4AMT1yFOGoLXqGm38v9xHT
+|transcript_link=Transcript:SBFUSH1E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SBFUSH1E02
+|episode_wiki_page=SBFUSH1E02 OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Two
+|episode_title_clean=OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Two
+|episode_release_date=January 29, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/6N84TzSywzXtBZqRD1PbhE
+|transcript_link=Transcript:SBFUSH1E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SBFUSH1E03
+|episode_wiki_page=SBFUSH1E03 OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Three
+|episode_title_clean=OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Three
+|episode_release_date=February 5, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0q2Wp4u3EO15jI7ogC01mM
+|transcript_link=Transcript:SBFUSH1E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SBFUSH1E04
+|episode_wiki_page=SBFUSH1E04 OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Four
+|episode_title_clean=OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Four
+|episode_release_date=February 11, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7FAjQ9Qn49eaxgMM7JmyQh
+|transcript_link=Transcript:SBFUSH1E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SBFUSH1E05
+|episode_wiki_page=SBFUSH1E05 OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Five
+|episode_title_clean=OPERATION: BIGFOOT UNDERGROUND: SEARCH AND HUNT: Part Five
+|episode_release_date=February 18, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3uuRZ2bEXNmzZNXv5j7ttu
+|transcript_link=Transcript:SBFUSH1E05
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SPULP1E01
+|episode_wiki_page=SPULP1E01 A New Age of Wonders! Part One
+|episode_title_clean=A New Age of Wonders! Part One
+|episode_release_date=February 28, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4qjzXjguvlzAPC8GjrPeOt
+|transcript_link=Transcript:SPULP1E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SPULP1E02
+|episode_wiki_page=SPULP1E02 A New Age of Wonders! Part Two
+|episode_title_clean=A New Age of Wonders! Part Two
+|episode_release_date=March 18, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1k33Lzsi6lffPV6NlNNwLn
+|transcript_link=Transcript:SPULP1E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SPULP1E03
+|episode_wiki_page=SPULP1E03 A New Age of Wonders! Part Three
+|episode_title_clean=A New Age of Wonders! Part Three
+|episode_release_date=March 25, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7f8UyS8wtONbzoKVtcrdGI
+|transcript_link=Transcript:SPULP1E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SPULP1E04
+|episode_wiki_page=SPULP1E04 A New Age of Wonders! Part Four
+|episode_title_clean=A New Age of Wonders! Part Four
+|episode_release_date=April 2, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0aPxy6QGNjQKlouKfapKdq
+|transcript_link=Transcript:SPULP1E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=SPULP1E05
+|episode_wiki_page=SPULP1E05 A New Age of Wonders! Part Five
+|episode_title_clean=A New Age of Wonders! Part Five
+|episode_release_date=April 11, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3xev2xYfRsLoMiB3AHJIkV
+|transcript_link=Transcript:SPULP1E05
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E01
+|episode_wiki_page=S02E01 A Crab and Corn Farm
+|episode_title_clean=A Crab and Corn Farm
+|episode_release_date=April 20, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0e1vjb2GuEIN5A1a40l2I6
+|transcript_link=Transcript:S02E01
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E02
+|episode_wiki_page=S02E02 The Marble Floors of Youth
+|episode_title_clean=The Marble Floors of Youth
+|episode_release_date=July 1, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/29umuQ7Iuv8l1kEVrG6Ibe
+|transcript_link=Transcript:S02E02
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E03
+|episode_wiki_page=S02E03 We've Got Gold
+|episode_title_clean=We've Got Gold
+|episode_release_date=July 8, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/00PYaLs7GbzMOoZgX4GqOP
+|transcript_link=Transcript:S02E03
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E04
+|episode_wiki_page=S02E04 Printing Press
+|episode_title_clean=Printing Press
+|episode_release_date=July 15, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1QkpbtHp86WVp5ZAjPNJ9w
+|transcript_link=Transcript:S02E04
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E05
+|episode_wiki_page=S02E05 Welcome to Grover's Gorge
+|episode_title_clean=Welcome to Grover's Gorge
+|episode_release_date=July 21, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3F8Q7uTCWRVCuR7ZAeoPpM
+|transcript_link=Transcript:S02E05
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E06
+|episode_wiki_page=S02E06 Evil Itself Was Extinguished
+|episode_title_clean=Evil Itself Was Extinguished
+|episode_release_date=July 28, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/5FoaJExKb6Zua3NEi7mnBY
+|transcript_link=Transcript:S02E06
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E07
+|episode_wiki_page=S02E07 Fell on a Jackalope
+|episode_title_clean=Fell on a Jackalope
+|episode_release_date=August 12, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/4cDli5BVPIegV9eXg4ECsQ
+|transcript_link=Transcript:S02E07
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E08
+|episode_wiki_page=S02E08 Teeter Totter Turtle Die
+|episode_title_clean=Teeter Totter Turtle Die
+|episode_release_date=August 19, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2MtaBiQx3EHKUjQ9hbfKKz
+|transcript_link=Transcript:S02E08
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E09
+|episode_wiki_page=S02E09 The Death of a Sailsman: Hip to Nip
+|episode_title_clean=The Death of a Sailsman: Hip to Nip
+|episode_release_date=August 26, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/74DFodU5aW2ZOhuxGLbL67
+|transcript_link=Transcript:S02E09
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E10
+|episode_wiki_page=S02E10 The Death of a Sailsman: A Chad in a Chode
+|episode_title_clean=The Death of a Sailsman: A Chad in a Chode
+|episode_release_date=September 2, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3HRKQ8ybkFSB2YLzlf6yFE
+|transcript_link=Transcript:S02E10
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E11
+|episode_wiki_page=S02E11 The Death of a Sailsman: He Likes to Pry, Mate
+|episode_title_clean=The Death of a Sailsman: He Likes to Pry, Mate
+|episode_release_date=September 9, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3AKq1hTUhkrD965fnaAdHQ
+|transcript_link=Transcript:S02E11
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E12
+|episode_wiki_page=S02E12 The Death of a Sailsman: Oi! Oi! Means Fire
+|episode_title_clean=The Death of a Sailsman: Oi! Oi! Means Fire
+|episode_release_date=September 16, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/23TkIbHH6wpoOaZ7hMWXkD
+|transcript_link=Transcript:S02E12
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E13
+|episode_wiki_page=S02E13 The It Pit
+|episode_title_clean=The It Pit
+|episode_release_date=September 25, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/03rpGiY1mRv3YrQ2ayDElK
+|transcript_link=Transcript:S02E13
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E14
+|episode_wiki_page=S02E14 God Turtle
+|episode_title_clean=God Turtle
+|episode_release_date=October 7, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/3M4X6QkSCQJmOMcvyKcavu
+|transcript_link=Transcript:S02E14
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E15
+|episode_wiki_page=S02E15 More Rings
+|episode_title_clean=More Rings
+|episode_release_date=October 14, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1Z6ms5Bb90lQihShEUP1YL
+|transcript_link=Transcript:S02E15
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E16
+|episode_wiki_page=S02E16 Mufasa
+|episode_title_clean=Mufasa
+|episode_release_date=October 28, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2o3p6EBJRHfAMfY28bPRsP
+|transcript_link=Transcript:S02E16
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E17
+|episode_wiki_page=S02E17 The Transformative Power of Journalism
+|episode_title_clean=The Transformative Power of Journalism
+|episode_release_date=November 11, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0VI3AK5nM6Op7zR3fBpJPD
+|transcript_link=Transcript:S02E17
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E18
+|episode_wiki_page=S02E18 We Have Angered God
+|episode_title_clean=We Have Angered God
+|episode_release_date=November 25, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/7tiHOzxqNVKRb9QcdJ3oBY
+|transcript_link=Transcript:S02E18
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E19
+|episode_wiki_page=S02E19 B-id-agel
+|episode_title_clean=B-id-agel
+|episode_release_date=December 3, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/0lee5z3soFcNnmQPPhmtOh
+|transcript_link=Transcript:S02E19
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E20
+|episode_wiki_page=S02E20 W.A.W?W.A.B.K.B,D!
+|episode_title_clean=W.A.W?W.A.B.K.B,D!
+|episode_release_date=December 10, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/32p3PeEq4OHVwyY7wpQcyF
+|transcript_link=Transcript:S02E20
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E21
+|episode_wiki_page=S02E21 More Hair, Better Person
+|episode_title_clean=More Hair, Better Person
+|episode_release_date=December 23, 2022
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/20tMvN4rcLfGv17vhITwhD
+|transcript_link=Transcript:S02E21
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E22
+|episode_wiki_page=S02E22 Holy Cow Farms: I Am the Vector
+|episode_title_clean=Holy Cow Farms: I Am the Vector
+|episode_release_date=January 6, 2023
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2u2K1OaAr4R4ekXYY5tTbG
+|transcript_link=Transcript:S02E22
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=123
+|season_episode_number=S02E23
+|episode_wiki_page=S02E23 Holy Cow Farms: A Perversion of Crystals
+|episode_title_clean=Holy Cow Farms: A Perversion of Crystals
+|episode_release_date=January 20, 2023
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/1JbsQtdVrWKix875CMcrbH
+|transcript_link=Transcript:S02E23
+|episode_description=description
+}}{{Episode Table Row
+|episode_id=124
+|season_episode_number=S02E24
+|episode_wiki_page=S02E24 God's Gift to the Earth (with Becca Scott)
+|episode_title_clean=God's Gift to the Earth (with Becca Scott)
+|episode_release_date=March 3, 2023
+|itunes_link=
+|spotify_link=https://open.spotify.com/episode/2NoQTdEHzTVMVbLvI6iTG3
+|transcript_link=Transcript:S02E24
+|episode_description=description
+}}

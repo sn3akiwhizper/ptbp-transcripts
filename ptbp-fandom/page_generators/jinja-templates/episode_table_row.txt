@@ -1,0 +1,12 @@
+{# jinja-templates/episode_table_row.txt #}
+{% raw %}{{Episode Table Row{% endraw %}
+|episode_id={{episode_id}}
+|season_episode_number={{season_episode_number}}
+|episode_wiki_page={{episode_wiki_page}}
+|episode_title_clean={{episode_title_clean}}
+|episode_release_date={{episode_release_date}}
+|itunes_link={{itunes_link}}
+|spotify_link={{spotify_link}}
+|transcript_link={{transcript_link}}
+|episode_description={{episode_description}}
+{% raw %}}}{% endraw %}
