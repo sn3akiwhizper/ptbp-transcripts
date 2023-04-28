@@ -188,7 +188,7 @@ def combine_segments_rttm(episode_tagged_transcript_file,segment_records,rttm_tu
     track_turns = 0
     track_segments = 0
 
-    with open(episode_tagged_transcript_file,'w') as outfl:
+    with open(episode_tagged_transcript_file,'w',encoding="UTF-8") as outfl:
         curr_speaker = rttm_turns[0].speaker_id
         curr_message = segment_records[0].text
         curr_start = 0

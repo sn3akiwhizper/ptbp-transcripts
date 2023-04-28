@@ -12,9 +12,9 @@ from pyannote.core import Annotation, Timeline
 from utils import *
 import os, json
 
-tagged_output_path = "speaker-tagged-transcriptions"
 transcript_folder = 'transcriptions-json'
 diarize_folder = 'diarizations-rttm'
+tagged_output_path = "speaker-tagged-transcriptions"
 
 #loop all transcriptions files
 for episode_json_file in os.listdir(transcript_folder):
@@ -24,6 +24,13 @@ for episode_json_file in os.listdir(transcript_folder):
     else:
         episode_name = episode_name[0]
     
+    episode_tagged_transcript_file = os.path.join(tagged_output_path,f"{episode_name}.txt")
+    #skip this episode if the combined file already exists
+    if os.path.exists(episode_tagged_transcript_file):
+        continue
+
+    print('-'*40)
+    print('-'*40)
     print('working on episode: ',episode_name)
     episode_json_file = f"{episode_name}.json"
 
@@ -49,7 +56,6 @@ for episode_json_file in os.listdir(transcript_folder):
     print(f'compressed rttm turns from {turns_before} to {len(rttm_turns)}')
 
     #combine segments and rttm speaker tags and write to file
-    episode_tagged_transcript_file = os.path.join(tagged_output_path,f"{episode_name}.txt")
     combine_segments_rttm(episode_tagged_transcript_file,segment_records,rttm_turns)
 
 #Annotation object: https://pyannote.github.io/pyannote-core/reference.html#annotation
