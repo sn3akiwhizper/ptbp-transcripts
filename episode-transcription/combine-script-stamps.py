@@ -25,6 +25,7 @@ for episode_json_file in os.listdir(transcript_folder):
         episode_name = episode_name[0]
     
     episode_tagged_transcript_file = os.path.join(tagged_output_path,f"{episode_name}.txt")
+    
     #skip this episode if the combined file already exists
     if os.path.exists(episode_tagged_transcript_file):
         continue

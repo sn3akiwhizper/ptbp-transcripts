@@ -4,7 +4,7 @@ AI-generated transcripts for the Pretending to Be People podcast, stay greasy Wo
 
 Transcript files have been sorted into folders in this repo by the format of the output transcription: json, srt, tsv, vtt, and txt.
 
-**Most Recent Episode Transcription:** S2E27: They Know (04/28/2023)
+**Most Recent Episode Transcription:** S2E28: Clean Up, Clean Up, Everybody Do Your Share (05/13/2023)
 
 Note! This project does not contain the transcripts for the Patreon-only episodes, [go support them](https://www.patreon.com/pretendingpod/posts) and generate them for yourselves you filthy animals.
 
