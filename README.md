@@ -4,7 +4,7 @@ AI-generated transcripts for the Pretending to Be People podcast, stay greasy Wo
 
 Transcript files have been sorted into folders in this repo by the format of the output transcription: json, srt, tsv, vtt, and txt.
 
-**Most Recent Episode Transcription:** S2E29: Wet, Smooth Holes (05/28/2023)
+**Most Recent Episode Transcription:** S2E29: Wet, Smooth Holes
 
 Note! This project does not contain the transcripts for the Patreon-only episodes, [go support them](https://www.patreon.com/pretendingpod/posts) and generate them for yourselves you filthy animals.
 
@@ -29,7 +29,8 @@ All the code in this project was integrated by sn3akiwhizper using examples from
 
 - [X] complete bulk catchup of transcription, diarization
 - [ ] combine transcript/diarization to produce speaker-tagged transcripts (started but broken)
-- [ ] parse speaker-tagged transcripts and validate each speaker's name
+- [ ] parse speaker-tagged transcripts and validate each speaker's name (might require training models to recognize each person's voice)
 - [ ] upload scripts to automatically perform the transcription, diarization, and combination
+  - some available, working on others
 - [ ] AI generated summaries of podcast episodes
 - [ ] Transcript book (markdown -> epub, pdf, mobi) complete with AI illustrations

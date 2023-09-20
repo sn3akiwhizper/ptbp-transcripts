@@ -11,9 +11,9 @@ LOCAL_DETAILS_FOLDER="rss-feed-downloads"
 LOCAL_DETAILS_FILE="local_rss_details"
 CSV_SEPERATOR="||"#to deal with any weirdness with quotes and commas
 
-def main():
+def write_full_rss_csv():
     '''
-    Main function to perform the argument parsing and redirect control to the appropriate functions
+    write out a csv file with all the rss details currently available
     '''
     this_feed = feedparser.parse(PTBP_FEED_URL)
     # print(this_feed.entries[0])
@@ -31,6 +31,18 @@ def main():
                 CSV_SEPERATOR.join([entry.id,entry.published,str(entry.published_parsed),entry.title,episode_duration,clean_summary,entry.link])+"\n"
             )
         print(f'wrote {len(this_feed.entries)} entries')
+
+def update_master_csv():
+    '''
+    cross-check the newest rss information with the master spreadsheet, and update the master sheet with any missing details
+    '''
+    master_fields = ["id", "season_num", "episode_num","rss_episode_title", "episode_title", "fandom_link", "date_released", "rss_published_date", "story_arc", "duration", "rss_show_notes", "description", "spotify_link", "itunes_link", "rss_website_link"]
+
+def main():
+    '''
+    Main function to perform the argument parsing and redirect control to the appropriate functions
+    '''
+    pass
 
 if __name__=="__main__":
     main()

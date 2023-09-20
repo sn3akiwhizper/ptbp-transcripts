@@ -1,0 +1,214 @@
+0.00 11.40 speaker0  Well, babies, I cannot believe I finally arrived at Ocean City, New Jersey, and it's 2016?
+9.84 17.00 speaker1  And it's March?
+15.36 93.00 speaker0  God damn it. I guess... Guess I can do another radio show or something. We're live from 694.2 PTBP or whatever. Maybe I'll read that. on the toilet. Do you sit down to pee? I sure do. He writes, Oh wow, Dale. A Wolfie never reveals their secrets, especially secrets about their incredibly moisturized nipples.
+92.00 111.04 speaker1  Wink.
+104.68 183.88 speaker0  Ocean City, New Jersey's newest and only radio station, probably. What's up, what's up? It's Zach. I am here to tell you four things. First, I want to say thank you to this community. After some last minute donations from you folks, we've raised $1,525 to help keep Springfieldians warm this winter. That's absolutely incredible. Thank you to each and every one of you listening who's told a friend about the show or joined the Patreon or tagged us on the internet. This is all thanks to you. Second, I want to say thank you to all of you eager listeners for your patience. Here's a little life update. Taylor and I have moved back to Springfield, Missouri, and we will be in Springfield, Missouri until we eventually die in Springfield, Missouri. We love it here. The food game is strong. It's cheap.
+176.68 295.18 speaker2  I'm hoping the transition won't affect our release schedule too much, but I'm an optimist for real though. We have some really cool shit planned and we're all super stoked about it. Luke GM'd a game of Uncanny Rally for Joe, Thomas, and me. It's one of those one-page RPGs from Grant Hallett. We played malfunctioning military androids on the run. It was delightfully silly and Luke did a wonderful job leading us on our wacky way. agents from each mission to continued unnatural mysteries and military conspiracies. And finally, if you're an esteemed naughty denizen of the den of sin, get ready for this Thursday, the eve of New Year's Eve, January 30th at 7pm Central Time. We're gonna hang out and celebrate the end of 2021, talk about our plans for 2022, and with that. If you have any suggestions, post them on the internet. And come hang out this Thursday night, yeah, New Year's Eve, January 30th at 7pm Central Time.
+291.78 421.88 speaker1  welcome to cheer up now, it's time for the news. of brutal homicides have all pointed in his singular direction. He is assumed to be armed and dangerous. Again, this is a former Delta Green agent named Arvon Chilton. Then, this fucking dude, Arvon Chilton, walked inside, disabled and tied up the new husband, and then slowly cut Eileen McCarty to pieces in front of the guy. and untied the blind, bleeding out broken man. Welcome to 694.2. If you aren't down with that level of awful, this show might not be good for you. But for now, let's just groove on this melodic palate cleanser that's brand spanking new.
+416.36 430.28 speaker2  We're gonna play Control Copy, which is a Delta Green scenario written by Dennis Detwiller, one of the creators of the game, Delta Green, the Role Playing Game.
+428.28 457.40 speaker0  Oh, too much.
+453.80 471.72 speaker2  My name is Zach, and I'm gonna be your handler today, as well as after you listen to this when you go back and listen to all of season one, of Pretending to Be People, I'll be the handler for that as well.
+470.76 503.08 speaker3  Every single one of them. because I get involved in what's happening and forget to write stuff down. That happens to everybody, man. That's role playing, baby.
+502.20 510.84 speaker2  What's your goal? Goal? Have fun.
+507.72 517.88 speaker3  I don't take notes. They're all up here. He points at his head.
+517.00 520.60 speaker2  Yeah, audio.
+519.32 544.76 speaker3  He pointed at Joe's notebook. But yeah, you know, I just kind of go with the flow, and I try to get things rolling, you know?
+544.04 549.48 speaker2  Notes or no notes.
+547.64 564.76 speaker3  Joe was like, I'm Joe, and I'm a character, so I just want to make it clear that I'm Thomas, and I'm a person. But I do play characters on the show.
+562.12 604.84 speaker2  and we're going to play Delta Green. Are you guys ready to play Delta Green? I'm scared. we played an amalgamation of Delta Green and Pulp Cthulhu. And you guys had lots of hit points and luck to spend. However, in this game today, you will have no special talents. Your hit points will be your strength plus your con, divided by two, as opposed to just strength plus con, and you will have no luck.
+602.12 633.00 speaker3  A young boy, far larger than average for his age, sits crying in the hallway of an elementary school as a group of children laugh and run away. He's wearing a yellow long-sleeve t-shirt and blue overalls. His glasses are thick, thick enough to give the illusion that the wearer has cartoonishly giant eyes. The tears are magnified behind the glass lenses as he sniffles and laughs echo down the hallway. A small boy approaches the weeping, hulking figure.
+631.56 638.28 speaker2  What's your name, Bigfoot?
+636.28 713.96 speaker3  The crying boy says as he wipes his face and looks up at the acne-ridden face of Elwood Boyd. Kevin wipes the sweat from his face and looks up into the stadium lights. The light glints off his athletic goggles, which give his eyes a bulging look. towering above the other boys surrounding him. Kevin throws the boy opposite him to the ground with a crunch. His eyes focus on the opposing quarterback and he launches himself forward. The small, frail boy holding the football is almost invisible under Kevin's shadow as the monstrous high schooler leaps towards him. sending the boy flying backwards and the football up into the air. Kevin jumps up to grab the ball and sprints towards the end zone. The entire crowd is chanting his name as he hulks toward the goal. When the minion reaches the end of the field, Instead of bouncing back into the air, the ball burrows itself into the earth.
+710.28 720.52 speaker2  That's another defensive touchdown for Kevin Gelato and the Spiro Agnu High!
+719.00 765.74 speaker3  Nope, I already have this written out. The announcer shouts as the crowd runs onto the field. fades out as we see Kevin standing in an elegant hallway with a dumb smile on his face. The smile quickly fades into a stony expression as Elwood's voice fades in, asking questions not necessarily intended to be answered by Kevin. Kevin gives Elwood a quick smile, but the eyes behind his goggles are deeply sad. Nice!
+765.24 768.44 speaker2  Hey!
+767.24 851.00 speaker3  I'm playing Elwood. revealing a cartoonish horde of jewels and cash. A smile spreads across Elwood Boyd's pale, pockmarked, and pimpled face, revealing rows of yellowed teeth that seem to have all collectively decided no two would grow in the same angle. over a yellow-brown colored button-up, khaki pants, and golfing shoes, but the whole ensemble looks like it was recently retrieved from a dumpster, all wrinkled and lightly, and in some places not so lightly, stained and fitting poorly. Kevin hands Elwood a fresh duffel bag, and Elwood extends a thin, bony arm to start scooping in the latest score. See, there's nothing to it. But it's like I can see the inner workings of these things. Here, take this bag too. And Elwood stands and hands another duffel bag over to Kevin. This place is so big.
+850.68 857.24 speaker0  Fuck.
+856.20 873.08 speaker2  Hoo-wee!
+870.52 958.04 speaker3  They make their way toward the garage at this point, passing rooms that have obviously been picked over. There's things kind of scattered here and there, but it's mostly empty rooms at this point. They walk by a kitchen and there's a guy sprawled on the floor just in his boxers. Right before they get to the garage door, they see a picture on the wall and it's of a family all- Really got him. Whatever you say. There's a family photo on the wall right by the garage door of a family in like a fall setting. Hey, you almost forgot one, dummy. Even though it's just a picture, there's good money in frames. We can sell the frame. They get out to the garage. They load up the SUV of the homeowner. Elwood waits in the passenger seat. Come on, come on, we don't have all day. Well, I guess we kind of do. I already snipped the alarms and I took care of the cameras and the security guy at the gate, you took care of him. But anyway, I want to get out of here. Come on, let's go. Kevin walks out the door with a frame and three double bags. That's how it was picture made for sure.
+957.24 967.64 speaker2  That's actually perfect.
+964.44 1108.28 speaker3  They've done it a million times before and they're greeted by Julian. Oh, he's your fence. He's my fence. Got you. Comes out and says, what'd you bring for me today? Oh, just the usual. Some vases, socks, books, candlesticks, jewelry, bedsheets. You got your car? All right. You don't have to make me sell people's socks. They're used. Elwood replies. That means they have value to somebody and that means they have value to me. Socks. Oh, Elwood, you took the family photos. He, uh, he assures them that there's going to be, uh, some cash form in a week. Okay. After he sells all this stuff. Yeah. And, uh, Elwood turns to Kevin and says, all right, let's, uh, let's head back home. Maybe Ma's made chili. Chili. Okay. She's still awake. All right. Come, come, come on. Is this your mom? Um, we're, we're home. Uh, Elmira Boyd is laying on the couch in her nightgown and she stirs awake. Kind of startled. They aren't hitting holes in one every time they go out. It seems like you do. Uh, she tousles his greasy mop top and kind of wipes her hand off on her nightgown. She's going up to bed. I made some chili. There's some chili in the fridge there. It's something about an opera. Yeah. And he turns to his mom. We were, uh, we're going to go to, um, uh, Colorado and hit the, hit the golf courses out there. I heard they're beautiful. We might be, uh, might be gone for a few days. You have a good night. And, uh, Elmira says, oh, uh, okay.
+1107.88 1111.16 speaker2  Perfect.
+1110.92 1113.72 speaker3  Okay.
+1111.16 1120.28 speaker2  Can you give me a quick rundown of what your character looks like?
+1117.80 1141.80 speaker3  He's really, uh, super duper skinny. He kind of walks around with his arms folded, but at the wrists. Amazing. And, uh, yeah, he's wearing a ratty sweater vest and a button up with the collar popping at the top, but it all looks wrong. It just looks like it doesn't fit right. Maybe even the buttons are kind of mismatched.
+1135.56 1147.08 speaker2  One year for Christmas, my grandma got me a sweater vest and it was matching the shirt, the long sleeve dress shirt that would go underneath it. Right.
+1145.48 1155.32 speaker0  Size on these two.
+1154.92 1157.32 speaker3  Huh?
+1156.12 1164.68 speaker2  You know, neither one did.
+1162.28 1168.60 speaker3  Just mix them together and you'll get the right size.
+1166.76 1170.12 speaker2  Very puffy in the arms.
+1168.92 1204.44 speaker3  Well, Kevin. Yes, of course, please. Certainly. He's just shy of seven feet tall. He is hundreds of pounds of, of just muscle. Like it looks like he works out multiple times a day, but like his skin is kind of like yellowish. He's got huge, instead of glasses, they're like, like athletic goggles. Like, you know, they would play in wrapped around his head, makes his eyes look huge.
+1203.88 1209.08 speaker2  Right.
+1204.44 1236.36 speaker3  Well, cause he wore them and when he played football and in, in like junior high and high school, pretty much all he did was play football and hang out with Elwood. So it just kind of like became comfortable to him, but you can tell, like, just the way he looks, there's, he's probably got something like genetically wrong with him. Cause he just like never stopped growing and it's huge. And his head is kind of like oddly square. He's an Andre giant. Or an Alton giant. Wadler.
+1233.40 1245.48 speaker2  Yeah, dude, Robert Wadler guys huge. Yeah.
+1244.84 1256.52 speaker0  That guy.
+1251.48 1264.28 speaker3  Uh, those goggles, uh, he's like bald, except for like stealthy bald,
+1262.44 1270.12 speaker2  So you've been building Homer Simpson. Homer Simpson.
+1269.64 1274.44 speaker3  All right. Sick.
+1273.88 1282.60 speaker2  Yeah. Boyd's. Yeah.
+1282.28 1290.44 speaker3  Okay. And even Elwood isn't that great at it.
+1287.48 1316.76 speaker2  Well, let's meet someone who should be speaking for the group. Yeah. Sparrow, short, serious student body president she's managing a small hot dog
+1313.00 1363.40 speaker3  stand, the profits from which will benefit a local canine leukemia fund. She glares at his friends and they sheepishly disperse. Clarissa takes a deep sigh and massages her temples and then turns around with a genuine smile. And she asked for Mrs. Elmira Boyd's order. Is there a limit? I'm so sorry. minutes and we'll have as many as you can carry. I promise. Oh, thank you, Clarissa. You're, you're such a darling. It's so sweet of you to help those pups like this.
+1358.92 1366.68 speaker2  Kevin's daydream is reaching its moment of climactic triumph over on the field.
+1365.32 1498.36 speaker3  The crowd's going crazy. stand and disappear into the crowd with his friends. She's more hurt than angry. you'll have a good life. There are hot dogs to move. him and Elwood the chili and mentions the envelope that came for them. She opens the door and finds an identical envelope slipped under it. same smart, sensible haircut she did in Kevin's daydream back in high school. Work hard, follow the rules, do what's expected of you, stay true to your word. She never questioned that that was the right path until her first night at the opera. She saw things on that mission that shook her to the core. The minds of hardened veterans cracked apart under supernatural pressures, the been unleashed. Her composure, though, distinguished her on that first mission, where more senior agents had lost their minds, she kept it together, and she was soon asked to move from friendly to agent. She draws on that composure now, massaging her temples, taking a deep sigh.
+1495.88 1524.12 speaker2  Nice, so we've got our three characters. Quick, give me a rundown of what Clarissa looks like, and also what is her last name. Sparrow. Oh, Clarissa Sparrow. I like it. And what does she look like when we see Clarissa? Is she still short, serious, and the student body president?
+1523.64 1534.28 speaker3  of the Lambs.
+1533.80 1550.44 speaker2  Research. of watched the whole thing. You saw most of it.
+1549.64 1563.16 speaker3  Would you fuck me?
+1559.08 1564.44 speaker2  Like, are you supposed to be jealous of that character?
+1563.16 1569.88 speaker3  That Wild Bill grindset?
+1568.52 1706.86 speaker2  Hashtag grindset. These envelopes that have been left for you summon you to a nearby airport and give you access to a private aircraft hangar. And there, you are briefed on this mission by a lone member of the special access group with identification from the National Reconnaissance Office. And he introduces himself as John Smith. You're given file work on the case. And this case involves a former Delta Green agent named Arvin Chilton. And Arvin Chilton was a Delta Green agent for a long time. And then he retired in Ocean City, New Jersey. Well, hmm. Recently, it seems, Arvin Chilton has gone on a bit of a murder spree. His ex-wife is dead. His ex-wife's partner, new husband, is dead. His old partner is dead. There's also a gas station attendant who is dead. Arvin Chilton was seen on camera stabbing this gas station employee in the back and then disemboweling him as a car pulled up and filled their tank of gas not five feet from where this disembowelment was taking place. The person filling up their tank kind of looks around. It looks like they're hearing something. They almost look in the exact direction of Chilton and this dying man. That's probably what flagged Delta Green the most. in Woodbine, New Jersey, which is approximately five miles from Ocean City, New Jersey, as well as the apartment of Arvin Chilton. Clarissa Sparrow.
+1704.22 1724.54 speaker3  Agent Clarissa Sparrow, FBI. Kevin kind of looks at her and it cuts to Kevin crying in the bathroom at school and Clarissa like...
+1722.62 1728.78 speaker2  I'm sorry, but you need a hall pass.
+1727.42 1762.08 speaker3  You need to come out immediately. Kevin comes out and Clarissa like sees he's crying and comforts him. Yeah. hidden battle they don't see, but it only really takes a couple seconds to get that bathroom pass and the rules are there for a reason.
+1761.60 1763.28 speaker0  Hi.
+1762.64 1778.64 speaker2  Hi. I don't have a bathroom pass.
+1777.36 1788.08 speaker3  You were the football giant. Weren't you going to go pro? Those days are behind him.
+1784.72 1801.28 speaker2  The Elwood turns sideways and you finally see him. Elwood Boyd, smelly Ellie.
+1800.00 1809.52 speaker3  How you been?
+1808.88 1813.12 speaker2  I still do. That's why I'm here.
+1811.52 1815.76 speaker3  Why are you two here?
+1815.12 1822.24 speaker2  It's his reason.
+1820.16 1837.68 speaker3  It's opera night. Opera.
+1833.44 1842.80 speaker2  that will not hold up for more than, you know, two or three days. But they'll hold up for a little bit.
+1839.44 1971.52 speaker3  Yeah, it looks like we're on the same playing field today. Right. with real FBI, it's going to mean everything she's worked for could go down the shitter. What do you make of that? What skills would those be? I'm good at getting in the places and I can take things without people seeing that those things got taken. As much as I'm loathe to admit it, those skills might come in handy. But here's the deal. If you two have to pass as FBI with me, you're going to keep your mouth shut when we're talking to real FBI. You're not going to embarrass me. You're not going to jeopardize what I do outside of this. In order, I'd say sure, maybe, and we'll see. Yeah, I mean, they summoned us. They obviously see that we are needed here and we're going to do what we can. This is a privilege and not a right, and it can be revoked at any moment, and she passes it out to you. Thanks.
+1961.12 2045.52 speaker2  Once you've landed, the pilot actually pops out from the pirate's cabin, which it says It's themed chartered airplanes. the wheel. What kind of car do you want? A Jaguar. mount, like the hood ornament is missing. This is like a beat up old Jag.
+2042.64 2058.64 speaker3  So can I do a mechanic role to see if I can get it to pop out? Absolutely you can.
+2052.72 2070.72 speaker2  So you guys see this enormous monstrosity in a yellow shirt and blue overalls and these big thick goggles and three strands of hair walk over to this car and kind of.
+2069.04 2104.56 speaker3  just goes down into the metal. He poked it way too hard and he like completely destroys where it would pop out. Just like pressing aluminum foil. Yeah, like crushing a little tin little coke can. with him in it.
+2099.60 2111.76 speaker2  The first murder happened on March 21st, so that was four days ago.
+2110.24 2224.48 speaker3  he didn't do anything about it. Nothing. Yeah. Do you think that? Some natural phenomenon we can't really see getting in the way. I don't like. Maybe. Is there something like that? There is nothing in Penn and Teller's How to Do Magic to prepare me for this. No. They're serious. I guess maybe some kind of sleight of hand. He distracted him. He maybe waved his hand in the air and that's what the guy looked at and then. You think you get one of those envelopes when Penn and Teller are loose? I assume that they just want us to make sure that all the T's are dotted and the I's are crossed. That's not something that Penn and Teller do as far as I know.
+2221.20 2246.96 speaker2  It is an extremely busy day here. People are running around. It's around 11 30 a.m. on March 25, 2016. Someone greets you at the counter as the three of you arrive. Hell yes, hi.
+2243.92 2265.52 speaker3  These are my partners on this particular task force. She slaps. Luke is waving. Kevin starts waving really good.
+2264.00 2270.80 speaker2  Agent Garza from the FBI. Sorry, he's in the first conference room. That's where we have him set up.
+2270.08 2280.48 speaker3  And she points.
+2276.80 2306.72 speaker2  He has a graying comb over and a gray suit. He's wearing a red tie and you see red suspenders are poking out from his suit jacket, which will not even get close to closing, like to the point to where you can see both suspenders in full visibility. And he's just om-nomming a grinder. He is just going to town.
+2305.84 2321.14 speaker0  Sit down. You're the FBI? Is that good?
+2320.64 2328.88 speaker3  Sure. Good. Yeah.
+2327.92 2355.60 speaker2  And he's like, oh shit. And he rubs it just immediately on his jacket and then reaches his hand back out and says, Agent Garza, but everybody calls me Uncle Jimmy.
+2351.12 2362.56 speaker3  And when I pull it away, I do a quick lick of my hand. Jesus. It's fine.
+2362.16 2371.04 speaker2  All right. Hi. Wow. You're a big fella, aren't you?
+2368.88 2374.80 speaker3  I still like to think about it.
+2373.76 2378.80 speaker2  I could have. What happened?
+2377.20 2385.68 speaker3  He decided not to.
+2382.56 2437.60 speaker2  And he slams pictures down on the desk in front of you. Uncle Jimmy. And Dylan B is a patron at at least our $10 level. So he gets to create an NPC and a location that might get used. An empuk. An empuk. And this is an empuk. who is out of breath and sweating with any movement. Nice. And he slams these pictures down on the table. And it is horribly disturbing crime scene photos. So everyone roll sanity for me. Pass.
+2435.60 2440.16 speaker3  72 on an 80.
+2439.76 2558.48 speaker2  Jesus. So everyone passes. You are going to lose no sanity. You've all seen stuff like this. And he looks up at your faces. And then he looks back down at these bloody violent pictures where this normal home has been completely torn up. And the two victims are missing their eyes and tongues. Blood is covering the faces and splattering the ground behind them. And the woman, Eileen McCarty, the ex-wife of Arvin Chilton, And even her husband, it's impossible to really make out their faces, because without an eyes and with all this blood covering bruises, without eyes, without eyes, it's going to be hard to recognize these folks. And he slams down. He goes down. Clearly, a neighbor even saw the husband and wife let this ex-husband into their house. You saw the weapon. It was this large hook knife, I guess. I don't think that that body... And he points at this just destroyed face. That was the day of the murder. Medical examiner said, you know, torture, death. And he taps really hard and gets mayonnaise all over the pictures that he's put out on this desk.
+2557.92 2563.28 speaker0  I'm not worried. You guys are here.
+2560.80 2594.08 speaker2  And I understand that we needed reinforcements on this thing. It's already been three days. Everything's up in the air right now. Everyone's pretty fucking confused. He's either going to use his credit card, which we've tagged. He's going to get pulled over or ticketed in a known car. Or he's just going to overplay his hand in some other way. He's going to make a mistake and then we'll get him. He's a desperate man.
+2590.64 2601.44 speaker3  And that allows for reasonable people to catch him.
+2601.20 2670.24 speaker2  Yeah. It's the last time we saw him. Also, that gas station, I think, and he like picks around at some of his notes. She was seen there. Eileen McCarty was seen at the same gas station And two days after she supposedly died. According to what witnesses? Multiple witnesses. What do you want to know? What do you want to know if they're like smart, if they could see? But we did identify the guy who died.
+2669.68 2673.36 speaker0  No.
+2672.48 2676.88 speaker2  It's Arvin Chilton. You saw it. Yeah.
+2676.00 2722.00 speaker3  Okay. Yeah. Yeah. No, he's well aware. He's testing you. He's got an interesting investigative mind. his head and agrees. Was Eileen McCarty seen at the gas station before or after the murder? Before. How long before?
+2715.20 2744.32 speaker2  Oh, uncle Jimmy looks over at Clarissa and is just like, how long have you three been working together? All right. So, yeah, if you want any phone records, there's really not much there. We've got it tracked and an alert is set on it.
+2742.64 2751.68 speaker0  And I think that's how we're going to get him.
+2747.52 2760.16 speaker2  He did call Eileen on the morning of March 16th. So that's five days pre death. Supposed death of Eileen McCarty.
+2759.76 2760.96 speaker3  Yeah.
+2760.16 2772.88 speaker2  What happened? He didn't pick up. Can I try? No, I mean, sure. You can if you want. I don't care. Yes. I dialed the phone number.
+2772.40 2778.88 speaker3  Yeah.
+2777.52 2799.22 speaker2  71 seconds. Oh, 71 is wrong. Huh. 121. Uncle Jimmy's good at a lot of stuff. Math ain't it? Ha.
+2798.66 2815.38 speaker3  What do they do? Why? It's weird. Didn't you say?
+2810.42 2902.58 speaker2  It's completely normal until March 20th, day before the first murder. Becomes irregular and then ceases. What does that mean? Yeah, it got weird and then stopped. So it's clear that he used it, then committed the murder, hasn't used it since. And what was his last call? Flip, flip, flip, flip, flip. Yeah, it goes to Alexander Duchesne. What do we know about him? He's the landlord. Of Chilton? Alexander Duchesne, old guy. How long did that call last? That call was 29 seconds or zero minutes and 29 seconds. Yeah, we've talked to Duchesne. What did he say? Talked to him on the 23rd. He said that Arvin's been living with him for five years. Arvin lives upstairs. It's like one of those houses where just the upstairs is an apartment. I don't know, man. Seems like a shut-in.
+2898.18 2909.94 speaker1  When Eileen was at that gas station, was that the Quinlan on duty at that time?
+2906.34 2916.66 speaker2  And he'll flip through some video and...
+2915.94 2920.58 speaker0  Oh, wow. Yeah, no.
+2918.10 2935.38 speaker2  All the inside tapes must have gotten taken. Bye. That's really weird. Yeah, they were never checked in.
+2932.74 2943.62 speaker3  Can I speak with my associates in the hallway for one moment?
+2940.18 2951.22 speaker2  There's a third of it left and he just shoves the entire thing in his mouth. And he's like, I'll wrap up here.
+2946.18 2973.70 speaker0  And so if you guys want to head over to Chilton's and just kind of get lay of the land,
+2972.34 2981.78 speaker2  He's very confused by it. It doesn't make any sense to him. And so that's all. He passed his sanity check and he's like,
+2980.98 2984.26 speaker0  People are strange.
+2981.78 3000.18 speaker2  The guy probably didn't want to be caught up in anything. Just needed to get away. You know, the bystander effect. Am I right?
+2999.70 3002.26 speaker3  Thank you.
+3000.18 3007.86 speaker2  Uh, Uncle Jimmy, you can call me Uncle Jimmy.
+3006.90 3008.26 speaker3  Thanks for coming.
+3007.86 3019.14 speaker2  All right. Uh, yeah. Holler if you need anything. Here's my phone number. Here's my card. I'll be here or I'll be elsewhere. Isn't that how it always goes?
+3018.82 3027.86 speaker3  Okay.
+3023.38 3084.34 speaker2  it is literally half a mile from the police station. This neighborhood is really nice. It's just this like March 20, what is it? March 25th. Shit. March 25th. It's a beautiful sunny day. Big fluffers are up in the clouds and blue skies. All of these buildings have like white trim on the columns and the stairwells and the, the, uh, what are these Thomas? Braillings. Like a railing. Yeah. Like railings are all, uh, white. You pull up to a cute little baby blue home. It's two stories. And like Uncle Jimmy said, there is a staircase on the left side of this house that leads up to a tiny little duplex up above this tiny little home. It's about 1230 PM.
+3082.50 3113.06 speaker3  We've just arrived at the home of... Are you like talking into a voice recorder? Does that make you uncomfortable, Mr. Boyd? I feel like we need to be careful about what kind of records we keep on a case like this. Yeah, we need to be careful. You're absolutely right. But I have to keep some official records since we are technically investigating this for the FBI. There has to be the official cover and then...
+3112.18 3115.14 speaker1  Wink, wink.
+3114.58 3127.94 speaker3  Yeah. Kevin walks up the stairs and knocks on the door and it like shakes the home.
+3124.42 3150.10 speaker2  this thing is like almost giving way under Kevin. Taped up. Police investigation ongoing. Blah, blah, blah, blah, blah. Nonsense. What's going on? And there is a light on in the downstairs apartment.
+3144.50 3158.90 speaker3  Yeah, Kevin's hands are a little too big to really functionally use a key. So he steps back and...
+3158.02 3190.26 speaker2  That's my bad, Joe. Yeah, that was the only time this was going to come in handy.
+3188.98 3226.90 speaker3  They paid pretty good. She turns on you and is brandishing the key in your face and she's like, no, sir, you will receive your come up, but I'm willing to work with your kind against these unnatural forces. All right then, as long as we understand each other and Yeah, who wouldn't be? Are you okay?
+3226.42 3240.74 speaker1  I'm fine.
+3237.62 3245.06 speaker3  Right here must be tens of dollars.
+3242.18 3251.22 speaker0  Like when you open up the door, you're walking into the studio.
+3249.86 3281.62 speaker2  There's a record collection. There's a bunch of Elvis Presley. as well as a DVD collection that shows he did not shy away from the film adaptations. And there's really not much else around here.
+3280.10 3293.38 speaker3  Well, it looks like there's nothing to see here. Let's move on to the next place. 55 on an 80.
+3291.94 3295.14 speaker1  A 30 on a 70.
+3294.74 3304.82 speaker3  Okay.
+3298.34 3394.02 speaker2  Boyd, Elwood, Elwood Boyd is not startled. and kind of like putting themselves around the doorway, He is 79 years of age. He is around five foot six, 210 pounds. An old man. He has carefully quaffed white hair and he has heavy black glasses. He is clothed in old often mended clothing and a pork pie hat. And he has a long winding scar up the right half of his face. It's clear that he drinks due to the large nose with burst capillaries, just filling this big, almost like pulsating thing on the tip of his nose. And he moves slowly, seemingly with great pain,
+3392.82 3402.98 speaker0  More officers. Hello, more officers. Hello, there.
+3402.02 3433.06 speaker3  Yeah, he's right there. Special Agent Clarissa Sparrow, sir, this is an act of crime scene investigation. You were compromising that crime scene. Are you Mr. Duchesne? I'm going to have to ask you to go back downstairs.
+3432.26 3461.62 speaker2  Whenever you're ready. Yes, fine. That's fine. And he slowly creeps back around and like you can almost hear his bones creaking with the pain look on his face as he turns around and it's like, okay. And just kind of waves one hand up in the air as his other hand grabs the rail like intensely. Kevin waves back at him. And he heads back down the stairs.
+3456.98 3462.42 speaker3  Elwood wants to, um, clock this apartment for things that, uh, might be valuable.
+3462.02 3466.90 speaker2  Yeah, yeah. Go ahead and roll search for criminology.
+3466.10 3468.50 speaker3  Yeah, absolutely.
+3467.54 3489.62 speaker2  This is what you guys do. Like you would receive when you went and actually saw a play. What are those called? A play bill. Play bill.
+3488.50 3503.86 speaker3  A play bill.
+3495.78 3534.10 speaker2  are dead fucking certain that a, this is from an early original, like one of the first American runs of this Shakespeare production. This is a globe theater play bill. I think as was, he was a very famous actor. And so you are dead fucking positive that this is going to bring in at least like 10 grand.
+3532.02 3538.34 speaker1  I try to do it feefully. Oh, you don't.
+3536.82 3546.42 speaker2  Oh, I see you get that.
+3545.94 3563.30 speaker3  What? What are you grabbing evidence for? It's signed by John Wilkes Booth.
+3562.10 3578.02 speaker2  No, you're not in this. Crit fail. Yeah, you 100% rip the book in half.
+3576.10 3583.62 speaker1  Oh God, you did this.
+3579.94 3602.02 speaker3  A little tear starts to form at the edge of Kevin's eye. Damn it, Kevin. It wasn't your fault. He did this. You two, you keep your hands to yourself. Stand right in the middle of this room. Don't touch anything else.
+3600.34 3607.94 speaker1  that sounds like she knows what she's doing.
+3603.06 3610.74 speaker3  Now let me use my investigators eyes to search this room.
+3610.18 3643.54 speaker2  Nice. You find there's a record collection with a bunch of Elvis Presley. There's a bookshelf filled with the works of the immortal bard himself, William Shakespeare, one of which is torn in half on the floor.
+3641.86 3650.74 speaker1  We're on official business here. And he says that kind of sarcastically with an eye toward Sparrow.
+3650.26 3671.06 speaker3  That's right. Like the happy, dumb smile goes to like a serious, like zoned in face and idea roll. Yeah. For some, for anything we might be missing here.
+3670.18 3687.54 speaker2  Yeah, sure. You have cleaned this room. Like it is, it has been clocked.
+3685.78 3706.98 speaker3  Let's go at this time.
+3702.10 3722.74 speaker2  not even basement, just the first floor apartment of this two story duplex. This, uh, this high wine.
+3721.54 3746.58 speaker3  Yeah, he's making you tea. That's nice.
+3745.22 3774.26 speaker2  It's the same man as before. It's crazy. And this close to him, you're overwhelmed by his odor. He smells really bad. He's like coughing and he's just like sniffling a bunch. He invites you inside really eagerly. He's just like, come on, come on, come on, come on. Okay.
+3772.58 3777.14 speaker0  I have tea for you guys.
+3774.26 3786.66 speaker2  If you want tea, um, I've put out some, some plates. I've got some more food. Here's some chairs. You can sit here and here. Um, your, your name was Sparrow, right? Agent Sparrow.
+3784.98 3788.34 speaker3  I pass him my FBI card. Perfect.
+3787.06 3791.06 speaker0  And do you guys have cards too?
+3790.42 3797.14 speaker3  Unfortunately.
+3796.34 3802.10 speaker0  Sorry. Sorry. I'll wash my hands real quick.
+3800.02 3879.06 speaker2  He goes back and starts washing his hands. And you see, uh, looking around this place, you see a very sad home decorated by an old man with no relatives. There's an ashtray on the table and it hasn't been used. It's clean. There's a bunch of rolled up newspapers in a bucket. A few mops are in the corner of the room strangely. And there's an odd number of baseballs placed around. There's a copy of as you like it sitting on the coffee table and he brings out a spread. I mean, just like a charcutte, but like the way a 79 year old shut in would, would bring you charcutte. And so it's just these like charcutte cold cuts. Oh, it's charcutte as hell. The charcutte is good. It's cold cuts and some cheeses. And then there's a bowl on the plate with some big olives on it, green and black olives. think is like the only place where he sits.
+3877.38 3880.50 speaker1  Like as he's setting it down.
+3879.94 3897.38 speaker2  He's already.
+3894.02 3902.50 speaker3  like one handful is like half of the stuff on there.
+3900.66 3915.70 speaker0  Agent Sparrow, dig in. I love chocolate milk. Who doesn't love chocolate milk?
+3914.98 3931.38 speaker1  Thank you. Yeah.
+3929.70 3939.86 speaker3  Oh, 33 again.
+3934.26 3961.86 speaker2  With a regular pass, you think that the baseballs are placed very strangely around this room. And why does an old man have a bunch of baseballs hanging around? They're like a distinct pattern. No, not really. What about to me? Roll SIGINT, I guess. And then with the crit success, you note he has a copy of As You Like It. For me, what is that?
+3961.62 3962.98 speaker0  Yeah.
+3962.58 3970.90 speaker3  Okay. So that's what I wanted to ask about. Does this copy of As You Like It look like it came from one of the sets upstairs? Yeah, totally.
+3969.14 3974.90 speaker2  Same printing, same publishing company. Yeah.
+3971.22 3992.34 speaker3  Clarissa is picking it up and is holding it and waiting for him to get back in the room. Cool.
+3990.90 3998.66 speaker0  Are you a thief too?
+3998.10 4035.14 speaker3  Huffington. Fartington Publishers. Third edition, 1976. Yeah. That's the same one that Alvin Chilton had upstairs. Did you take this from his room? Can I humint that? Yeah, you can humint that.
+4029.78 4047.70 speaker2  With his success, you see that he seems to be telling the truth. He did get it from Arvin Chilton.
+4045.54 4054.58 speaker3  He's like, I didn't take it. Is Arvin's crime spree public knowledge? Yes. And he's identified as a suspect. Arvin. Yeah.
+4053.86 4064.26 speaker2  Yes. Okay.
+4063.06 4068.98 speaker0  He wouldn't have done it. He was a good guy.
+4066.74 4077.14 speaker3  We're trying to figure out who did these horrible things. Now, when did Arvin lend you that book?
+4075.14 4081.30 speaker2  You know, it's a...
+4080.10 4102.18 speaker0  It fails so much.
+4101.46 4117.46 speaker2  I had a fall.
+4114.34 4153.46 speaker0  He was getting ready to go to Starbucks. That's where he worked. That's where he worked. He wouldn't have done it. Agent Asparrow, please. You have to try some of these cold cuts or these olives. Aren't they good?
+4151.46 4157.30 speaker3  They're like old, which Elwood loves.
+4156.50 4165.78 speaker1  They taste old. That's the way I like them. Good.
+4161.22 4195.06 speaker3  Kevin, ever since he played football, has been very in tune with his body. Does he feel sick or weird or anything from the half board of meat that he's eaten?
+4186.74 4207.22 speaker2  It is not reacting in your tum tum the way that a nice shock bowl would feel in your tummy.
+4206.26 4215.94 speaker0  I'm sorry. I must have just forgotten when I bought it. I would never.
+4214.82 4219.22 speaker3  Is that what you're trying to do?
+4217.86 4222.34 speaker2  No, no.
+4219.22 4226.50 speaker3  Kevin comes back over and sits down and grabs another hand. Like without thinking, just grabs another handful of meat.
+4224.98 4246.02 speaker1  Elwood tries to grab his hand. He's holding, uh, Elwood's holding his hand out in front of Kevin. Spit it out.
+4243.94 4252.18 speaker3  Kevin spits out his food into Elwood's hand. Clarissa is watching that just like wide-eyed.
+4249.38 4254.50 speaker1  Elwood takes it and puts it back onto the charcuterie board.
+4253.70 4257.22 speaker0  Now, where were we?
+4255.14 4271.70 speaker3  Yeah, uh, where were we?
+4265.54 4295.62 speaker2  It's clear that he's like a little freak in this moment and he's just like super into it. The vibes are there. The aura around both of them is similar. Similar, yeah.
+4294.18 4309.78 speaker3  Is there a reason he lent it to you?
+4306.58 4440.90 speaker0  But the drowning's been just fine. And when my ears pop and the shell shock of this pit stop frees my mind. I'll be alright. I can go there now that I stare. Death in the face. I'll be alright. Doesn't it always seem like the villain Paul in the strings is a regular guy? You and me have gone bad in a good way, I promise. Kerosene wipes clean what we couldn't bear to tarnish. I'll be alright. I can go there now that I stare. Death in the face. I'll be alright. I can go there now that I stare. Death in the face. There's a conundrum in the wisdom of my spirit. You and me have gone bad in a good way, I promise.

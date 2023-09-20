@@ -1,10 +1,16 @@
+#story_arc_generator.py
+#sn3akiwhizper
+#to generate a story arc wiki page populated with the proper episodes belonging to that arc
+#NOTE: very rough draft of this concept, not working in the slightest
 
 from jinja2 import Environment, FileSystemLoader
 import csv
 
+#setup some variables
 environment = Environment(loader=FileSystemLoader("jinja-templates/"))
 template = environment.get_template("episode_table_row.txt")
 
+#load all episode information from rss episode guide
 episodes = []
 with open('ptbp-generator-episode-guide.csv', newline='') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -23,6 +29,7 @@ with open('ptbp-generator-episode-guide.csv', newline='') as csvfile:
             }
         )
 
+#render the episode template using the episode information from the rss csv
 generated_row_content = []
 
 for episode in episodes:
@@ -32,6 +39,7 @@ for episode in episodes:
         )
     )
 
+#save the rendered templates to file
 with open("rendered_episode_rows.txt", mode="w", encoding="utf-8") as message:
     for row in generated_row_content:
         message.write(row+"\n")

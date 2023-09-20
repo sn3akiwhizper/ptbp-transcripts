@@ -1,0 +1,3228 @@
+1
+00:00:00,000 --> 00:00:09,000
+Hey folks, I'm Zach, the producer, whoever that asshole is, totally fucked up.
+
+2
+00:00:09,000 --> 00:00:21,000
+They forgot to remind Wolf the Dog that the Den of Sin will be live this upcoming Tuesday, the 28th of July, for an extremely special stream.
+
+3
+00:00:21,000 --> 00:00:24,000
+Luke is running a homebrew.
+
+4
+00:00:24,000 --> 00:00:35,000
+This is the first time any of these players have run a DG scenario, and I consider myself blessed as fuck to get to join the rank of the PCs for this one shot.
+
+5
+00:00:35,000 --> 00:00:48,000
+I have so much respect for Luke as a player, and so much love for this dude as a human, and I cannot wait to play in a game at which he is at the helm.
+
+6
+00:00:48,000 --> 00:01:03,000
+And for all of you at the Splashylvania Fastpass holders at the $5 and up level, I will have part 3, the conclusion of our playthrough of Lover in the Ice, edited and uploaded in this coming week.
+
+7
+00:01:03,000 --> 00:01:12,000
+So be on the lookout for that, and if you are not a patron of this fine podcast you've listened to a stupid amount of, don't worry.
+
+8
+00:01:13,000 --> 00:01:17,000
+You can easily join us over at patreon.com slash pretending pod.
+
+9
+00:01:17,000 --> 00:01:26,000
+The higher that number grows, the less stupid I feel about spending so much time working on this super fun and silly show.
+
+10
+00:01:26,000 --> 00:01:35,000
+You'll immediately have access to 12 bonus episodes, as well as the ability to vote in polls that decide which scenarios I run for the boys.
+
+11
+00:01:35,000 --> 00:01:43,000
+Seriously, I did a quick skim, my fault, and I ended up running Lover in the Ice, my fault.
+
+12
+00:01:43,000 --> 00:01:46,000
+It did win the poll, that's why I ran it, my fault.
+
+13
+00:01:46,000 --> 00:01:58,000
+So, if you want access to this monthly bonus content and a say in what that content consists of, join us, please, over at patreon.com slash pretending pod.
+
+14
+00:01:58,000 --> 00:02:06,000
+The link is in the show notes, but it's easy as fuck to type into your browser. It's so easy, you just type it in.
+
+15
+00:02:06,000 --> 00:02:10,000
+It's patreon.com slash pretending pod.
+
+16
+00:02:10,000 --> 00:02:23,000
+On a real human note, I seriously, I spend a dumb amount of time making this podcast, and I'm dumbfounded and humbled by the responses we've received.
+
+17
+00:02:23,000 --> 00:02:28,000
+When we were about to start, we talked about our pipe dreams for the show, right?
+
+18
+00:02:28,000 --> 00:02:39,000
+Mine was fan art. I said, if someone makes fan art for our show, this will all have been worth it, and holy shit, I had no idea what was coming.
+
+19
+00:02:39,000 --> 00:02:44,000
+You guys have made some of the dopest, ugh, it just, it's so heartening.
+
+20
+00:02:44,000 --> 00:02:51,000
+I had no idea how invested we'd all be in putting out this show every week for thousands of people.
+
+21
+00:02:51,000 --> 00:03:03,000
+That seems silly, even as I say it, but I just want you all to know, we really appreciate having you all along for this ride, this fucking wild-ass ride we're all on.
+
+22
+00:03:03,000 --> 00:03:15,000
+And if any of you can help continue to create this kind of content with your finances, please join us. Get a Splashylvania Fastpass over at patreon.com slash pretending pod.
+
+23
+00:03:15,000 --> 00:03:26,000
+If you're dealing with instability right now due to COVID or being a poor college student, or legitimately just because capitalism fucking blows, do not worry. Fret not.
+
+24
+00:03:26,000 --> 00:03:33,000
+We completely understand. Keep listening to the show. Tell your friends about it. If you could, just blow up the internet.
+
+25
+00:03:33,000 --> 00:03:46,000
+Hit those RPG subreddits hard with recommendations. Tell your friends about the show. Just anything you can do helps, and it makes me smile, and it makes me hard.
+
+26
+00:03:47,000 --> 00:03:57,000
+I know Wolf has joked about taking other people's iPhones and reviewing our show on Apple Podcasts. That, that wasn't a joke.
+
+27
+00:03:57,000 --> 00:04:08,000
+That would help us tremendously. We really don't want to put ads on this show. We really like it the way it is, and we really hope you do too.
+
+28
+00:04:08,000 --> 00:04:15,000
+Fuck, I've been going on way too long. Let me send it over to my luff in the fog, Wolf the dog.
+
+29
+00:04:16,000 --> 00:04:24,000
+Aw yes, my children's children. It's good that you came to visit your old canine granddad, Wolf the dog.
+
+30
+00:04:24,000 --> 00:04:40,000
+Come sit on Pop Pop's lap while he regales you with the weird stuff that happened and will happen in this shithole of a town and multiple other realities, live from 694.2 PTBP.
+
+31
+00:04:40,000 --> 00:04:49,000
+This week's Howlin' with Wolf is from Roxy, who tagged that pretending part in an Instagram story. They write,
+
+32
+00:04:49,000 --> 00:05:01,000
+Greetings listeners of 694.2 PTBP in whatever you call the present, from about 25 episodes, I mean a few days in the past.
+
+33
+00:05:01,000 --> 00:05:13,000
+The opportunity arose to send this message to the future via radio broadcast technology operated by the exceptionally smooth radio presenter Wolf the dog.
+
+34
+00:05:13,000 --> 00:05:22,000
+So I decided to let my beloved Andy know that his cute little butt is the cutest in the whole universe. I mean universes.
+
+35
+00:05:22,000 --> 00:05:33,000
+Also, my contention uniform just arrived from the future, although I'm not sure what the meaning behind the pink square with skeletons dressed as the village people actually is.
+
+36
+00:05:34,000 --> 00:05:44,000
+Agent Roxy from the European Bureau of Chronologics in Athens, Greece. Oh Roxy, you know how to butter up a wolf's ears and soul, that's for sure.
+
+37
+00:05:44,000 --> 00:05:55,000
+But I will not accept you talking of others' meat buns on this here show. The only thick ham hawks I want people admiring are mine.
+
+38
+00:05:55,000 --> 00:06:04,000
+Damn, now I want to eat some hawks of ham. Time to fuse some clues. The truths get me loose like an amuse-bouche, it's the news.
+
+39
+00:06:04,000 --> 00:06:16,000
+Last time, Drew Carey, Pages, Andrews reunited with John before taking off on the four-wheeler with Agent Trent Catt and the odd-looking Broken Tubed Radio,
+
+40
+00:06:16,000 --> 00:06:25,000
+heading to Clinkers to find the hidden underground location of Gary, Harry, Mildred, Clara, and Drew's body.
+
+41
+00:06:25,000 --> 00:06:37,000
+The wall of water fell, crashing into and filling back up Bean's pond. Clark swam to safety, and John was lifted out of the water by a chanting and love.
+
+42
+00:06:37,000 --> 00:06:42,000
+The two of them then walked across the water to Clark on the shore.
+
+43
+00:06:42,000 --> 00:06:56,000
+Down in his secret underground laboratory, Keith Beans found the super unnaturally fucked up Tilly B. Mitchell behind the blast door, screeching and roaring like some sort of wild creature.
+
+44
+00:06:56,000 --> 00:07:08,000
+Falling back, he stumbled upon a hidden compartment in the uneven concrete floor, revealing an odd-looking old revolver with glass tubes and a green light lit.
+
+45
+00:07:08,000 --> 00:07:20,000
+Looking for other buried treasure, Keith found another small metal sphere, or ball, if you will. I'm honestly so shocked he didn't just grab this ball, y'all. I was so proud.
+
+46
+00:07:20,000 --> 00:07:31,000
+But then, this dumb motherfucker starts chanting the spell he remembered was on the paper that fell out of Mildred Mitchell's pocket when he straight up NFL blitzed this old-ass lady.
+
+47
+00:07:31,000 --> 00:07:41,000
+So Keith's body split open, discarding his metal bits before his human anatomy reformed inside and zipped itself back up.
+
+48
+00:07:41,000 --> 00:07:59,000
+And with that, Keith Vigna Beans lost his goddamn mind. He walked over to the strange, old-timey revolver, found a massive, dusty cartridge in the cylinder, and pulled the trigger, triggering a blinding flash of light.
+
+49
+00:07:59,000 --> 00:08:19,000
+Keith Beans came to the Old West. Contention in 1880-something. He saw the original Silas Cole walking down the dusty path towards town, chased him down, snapped his neck, and took his wrongful place as the founder of our beautiful, quiet little town here.
+
+50
+00:08:19,000 --> 00:08:31,000
+If you love contention, then this is your commission. The admission of our religion to all that we can condition, which consists of listening to Cuz You With No Backbone.
+
+51
+00:08:49,000 --> 00:09:07,000
+Alright, do you guys have anything interesting to say, or should we dive right into episode 88 of this podcast here that we make together?
+
+52
+00:09:07,000 --> 00:09:12,000
+If you put zeroes between the eights, it says boobs.
+
+53
+00:09:12,000 --> 00:09:18,000
+The wall of water and fish previously surrounding Beansburg.
+
+54
+00:09:18,000 --> 00:09:28,000
+You are just going to blast past Joe's amazing revelation like that, Zach?
+
+55
+00:09:28,000 --> 00:09:30,000
+I have never thought about it.
+
+56
+00:09:30,000 --> 00:09:33,000
+If you put zeroes in between it...
+
+57
+00:09:33,000 --> 00:09:37,000
+Hang on, let me pull up my calculator so I can show you.
+
+58
+00:09:37,000 --> 00:09:39,000
+Oh, he did it.
+
+59
+00:09:39,000 --> 00:09:49,000
+Well guys, if you guys don't, I'm gonna leave real quick, but I'll be back in five minutes?
+
+60
+00:09:49,000 --> 00:09:52,000
+Okay.
+
+61
+00:09:52,000 --> 00:09:55,000
+Is that because you were so turned on by the number boob?
+
+62
+00:09:55,000 --> 00:10:05,000
+If you think that's enough time to get your little dick done.
+
+63
+00:10:05,000 --> 00:10:13,000
+It's so small that it takes forever. This is great. This is grade A content.
+
+64
+00:10:13,000 --> 00:10:24,000
+I've idly wondered almost every time if showing you guys my dick would be a crime. Like, literally.
+
+65
+00:10:24,000 --> 00:10:29,000
+I think probably, which is why I haven't done it, but I'm surprised Luke has it.
+
+66
+00:10:29,000 --> 00:10:37,000
+Yeah, it's pretty wild. We're Luke-less right now, at the top of this episode here. Nope, we're not Luke-less.
+
+67
+00:10:37,000 --> 00:10:42,000
+I just don't want that I think about showing you guys my dick every episode part in...
+
+68
+00:10:42,000 --> 00:10:45,000
+Oh, too bad.
+
+69
+00:10:45,000 --> 00:10:48,000
+Okay.
+
+70
+00:10:48,000 --> 00:10:56,000
+I thought you were saying that we shouldn't say that Luke's not here, that way we could all react to him showing us his dick right now.
+
+71
+00:10:56,000 --> 00:10:58,000
+Wow!
+
+72
+00:10:58,000 --> 00:11:01,000
+It's weird.
+
+73
+00:11:01,000 --> 00:11:10,000
+The wall of water and fish previously surrounding Bean's pond has now filled up the entirety of the previously dehydrated bowl.
+
+74
+00:11:10,000 --> 00:11:21,000
+There's plenty of this water teeming with fish left over, and now the streets are gushing with a fair amount flowing down into the storm drains.
+
+75
+00:11:21,000 --> 00:11:25,000
+Clark, you were able to swim to the shallow shore safely.
+
+76
+00:11:25,000 --> 00:11:36,000
+John, your partially metal skeleton weighing you down combined with a failed swim check led to your needing to be saved by the very woman you claim to not trust at all.
+
+77
+00:11:36,000 --> 00:11:46,000
+Ann Love pulled you up out of the water, chanting, and she lifted you on top of the surface where the two of you walked, Jesus-style, over to Clark.
+
+78
+00:11:46,000 --> 00:11:53,000
+I need you both to roll Sanity for witnessing this unnatural ability.
+
+79
+00:11:53,000 --> 00:11:56,000
+Fail. 45 on a 20.
+
+80
+00:11:56,000 --> 00:11:59,000
+I also fail a 48 on a 9.
+
+81
+00:11:59,000 --> 00:12:01,000
+Go ahead and lose 1d4 Sanity.
+
+82
+00:12:01,000 --> 00:12:03,000
+Oh no. A 1.
+
+83
+00:12:03,000 --> 00:12:05,000
+Oh, nice.
+
+84
+00:12:05,000 --> 00:12:07,000
+Is it a 1 of those 1 plus?
+
+85
+00:12:07,000 --> 00:12:15,000
+It was not a 1d4 plus 1, because if you would have succeeded, you would have only lost a 0, and you would have gotten to roll another check that I would have asked for.
+
+86
+00:12:15,000 --> 00:12:23,000
+But since neither one of you did succeed, you both just lose 1d4, which for Clark was 1 Sanity, for John is 2 Sanity.
+
+87
+00:12:23,000 --> 00:12:27,000
+So I'm at 16. I was wrong. I was at 18, not 20.
+
+88
+00:12:27,000 --> 00:12:32,000
+Oh, even worse. Or better. Worse. Better? 1 or 2?
+
+89
+00:12:33,000 --> 00:12:35,000
+I never know.
+
+90
+00:12:35,000 --> 00:12:37,000
+Can I see 3 again?
+
+91
+00:12:37,000 --> 00:12:43,000
+And Anne kind of walks you over to- that was so stupid. Anne walks you over to-
+
+92
+00:12:43,000 --> 00:12:48,000
+I just had an eye appointment the other day, so it's on my mind.
+
+93
+00:12:48,000 --> 00:13:04,000
+And she looks into both of your eyes. She's just cackling with laughter as she realizes how freaked the fuck out both of you are that-
+
+94
+00:13:04,000 --> 00:13:08,000
+Yeah, yeah, yeah. I know, right? I can do that.
+
+95
+00:13:08,000 --> 00:13:11,000
+You made him walk on water. He was walking on water.
+
+96
+00:13:11,000 --> 00:13:17,000
+I mean, it was mostly me, but, you know, I can let him, if you will. And I will.
+
+97
+00:13:17,000 --> 00:13:19,000
+Can you show us how to let people?
+
+98
+00:13:19,000 --> 00:13:20,000
+Sure.
+
+99
+00:13:20,000 --> 00:13:23,000
+Oh, shit. Do you guys want to get into this?
+
+100
+00:13:23,000 --> 00:13:26,000
+Yeah. Yeah, sure.
+
+101
+00:13:26,000 --> 00:13:30,000
+If it allows us to walk on water, that seems helpful.
+
+102
+00:13:30,000 --> 00:13:37,000
+Yeah, I mean, no. This spell is good for anything. You can walk on water, you can put people into walls. Like, you can do all sorts of stuff. It's so dope.
+
+103
+00:13:37,000 --> 00:13:39,000
+Could you put yourself on the other side of a door?
+
+104
+00:13:39,000 --> 00:13:44,000
+Clark's heart sinks when she mentions the put people into walls thing.
+
+105
+00:13:45,000 --> 00:13:46,000
+His face falls.
+
+106
+00:13:46,000 --> 00:13:48,000
+Clark did what?
+
+107
+00:13:48,000 --> 00:13:50,000
+I don't want to learn it. I don't want to learn it.
+
+108
+00:13:50,000 --> 00:13:54,000
+Yeah, I guess you could walk through doors, for sure.
+
+109
+00:13:54,000 --> 00:13:56,000
+What's it called?
+
+110
+00:13:56,000 --> 00:14:06,000
+For the first time, you probably won't be able to just say it. You'll need to, like, read it off a paper. So, do any of you have- Oh, everything's all wet.
+
+111
+00:14:06,000 --> 00:14:11,000
+I guess we'd need to find something to write it on first off.
+
+112
+00:14:11,000 --> 00:14:13,000
+I'd like to search the area for-
+
+113
+00:14:13,000 --> 00:14:15,000
+Yeah, I think that's a good call.
+
+114
+00:14:15,000 --> 00:14:16,000
+Ready, utensils?
+
+115
+00:14:16,000 --> 00:14:18,000
+Go ahead and roll search.
+
+116
+00:14:18,000 --> 00:14:21,000
+I got a 73 on a 50.
+
+117
+00:14:21,000 --> 00:14:31,000
+Well, I mean, just like I did- Okay, so, we can figure this out later, but why do you want to be able to walk through a door? Is the book on the other side of a door?
+
+118
+00:14:31,000 --> 00:14:33,000
+Maybe, actually.
+
+119
+00:14:33,000 --> 00:14:37,000
+Wait, for real? Do you know where the book is?
+
+120
+00:14:37,000 --> 00:14:45,000
+Hold on, man. I've got to take this.
+
+121
+00:14:45,000 --> 00:14:53,000
+He's just going to- He didn't take the call. He just told me he's going to take it. Now he's just texting?
+
+122
+00:14:53,000 --> 00:14:55,000
+Continue.
+
+123
+00:14:55,000 --> 00:15:00,000
+We're talking about the book that you killed my parents for, is that right?
+
+124
+00:15:00,000 --> 00:15:01,000
+Yeah.
+
+125
+00:15:01,000 --> 00:15:04,000
+What made you decide to come and get it now? They've been dead for years.
+
+126
+00:15:04,000 --> 00:15:16,000
+Well, it's kind of the end, if you will, if we don't solve it. And I personally, and Maggie as well, of course, really thinks that the book could solve it.
+
+127
+00:15:16,000 --> 00:15:22,000
+And if not, we're banking on this other guy to take care of things if he shows up.
+
+128
+00:15:22,000 --> 00:15:23,000
+Who's that?
+
+129
+00:15:23,000 --> 00:15:27,000
+The Overseer. It'd be really cool if the Overseer showed up, but-
+
+130
+00:15:27,000 --> 00:15:31,000
+I elbow Clark really hard in the ribs.
+
+131
+00:15:31,000 --> 00:15:39,000
+Oh, yeah. Hey, we don't know who that would be, right?
+
+132
+00:15:39,000 --> 00:15:41,000
+Right. That's right.
+
+133
+00:15:41,000 --> 00:15:48,000
+Because we don't want to just go blabbing out. What is the Overseer supposed to do?
+
+134
+00:15:48,000 --> 00:15:55,000
+It's not really known too much, but basically like the revelation of the Overseer was that Jim was going to die.
+
+135
+00:15:55,000 --> 00:16:01,000
+And now that he's dead, it kind of seems like it is only through death that he may live.
+
+136
+00:16:01,000 --> 00:16:09,000
+And so this guy is this like rogue dude with, he's got some sort of light in his mouth or something like that.
+
+137
+00:16:09,000 --> 00:16:19,000
+And I don't know how, I don't know how, but when you look at it, you could just feel the power, right?
+
+138
+00:16:19,000 --> 00:16:23,000
+And it's this idea that like he started the circle of knowledge.
+
+139
+00:16:23,000 --> 00:16:27,000
+And so therefore at the end, you know, he'll be able to come back and save us.
+
+140
+00:16:27,000 --> 00:16:29,000
+And you haven't seen him.
+
+141
+00:16:29,000 --> 00:16:32,000
+No, God, no. Wait, have you?
+
+142
+00:16:32,000 --> 00:16:36,000
+No. Clark looks at his feet.
+
+143
+00:16:36,000 --> 00:16:42,000
+Roll. Persuade.
+
+144
+00:16:42,000 --> 00:16:48,000
+I pass. Yes, I pass. A 40 on a 40. That passes, right? You can meet it?
+
+145
+00:16:48,000 --> 00:16:51,000
+It does indeed. It was a contested roll.
+
+146
+00:16:51,000 --> 00:16:53,000
+Oh, so I kicked ass, right?
+
+147
+00:16:53,000 --> 00:16:59,000
+Oh, okay. Yeah, no, none of us have seen it. I mean, that would be wild.
+
+148
+00:16:59,000 --> 00:17:10,000
+And, you know, there's this overseer thing. There's the beans thing on the door.
+
+149
+00:17:10,000 --> 00:17:19,000
+You're not aware of like a third thing, like a third prophecy or thing and a third special thing for another special person who might.
+
+150
+00:17:19,000 --> 00:17:24,000
+Nope. Probably no other special people.
+
+151
+00:17:24,000 --> 00:17:27,000
+Right, right. Probably not. Yeah.
+
+152
+00:17:27,000 --> 00:17:28,000
+Who are you thinking of?
+
+153
+00:17:28,000 --> 00:17:31,000
+No, nobody. Nobody in particular.
+
+154
+00:17:31,000 --> 00:17:33,000
+Like me?
+
+155
+00:17:33,000 --> 00:17:39,000
+I guess it could be anybody.
+
+156
+00:17:39,000 --> 00:17:44,000
+But yeah, if you guys need to get through a door to find the book, then we can make that happen.
+
+157
+00:17:44,000 --> 00:17:47,000
+Oh, yeah, our friend Keith had the book.
+
+158
+00:17:47,000 --> 00:17:51,000
+Roll Persuade, because add a negative 20, please.
+
+159
+00:17:51,000 --> 00:17:55,000
+You don't need to apply the negative modifier.
+
+160
+00:17:55,000 --> 00:17:57,000
+Because I already failed.
+
+161
+00:17:57,000 --> 00:18:00,000
+Why are you okay?
+
+162
+00:18:00,000 --> 00:18:03,000
+He didn't have the book. I lied.
+
+163
+00:18:03,000 --> 00:18:06,000
+Did you just want me to take you to a...
+
+164
+00:18:06,000 --> 00:18:12,000
+Yeah, if you could magic us through the door, we really miss our friend Keith, and he would really come in handy at calm, comfy campgrounds.
+
+165
+00:18:12,000 --> 00:18:16,000
+The little fellow who went through with the guy with the helmet on his head?
+
+166
+00:18:16,000 --> 00:18:19,000
+I know. I know he doesn't look like much, but he's scrappy.
+
+167
+00:18:19,000 --> 00:18:24,000
+Not to mention whatever's down there seemed important to that guy and might help us in our journey.
+
+168
+00:18:24,000 --> 00:18:28,000
+That guy with the helmet would almost certainly know where the book is.
+
+169
+00:18:28,000 --> 00:18:29,000
+How?
+
+170
+00:18:29,000 --> 00:18:32,000
+He's just really familiar with all of this shit.
+
+171
+00:18:32,000 --> 00:18:34,000
+Kind of like you. He just knows the whole hell.
+
+172
+00:18:34,000 --> 00:18:38,000
+You guys should probably have a beer or something, maybe, and talk about this all.
+
+173
+00:18:38,000 --> 00:18:41,000
+He's real dangerous, too. He was the one doing all the fish magic.
+
+174
+00:18:41,000 --> 00:18:48,000
+And he wants to kill a bunch of people to go back in time and stop all of this, which might put a kibosh on whatever you're working on.
+
+175
+00:18:48,000 --> 00:18:53,000
+He was trying to go back in time to do what?
+
+176
+00:18:53,000 --> 00:18:57,000
+I don't rightly know. Become Silas Cole or something?
+
+177
+00:18:57,000 --> 00:19:00,000
+Huh. Hey, John, right?
+
+178
+00:19:00,000 --> 00:19:01,000
+Ann.
+
+179
+00:19:01,000 --> 00:19:03,000
+Yeah, did you use the radio?
+
+180
+00:19:03,000 --> 00:19:04,000
+Today.
+
+181
+00:19:04,000 --> 00:19:06,000
+Ever?
+
+182
+00:19:06,000 --> 00:19:08,000
+Ann, I don't rightly remember.
+
+183
+00:19:13,000 --> 00:19:15,000
+I've been a lot of things in the past few days.
+
+184
+00:19:15,000 --> 00:19:17,000
+What do you mean by that?
+
+185
+00:19:17,000 --> 00:19:21,000
+He just kind of points at his Kevin face.
+
+186
+00:19:21,000 --> 00:19:24,000
+Right, right. So you weren't always...
+
+187
+00:19:24,000 --> 00:19:25,000
+No, ma'am.
+
+188
+00:19:25,000 --> 00:19:29,000
+Okay. Quick question, then. Who the fuck are you?
+
+189
+00:19:29,000 --> 00:19:33,000
+And why were you acting like you were my partner? I...
+
+190
+00:19:33,000 --> 00:19:35,000
+Ann, I'm your son.
+
+191
+00:19:40,000 --> 00:19:43,000
+I don't see how that would remotely be possible.
+
+192
+00:19:44,000 --> 00:19:49,000
+Well, it was kind of a big leap, but I am Kevin's son.
+
+193
+00:19:50,000 --> 00:19:54,000
+Wait, so you're not the Kevin that I knew at all.
+
+194
+00:19:54,000 --> 00:19:57,000
+You're just the body, but you didn't use the radio?
+
+195
+00:19:57,000 --> 00:20:00,000
+Oh, no. I'm ball.
+
+196
+00:20:00,000 --> 00:20:02,000
+It's this whole other deal.
+
+197
+00:20:03,000 --> 00:20:06,000
+Clark's eyes are wide, staring at John.
+
+198
+00:20:06,000 --> 00:20:10,000
+Yeah, this is... I forgot I was deceiving you.
+
+199
+00:20:12,000 --> 00:20:14,000
+Role-playing, baby.
+
+200
+00:20:15,000 --> 00:20:18,000
+And by your ball, you mean...
+
+201
+00:20:18,000 --> 00:20:21,000
+My conscience is contained in a small metal sphere...
+
+202
+00:20:21,000 --> 00:20:23,000
+Yeah, a vector.
+
+203
+00:20:23,000 --> 00:20:25,000
+...which rips out a vector.
+
+204
+00:20:25,000 --> 00:20:28,000
+Well, you are the ve... So you're one of...
+
+205
+00:20:28,000 --> 00:20:31,000
+Are you telling me there is a special thing for me?
+
+206
+00:20:33,000 --> 00:20:36,000
+Yeah, I guess there is.
+
+207
+00:20:36,000 --> 00:20:39,000
+Clark's hand is going to his pistol. Does she look scary?
+
+208
+00:20:39,000 --> 00:20:41,000
+Roll humant.
+
+209
+00:20:44,000 --> 00:20:47,000
+I fail. A 46 on a 30.
+
+210
+00:20:48,000 --> 00:20:51,000
+She looks the same as she did 30 seconds ago.
+
+211
+00:20:51,000 --> 00:20:53,000
+She looks the exact same.
+
+212
+00:20:54,000 --> 00:20:58,000
+She's not, like, making a move of aggression of any kind.
+
+213
+00:20:58,000 --> 00:21:01,000
+Okay. Well, that's wild.
+
+214
+00:21:01,000 --> 00:21:03,000
+Okay, what do you remember?
+
+215
+00:21:03,000 --> 00:21:05,000
+Sorry, I've never talked to one.
+
+216
+00:21:05,000 --> 00:21:07,000
+Do you mean about, like, the process or...
+
+217
+00:21:07,000 --> 00:21:10,000
+Well, yeah, like, do you have human con...
+
+218
+00:21:10,000 --> 00:21:12,000
+Like, do you think you're human?
+
+219
+00:21:13,000 --> 00:21:15,000
+And she looks at Clark and she goes,
+
+220
+00:21:15,000 --> 00:21:18,000
+Oh, my God, he thinks he's human.
+
+221
+00:21:19,000 --> 00:21:21,000
+John puts his hand on his gun.
+
+222
+00:21:21,000 --> 00:21:23,000
+He's human. Look at him.
+
+223
+00:21:23,000 --> 00:21:25,000
+He's been with us the whole way along.
+
+224
+00:21:25,000 --> 00:21:27,000
+He just looks a little different now, that's all.
+
+225
+00:21:27,000 --> 00:21:30,000
+Wait, so you're, like, all done up, all metal-like, right?
+
+226
+00:21:30,000 --> 00:21:32,000
+Like, I can kind of see...
+
+227
+00:21:32,000 --> 00:21:35,000
+Is that... Was that already in, Kevin?
+
+228
+00:21:35,000 --> 00:21:37,000
+Or is that part of you?
+
+229
+00:21:37,000 --> 00:21:39,000
+Does your skeleton grow out?
+
+230
+00:21:39,000 --> 00:21:41,000
+Like, does the ball make a skeleton for you?
+
+231
+00:21:41,000 --> 00:21:42,000
+It's all part of me.
+
+232
+00:21:42,000 --> 00:21:44,000
+Calm down. Calm down.
+
+233
+00:21:44,000 --> 00:21:47,000
+You look a little upset. I'm not upset.
+
+234
+00:21:47,000 --> 00:21:49,000
+I'm very curious.
+
+235
+00:21:49,000 --> 00:21:51,000
+Curious as hell. You are special.
+
+236
+00:21:51,000 --> 00:21:53,000
+You're extremely special. You wanted to be special.
+
+237
+00:21:53,000 --> 00:21:54,000
+You're damn special.
+
+238
+00:21:54,000 --> 00:21:56,000
+You said you never talked to him,
+
+239
+00:21:56,000 --> 00:21:58,000
+but that presupposes that you've run into him before.
+
+240
+00:21:58,000 --> 00:21:59,000
+What do you know about him?
+
+241
+00:21:59,000 --> 00:22:01,000
+Yeah, I was sent here to take care of him.
+
+242
+00:22:01,000 --> 00:22:03,000
+That's why me and Kevin were...
+
+243
+00:22:03,000 --> 00:22:06,000
+And Kyle were sent here by Jim
+
+244
+00:22:06,000 --> 00:22:09,000
+to get rid of these balls.
+
+245
+00:22:09,000 --> 00:22:12,000
+He didn't tell you why or what they were or what they could do?
+
+246
+00:22:12,000 --> 00:22:16,000
+They were being put in babies?
+
+247
+00:22:16,000 --> 00:22:19,000
+So there was this place called Cole's Orphanage
+
+248
+00:22:19,000 --> 00:22:22,000
+that we had to completely get rid of, wipe out,
+
+249
+00:22:22,000 --> 00:22:26,000
+take off any trace that had ever existed, anything like that,
+
+250
+00:22:26,000 --> 00:22:28,000
+because, I mean, it was...
+
+251
+00:22:28,000 --> 00:22:30,000
+It was a big issue, right?
+
+252
+00:22:30,000 --> 00:22:32,000
+Because these people, they were adopting children,
+
+253
+00:22:32,000 --> 00:22:34,000
+but they weren't fucking human.
+
+254
+00:22:34,000 --> 00:22:38,000
+And that's what we were trying to stop from happening, right?
+
+255
+00:22:38,000 --> 00:22:40,000
+And so we were just trying to get rid of them,
+
+256
+00:22:40,000 --> 00:22:44,000
+but the only thing that Jim said was, don't touch them.
+
+257
+00:22:44,000 --> 00:22:46,000
+So we didn't.
+
+258
+00:22:46,000 --> 00:22:48,000
+So in your experience, how did you take care of them
+
+259
+00:22:48,000 --> 00:22:50,000
+if you couldn't touch them?
+
+260
+00:22:50,000 --> 00:22:54,000
+There's a certain way that I can handle things.
+
+261
+00:22:54,000 --> 00:22:57,000
+It doesn't involve a bag of any kind, right?
+
+262
+00:22:57,000 --> 00:22:59,000
+A bag? What kind of bag? Why'd you ask that?
+
+263
+00:22:59,000 --> 00:23:02,000
+Just a thing that we've heard might work, but yeah.
+
+264
+00:23:02,000 --> 00:23:05,000
+You, uh, what, do you use your magic?
+
+265
+00:23:05,000 --> 00:23:06,000
+Yeah, in a way.
+
+266
+00:23:06,000 --> 00:23:09,000
+So you were just out there killing babies.
+
+267
+00:23:09,000 --> 00:23:11,000
+What?
+
+268
+00:23:13,000 --> 00:23:17,000
+Yeah, I guess me and your dad were out there killing babies,
+
+269
+00:23:17,000 --> 00:23:19,000
+if you really want to think about it,
+
+270
+00:23:19,000 --> 00:23:22,000
+whether or not he's actually your dad, but...
+
+271
+00:23:22,000 --> 00:23:23,000
+Holy shit.
+
+272
+00:23:23,000 --> 00:23:25,000
+They weren't babies, though.
+
+273
+00:23:25,000 --> 00:23:26,000
+Yes, they were.
+
+274
+00:23:26,000 --> 00:23:29,000
+No offense, no offense. It's fine, it's fine.
+
+275
+00:23:29,000 --> 00:23:31,000
+I'm clearly impressed,
+
+276
+00:23:31,000 --> 00:23:34,000
+but they needed to be taken care of at the time.
+
+277
+00:23:34,000 --> 00:23:36,000
+And I know one thing.
+
+278
+00:23:38,000 --> 00:23:41,000
+I'm more human than you will ever be.
+
+279
+00:23:48,000 --> 00:23:49,000
+Okay.
+
+280
+00:23:49,000 --> 00:23:51,000
+Well, shall we go?
+
+281
+00:23:51,000 --> 00:23:53,000
+Let's go to the church, Clark.
+
+282
+00:23:53,000 --> 00:23:56,000
+Yeah, and I don't know about this anymore.
+
+283
+00:23:56,000 --> 00:23:58,000
+Her eyes narrow.
+
+284
+00:23:59,000 --> 00:24:00,000
+Huh.
+
+285
+00:24:00,000 --> 00:24:01,000
+Okay.
+
+286
+00:24:02,000 --> 00:24:04,000
+What are you gonna do about it?
+
+287
+00:24:04,000 --> 00:24:05,000
+We don't know, man.
+
+288
+00:24:05,000 --> 00:24:07,000
+What's your end goal, then?
+
+289
+00:24:07,000 --> 00:24:08,000
+What's your end goal?
+
+290
+00:24:08,000 --> 00:24:10,000
+If we went and got that book,
+
+291
+00:24:10,000 --> 00:24:13,000
+ended up at Calm Comfy Campground, what happens?
+
+292
+00:24:13,000 --> 00:24:15,000
+Okay, well, like, best case...
+
+293
+00:24:15,000 --> 00:24:18,000
+Like, best case scenario, based on what Maggie said,
+
+294
+00:24:18,000 --> 00:24:20,000
+if we could actually get the book,
+
+295
+00:24:20,000 --> 00:24:25,000
+then we would be able to either call for the Overseer,
+
+296
+00:24:25,000 --> 00:24:28,000
+because we don't know whether he's actually gonna show up or not, you know?
+
+297
+00:24:28,000 --> 00:24:31,000
+Like, it's not a determined thing ahead of time,
+
+298
+00:24:31,000 --> 00:24:36,000
+but she thinks that we could summon him
+
+299
+00:24:36,000 --> 00:24:41,000
+in order to save the world.
+
+300
+00:24:41,000 --> 00:24:45,000
+I'm sorry, but doesn't the creator of your organization
+
+301
+00:24:45,000 --> 00:24:47,000
+showing up at the end of all things
+
+302
+00:24:47,000 --> 00:24:49,000
+to, like, tie it all up in a neat little bow
+
+303
+00:24:49,000 --> 00:24:52,000
+just seem a little too fairytale?
+
+304
+00:24:54,000 --> 00:24:57,000
+I don't think that he's who you think he is
+
+305
+00:24:57,000 --> 00:24:59,000
+if you think it's a fairytale.
+
+306
+00:25:03,000 --> 00:25:07,000
+No, he does not strike me as a Prince Charming.
+
+307
+00:25:07,000 --> 00:25:08,000
+No.
+
+308
+00:25:08,000 --> 00:25:10,000
+No, King, perhaps, but not a...
+
+309
+00:25:10,000 --> 00:25:12,000
+No, not a good one.
+
+310
+00:25:12,000 --> 00:25:14,000
+I mean, most of those fairytales
+
+311
+00:25:14,000 --> 00:25:16,000
+aren't really about good people either,
+
+312
+00:25:16,000 --> 00:25:19,000
+but don't you think it's still pretty convenient for yourself
+
+313
+00:25:19,000 --> 00:25:22,000
+that you'd just be able to summon this guy
+
+314
+00:25:22,000 --> 00:25:23,000
+and he'd end it for you?
+
+315
+00:25:23,000 --> 00:25:25,000
+Yeah.
+
+316
+00:25:25,000 --> 00:25:26,000
+What do you want to do?
+
+317
+00:25:26,000 --> 00:25:28,000
+I've been talking a lot. What is your guys' plan?
+
+318
+00:25:28,000 --> 00:25:31,000
+If I wasn't here, what would you guys have done,
+
+319
+00:25:31,000 --> 00:25:33,000
+besides, you know, your friend dying?
+
+320
+00:25:33,000 --> 00:25:36,000
+We'd probably wander around
+
+321
+00:25:36,000 --> 00:25:38,000
+trying to gather more information
+
+322
+00:25:38,000 --> 00:25:41,000
+until it was too late and everything exploded.
+
+323
+00:25:46,000 --> 00:25:47,000
+That's...
+
+324
+00:25:47,000 --> 00:25:48,000
+That's...
+
+325
+00:25:56,000 --> 00:25:59,000
+You're more than welcome to do that if you want to,
+
+326
+00:25:59,000 --> 00:26:03,000
+but based on our whole conversation that we've been having here,
+
+327
+00:26:03,000 --> 00:26:06,000
+it seems like you want to get down into the bottom of the pond
+
+328
+00:26:06,000 --> 00:26:08,000
+through that door to meet up with your friend.
+
+329
+00:26:08,000 --> 00:26:11,000
+And if that's right, if you take me and show me the book,
+
+330
+00:26:11,000 --> 00:26:14,000
+because I saw that weird face you made earlier,
+
+331
+00:26:14,000 --> 00:26:16,000
+I think you might have an idea of where it is.
+
+332
+00:26:16,000 --> 00:26:20,000
+If you can show me the book, I will get you through the door.
+
+333
+00:26:22,000 --> 00:26:24,000
+Can I have a moment to speak with my associate?
+
+334
+00:26:24,000 --> 00:26:25,000
+Sure.
+
+335
+00:26:25,000 --> 00:26:27,000
+Clark, she walks away with her back turned toward you.
+
+336
+00:26:27,000 --> 00:26:30,000
+John, do you know where the book is that she's talking about?
+
+337
+00:26:30,000 --> 00:26:32,000
+I don't know where the book is.
+
+338
+00:26:32,000 --> 00:26:33,000
+She thinks it's at my house,
+
+339
+00:26:33,000 --> 00:26:35,000
+but I mean, I've lived there for my whole life.
+
+340
+00:26:35,000 --> 00:26:37,000
+I've never seen a book there that...
+
+341
+00:26:37,000 --> 00:26:40,000
+I thought I had told you.
+
+342
+00:26:40,000 --> 00:26:43,000
+Maybe I had my mind as a jumble,
+
+343
+00:26:43,000 --> 00:26:49,000
+but yeah, I had a vision of Kacelle going to your parents' house,
+
+344
+00:26:49,000 --> 00:26:55,000
+and Kevin found the book and didn't tell the others.
+
+345
+00:26:55,000 --> 00:26:57,000
+I don't know what he did with it.
+
+346
+00:26:57,000 --> 00:26:59,000
+She did tell us that Jim tried to make his own book
+
+347
+00:26:59,000 --> 00:27:02,000
+when he couldn't find the one your parents had.
+
+348
+00:27:02,000 --> 00:27:03,000
+Right.
+
+349
+00:27:03,000 --> 00:27:06,000
+So then, yeah, her guess is as good as ours.
+
+350
+00:27:06,000 --> 00:27:07,000
+It could be at my house.
+
+351
+00:27:07,000 --> 00:27:09,000
+I didn't ever see a book up there.
+
+352
+00:27:09,000 --> 00:27:12,000
+I mean, I wasn't lying when I was telling her
+
+353
+00:27:12,000 --> 00:27:14,000
+that Adam Kane might be the person who knows the most
+
+354
+00:27:14,000 --> 00:27:16,000
+about where that book might be.
+
+355
+00:27:16,000 --> 00:27:20,000
+He seems to have been amassing a lot of supernatural bullshit
+
+356
+00:27:20,000 --> 00:27:22,000
+underneath our noses this whole time.
+
+357
+00:27:22,000 --> 00:27:25,000
+He certainly mastered the object, it seems like.
+
+358
+00:27:25,000 --> 00:27:27,000
+He knew about them and how to work them.
+
+359
+00:27:27,000 --> 00:27:30,000
+Yeah, I mean, when I saw that squirrel with the radio,
+
+360
+00:27:30,000 --> 00:27:31,000
+I was like, I don't...
+
+361
+00:27:31,000 --> 00:27:33,000
+Or the cat, rather.
+
+362
+00:27:33,000 --> 00:27:37,000
+Squirrels and cats.
+
+363
+00:27:37,000 --> 00:27:40,000
+I was like, I don't even remember what that thing does.
+
+364
+00:27:40,000 --> 00:27:45,000
+So kudos to Adam Kane.
+
+365
+00:27:45,000 --> 00:27:47,000
+The radio was the one that switched bodies.
+
+366
+00:27:47,000 --> 00:27:51,000
+I wasn't sure what the helmet did until now I've got a hunch
+
+367
+00:27:51,000 --> 00:27:53,000
+after seeing the things we did.
+
+368
+00:27:53,000 --> 00:27:54,000
+What do you think the helmet does?
+
+369
+00:27:54,000 --> 00:27:55,000
+It makes us see things.
+
+370
+00:27:55,000 --> 00:27:56,000
+It's gotta be.
+
+371
+00:27:56,000 --> 00:27:59,000
+I tell you, moments ago, I was bashing in the windows
+
+372
+00:27:59,000 --> 00:28:02,000
+of the van that was on fire, and then it disappeared.
+
+373
+00:28:02,000 --> 00:28:03,000
+It wasn't there.
+
+374
+00:28:03,000 --> 00:28:07,000
+Hey, hey, you know, you just gotta let that go.
+
+375
+00:28:07,000 --> 00:28:08,000
+I just...
+
+376
+00:28:08,000 --> 00:28:09,000
+So does Adam.
+
+377
+00:28:09,000 --> 00:28:12,000
+We're going to say that to him, and if he doesn't,
+
+378
+00:28:12,000 --> 00:28:16,000
+then we'll move on from there.
+
+379
+00:28:16,000 --> 00:28:20,000
+Get over it, Adam.
+
+380
+00:28:20,000 --> 00:28:23,000
+I don't know what to do, John.
+
+381
+00:28:23,000 --> 00:28:25,000
+We could maybe find the book with her
+
+382
+00:28:25,000 --> 00:28:29,000
+and then jump her and take it.
+
+383
+00:28:29,000 --> 00:28:30,000
+I mean, what if she's right?
+
+384
+00:28:30,000 --> 00:28:31,000
+What if the whole thing is right?
+
+385
+00:28:31,000 --> 00:28:34,000
+What if using the book that she finds calls what we think
+
+386
+00:28:34,000 --> 00:28:38,000
+is maybe hold me down, and he's willing to help us
+
+387
+00:28:38,000 --> 00:28:40,000
+because it's me?
+
+388
+00:28:40,000 --> 00:28:42,000
+Old G's been a little weird around us, though.
+
+389
+00:28:42,000 --> 00:28:43,000
+I mean, not exactly.
+
+390
+00:28:43,000 --> 00:28:48,000
+Not forthcoming, for sure, but he does seem to be helping.
+
+391
+00:28:48,000 --> 00:28:50,000
+Oh, shit.
+
+392
+00:28:50,000 --> 00:28:55,000
+Okay, Clark, what if you write a letter to yourself
+
+393
+00:28:55,000 --> 00:28:58,000
+to open in the future saying like,
+
+394
+00:28:58,000 --> 00:29:01,000
+hey, come back right now to this moment?
+
+395
+00:29:01,000 --> 00:29:02,000
+Yeah.
+
+396
+00:29:02,000 --> 00:29:03,000
+That'd be cool.
+
+397
+00:29:03,000 --> 00:29:04,000
+Yeah.
+
+398
+00:29:04,000 --> 00:29:06,000
+We were looking for paper moments ago, though,
+
+399
+00:29:06,000 --> 00:29:08,000
+and we didn't find any.
+
+400
+00:29:08,000 --> 00:29:10,000
+We'll really have to keep an eye on now.
+
+401
+00:29:10,000 --> 00:29:14,000
+Also, things got real tense with Ann,
+
+402
+00:29:14,000 --> 00:29:17,000
+and she's probably not going to teach us magic anymore.
+
+403
+00:29:17,000 --> 00:29:20,000
+You guys should roll alertness for me.
+
+404
+00:29:20,000 --> 00:29:23,000
+She's gone.
+
+405
+00:29:23,000 --> 00:29:25,000
+Wait, what is my alertness?
+
+406
+00:29:25,000 --> 00:29:26,000
+Damn it.
+
+407
+00:29:26,000 --> 00:29:27,000
+80 on a 60.
+
+408
+00:29:27,000 --> 00:29:28,000
+Ah, fuck.
+
+409
+00:29:28,000 --> 00:29:30,000
+A 76 on a 70.
+
+410
+00:29:30,000 --> 00:29:33,000
+She's just been in the circle with us this whole time.
+
+411
+00:29:33,000 --> 00:29:34,000
+No, you guys are good.
+
+412
+00:29:34,000 --> 00:29:36,000
+You can keep talking.
+
+413
+00:29:36,000 --> 00:29:39,000
+I'm getting a weird feeling about Ann.
+
+414
+00:29:39,000 --> 00:29:42,000
+Let's check in on her.
+
+415
+00:29:42,000 --> 00:29:43,000
+Ann?
+
+416
+00:29:43,000 --> 00:29:49,000
+As you say, I'm getting a weird feeling about Ann.
+
+417
+00:29:49,000 --> 00:29:53,000
+You hear the chanting that has been happening behind your back
+
+418
+00:29:53,000 --> 00:29:57,000
+this entire time that is growing louder and louder.
+
+419
+00:29:57,000 --> 00:30:05,000
+It's Stefani Nazifalo.
+
+420
+00:30:05,000 --> 00:30:07,000
+Gwen Stefani.
+
+421
+00:30:07,000 --> 00:30:12,000
+And she has a large knife,
+
+422
+00:30:12,000 --> 00:30:16,000
+and she is holding it over her head,
+
+423
+00:30:16,000 --> 00:30:22,000
+and she is coming down at John Lee Pettymore, the third skull.
+
+424
+00:30:22,000 --> 00:30:24,000
+Because she's getting the jump on you,
+
+425
+00:30:24,000 --> 00:30:26,000
+you're going to be at a negative 40.
+
+426
+00:30:26,000 --> 00:30:29,000
+And I'm sorry about that.
+
+427
+00:30:29,000 --> 00:30:32,000
+She passed with a 30.
+
+428
+00:30:32,000 --> 00:30:34,000
+My eyes grow wide, and I scream,
+
+429
+00:30:34,000 --> 00:30:35,000
+she's coming for my ball!
+
+430
+00:30:35,000 --> 00:30:39,000
+And I try to artfully roll out of the way using athletics.
+
+431
+00:30:39,000 --> 00:30:43,000
+Wait, I'm at, oh fuck, I'm at minus 40?
+
+432
+00:30:43,000 --> 00:30:45,000
+Yeah, what's your athletics?
+
+433
+00:30:45,000 --> 00:30:49,000
+I try to persuade her to stop.
+
+434
+00:30:49,000 --> 00:30:51,000
+What's your athletics?
+
+435
+00:30:51,000 --> 00:30:55,000
+I'm just trying to find anything else I could use.
+
+436
+00:30:55,000 --> 00:30:58,000
+Oh, I'd like to use my robot constitution
+
+437
+00:30:58,000 --> 00:31:02,000
+and my metal plates to just take the fucking blow.
+
+438
+00:31:02,000 --> 00:31:05,000
+Alright, athletics, 50 at a minus 40.
+
+439
+00:31:05,000 --> 00:31:07,000
+Okay, so you have to roll an ought one
+
+440
+00:31:07,000 --> 00:31:10,000
+in order to win the contest.
+
+441
+00:31:10,000 --> 00:31:12,000
+I rolled a 73.
+
+442
+00:31:12,000 --> 00:31:13,000
+Well, that was really close.
+
+443
+00:31:13,000 --> 00:31:16,000
+It was as close as any other number would have been
+
+444
+00:31:16,000 --> 00:31:18,000
+to what you were looking for.
+
+445
+00:31:18,000 --> 00:31:21,000
+And, Clark Bishop, think about what you're doing
+
+446
+00:31:21,000 --> 00:31:27,000
+as she is going to stab down.
+
+447
+00:31:27,000 --> 00:31:31,000
+This knife goes directly into the top of your head, John Lee,
+
+448
+00:31:31,000 --> 00:31:37,000
+and you feel your skull crack as you take nine damage,
+
+449
+00:31:37,000 --> 00:31:41,000
+and blood begins to just gush out of the hole.
+
+450
+00:31:41,000 --> 00:31:43,000
+How much, wait, how many hit points did you have?
+
+451
+00:31:43,000 --> 00:31:44,000
+I had 20.
+
+452
+00:31:44,000 --> 00:31:46,000
+Okay.
+
+453
+00:31:46,000 --> 00:31:48,000
+Good, I just realized that, not good,
+
+454
+00:31:48,000 --> 00:31:50,000
+whatever it would have been,
+
+455
+00:31:50,000 --> 00:31:52,000
+but I just realized that we had a whole gunfight earlier
+
+456
+00:31:52,000 --> 00:31:56,000
+that might have been an issue with nine hit points.
+
+457
+00:31:56,000 --> 00:32:00,000
+So you're down to 11, and blood is just like gushing out,
+
+458
+00:32:00,000 --> 00:32:03,000
+and Clark Bishop, blood is spurting out
+
+459
+00:32:03,000 --> 00:32:05,000
+of John Lee Pettymore III's head.
+
+460
+00:32:05,000 --> 00:32:07,000
+Clay!
+
+461
+00:32:10,000 --> 00:32:13,000
+And, what the fuck, and I want to tackle her.
+
+462
+00:32:13,000 --> 00:32:14,000
+Get her to the ground?
+
+463
+00:32:14,000 --> 00:32:16,000
+Yeah, that'll be unarmed combat, and she'll be at a negative
+
+464
+00:32:16,000 --> 00:32:18,000
+since she already attacked this turn.
+
+465
+00:32:18,000 --> 00:32:22,000
+Okay.
+
+466
+00:32:22,000 --> 00:32:23,000
+A 46.
+
+467
+00:32:23,000 --> 00:32:24,000
+She passes 43.
+
+468
+00:32:24,000 --> 00:32:26,000
+I pass 46.
+
+469
+00:32:26,000 --> 00:32:28,000
+How do you want to take her to the ground?
+
+470
+00:32:28,000 --> 00:32:29,000
+As soon as she...
+
+471
+00:32:29,000 --> 00:32:31,000
+It's not that kind of podcast, Joe.
+
+472
+00:32:31,000 --> 00:32:32,000
+Calm down.
+
+473
+00:32:32,000 --> 00:32:34,000
+And she's not into that.
+
+474
+00:32:34,000 --> 00:32:36,000
+I get her center mass and get her to the ground,
+
+475
+00:32:36,000 --> 00:32:39,000
+and I want to put an arm across her throat
+
+476
+00:32:39,000 --> 00:32:41,000
+so if she does try to start chanting again, she can't.
+
+477
+00:32:41,000 --> 00:32:43,000
+Ooh, nice.
+
+478
+00:32:43,000 --> 00:32:45,000
+I'm pressing into her throat.
+
+479
+00:32:45,000 --> 00:32:46,000
+Does that end the combat?
+
+480
+00:32:46,000 --> 00:32:48,000
+Do I need to talk to her now?
+
+481
+00:32:48,000 --> 00:32:50,000
+No, it does not end the combat at all.
+
+482
+00:32:50,000 --> 00:32:52,000
+John Lee Pettymore, it's your turn.
+
+483
+00:32:52,000 --> 00:32:54,000
+You've got a large knife.
+
+484
+00:32:54,000 --> 00:32:57,000
+I'd say yay long, about a foot long,
+
+485
+00:32:57,000 --> 00:33:01,000
+and a good three inches of it are in you.
+
+486
+00:33:01,000 --> 00:33:05,000
+I need you to tell me how three inches of knife
+
+487
+00:33:05,000 --> 00:33:08,000
+being in my skull affects my mind brain.
+
+488
+00:33:08,000 --> 00:33:10,000
+Yeah, no, I'm a scientist.
+
+489
+00:33:10,000 --> 00:33:13,000
+Or does it at all since it didn't hit ball?
+
+490
+00:33:13,000 --> 00:33:16,000
+Yeah, I mean, we're at the point now where, you know,
+
+491
+00:33:16,000 --> 00:33:21,000
+ball controls everything, so your brain is only there
+
+492
+00:33:21,000 --> 00:33:25,000
+as a human function to...
+
+493
+00:33:25,000 --> 00:33:28,000
+Maybe it's grabbed onto your brain
+
+494
+00:33:28,000 --> 00:33:32,000
+to try to emulate empathy and emotion of some sort,
+
+495
+00:33:32,000 --> 00:33:34,000
+or maybe that was in ball all along.
+
+496
+00:33:34,000 --> 00:33:37,000
+You don't really know, but you know that in this moment,
+
+497
+00:33:37,000 --> 00:33:41,000
+you can't really see straight because everything's wobbly,
+
+498
+00:33:41,000 --> 00:33:45,000
+and you feel like you're gonna throw up,
+
+499
+00:33:45,000 --> 00:33:49,000
+but you are not at a mechanical disadvantage currently
+
+500
+00:33:49,000 --> 00:33:51,000
+for some reason.
+
+501
+00:33:51,000 --> 00:33:53,000
+It might be because you're metal.
+
+502
+00:33:53,000 --> 00:33:56,000
+Ah, fuck, let's see.
+
+503
+00:33:56,000 --> 00:34:00,000
+John takes the pistol given to him by Harry,
+
+504
+00:34:00,000 --> 00:34:02,000
+and although he's wobbly,
+
+505
+00:34:02,000 --> 00:34:06,000
+he plants himself with his robot feet
+
+506
+00:34:07,000 --> 00:34:09,000
+and sort of steadies himself
+
+507
+00:34:09,000 --> 00:34:12,000
+and brings his arm up and shoots it in.
+
+508
+00:34:12,000 --> 00:34:14,000
+32 on a 60.
+
+509
+00:34:14,000 --> 00:34:16,000
+Roll a D10 for damage.
+
+510
+00:34:18,000 --> 00:34:19,000
+Ten.
+
+511
+00:34:19,000 --> 00:34:20,000
+Fuck.
+
+512
+00:34:20,000 --> 00:34:21,000
+Whew!
+
+513
+00:34:21,000 --> 00:34:22,000
+Where do you shoot her?
+
+514
+00:34:22,000 --> 00:34:24,000
+Clark knocked her to the ground.
+
+515
+00:34:24,000 --> 00:34:26,000
+Yeah, he's like on top of her.
+
+516
+00:34:26,000 --> 00:34:30,000
+Then I'm sorry, Anne, but I shoot you in the knee.
+
+517
+00:34:30,000 --> 00:34:32,000
+As you blast through her knee,
+
+518
+00:34:33,000 --> 00:34:38,000
+you see the entire calf just kind of like twitch and shake
+
+519
+00:34:38,000 --> 00:34:40,000
+off kilter from where it's supposed to be.
+
+520
+00:34:40,000 --> 00:34:44,000
+Her leg now goes down and then off out to the side
+
+521
+00:34:44,000 --> 00:34:46,000
+as it kind of blasts those ligaments off
+
+522
+00:34:46,000 --> 00:34:48,000
+that keep it where it's supposed to be.
+
+523
+00:34:48,000 --> 00:34:49,000
+Oh, my God.
+
+524
+00:34:49,000 --> 00:34:51,000
+And it hits an artery,
+
+525
+00:34:51,000 --> 00:34:56,000
+and blood is just pouring out of her leg.
+
+526
+00:34:56,000 --> 00:34:57,000
+Oh, no.
+
+527
+00:34:57,000 --> 00:34:59,000
+And it's Anne Love's turn,
+
+528
+00:34:59,000 --> 00:35:01,000
+and I've got Ramona on the desk.
+
+529
+00:35:02,000 --> 00:35:03,000
+Hi, Ramona.
+
+530
+00:35:03,000 --> 00:35:05,000
+Ramona, save us.
+
+531
+00:35:05,000 --> 00:35:08,000
+Ramona, will you get down or get in my lap or something?
+
+532
+00:35:08,000 --> 00:35:09,000
+Come here.
+
+533
+00:35:09,000 --> 00:35:10,000
+There she is.
+
+534
+00:35:10,000 --> 00:35:11,000
+All right.
+
+535
+00:35:11,000 --> 00:35:12,000
+She's going to grapple with your arm,
+
+536
+00:35:12,000 --> 00:35:15,000
+and as she's doing it, she is trying to chant
+
+537
+00:35:18,000 --> 00:35:20,000
+and roll unarmed combat.
+
+538
+00:35:24,000 --> 00:35:25,000
+She passed with a 25.
+
+539
+00:35:25,000 --> 00:35:27,000
+I passed with a 37.
+
+540
+00:35:27,000 --> 00:35:29,000
+You motherfucker.
+
+541
+00:35:30,000 --> 00:35:31,000
+Fuck yes, Joe.
+
+542
+00:35:35,000 --> 00:35:37,000
+And it's Clark Bishop's turn.
+
+543
+00:35:38,000 --> 00:35:39,000
+Oh, shit.
+
+544
+00:35:39,000 --> 00:35:40,000
+Okay.
+
+545
+00:35:40,000 --> 00:35:41,000
+Oh, boy.
+
+546
+00:35:41,000 --> 00:35:45,000
+I want to grab the wound behind me
+
+547
+00:35:45,000 --> 00:35:47,000
+that has now been inflicted.
+
+548
+00:35:47,000 --> 00:35:50,000
+I'm trying to cause so much pain that she passes out.
+
+549
+00:35:50,000 --> 00:35:51,000
+Holy shit.
+
+550
+00:35:51,000 --> 00:35:55,000
+Okay, roll first aid against her constitution.
+
+551
+00:35:55,000 --> 00:35:56,000
+Holy shit.
+
+552
+00:36:00,000 --> 00:36:02,000
+He really is a game master.
+
+553
+00:36:04,000 --> 00:36:06,000
+She passes with a 17.
+
+554
+00:36:06,000 --> 00:36:08,000
+I fail a 95 on a 30.
+
+555
+00:36:08,000 --> 00:36:14,000
+Okay, so you describe this nastiness, please.
+
+556
+00:36:17,000 --> 00:36:18,000
+You did this.
+
+557
+00:36:18,000 --> 00:36:21,000
+Clark felt the spray of blood across his back
+
+558
+00:36:21,000 --> 00:36:24,000
+and knew that there was a wound back there,
+
+559
+00:36:24,000 --> 00:36:27,000
+so he reached behind him blindly to grab it,
+
+560
+00:36:27,000 --> 00:36:30,000
+and he wanted to clamp down as hard as he could
+
+561
+00:36:30,000 --> 00:36:32,000
+just to inflict pain.
+
+562
+00:36:32,000 --> 00:36:33,000
+That was his only goal.
+
+563
+00:36:33,000 --> 00:36:35,000
+She screams out,
+
+564
+00:36:35,000 --> 00:36:38,000
+but she clenches down on her teeth so hard
+
+565
+00:36:38,000 --> 00:36:42,000
+that as you're looking right into her mouth,
+
+566
+00:36:42,000 --> 00:36:43,000
+she's...
+
+567
+00:36:44,000 --> 00:36:46,000
+One of her teeth breaks.
+
+568
+00:36:46,000 --> 00:36:47,000
+Oh, my God.
+
+569
+00:36:49,000 --> 00:36:51,000
+And she spits it at you.
+
+570
+00:36:52,000 --> 00:36:55,000
+Okay, this is beautiful justice for Clark.
+
+571
+00:36:55,000 --> 00:36:56,000
+I just want to remind the audience
+
+572
+00:36:56,000 --> 00:36:59,000
+that this would feel real good for Clark.
+
+573
+00:36:59,000 --> 00:37:01,000
+I don't feel great about it as Joe.
+
+574
+00:37:03,000 --> 00:37:05,000
+But this woman killed his parents.
+
+575
+00:37:09,000 --> 00:37:11,000
+John Lee Pettymore, what's your excuse?
+
+576
+00:37:13,000 --> 00:37:15,000
+Oh, she said you weren't human.
+
+577
+00:37:17,000 --> 00:37:19,000
+Yeah, I am human. I'll show her.
+
+578
+00:37:19,000 --> 00:37:21,000
+All right, Knifehead, you're up.
+
+579
+00:37:21,000 --> 00:37:23,000
+John Lee Pettymore walks up and shoots her in the head.
+
+580
+00:37:24,000 --> 00:37:26,000
+You're going to take that away from Clark?
+
+581
+00:37:27,000 --> 00:37:28,000
+Roll firearms.
+
+582
+00:37:28,000 --> 00:37:30,000
+He was talking himself out of it.
+
+583
+00:37:37,000 --> 00:37:39,000
+Now she's pinned down on the ground, right?
+
+584
+00:37:39,000 --> 00:37:41,000
+Yeah, what'd you roll?
+
+585
+00:37:41,000 --> 00:37:43,000
+Let's say I rolled a 98.
+
+586
+00:37:45,000 --> 00:37:46,000
+Not a critical failure, but...
+
+587
+00:37:46,000 --> 00:37:47,000
+Not a critical failure.
+
+588
+00:37:47,000 --> 00:37:49,000
+With a 98, you walk up.
+
+589
+00:37:49,000 --> 00:37:51,000
+She looks at you through gritted teeth
+
+590
+00:37:51,000 --> 00:37:53,000
+and one of the teeth is chipped off and missing
+
+591
+00:37:53,000 --> 00:37:55,000
+and then she's gritting.
+
+592
+00:37:55,000 --> 00:37:58,000
+Another part of her tooth just cracks off
+
+593
+00:37:58,000 --> 00:38:02,000
+and you watch the enamel flake off of the other teeth
+
+594
+00:38:02,000 --> 00:38:04,000
+like peeling of an onion.
+
+595
+00:38:04,000 --> 00:38:05,000
+God damn it.
+
+596
+00:38:06,000 --> 00:38:08,000
+Just enough so that she can get this out
+
+597
+00:38:08,000 --> 00:38:09,000
+so you fucking know.
+
+598
+00:38:09,000 --> 00:38:10,000
+She says,
+
+599
+00:38:12,000 --> 00:38:13,000
+non-human.
+
+600
+00:38:15,000 --> 00:38:16,000
+Non-human.
+
+601
+00:38:16,000 --> 00:38:17,000
+You bastard.
+
+602
+00:38:17,000 --> 00:38:18,000
+You bastard.
+
+603
+00:38:19,000 --> 00:38:22,000
+John winces as a piece of enamel hits him in the eye.
+
+604
+00:38:24,000 --> 00:38:26,000
+And he sighs and he shakes his head and he says,
+
+605
+00:38:26,000 --> 00:38:28,000
+all cops are bastards.
+
+606
+00:38:28,000 --> 00:38:30,000
+And he pulls the trigger.
+
+607
+00:38:33,000 --> 00:38:35,000
+And it clicks and you're out of ammo.
+
+608
+00:38:38,000 --> 00:38:39,000
+Fuck!
+
+609
+00:38:40,000 --> 00:38:42,000
+Holy shit.
+
+610
+00:38:43,000 --> 00:38:45,000
+Clark, roll unarmed combat.
+
+611
+00:38:45,000 --> 00:38:47,000
+She's gonna try to throw you off.
+
+612
+00:38:50,000 --> 00:38:51,000
+She crit succeeds.
+
+613
+00:38:51,000 --> 00:38:52,000
+Oh my god.
+
+614
+00:38:52,000 --> 00:38:53,000
+And I failed.
+
+615
+00:38:53,000 --> 00:38:54,000
+Just a regular fail.
+
+616
+00:38:54,000 --> 00:38:56,000
+An 81 on a 70.
+
+617
+00:38:56,000 --> 00:38:57,000
+55.
+
+618
+00:38:57,000 --> 00:38:59,000
+She throws you off.
+
+619
+00:39:02,000 --> 00:39:04,000
+And immediately begins chanting.
+
+620
+00:39:04,000 --> 00:39:08,000
+I'm going to spend luck for Anne Love
+
+621
+00:39:08,000 --> 00:39:12,000
+to take another turn and she continues chanting.
+
+622
+00:39:16,000 --> 00:39:19,000
+John T. Fella!
+
+623
+00:39:19,000 --> 00:39:21,000
+John T. Fella!
+
+624
+00:39:22,000 --> 00:39:25,000
+I've got to grab some new headphones real quick.
+
+625
+00:39:25,000 --> 00:39:27,000
+These are cutting in and out.
+
+626
+00:39:27,000 --> 00:39:30,000
+I thought you were going to say that I just broke them.
+
+627
+00:39:33,000 --> 00:39:36,000
+That's just what John says and he dips.
+
+628
+00:39:37,000 --> 00:39:38,000
+She's like, yeah, no.
+
+629
+00:39:38,000 --> 00:39:39,000
+No big.
+
+630
+00:39:39,000 --> 00:39:40,000
+Tell Murphy hi.
+
+631
+00:39:41,000 --> 00:39:43,000
+Say hello to Murphy for me.
+
+632
+00:39:45,000 --> 00:39:49,000
+Oh, this is not going how I planned it all either.
+
+633
+00:39:49,000 --> 00:39:52,000
+Going into this, it was a debate about how we were going to,
+
+634
+00:39:52,000 --> 00:39:54,000
+which place we were going to go.
+
+635
+00:39:55,000 --> 00:39:56,000
+That wasn't.
+
+636
+00:39:56,000 --> 00:39:57,000
+That's what I thought too.
+
+637
+00:39:59,000 --> 00:40:01,000
+I prepped a couple different options.
+
+638
+00:40:01,000 --> 00:40:04,000
+Just like, I don't fucking know where they're going to go.
+
+639
+00:40:05,000 --> 00:40:10,000
+John Lee Pettymore the 3rd, as she is chanting,
+
+640
+00:40:11,000 --> 00:40:16,000
+you feel the blade on top of your head
+
+641
+00:40:16,000 --> 00:40:21,000
+slowly sinking deeper into your skull.
+
+642
+00:40:23,000 --> 00:40:27,000
+Now, it says here that it's 2D10.
+
+643
+00:40:27,000 --> 00:40:28,000
+Oh shit.
+
+644
+00:40:30,000 --> 00:40:34,000
+This knife does 2D10 damage when it has the spell being cast on it.
+
+645
+00:40:34,000 --> 00:40:36,000
+So I'm going to show you the roll.
+
+646
+00:40:36,000 --> 00:40:39,000
+He is moving his camera down so we can get a better view of the desk.
+
+647
+00:40:41,000 --> 00:40:42,000
+Is it 28?
+
+648
+00:40:43,000 --> 00:40:44,000
+So 8, 9, 10, right?
+
+649
+00:40:44,000 --> 00:40:45,000
+Yep, 10.
+
+650
+00:40:45,000 --> 00:40:47,000
+That puts me at 1.
+
+651
+00:40:50,000 --> 00:40:51,000
+Jesus Christ.
+
+652
+00:40:53,000 --> 00:40:54,000
+He's holding on.
+
+653
+00:40:54,000 --> 00:40:59,000
+Very importantly, you have to roll a constitution check here to stay conscious.
+
+654
+00:40:59,000 --> 00:41:04,000
+Okay, because of his robot bones, he gets a plus 10, which puts him at 70.
+
+655
+00:41:05,000 --> 00:41:06,000
+Fuck.
+
+656
+00:41:06,000 --> 00:41:07,000
+Fuck.
+
+657
+00:41:09,000 --> 00:41:11,000
+It's a fuck because he dropped the dice.
+
+658
+00:41:12,000 --> 00:41:15,000
+Alright, do you want me to tell you what it says on the floor or can I re-roll it?
+
+659
+00:41:16,000 --> 00:41:17,000
+The way you said that.
+
+660
+00:41:22,000 --> 00:41:23,000
+Thomas?
+
+661
+00:41:23,000 --> 00:41:25,000
+Is a floor dice a cock dice?
+
+662
+00:41:25,000 --> 00:41:30,000
+Do you remember every single time we rolled off the table when we used to play in the same room?
+
+663
+00:41:31,000 --> 00:41:32,000
+What was the rule?
+
+664
+00:41:32,000 --> 00:41:33,000
+Call it from the floor.
+
+665
+00:41:33,000 --> 00:41:34,000
+No.
+
+666
+00:41:34,000 --> 00:41:36,000
+If one falls off, you re-roll both.
+
+667
+00:41:36,000 --> 00:41:37,000
+Oh, awesome.
+
+668
+00:41:37,000 --> 00:41:38,000
+Okay.
+
+669
+00:41:39,000 --> 00:41:40,000
+Man.
+
+670
+00:41:41,000 --> 00:41:42,000
+So I didn't just roll a 94.
+
+671
+00:41:43,000 --> 00:41:44,000
+Thomas, there's a bug on you.
+
+672
+00:41:44,000 --> 00:41:45,000
+I rolled a 64.
+
+673
+00:41:45,000 --> 00:41:47,000
+Do you think you got a fly up by your collar?
+
+674
+00:41:47,000 --> 00:41:49,000
+No, it's this firefly.
+
+675
+00:41:49,000 --> 00:41:51,000
+It might be the same one I saw last night.
+
+676
+00:41:51,000 --> 00:41:53,000
+It's like really old.
+
+677
+00:41:53,000 --> 00:41:54,000
+How do you know?
+
+678
+00:41:54,000 --> 00:41:55,000
+It's gray.
+
+679
+00:41:56,000 --> 00:41:57,000
+Kind of, yeah.
+
+680
+00:41:57,000 --> 00:41:58,000
+It's wizened.
+
+681
+00:41:58,000 --> 00:41:59,000
+Or it's really sick.
+
+682
+00:41:59,000 --> 00:42:00,000
+It's a wizened firefly.
+
+683
+00:42:00,000 --> 00:42:01,000
+But it looks wizened.
+
+684
+00:42:02,000 --> 00:42:06,000
+It's like little chips of color have been flaked off its shell and shit.
+
+685
+00:42:06,000 --> 00:42:07,000
+Oh, that's sad.
+
+686
+00:42:07,000 --> 00:42:08,000
+What'd you roll?
+
+687
+00:42:08,000 --> 00:42:09,000
+A 64 on a 70.
+
+688
+00:42:09,000 --> 00:42:10,000
+Oh, yeah.
+
+689
+00:42:11,000 --> 00:42:13,000
+You're going to be able to stay conscious, but you feel...
+
+690
+00:42:18,000 --> 00:42:24,000
+Yeah, and for some reason in the back of your throat, it's like a phantom sensation.
+
+691
+00:42:24,000 --> 00:42:30,000
+Like the knife is all the way down inside your throat, even though you know that would
+
+692
+00:42:30,000 --> 00:42:35,000
+be like wild if that was true, but it like hurts as you scream.
+
+693
+00:42:35,000 --> 00:42:38,000
+We need an ultra violence tag for this episode.
+
+694
+00:42:40,000 --> 00:42:45,000
+And as you scream, Clark is looking at you and he sees a shimmer in the back of your mouth.
+
+695
+00:42:46,000 --> 00:42:47,000
+Oh my God.
+
+696
+00:42:49,000 --> 00:42:50,000
+Maybe I'm the overseer.
+
+697
+00:42:50,000 --> 00:42:54,000
+Maybe you've got one hit point.
+
+698
+00:42:54,000 --> 00:42:56,000
+Clark Bishop, it's your turn.
+
+699
+00:42:57,000 --> 00:43:00,000
+I want to try and shoot her to make her stop chanting.
+
+700
+00:43:00,000 --> 00:43:01,000
+Roll firearms.
+
+701
+00:43:06,000 --> 00:43:08,000
+Oh my God.
+
+702
+00:43:09,000 --> 00:43:11,000
+It's a 99.
+
+703
+00:43:12,000 --> 00:43:13,000
+Oh, that's good.
+
+704
+00:43:13,000 --> 00:43:14,000
+That's really good.
+
+705
+00:43:15,000 --> 00:43:19,000
+I told you not to roll so much before the episode, Joe.
+
+706
+00:43:23,000 --> 00:43:24,000
+Oh no.
+
+707
+00:43:25,000 --> 00:43:27,000
+Clark, you're so freaked out by...
+
+708
+00:43:28,000 --> 00:43:35,000
+You look back at John Lee Bettymore and you see this shimmering as the knife is just literally
+
+709
+00:43:35,000 --> 00:43:40,000
+moving further and further into his skull without anyone touching it.
+
+710
+00:43:40,000 --> 00:43:45,000
+And then as he's screaming, you see it in the back of his mouth.
+
+711
+00:43:45,000 --> 00:43:48,000
+And as you go to fire the gun.
+
+712
+00:43:48,000 --> 00:43:51,000
+Yeah, just fumble it out of the holster so terribly wrong.
+
+713
+00:43:51,000 --> 00:43:55,000
+And it lands directly in between you and Anne Love.
+
+714
+00:43:56,000 --> 00:43:58,000
+John Lee Pettymore with one hit point left.
+
+715
+00:43:58,000 --> 00:44:05,000
+Blood dripping down as if your head is a chocolate fountain.
+
+716
+00:44:06,000 --> 00:44:11,000
+Blood is covering everything, including all over your eyes.
+
+717
+00:44:11,000 --> 00:44:15,000
+So you're going to be at a negative 20 for any action you take that requires sight.
+
+718
+00:44:15,000 --> 00:44:16,000
+Where was Anne Love?
+
+719
+00:44:16,000 --> 00:44:20,000
+Is she still just on the ground in front of me?
+
+720
+00:44:20,000 --> 00:44:25,000
+No, she's standing and I'm picturing she's like backed up to the pond, essentially.
+
+721
+00:44:25,000 --> 00:44:30,000
+You're all just standing in murky, muddy water, splashing about.
+
+722
+00:44:30,000 --> 00:44:35,000
+So the gun just fell to the point to where you can't see it in this murky, muddy water
+
+723
+00:44:35,000 --> 00:44:39,000
+because there's enough water covering the grass in this area that it is even spilled
+
+724
+00:44:39,000 --> 00:44:42,000
+over in the streets behind you.
+
+725
+00:44:42,000 --> 00:44:45,000
+So she's just like at the edge of Bean's Pond.
+
+726
+00:44:45,000 --> 00:44:48,000
+The overfull Bean's Pond.
+
+727
+00:44:48,000 --> 00:44:52,000
+Yeah, I just want to try to reach out and crush her with my robot hands.
+
+728
+00:44:52,000 --> 00:44:55,000
+Like, crush her skull.
+
+729
+00:44:56,000 --> 00:45:00,000
+You can run up to her and try to attack her with your hands.
+
+730
+00:45:00,000 --> 00:45:05,000
+She passes a 14 and he's shaking his head no.
+
+731
+00:45:05,000 --> 00:45:07,000
+89.
+
+732
+00:45:07,000 --> 00:45:09,000
+Oh no!
+
+733
+00:45:09,000 --> 00:45:15,000
+I'm like blind with blood, so I just imagine myself just like stumbling straight forward
+
+734
+00:45:15,000 --> 00:45:16,000
+and falling into the muck.
+
+735
+00:45:16,000 --> 00:45:22,000
+And she kind of, as you're falling forward, she puts her foot out and kicks the top of
+
+736
+00:45:23,000 --> 00:45:28,000
+your head so that the top of the knife goes straight into the ground and just...
+
+737
+00:45:29,000 --> 00:45:37,000
+And the body of John Lee Pettymore lies flaccid face down in muddy water.
+
+738
+00:45:37,000 --> 00:45:40,000
+I'll see you guys next time, Loop.
+
+739
+00:45:44,000 --> 00:45:46,000
+Bye, Thomas!
+
+740
+00:45:46,000 --> 00:45:48,000
+Bye, guys.
+
+741
+00:45:49,000 --> 00:45:54,000
+Do I need to be on call at all this evening or is that pretty much it for...
+
+742
+00:45:54,000 --> 00:45:57,000
+Well, hold on, Joe. Take off your headphones.
+
+743
+00:45:57,000 --> 00:45:58,000
+I'm off.
+
+744
+00:45:58,000 --> 00:46:01,000
+Hey, how much luck do you have?
+
+745
+00:46:01,000 --> 00:46:02,000
+25.
+
+746
+00:46:02,000 --> 00:46:03,000
+Fuck.
+
+747
+00:46:03,000 --> 00:46:05,000
+I need 30, right?
+
+748
+00:46:05,000 --> 00:46:06,000
+You need 30.
+
+749
+00:46:06,000 --> 00:46:07,000
+God damn it.
+
+750
+00:46:07,000 --> 00:46:10,000
+I was going to have... The ball could have popped out and I was going to have you control it.
+
+751
+00:46:10,000 --> 00:46:14,000
+Oh, I could... How much is it to avoid major damage?
+
+752
+00:46:14,000 --> 00:46:19,000
+Oh, yeah. You should have done that earlier, but you can do it on this one.
+
+753
+00:46:19,000 --> 00:46:21,000
+I'll do it on this one.
+
+754
+00:46:21,000 --> 00:46:22,000
+Okay. Sounds good.
+
+755
+00:46:22,000 --> 00:46:23,000
+Okay.
+
+756
+00:46:23,000 --> 00:46:28,000
+So that one only did one hit point of damage, so you get to keep your one hit point.
+
+757
+00:46:28,000 --> 00:46:34,000
+It hits on a rock coming out of my chin and can't go all the way through.
+
+758
+00:46:34,000 --> 00:46:43,000
+Yeah, there's a rock floating along in the water that gets stuck right above your chest on your throat
+
+759
+00:46:43,000 --> 00:46:50,000
+and so as it dinks in, it just right into the rock instead of all the way through, finishing you off.
+
+760
+00:46:50,000 --> 00:46:54,000
+And you're still going to lay flaccid there and you're just going to stay on the call
+
+761
+00:46:54,000 --> 00:46:58,000
+and we'll let Joe think whatever he wants to think, but you're going to lose 10 luck.
+
+762
+00:46:58,000 --> 00:47:01,000
+I would suggest spending the other 15 during this.
+
+763
+00:47:01,000 --> 00:47:03,000
+Can you show me the luck chart real quick?
+
+764
+00:47:03,000 --> 00:47:11,000
+What you can do now is you can avoid unconsciousness for one point per round, but it doubles each round.
+
+765
+00:47:11,000 --> 00:47:13,000
+So one luck the first round, two, right?
+
+766
+00:47:13,000 --> 00:47:15,000
+Yeah. And then four and then eight.
+
+767
+00:47:15,000 --> 00:47:19,000
+And then after that, there's just adjusting any rolls.
+
+768
+00:47:19,000 --> 00:47:22,000
+You can adjust one to one.
+
+769
+00:47:22,000 --> 00:47:23,000
+For...
+
+770
+00:47:23,000 --> 00:47:24,000
+Like if you rolled it...
+
+771
+00:47:24,000 --> 00:47:25,000
+So up or down for...
+
+772
+00:47:25,000 --> 00:47:26,000
+Gotcha.
+
+773
+00:47:26,000 --> 00:47:27,000
+Okay.
+
+774
+00:47:27,000 --> 00:47:31,000
+I've got to hit the restroom real quick if we want to keep Joe in suspense for just a little longer.
+
+775
+00:47:31,000 --> 00:47:33,000
+Actually, I'll probably finish out the episode with Joe.
+
+776
+00:47:33,000 --> 00:47:34,000
+Okay.
+
+777
+00:47:34,000 --> 00:47:38,000
+We'll do one round with just him while you're kind of coming back.
+
+778
+00:47:41,000 --> 00:48:00,000
+Joe, Clark Bishop sees John Lee Pettymore fall face first into this murky, mucky, muddy six-inch splash zone.
+
+779
+00:48:00,000 --> 00:48:01,000
+God, no!
+
+780
+00:48:01,000 --> 00:48:08,000
+Right in front of Anne Love as she just kicks the back of his head down toward the ground.
+
+781
+00:48:08,000 --> 00:48:17,000
+And she looks up at you and her eyes are massive.
+
+782
+00:48:17,000 --> 00:48:27,000
+Take me to the fucking book, Clark!
+
+783
+00:48:27,000 --> 00:48:30,000
+You killed him! You killed him! I'm not taking you anywhere!
+
+784
+00:48:30,000 --> 00:48:32,000
+And I want to shoot again.
+
+785
+00:48:32,000 --> 00:48:36,000
+Did you have a second gun? Did you have two guns?
+
+786
+00:48:36,000 --> 00:48:39,000
+Oh, fuck. God fucking hell.
+
+787
+00:48:39,000 --> 00:48:42,000
+I did have two guns until I gave one to Drew.
+
+788
+00:48:42,000 --> 00:48:44,000
+You gave it to Drew, who I realized...
+
+789
+00:48:44,000 --> 00:48:46,000
+In re-listening to the episode, already had a gun.
+
+790
+00:48:46,000 --> 00:48:47,000
+Already had a gun!
+
+791
+00:48:47,000 --> 00:48:52,000
+Yeah. Yeah. Imagine how great I felt re-listening to that episode.
+
+792
+00:48:52,000 --> 00:48:54,000
+And especially now.
+
+793
+00:48:54,000 --> 00:49:00,000
+Drew's just driving off with his two guns.
+
+794
+00:49:00,000 --> 00:49:01,000
+God damn it.
+
+795
+00:49:01,000 --> 00:49:02,000
+He gives one to the cat.
+
+796
+00:49:02,000 --> 00:49:06,000
+Well, fuck. She said take me to the fucking book.
+
+797
+00:49:06,000 --> 00:49:11,000
+Clark's freaked the fuck out. Just saw John die.
+
+798
+00:49:11,000 --> 00:49:17,000
+Anne, I don't know where the book is. I don't know where the book is.
+
+799
+00:49:17,000 --> 00:49:21,000
+I can't help you. You fucking killed John! Why?
+
+800
+00:49:21,000 --> 00:49:29,000
+Any anger left on her face dissipates as a smile creeps in
+
+801
+00:49:29,000 --> 00:49:38,000
+across both corners of her mouth, lifting upward as she stares you directly in the eyes.
+
+802
+00:49:38,000 --> 00:49:43,000
+Well, Clark? The vector was my mission, wasn't it?
+
+803
+00:49:51,000 --> 00:50:19,000
+How am I the only one trying to pull over?
+
+804
+00:50:19,000 --> 00:50:30,000
+How can you have enough drowning out all the notes?
+
+805
+00:50:30,000 --> 00:50:34,000
+With no mind at all.
+
+806
+00:50:34,000 --> 00:50:38,000
+No mind at all.
+
+807
+00:50:38,000 --> 00:50:43,000
+No mind at all.
+

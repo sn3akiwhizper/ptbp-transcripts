@@ -1,0 +1,6100 @@
+1
+00:00:00,000 --> 00:00:07,540
+Hey all you cool dogs and puppas, it's your best friend Oh Wharf the dog, and I am here
+
+2
+00:00:07,540 --> 00:00:14,940
+to receive all the belly rubs live on 694.2 PTBP.
+
+3
+00:00:14,940 --> 00:00:21,700
+If you rub my tummy, make sure you wear some kind of gloves that you can dispose of, because
+
+4
+00:00:21,700 --> 00:00:29,500
+otherwise you will obtain a scent on you that you will never get rid of, and a stickiness
+
+5
+00:00:29,500 --> 00:00:30,500
+and ooze.
+
+6
+00:00:30,500 --> 00:00:35,900
+I've been told I have a superglue-like secretion.
+
+7
+00:00:35,900 --> 00:00:41,280
+This week's Howlin' with Wolf is from at Mike Fardy, who tweeted about the show and tagged
+
+8
+00:00:41,280 --> 00:00:49,400
+that pretending pod they write, to Wolf the dog, from Mike Fardy and the Wonders and Blunders
+
+9
+00:00:49,400 --> 00:00:51,060
+podcast.
+
+10
+00:00:51,060 --> 00:00:56,060
+Dearest Wolf the dog, I can't hold back my feelings any longer.
+
+11
+00:00:56,060 --> 00:01:04,860
+Your gravely tones, your otherworldly fluting echoes, your got-dang thickness, may the light
+
+12
+00:01:04,860 --> 00:01:10,820
+of the blood moon guide you to me like I'm a dumpster full of night meat.
+
+13
+00:01:10,820 --> 00:01:17,420
+Much love from Wonders and Blunders, a fellow horror comedy actual play podcast, and good
+
+14
+00:01:17,420 --> 00:01:20,100
+luck to those contention boys.
+
+15
+00:01:20,100 --> 00:01:21,780
+End transmission.
+
+16
+00:01:21,780 --> 00:01:28,860
+Well, thanks Mike Fardy and the Wonders and Blunders podcast, but I am spoken for at the
+
+17
+00:01:28,860 --> 00:01:29,860
+moment.
+
+18
+00:01:29,860 --> 00:01:35,980
+There's a trash can named Teresa that I spend a lot of my time with these days.
+
+19
+00:01:35,980 --> 00:01:42,100
+She never asks for nothing, yet provides endless bounty for me and my loins.
+
+20
+00:01:42,100 --> 00:01:48,820
+But if me and Teresa ever break things off, which we never will, I will definitely keep
+
+21
+00:01:48,820 --> 00:01:51,180
+you in mind.
+
+22
+00:01:51,180 --> 00:01:53,900
+Maybe, but probably not.
+
+23
+00:01:53,900 --> 00:01:58,020
+There's a long list of suitors out there for little old Wolfie.
+
+24
+00:01:58,020 --> 00:02:02,580
+Remember, if you want to holla at your old wolf, use the screen you're already staring
+
+25
+00:02:02,580 --> 00:02:07,300
+at half the day and put something nasty out in the world with a tag for your dirtiest
+
+26
+00:02:07,300 --> 00:02:14,740
+dog at pretending pod, or write a review on Apple podcasts and tag us in the proof.
+
+27
+00:02:14,740 --> 00:02:20,340
+That's the goodest, and speaking of having nice things, you can find more tasty content
+
+28
+00:02:20,340 --> 00:02:27,500
+to devour in these less than delicious times over at patreon.com slash pretending pod.
+
+29
+00:02:27,500 --> 00:02:28,820
+And one more thing.
+
+30
+00:02:28,820 --> 00:02:35,100
+If you've listened this far, you very likely know about the subreddit and discord communities,
+
+31
+00:02:35,100 --> 00:02:40,300
+but I just want to say from the bottom of my stinky, greasy heart, it's a joy to watch
+
+32
+00:02:40,300 --> 00:02:47,540
+these internet nooks and crannies blossom into havens of silly and supportive solidarity.
+
+33
+00:02:47,540 --> 00:02:56,700
+Now time to get serious, because this episode is so, so very serious, seriously.
+
+34
+00:02:56,700 --> 00:03:02,540
+Now listen here you, I can't speak too loudly about this, but I heard this episode is not
+
+35
+00:03:02,540 --> 00:03:04,140
+very serious.
+
+36
+00:03:04,140 --> 00:03:09,260
+Seems like the producer was worried about becoming accustomed to remote playing before
+
+37
+00:03:09,260 --> 00:03:13,140
+jumping back into the main story.
+
+38
+00:03:13,140 --> 00:03:19,100
+Now remember to sit in those questions on the subreddit named episode 74, which it will
+
+39
+00:03:19,100 --> 00:03:24,080
+clearly not be, as this right here is episode 74.
+
+40
+00:03:24,080 --> 00:03:28,060
+Now let's get serious, my dear sweet innocent pups.
+
+41
+00:03:28,060 --> 00:03:33,660
+By the time you hear the intro to this song for the second time ever, you will know the
+
+42
+00:03:33,660 --> 00:03:37,300
+fate of the golden retriever called Bean.
+
+43
+00:03:37,300 --> 00:03:46,100
+It's kudzu with no backbow.
+
+44
+00:04:07,300 --> 00:04:23,220
+Howdy folks, I just wanted to drop in real quick to say we recorded this episode to give
+
+45
+00:04:23,220 --> 00:04:29,540
+us more time to field questions for next week's plot talk, and also to give me more time to
+
+46
+00:04:29,540 --> 00:04:32,260
+prep for this upcoming story arc.
+
+47
+00:04:32,260 --> 00:04:36,420
+Now on top of that, I figured it wouldn't hurt to get some more practice in with this
+
+48
+00:04:36,420 --> 00:04:42,060
+whole remote recording thing before we jump back into the nitty gritty good stuff, especially
+
+49
+00:04:42,060 --> 00:04:45,300
+with the mishap last week with Thomas' gain controls.
+
+50
+00:04:45,300 --> 00:04:48,760
+Well don't worry, we fucked it up again.
+
+51
+00:04:48,760 --> 00:04:54,440
+This time Luke and Thomas had their audio sent crisp and clear to the zoom call, however
+
+52
+00:04:54,440 --> 00:04:59,460
+they accidentally recorded their tracks with their laptop microphones instead.
+
+53
+00:04:59,460 --> 00:05:05,660
+I have edited this session, and I believe it is quite listenable and even, dare I say,
+
+54
+00:05:05,660 --> 00:05:11,980
+enjoyable, but it is not up to our standards for audio quality, and so we are using this
+
+55
+00:05:11,980 --> 00:05:18,580
+as a learning opportunity, and we are adding another clearly overlooked but important task
+
+56
+00:05:18,580 --> 00:05:22,060
+to our pre-recording checklists.
+
+57
+00:05:22,060 --> 00:05:27,820
+Thank you, each of you, for listening and supporting this show, it means so, so much
+
+58
+00:05:27,820 --> 00:05:28,820
+to me.
+
+59
+00:05:29,100 --> 00:05:32,460
+Boy howdy, we'll get it next week I bet.
+
+60
+00:05:32,460 --> 00:05:34,380
+Everybody clap on four and eight.
+
+61
+00:05:34,380 --> 00:05:41,520
+One, two, three, four, five, six, seven, wonderful.
+
+62
+00:05:41,520 --> 00:05:43,820
+Thank you all so much for coming here today.
+
+63
+00:05:43,820 --> 00:05:44,820
+You're welcome.
+
+64
+00:05:44,820 --> 00:05:49,700
+I miss our finest of eves, here on Pretending to be People.
+
+65
+00:05:49,700 --> 00:05:52,460
+How's everybody doing out there?
+
+66
+00:05:52,460 --> 00:05:55,100
+Doing about as good as you can hope, you know?
+
+67
+00:05:55,100 --> 00:05:56,620
+I'm doing alright.
+
+68
+00:05:56,740 --> 00:06:02,580
+Luke said he was hitting negative six, so he probably needs to turn his gain down.
+
+69
+00:06:02,580 --> 00:06:03,580
+Uh, hold on.
+
+70
+00:06:03,580 --> 00:06:04,580
+Tattle.
+
+71
+00:06:04,580 --> 00:06:07,980
+If I'm talking normal, I'm hitting like around 18 to 12.
+
+72
+00:06:07,980 --> 00:06:11,980
+That's where I was last, well yeah, that's where I am now I guess.
+
+73
+00:06:11,980 --> 00:06:13,220
+Where's your gain turned to?
+
+74
+00:06:13,220 --> 00:06:19,100
+Hey, if the gain was an island, what time is your gain turned to?
+
+75
+00:06:19,100 --> 00:06:20,100
+About one o'clock.
+
+76
+00:06:20,100 --> 00:06:22,660
+If your gain was an island, which was the face of the clock.
+
+77
+00:06:22,660 --> 00:06:24,140
+I think you're probably good, man.
+
+78
+00:06:24,140 --> 00:06:27,260
+If you have a sundial.
+
+79
+00:06:27,260 --> 00:06:30,460
+If you have a sundial.
+
+80
+00:06:30,460 --> 00:06:34,780
+Now if you have a sundial, brother.
+
+81
+00:06:34,780 --> 00:06:36,580
+This is my character, by the way.
+
+82
+00:06:36,580 --> 00:06:37,580
+Oh good.
+
+83
+00:06:37,580 --> 00:06:43,080
+You might not be able to tell time on a foggy day.
+
+84
+00:06:43,080 --> 00:06:47,580
+So let's get right into this, because it's already nighttime.
+
+85
+00:06:47,580 --> 00:06:51,220
+The sun has been down for a minute at this point.
+
+86
+00:06:51,220 --> 00:06:55,180
+The premise that I sent you all.
+
+87
+00:06:55,180 --> 00:06:57,620
+I think we got it this time.
+
+88
+00:06:57,620 --> 00:06:58,620
+I hope so.
+
+89
+00:06:58,620 --> 00:06:59,620
+Maybe.
+
+90
+00:06:59,620 --> 00:07:04,620
+I'll go ahead and hit record now.
+
+91
+00:07:04,620 --> 00:07:05,620
+Is this recording?
+
+92
+00:07:05,620 --> 00:07:06,620
+Speed.
+
+93
+00:07:06,620 --> 00:07:07,620
+Fuck.
+
+94
+00:07:07,620 --> 00:07:15,380
+Um, the premise that I sent you all for tonight's recording session is as follows.
+
+95
+00:07:15,380 --> 00:07:19,620
+You all choose an animal you'd like to be.
+
+96
+00:07:19,620 --> 00:07:23,860
+Bean was a revered member of the Contention Critter Coalition.
+
+97
+00:07:23,860 --> 00:07:29,020
+The leader, a wise squirrel, is calling out to those who have survived by joining the
+
+98
+00:07:29,020 --> 00:07:33,140
+newly founded Contention Creek Critter Coalition.
+
+99
+00:07:33,140 --> 00:07:38,100
+They need the most highly trained, well-balanced strike team ever assembled to go on a near
+
+100
+00:07:38,100 --> 00:07:45,980
+suicide mission to save Bean, the most thoughtful and caring creature in the whole coalition.
+
+101
+00:07:45,980 --> 00:07:53,260
+And to pull off this rescue, you'll have to avoid the black goo and some humans too.
+
+102
+00:07:53,260 --> 00:07:55,980
+First thoughts when you read that.
+
+103
+00:07:55,980 --> 00:07:56,980
+And don't be mean.
+
+104
+00:07:56,980 --> 00:07:57,980
+Ooh, boy!
+
+105
+00:07:57,980 --> 00:08:01,580
+No, Zach, but what's the real scenario we're doing?
+
+106
+00:08:01,580 --> 00:08:03,420
+Yeah, be serious.
+
+107
+00:08:03,420 --> 00:08:07,260
+Oh, there's like dead kids or something?
+
+108
+00:08:07,260 --> 00:08:08,260
+Good.
+
+109
+00:08:08,260 --> 00:08:09,260
+That's bad.
+
+110
+00:08:09,260 --> 00:08:12,340
+Oh, their bodies are filled with maggots and shit?
+
+111
+00:08:12,340 --> 00:08:14,340
+No, no, I do want to-
+
+112
+00:08:14,340 --> 00:08:15,340
+No, actual shit.
+
+113
+00:08:15,700 --> 00:08:18,700
+I do want to say everybody's body is filled with actual shit.
+
+114
+00:08:18,700 --> 00:08:20,620
+That's where shit comes from.
+
+115
+00:08:20,620 --> 00:08:26,020
+Have you read the famous book, Everybody Shits?
+
+116
+00:08:26,020 --> 00:08:27,260
+Near suicide mission.
+
+117
+00:08:27,260 --> 00:08:32,140
+It better be a near suicide mission because like we talked about on the Q&A episode, if
+
+118
+00:08:32,140 --> 00:08:37,860
+any of these animals die, we will hold you personally responsible.
+
+119
+00:08:37,860 --> 00:08:41,460
+If my character dies, I will destroy the podcast.
+
+120
+00:08:41,460 --> 00:08:42,800
+Yeah, I quit.
+
+121
+00:08:42,800 --> 00:08:44,660
+I quit if any of these animals die.
+
+122
+00:08:44,980 --> 00:08:49,620
+On your character sheet, under equipment, does it say plot armor?
+
+123
+00:08:49,620 --> 00:08:50,620
+Yes.
+
+124
+00:08:50,620 --> 00:08:51,620
+Yeah.
+
+125
+00:08:51,620 --> 00:08:52,940
+You told us all that.
+
+126
+00:08:52,940 --> 00:08:56,500
+It says I'm a cute animal and it would fucking suck.
+
+127
+00:08:56,500 --> 00:08:58,340
+It would be bad podcast.
+
+128
+00:08:58,340 --> 00:09:02,980
+It would be bad radio if you killed a bunch of animals.
+
+129
+00:09:02,980 --> 00:09:03,980
+You can do anything to-
+
+130
+00:09:03,980 --> 00:09:08,940
+I'm going to report you to PETA right now.
+
+131
+00:09:08,940 --> 00:09:10,940
+What if you do, though, die?
+
+132
+00:09:10,940 --> 00:09:12,940
+Let's just try not to die.
+
+133
+00:09:13,940 --> 00:09:20,780
+I think as soon as you start thinking about how you're going to describe an animal dying
+
+134
+00:09:20,780 --> 00:09:28,420
+violently, you'll realize that you shouldn't be doing that on air and you will-
+
+135
+00:09:28,420 --> 00:09:30,300
+Well, we'll see.
+
+136
+00:09:30,300 --> 00:09:34,700
+We will see how my opinions of children versus animals-
+
+137
+00:09:34,700 --> 00:09:35,700
+Oh my gosh.
+
+138
+00:09:35,700 --> 00:09:37,420
+Okay, I'm changing my character.
+
+139
+00:09:37,420 --> 00:09:39,420
+It's a cat named Ramona.
+
+140
+00:09:43,500 --> 00:09:46,340
+If I were crazy, then would you still-
+
+141
+00:09:46,340 --> 00:09:47,340
+That's my kryptonite.
+
+142
+00:09:51,580 --> 00:09:53,740
+I didn't want to keep singing.
+
+143
+00:09:53,740 --> 00:09:54,740
+Thank you.
+
+144
+00:09:54,740 --> 00:09:59,740
+All right, I'm going to hit record now.
+
+145
+00:09:59,740 --> 00:10:03,420
+Went ahead and backspaced on this recording.
+
+146
+00:10:03,420 --> 00:10:11,620
+It is a brisk December 5th here in contention, made all the more bleak by the necessity
+
+147
+00:10:11,620 --> 00:10:13,220
+of the water.
+
+148
+00:10:13,220 --> 00:10:19,540
+Numbed by the frigid waters or the cutting winds, this brutally arctic reality was far
+
+149
+00:10:19,540 --> 00:10:22,140
+greater than the alternative.
+
+150
+00:10:22,140 --> 00:10:27,260
+The contention critter coalition has made their home here in Coles Creek, the survivors
+
+151
+00:10:27,260 --> 00:10:31,340
+rebranding themselves as the contention critter- fuck.
+
+152
+00:10:31,340 --> 00:10:34,300
+The contention creek critter coalition.
+
+153
+00:10:34,300 --> 00:10:40,660
+Now are these animals who spell adorably wrong with Ks because then the first name is fucked
+
+154
+00:10:41,220 --> 00:10:42,740
+No, they're Cs.
+
+155
+00:10:42,740 --> 00:10:44,180
+It's always Cs, Thomas.
+
+156
+00:10:44,180 --> 00:10:47,300
+When there's three Cs in a row, it's Cs.
+
+157
+00:10:47,300 --> 00:10:50,580
+All my Cs are hard, dude.
+
+158
+00:10:50,580 --> 00:10:57,860
+They rebranded themselves as the contention creek critter coalition for accuracy and additional
+
+159
+00:10:57,860 --> 00:10:59,380
+alliteration.
+
+160
+00:10:59,380 --> 00:11:03,860
+The contention creek critter coalition has gathered to hear an announcement from its
+
+161
+00:11:03,860 --> 00:11:11,860
+esteemed leader and wisest member, the old grey squirrel called Stallone.
+
+162
+00:11:13,860 --> 00:11:16,900
+We are in an unprecedented time.
+
+163
+00:11:16,900 --> 00:11:20,180
+Look around, look at what's left of us.
+
+164
+00:11:20,180 --> 00:11:24,340
+Tired, empty, shivering, the enemy.
+
+165
+00:11:24,340 --> 00:11:32,100
+And they point to both banks of Coles Creek where masses of writhing black ooze sloppily
+
+166
+00:11:32,180 --> 00:11:38,660
+spill back and forth, attempting to nip at any animals near to the shore, but consistently
+
+167
+00:11:38,660 --> 00:11:42,100
+careful enough to avoid falling into the water.
+
+168
+00:11:42,100 --> 00:11:50,580
+The enemy is unknown, but its effect has a lasting effect on the memory.
+
+169
+00:11:50,580 --> 00:11:56,420
+Few here have survived without witnessing at least one close companion consumed by this
+
+170
+00:11:56,420 --> 00:11:58,100
+unspeakable foe.
+
+171
+00:11:58,100 --> 00:12:06,180
+But I hold high hopeful hearsay, our admirable, admirable and astonishingly astute ally, the
+
+172
+00:12:06,180 --> 00:12:12,980
+golden retriever called Bean is still alive, though he is trapped.
+
+173
+00:12:13,620 --> 00:12:17,940
+His person has continued to leave him locked in isolation.
+
+174
+00:12:17,940 --> 00:12:21,940
+The wish should be clear to everyone now that water is life.
+
+175
+00:12:22,900 --> 00:12:27,380
+Who among you are brave enough to take on this task?
+
+176
+00:12:27,940 --> 00:12:34,820
+To liberate Bean from his prison of a pin at Hotel Motel.
+
+177
+00:12:35,540 --> 00:12:42,180
+I volunteer and you see an old dog named Rusty.
+
+178
+00:12:42,820 --> 00:12:49,620
+He's not as fast or strong as he used to be, but he's still a big, good boy.
+
+179
+00:12:50,500 --> 00:12:54,660
+And I think he's probably been something of like a community organizer in these trying
+
+180
+00:12:54,660 --> 00:12:55,380
+times.
+
+181
+00:12:55,380 --> 00:12:57,140
+I will go find Beans.
+
+182
+00:12:57,140 --> 00:12:58,420
+Who is with me?
+
+183
+00:12:58,420 --> 00:13:01,220
+Well, if he's in, then I'm gonna be in.
+
+184
+00:13:01,220 --> 00:13:06,900
+And a woodpecker comes and lands on him and raises a wing up.
+
+185
+00:13:08,740 --> 00:13:11,620
+What do people know about this woodpecker?
+
+186
+00:13:11,620 --> 00:13:18,180
+Wilson the woodpecker, just a friendly guy about the coalition, almost like a like a
+
+187
+00:13:18,180 --> 00:13:26,580
+pigeon because he can carry messages between the creators of the coalition and he can understand
+
+188
+00:13:26,580 --> 00:13:29,220
+humans so he can feed them info.
+
+189
+00:13:29,220 --> 00:13:34,820
+So right off the bat, Stallone is like, Rusty and Wilson.
+
+190
+00:13:34,820 --> 00:13:36,740
+Yes, yes, of course.
+
+191
+00:13:36,740 --> 00:13:38,500
+Two of our finest.
+
+192
+00:13:38,500 --> 00:13:40,020
+And who else?
+
+193
+00:13:40,020 --> 00:13:43,860
+Who is willing to join these two brave souls?
+
+194
+00:13:45,140 --> 00:13:45,700
+Did you say Beans?
+
+195
+00:13:46,820 --> 00:13:48,020
+It's Bean that we're going after?
+
+196
+00:13:48,660 --> 00:13:51,140
+I'm in, I'm in.
+
+197
+00:13:51,140 --> 00:13:52,580
+I know Beans.
+
+198
+00:13:52,580 --> 00:13:54,660
+He's an old friend of mine.
+
+199
+00:13:55,460 --> 00:13:55,940
+Oh boy.
+
+200
+00:13:59,380 --> 00:14:02,260
+That characterization was great, but we were getting a lot of...
+
+201
+00:14:04,580 --> 00:14:06,820
+So what do we know about this character?
+
+202
+00:14:06,820 --> 00:14:08,660
+What do the other animals know?
+
+203
+00:14:08,660 --> 00:14:09,940
+And what is this name?
+
+204
+00:14:10,980 --> 00:14:14,820
+This is Tyler, and he's a black lab.
+
+205
+00:14:15,380 --> 00:14:20,660
+And he recently escaped his master, and he's on the run.
+
+206
+00:14:21,700 --> 00:14:26,020
+I don't want to interrupt our flow, but Joe, you're breaking up like crazy.
+
+207
+00:14:26,580 --> 00:14:27,460
+At least for me.
+
+208
+00:14:27,460 --> 00:14:29,140
+I don't know what to do about that.
+
+209
+00:14:29,140 --> 00:14:31,540
+Yeah, as long as it's not recording that way.
+
+210
+00:14:31,540 --> 00:14:34,100
+Okay, so that's our second dog.
+
+211
+00:14:34,100 --> 00:14:35,780
+Thomas, what kind of dog were you?
+
+212
+00:14:35,780 --> 00:14:36,980
+I didn't catch that.
+
+213
+00:14:36,980 --> 00:14:38,020
+Rusty is a mutt.
+
+214
+00:14:38,100 --> 00:14:42,740
+He's based off a dog I used to live with.
+
+215
+00:14:42,740 --> 00:14:47,860
+One of my roommate's dogs that she had fostered and then adopted.
+
+216
+00:14:48,500 --> 00:14:51,780
+He was a sweet, big old boy named Dracula.
+
+217
+00:14:54,420 --> 00:14:55,700
+Excellent name for a dog.
+
+218
+00:14:56,260 --> 00:15:02,580
+And he was just a big gray, maybe like a shepherd lab mix.
+
+219
+00:15:02,580 --> 00:15:03,460
+A big gray.
+
+220
+00:15:03,460 --> 00:15:05,700
+A very old boy, a very sweet boy.
+
+221
+00:15:06,340 --> 00:15:09,060
+Inky bones, but a lot of heart.
+
+222
+00:15:11,140 --> 00:15:12,980
+My achy, breaky heart.
+
+223
+00:15:12,980 --> 00:15:15,300
+Tyler's a black lab, is that what you said?
+
+224
+00:15:15,300 --> 00:15:16,500
+Yep, that is correct.
+
+225
+00:15:17,860 --> 00:15:19,700
+And who is Tyler's owner?
+
+226
+00:15:21,540 --> 00:15:22,180
+I'll just say it.
+
+227
+00:15:22,180 --> 00:15:25,060
+It's Kerry pages from like our second episode.
+
+228
+00:15:25,060 --> 00:15:26,900
+Clark was tasked with finding this dog.
+
+229
+00:15:28,500 --> 00:15:31,540
+We thought it was fitting that Joe would play said dog.
+
+230
+00:15:32,500 --> 00:15:36,660
+And Justin, a coward or are you taking this for spot?
+
+231
+00:15:36,660 --> 00:15:40,180
+I'm taking this for a spot out of the shadows.
+
+232
+00:15:40,180 --> 00:15:41,620
+Yeah, I'm just like, no, I'm not playing.
+
+233
+00:15:41,620 --> 00:15:42,900
+I'm just going to hang out with you guys.
+
+234
+00:15:44,100 --> 00:15:44,820
+I'm just watching.
+
+235
+00:15:44,820 --> 00:15:46,580
+Kind of undermine Zach.
+
+236
+00:15:47,220 --> 00:15:51,940
+I just go back to Justin every 15 minutes to describe how cold the water is.
+
+237
+00:15:53,060 --> 00:15:56,260
+Yeah, he is an animal, but he just stays behind.
+
+238
+00:15:56,260 --> 00:15:57,380
+Yeah, I'm playing a character.
+
+239
+00:15:57,380 --> 00:15:58,820
+He's comfortable.
+
+240
+00:15:59,380 --> 00:16:00,180
+He's hanging out.
+
+241
+00:16:00,660 --> 00:16:08,260
+Uh, no, out of, out of the shadows steps, uh, a very small, but proud creature.
+
+242
+00:16:08,980 --> 00:16:10,180
+It's a little chipmunk.
+
+243
+00:16:11,300 --> 00:16:15,060
+Hey, I think y'all are going to need some leadership for this today.
+
+244
+00:16:15,620 --> 00:16:16,820
+I'm chip Montgomery.
+
+245
+00:16:16,820 --> 00:16:17,620
+Y'all know me.
+
+246
+00:16:18,260 --> 00:16:19,460
+Y'all know me really well.
+
+247
+00:16:20,020 --> 00:16:22,100
+Should have been president, but that's okay.
+
+248
+00:16:22,100 --> 00:16:24,020
+Some peoples ain't meant for leadership.
+
+249
+00:16:24,660 --> 00:16:29,860
+You may have gotten the majority vote, but I won in the electoral college.
+
+250
+00:16:30,420 --> 00:16:31,060
+Yeah, we know.
+
+251
+00:16:31,060 --> 00:16:33,620
+We know it's bullshit, but I'm here.
+
+252
+00:16:33,620 --> 00:16:38,180
+Cause y'all seem like you could use an old hand besides old rusty here.
+
+253
+00:16:38,180 --> 00:16:39,220
+My days are numbered.
+
+254
+00:16:39,220 --> 00:16:42,340
+Anyway, I don't think chipmunks are long for this world.
+
+255
+00:16:42,340 --> 00:16:47,700
+I did assume rusty might take some sort of leadership role, but he could also be more
+
+256
+00:16:47,700 --> 00:16:52,900
+of a spiritual, uh, counsel, uh, chip.
+
+257
+00:16:52,900 --> 00:16:55,140
+Montgomery has obviously seen some shit.
+
+258
+00:16:55,700 --> 00:16:56,740
+He's quite fat.
+
+259
+00:16:56,740 --> 00:17:04,340
+Now his, uh, chipmunk for his grade over time, quite elderly, but still spry and full
+
+260
+00:17:04,340 --> 00:17:04,980
+of sass.
+
+261
+00:17:05,780 --> 00:17:07,540
+You're just rusty, but a chipmunk.
+
+262
+00:17:08,980 --> 00:17:09,380
+Maybe.
+
+263
+00:17:13,140 --> 00:17:19,860
+And as the four of you joined together, um, you try to figure out what differentiates
+
+264
+00:17:19,860 --> 00:17:27,540
+chip from rusty as looming in the background is this ooze that just kind of like follows
+
+265
+00:17:27,540 --> 00:17:33,060
+you, like mirrors your movements as, as you've grouped together up front near this, uh, this
+
+266
+00:17:33,060 --> 00:17:34,580
+elderly gray squirrel.
+
+267
+00:17:35,220 --> 00:17:42,580
+And he says to you, the first thing that you must do in front of everyone is figure out
+
+268
+00:17:42,580 --> 00:17:44,260
+how to get out of this Creek.
+
+269
+00:17:44,260 --> 00:17:50,180
+The black goo is everywhere and he watches, he watches our movements and he wants us.
+
+270
+00:17:50,180 --> 00:17:52,100
+Does the black goo have a smell?
+
+271
+00:17:52,100 --> 00:17:56,180
+Like what a dog who's, okay.
+
+272
+00:17:56,180 --> 00:17:58,660
+Well, I think we, we gotta get water on it, right?
+
+273
+00:17:58,660 --> 00:17:59,780
+How would animals do that?
+
+274
+00:18:00,820 --> 00:18:02,420
+Let's talk like we're animals.
+
+275
+00:18:02,420 --> 00:18:04,020
+You could get wet and shake it all.
+
+276
+00:18:04,980 --> 00:18:05,380
+Yeah.
+
+277
+00:18:05,380 --> 00:18:12,660
+Rusty, uh, rusty rolls around in the Creek, uh, and then stands right by the bed and gives
+
+278
+00:18:12,660 --> 00:18:17,460
+it a big old dog shake and just flashes water everywhere.
+
+279
+00:18:17,460 --> 00:18:19,860
+And does the, does the goo flee from the water?
+
+280
+00:18:19,860 --> 00:18:20,660
+Oh, absolutely.
+
+281
+00:18:20,660 --> 00:18:21,140
+It does.
+
+282
+00:18:21,140 --> 00:18:22,900
+Then Tyler's going to follow suit.
+
+283
+00:18:22,900 --> 00:18:24,180
+That looks like it works.
+
+284
+00:18:24,180 --> 00:18:29,140
+Chip Montgomery gets a little tiny like cap off of like a little nut and fills it with
+
+285
+00:18:29,140 --> 00:18:35,460
+water and tries to like fireman bucket on top of chip.
+
+286
+00:18:35,460 --> 00:18:37,940
+What I think you should do is hop on.
+
+287
+00:18:37,940 --> 00:18:42,260
+I think you shouldn't tell me what I'm supposed to be doing or not doing brother.
+
+288
+00:18:43,300 --> 00:18:48,100
+I, um, or at the end, I'm just, I'm just a spiritual counsel.
+
+289
+00:18:48,100 --> 00:18:53,860
+So this is just some sage advice, but, uh, perhaps you should hop on my back.
+
+290
+00:18:53,860 --> 00:19:01,220
+And because, because I'm, I'm pretty old and weak, perhaps if Tyler, who is spry and I
+
+291
+00:19:01,220 --> 00:19:02,900
+believe very good at jumping.
+
+292
+00:19:02,900 --> 00:19:03,060
+Yeah.
+
+293
+00:19:03,060 --> 00:19:03,300
+Yeah.
+
+294
+00:19:03,300 --> 00:19:04,180
+Come on, come on, get on the back.
+
+295
+00:19:04,180 --> 00:19:04,660
+Get on my back.
+
+296
+00:19:04,660 --> 00:19:05,460
+Come on, get on my back.
+
+297
+00:19:05,460 --> 00:19:07,060
+You can use my collar as a, as a brains.
+
+298
+00:19:07,060 --> 00:19:07,460
+Come on.
+
+299
+00:19:07,460 --> 00:19:08,740
+No, no, here's, here's what's up.
+
+300
+00:19:09,460 --> 00:19:12,980
+You shake, you shake and clear a path.
+
+301
+00:19:12,980 --> 00:19:17,140
+So these old bones can take me and me and chip.
+
+302
+00:19:17,140 --> 00:19:17,780
+Oh, okay.
+
+303
+00:19:17,780 --> 00:19:18,180
+Sure.
+
+304
+00:19:18,740 --> 00:19:20,500
+And then you leap over the goo.
+
+305
+00:19:20,500 --> 00:19:20,980
+You got it.
+
+306
+00:19:20,980 --> 00:19:21,860
+And I do it.
+
+307
+00:19:21,860 --> 00:19:23,300
+I like take off.
+
+308
+00:19:23,300 --> 00:19:28,020
+I got my, I got my mission and I'm, I'm soaking down, wiggling out some water.
+
+309
+00:19:28,020 --> 00:19:32,660
+And if I can get to a point, is there a path out of this goo or is it, does it cover the
+
+310
+00:19:32,660 --> 00:19:33,060
+land?
+
+311
+00:19:33,060 --> 00:19:36,020
+I mean, is there, is there a space that this, oh yeah.
+
+312
+00:19:36,020 --> 00:19:41,700
+So it's just, it is formed lines near the land just far enough, like a far apart from
+
+313
+00:19:41,700 --> 00:19:42,340
+each other.
+
+314
+00:19:42,340 --> 00:19:47,460
+Like the lines, like at the, like, if you're like heading to the paint in basketball, you
+
+315
+00:19:47,460 --> 00:19:48,580
+got those lines.
+
+316
+00:19:48,580 --> 00:19:49,860
+Did that make any sense?
+
+317
+00:19:49,860 --> 00:19:51,140
+Am I making any sense?
+
+318
+00:19:52,100 --> 00:19:56,420
+So like six feet in between chunks of black goo and then past that.
+
+319
+00:19:56,420 --> 00:19:57,700
+Yeah, no, it's free land.
+
+320
+00:19:57,700 --> 00:20:04,020
+They are clearly, they want to consume, but they cannot get into the water.
+
+321
+00:20:04,020 --> 00:20:04,580
+Gotcha.
+
+322
+00:20:04,580 --> 00:20:07,140
+But an athletic dog could definitely clear the gap.
+
+323
+00:20:07,700 --> 00:20:08,740
+Oh, Tyler?
+
+324
+00:20:11,060 --> 00:20:13,380
+Are we talking about Tyler right now?
+
+325
+00:20:13,380 --> 00:20:17,940
+Also, Luke's just a bird, so he kind of put the screws to your whole game, Zach.
+
+326
+00:20:19,060 --> 00:20:20,420
+I fly over.
+
+327
+00:20:20,420 --> 00:20:20,920
+Yeah.
+
+328
+00:20:22,260 --> 00:20:27,220
+I actually had this idea in my mind when I was coming up with this, that the birds would
+
+329
+00:20:27,220 --> 00:20:33,460
+be like in a different group, like in a different gang that's not affected, like the privileged.
+
+330
+00:20:33,540 --> 00:20:37,460
+They still could be, but like Willie's just cool enough that he transcends clicks.
+
+331
+00:20:37,460 --> 00:20:43,780
+Yeah, I think Willie should let me ride on him because the imagery is very cool.
+
+332
+00:20:50,100 --> 00:20:52,020
+What is the Wilson, the woodpecker doing?
+
+333
+00:20:52,020 --> 00:20:56,260
+I fly over the goo and I'm like, okay, I'll be waiting over here for you guys.
+
+334
+00:20:56,260 --> 00:20:57,220
+Tyler's running.
+
+335
+00:20:57,220 --> 00:21:01,620
+If he can, if he can clear the path with one swoop, he would just run out there, shaggy,
+
+336
+00:21:01,620 --> 00:21:04,980
+shaggy dog it, and then there'd be a little path there that they can follow.
+
+337
+00:21:04,980 --> 00:21:07,940
+Otherwise he's running back and forth, getting more water on his body,
+
+338
+00:21:07,940 --> 00:21:10,740
+clearing a little bit more, coming back, clearing a little bit more.
+
+339
+00:21:10,740 --> 00:21:15,940
+Let's see if you need to be saved while you're being the hero by having you roll here.
+
+340
+00:21:15,940 --> 00:21:22,900
+So basically in order to fully get out of this mess, you're going to have to roll either
+
+341
+00:21:22,900 --> 00:21:27,060
+one of your special skills or dexterity, probably.
+
+342
+00:21:27,060 --> 00:21:28,900
+I've got a special skill of jumping.
+
+343
+00:21:28,900 --> 00:21:30,180
+He's a really good jumper.
+
+344
+00:21:30,180 --> 00:21:31,380
+He can leap over fences.
+
+345
+00:21:31,380 --> 00:21:33,380
+That's how he got out of his last yard.
+
+346
+00:21:33,380 --> 00:21:33,620
+Yeah.
+
+347
+00:21:33,620 --> 00:21:39,860
+So real quick explanation for how we're doing mechanics for this little one shot here.
+
+348
+00:21:39,860 --> 00:21:46,660
+We're using the six stats from Delta Green, which are somebody else, please.
+
+349
+00:21:46,660 --> 00:21:52,500
+There's strength, constitution, power, intelligence, dexterity, and charisma.
+
+350
+00:21:52,500 --> 00:21:58,100
+And I gave them the points of 20, 30, 40, 50, 60, 70.
+
+351
+00:21:58,100 --> 00:21:58,420
+Yep.
+
+352
+00:21:58,420 --> 00:22:00,980
+For those six, they got to put those wherever they wanted.
+
+353
+00:22:00,980 --> 00:22:07,700
+And then I said you guys could have two special abilities that would both be at 75%.
+
+354
+00:22:08,820 --> 00:22:12,500
+And I guess we'll figure out what those are as we play the game.
+
+355
+00:22:12,500 --> 00:22:15,460
+One of Joe's for Tyler is jumping.
+
+356
+00:22:16,180 --> 00:22:17,620
+So go ahead and roll, baby.
+
+357
+00:22:21,460 --> 00:22:23,620
+I pass a 40 on a 75.
+
+358
+00:22:23,620 --> 00:22:26,180
+40 on a 75 success.
+
+359
+00:22:26,180 --> 00:22:32,260
+So as you fully pushed through this barricade of black goo,
+
+360
+00:22:32,260 --> 00:22:36,020
+you can get rusty and chip up and through.
+
+361
+00:22:36,020 --> 00:22:41,540
+Like if this was red Rover, you know, you would have came all over past.
+
+362
+00:22:42,660 --> 00:22:43,060
+Jesus.
+
+363
+00:22:44,980 --> 00:22:46,260
+That's how that game is played.
+
+364
+00:22:49,540 --> 00:22:51,060
+And you broke the barricade.
+
+365
+00:22:51,060 --> 00:22:52,740
+You were red rocket.
+
+366
+00:22:56,740 --> 00:22:59,700
+Red rocket, red rocket.
+
+367
+00:22:59,700 --> 00:23:00,580
+I'm coming on.
+
+368
+00:23:02,820 --> 00:23:04,260
+And no one can stop me.
+
+369
+00:23:05,860 --> 00:23:06,820
+Oh boy.
+
+370
+00:23:06,820 --> 00:23:07,780
+We're in the Creek now.
+
+371
+00:23:10,180 --> 00:23:14,260
+And bounding over you've hit the main, uh, the main roadway
+
+372
+00:23:14,260 --> 00:23:16,660
+and contention that leads from the highway down.
+
+373
+00:23:16,660 --> 00:23:21,860
+You might not know this, uh, depending on how, uh, well-versed you guys are,
+
+374
+00:23:21,860 --> 00:23:24,660
+but you do know where hotel motel is.
+
+375
+00:23:24,660 --> 00:23:28,820
+As you have hung out with being a fair few times in the parking lot,
+
+376
+00:23:28,820 --> 00:23:33,060
+where he hosts, uh, anyone and everyone who just wants to come and chill
+
+377
+00:23:33,060 --> 00:23:34,580
+and have like a great time.
+
+378
+00:23:34,580 --> 00:23:40,580
+As long as his person remembers to leave the door unlocked for him.
+
+379
+00:23:40,580 --> 00:23:45,460
+So as you guys are crossing, I need, uh, let's see, how about I roll?
+
+380
+00:23:45,460 --> 00:23:51,140
+Um, I'm going to roll a D4 to see, uh, which one of you this affects.
+
+381
+00:23:52,100 --> 00:23:54,660
+And hopefully it's not Thomas.
+
+382
+00:23:55,380 --> 00:23:56,660
+Uh, let's see.
+
+383
+00:23:56,660 --> 00:23:58,820
+We'll do one is Luke.
+
+384
+00:23:58,820 --> 00:23:59,700
+Two is Justin.
+
+385
+00:23:59,700 --> 00:24:00,100
+I'm here.
+
+386
+00:24:00,100 --> 00:24:01,140
+I'm just grabbing my guys.
+
+387
+00:24:02,180 --> 00:24:03,860
+Three is Thomas.
+
+388
+00:24:03,860 --> 00:24:05,940
+And four is Joe.
+
+389
+00:24:05,940 --> 00:24:07,300
+And this D4 says.
+
+390
+00:24:09,940 --> 00:24:14,500
+One Wilson, the woodpecker.
+
+391
+00:24:14,500 --> 00:24:16,500
+It's not a good thing as the four of you.
+
+392
+00:24:19,140 --> 00:24:20,020
+As the four of you.
+
+393
+00:24:20,020 --> 00:24:22,820
+I was deciding which one of your characters is really racist.
+
+394
+00:24:26,500 --> 00:24:28,980
+I would never make that kind of choice for you.
+
+395
+00:24:28,980 --> 00:24:29,620
+First off.
+
+396
+00:24:30,900 --> 00:24:32,420
+I would let you dig your own grip.
+
+397
+00:24:32,980 --> 00:24:33,620
+It's ironic.
+
+398
+00:24:33,620 --> 00:24:36,500
+And then promptly knock you straight off the podcast.
+
+399
+00:24:36,500 --> 00:24:42,340
+Luke, uh, you've got, uh, as Wilson, the woodpecker.
+
+400
+00:24:42,340 --> 00:24:46,180
+Are you flying or are you, uh, how, what is your mode of transport here?
+
+401
+00:24:46,180 --> 00:24:48,020
+Uh, am I in the group with them?
+
+402
+00:24:48,020 --> 00:24:49,380
+Like we're all together now?
+
+403
+00:24:49,380 --> 00:24:55,300
+Yeah, you've made it past the goo and the, uh, as you guys, as you guys rush through
+
+404
+00:24:55,300 --> 00:25:03,140
+this line and make it through with the intense, uh, bouts of jumping and dexterity and just
+
+405
+00:25:03,140 --> 00:25:08,900
+really a lot of, um, a lot of flair as you guys jump through this area.
+
+406
+00:25:08,900 --> 00:25:14,580
+It's almost like, uh, like a horse, uh, jumping through a hoop made of fire is
+
+407
+00:25:14,580 --> 00:25:20,020
+essentially what everyone else sees who is in the CCCC who's in this Creek.
+
+408
+00:25:20,020 --> 00:25:24,740
+And they all start cheering and chanting with lots of hurrahs and yippees.
+
+409
+00:25:24,740 --> 00:25:26,580
+And I knew they could do it.
+
+410
+00:25:26,580 --> 00:25:29,140
+Um, from the animals in the.
+
+411
+00:25:29,700 --> 00:25:32,820
+Essentially crowd at this point, watching you guys work your magic.
+
+412
+00:25:32,820 --> 00:25:35,860
+Rusty waxes down while they're doing that.
+
+413
+00:25:35,860 --> 00:25:39,780
+I'm on the other side of the goo and I'm eating a worm that I found on the ground.
+
+414
+00:25:39,780 --> 00:25:45,380
+Does the goo have sentience enough that it is chasing after us now that we've broken
+
+415
+00:25:45,380 --> 00:25:47,860
+its ranks or does it just chill by the Creek?
+
+416
+00:25:47,860 --> 00:25:52,340
+Still the goo is sticking behind, which you would know as because there's just, there's
+
+417
+00:25:52,340 --> 00:25:53,620
+more food there, right?
+
+418
+00:25:53,620 --> 00:25:58,660
+Even though the water is in between them and they can't get it there, they see, it sees
+
+419
+00:25:58,660 --> 00:26:02,420
+more that it can consume and therefore is distracted.
+
+420
+00:26:02,420 --> 00:26:07,380
+And the four of you make your way to the main drag of contention.
+
+421
+00:26:07,380 --> 00:26:13,380
+And you know that just on the other side of this drag is hotel motel, where the dopest
+
+422
+00:26:13,380 --> 00:26:16,020
+of dopes Bean resides.
+
+423
+00:26:17,140 --> 00:26:23,060
+As you approach this business highway, Wilson, are you in the air or are you on the ground?
+
+424
+00:26:23,060 --> 00:26:28,820
+In the air, but I'm like, uh, like on the ground critters level, like just like a foot
+
+425
+00:26:28,820 --> 00:26:30,420
+above, foot above the ground.
+
+426
+00:26:30,420 --> 00:26:37,140
+Up above you see, no, it, it can't be it's, I mean it is a possum, but it's not just
+
+427
+00:26:37,140 --> 00:26:37,940
+any possum.
+
+428
+00:26:37,940 --> 00:26:41,620
+It looks like it's, it's your friend.
+
+429
+00:26:41,620 --> 00:26:42,740
+It's common.
+
+430
+00:26:42,740 --> 00:26:45,060
+And he is laying on his back.
+
+431
+00:26:45,860 --> 00:26:51,460
+This adorable, adorable little possum that Wilson has known for years and years, just
+
+432
+00:26:51,460 --> 00:26:53,300
+right there on the side of the road.
+
+433
+00:26:53,300 --> 00:26:56,580
+I land and go over to him and like pick him.
+
+434
+00:26:56,580 --> 00:26:58,820
+I'm like, you do this all the time.
+
+435
+00:26:58,820 --> 00:26:59,460
+Come on, man.
+
+436
+00:26:59,460 --> 00:27:02,260
+Hey, what the fuck are you doing there, buddy?
+
+437
+00:27:02,260 --> 00:27:07,540
+You can't just come into me with your beak all like sharp and whatnots on me.
+
+438
+00:27:07,540 --> 00:27:09,460
+Why are you playing dead over here?
+
+439
+00:27:09,460 --> 00:27:14,500
+Well, you see, there was some of the mess coming through the area and heading on down
+
+440
+00:27:14,500 --> 00:27:16,580
+to y'all in the water.
+
+441
+00:27:16,580 --> 00:27:22,740
+And it don't find me nothing to be consuming for when I be laying on the backside.
+
+442
+00:27:22,740 --> 00:27:25,300
+Rusty sees a possum and starts barking.
+
+443
+00:27:25,300 --> 00:27:31,380
+Hey, why are you just barking when you could say words at me, friend?
+
+444
+00:27:31,380 --> 00:27:33,620
+Tyler starts barking because Rusty's barking.
+
+445
+00:27:36,900 --> 00:27:39,060
+Guys, this is, this is my friend Common.
+
+446
+00:27:39,060 --> 00:27:41,300
+He, uh, what are you doing here?
+
+447
+00:27:41,300 --> 00:27:48,020
+Well, I was making my way down to the water to hang out with you guys.
+
+448
+00:27:48,020 --> 00:27:53,700
+Cause I heard that you joined away from the birds, people who don't like me much no more
+
+449
+00:27:53,700 --> 00:27:55,300
+no way anyhow.
+
+450
+00:27:55,300 --> 00:28:01,780
+Well, we're on our way to, we're on our way to get bean, but, uh, you can go down to the
+
+451
+00:28:01,780 --> 00:28:03,220
+water if you want.
+
+452
+00:28:03,220 --> 00:28:04,100
+Yep, I do.
+
+453
+00:28:04,100 --> 00:28:05,060
+That was my plan.
+
+454
+00:28:05,060 --> 00:28:06,260
+And now I'm leaving.
+
+455
+00:28:06,260 --> 00:28:08,420
+Thanks for saying hi to all of you.
+
+456
+00:28:08,420 --> 00:28:10,260
+Thanks for barking at me and Chip.
+
+457
+00:28:11,620 --> 00:28:12,980
+I know what you did.
+
+458
+00:28:12,980 --> 00:28:13,620
+Wait a minute.
+
+459
+00:28:14,260 --> 00:28:16,980
+I don't think it's safe for him to be going down there alone.
+
+460
+00:28:17,540 --> 00:28:21,460
+You think a possum can clear whatever amount of slime is down there?
+
+461
+00:28:21,460 --> 00:28:29,700
+You think that looking out for my safety is worth repayment for what you did to my brother?
+
+462
+00:28:29,700 --> 00:28:30,580
+Chip, what'd you do to his brother?
+
+463
+00:28:30,580 --> 00:28:31,300
+What'd you do to his brother?
+
+464
+00:28:31,300 --> 00:28:32,180
+What'd you do to his brother?
+
+465
+00:28:33,060 --> 00:28:37,300
+I never liked no possum no how, and that's all I'll leave it at.
+
+466
+00:28:37,940 --> 00:28:39,860
+Well, first of all, possum is delicious.
+
+467
+00:28:40,580 --> 00:28:43,380
+Okay, now I'm really bailing on out of here.
+
+468
+00:28:44,420 --> 00:28:46,500
+Wilson, it's good to see you.
+
+469
+00:28:46,500 --> 00:28:48,740
+Weird crew you're running with these days.
+
+470
+00:28:48,900 --> 00:28:54,180
+Well, I heard Bean was in trouble, so I came down.
+
+471
+00:28:54,820 --> 00:29:00,180
+The birds are not too concerned with it, so I'm trying this group out to go get them.
+
+472
+00:29:00,180 --> 00:29:01,940
+You're a good man, Willie.
+
+473
+00:29:01,940 --> 00:29:05,300
+Could never trust no possum to be brave when it mattered none.
+
+474
+00:29:06,980 --> 00:29:09,140
+Ouch, that hurt my feelings.
+
+475
+00:29:12,500 --> 00:29:15,060
+I better go now before you seem to cry.
+
+476
+00:29:15,060 --> 00:29:20,660
+Back at Critter College, we called him O-Pussy.
+
+477
+00:29:24,820 --> 00:29:28,260
+He's a better man now that he's not in college anymore.
+
+478
+00:29:29,460 --> 00:29:30,980
+Well, see you later.
+
+479
+00:29:32,180 --> 00:29:36,260
+Bye, this has been a good encounter that definitely helped everyone a lot.
+
+480
+00:29:36,260 --> 00:29:39,860
+And as you guys pass over the road, you make it to the other side.
+
+481
+00:29:41,300 --> 00:29:43,140
+Did Colin have something to offer us?
+
+482
+00:29:45,060 --> 00:29:48,420
+Besides his next dope track?
+
+483
+00:29:50,340 --> 00:29:51,300
+No relation.
+
+484
+00:29:53,540 --> 00:29:55,620
+Was that my role on me?
+
+485
+00:29:55,620 --> 00:29:56,180
+That was it?
+
+486
+00:29:57,780 --> 00:30:01,300
+I mean, anything could have happened, but that's what happened.
+
+487
+00:30:04,020 --> 00:30:05,780
+So you guys make it over to the other side.
+
+488
+00:30:05,780 --> 00:30:07,140
+I'll go back and kill him if you want me to.
+
+489
+00:30:10,260 --> 00:30:12,740
+Rusty, yeah, I was like, I'd really love to eat that possum.
+
+490
+00:30:15,220 --> 00:30:18,260
+He's my friend, don't need him until he's actually dead.
+
+491
+00:30:19,140 --> 00:30:29,620
+In the distance, you see Hotel Motel with its dimly kind of lit sign, and the parking lot
+
+492
+00:30:29,620 --> 00:30:39,380
+is not full at all, and the exterior doors of this place hold as much residue as a sink
+
+493
+00:30:39,380 --> 00:30:43,860
+that is owned by a 19-year-old boy, or girl for that matter.
+
+494
+00:30:43,860 --> 00:30:46,900
+19-year-olds just don't clean their sinks very often.
+
+495
+00:30:46,900 --> 00:30:48,020
+Basically, they're grody.
+
+496
+00:30:48,020 --> 00:30:50,980
+It's grody doors all over the external of this place.
+
+497
+00:30:52,020 --> 00:30:58,020
+And this is Hotel Motel, where you know that Bean is in one of these motel rooms.
+
+498
+00:30:58,020 --> 00:30:59,060
+We've met Bean before?
+
+499
+00:30:59,060 --> 00:31:03,620
+Oh yeah, he's the dopest golden retriever this side of the Mississippi, baby.
+
+500
+00:31:03,620 --> 00:31:07,620
+All rest he can't see so well no more, but he can still hear,
+
+501
+00:31:07,620 --> 00:31:10,740
+and he can still smell like a son of a bitch, literally.
+
+502
+00:31:11,300 --> 00:31:17,220
+So he's gonna try to sniff out Bean.
+
+503
+00:31:17,220 --> 00:31:21,460
+Go ahead and roll for me, Rusty.
+
+504
+00:31:21,460 --> 00:31:22,100
+83.
+
+505
+00:31:22,740 --> 00:31:23,460
+There's too much.
+
+506
+00:31:24,660 --> 00:31:25,380
+He's confused.
+
+507
+00:31:27,060 --> 00:31:32,660
+He's like, I almost smell him, but there's too much in the air.
+
+508
+00:31:32,660 --> 00:31:34,740
+I can't get a bean on what room he's in.
+
+509
+00:31:34,740 --> 00:31:38,180
+You can't get a bean on him whatsoever,
+
+510
+00:31:38,180 --> 00:31:45,140
+but you do hear a bit of a warble in the air that's singing along the winds,
+
+511
+00:31:45,140 --> 00:31:45,620
+and it's like...
+
+512
+00:31:50,100 --> 00:31:52,260
+Does it sound like Bean to us?
+
+513
+00:31:52,260 --> 00:31:56,260
+It does not sound like Bean, but it does sound like a dog.
+
+514
+00:31:58,340 --> 00:32:01,140
+Yeah, so besides smelling, the other thing Rusty can do is hear,
+
+515
+00:32:01,140 --> 00:32:03,060
+so he'd like to focus in on that sound.
+
+516
+00:32:04,740 --> 00:32:07,540
+13.
+
+517
+00:32:08,740 --> 00:32:12,260
+You hear, through this distinct warble in the air,
+
+518
+00:32:12,260 --> 00:32:15,300
+a rich, clear voice come through that says,
+
+519
+00:32:15,860 --> 00:32:17,700
+Hello there to all.
+
+520
+00:32:18,980 --> 00:32:27,060
+My name is Murphy, and I would like someone to let me out of this room.
+
+521
+00:32:29,460 --> 00:32:32,900
+Zach, do not put my fucking dog in a locked hotel room.
+
+522
+00:32:34,740 --> 00:32:42,500
+I do love the cameo, but if you even fictitiously harm him.
+
+523
+00:32:43,780 --> 00:32:44,340
+Oopsie.
+
+524
+00:32:47,140 --> 00:32:48,500
+By the way, I'm dead.
+
+525
+00:32:52,500 --> 00:32:54,020
+I'm the ghost of your dog.
+
+526
+00:32:56,740 --> 00:33:02,660
+I sure would like a friend in these troubling times.
+
+527
+00:33:02,660 --> 00:33:03,540
+Fuck you.
+
+528
+00:33:04,420 --> 00:33:05,860
+Fellers, you know what that means.
+
+529
+00:33:06,580 --> 00:33:12,420
+Contention Creek Critter, coalition don't leave no dog or aminal behind.
+
+530
+00:33:13,940 --> 00:33:14,580
+Namaste.
+
+531
+00:33:15,140 --> 00:33:16,020
+Namaste, brother.
+
+532
+00:33:18,660 --> 00:33:23,300
+And you guys see that to the right, there is a little office
+
+533
+00:33:23,300 --> 00:33:28,740
+where there's a front door with an open sign that is well lit.
+
+534
+00:33:29,380 --> 00:33:30,260
+Well lit.
+
+535
+00:33:30,260 --> 00:33:32,180
+And a different door.
+
+536
+00:33:32,180 --> 00:33:40,420
+There is a man who is pushing a cart with cleaning supplies and fresh towels on it.
+
+537
+00:33:40,980 --> 00:33:42,420
+Don't make me a janitor.
+
+538
+00:33:44,580 --> 00:33:45,300
+Wait, what?
+
+539
+00:33:46,500 --> 00:33:48,260
+If Murphy's there, I assume I'm there.
+
+540
+00:33:49,300 --> 00:33:50,340
+Oh sure, why not?
+
+541
+00:33:50,340 --> 00:33:51,060
+It's Thomas.
+
+542
+00:33:51,060 --> 00:33:52,260
+Thomas is a janitor.
+
+543
+00:33:54,180 --> 00:33:55,300
+No, you're a maid.
+
+544
+00:33:55,300 --> 00:33:56,660
+You've got fresh towels, baby.
+
+545
+00:33:56,660 --> 00:33:59,940
+I'm gonna go ahead and fly into that office, see if I can't find
+
+546
+00:34:00,820 --> 00:34:03,940
+ol' Keith's name on that list, see where Bean is.
+
+547
+00:34:03,940 --> 00:34:09,460
+And I fly towards the office thinking that the window is just open space.
+
+548
+00:34:13,620 --> 00:34:15,220
+What do you mean see his name?
+
+549
+00:34:16,820 --> 00:34:18,260
+I don't know what you mean.
+
+550
+00:34:18,260 --> 00:34:19,380
+What do you mean, what do you mean?
+
+551
+00:34:20,180 --> 00:34:21,380
+What are you talking about here?
+
+552
+00:34:21,940 --> 00:34:23,860
+You can only hear names.
+
+553
+00:34:23,860 --> 00:34:24,900
+Oh, I can read.
+
+554
+00:34:24,900 --> 00:34:26,180
+I went to college.
+
+555
+00:34:27,540 --> 00:34:29,140
+What is reading?
+
+556
+00:34:30,580 --> 00:34:33,460
+It's like human symbols that mean words.
+
+557
+00:34:34,100 --> 00:34:35,780
+You are not making one lick of sense.
+
+558
+00:34:35,780 --> 00:34:38,020
+Yeah, I don't follow none right here.
+
+559
+00:34:38,020 --> 00:34:38,820
+I'll trust you again.
+
+560
+00:34:38,820 --> 00:34:40,500
+Rusty and Ship roll sanity?
+
+561
+00:34:41,940 --> 00:34:42,660
+No, I'm just kidding.
+
+562
+00:34:45,140 --> 00:34:47,460
+But yeah, I fly through the window.
+
+563
+00:34:48,420 --> 00:34:49,220
+Doonk!
+
+564
+00:34:49,220 --> 00:34:50,900
+But there's some sort of force field.
+
+565
+00:34:52,420 --> 00:34:53,780
+What's a force field, brother?
+
+566
+00:34:54,500 --> 00:35:02,180
+The last thought running through your mind before you were stopped out of absolutely nowhere was,
+
+567
+00:35:02,180 --> 00:35:04,100
+holy shit, that's a big cat.
+
+568
+00:35:06,100 --> 00:35:08,580
+Am I knocked out or am I able to fly away?
+
+569
+00:35:09,300 --> 00:35:11,860
+So go ahead and mark one on your...
+
+570
+00:35:12,500 --> 00:35:16,340
+So we're doing a three check box system for damage here.
+
+571
+00:35:16,980 --> 00:35:21,220
+And if you take a bit of damage, that's minor damage.
+
+572
+00:35:21,220 --> 00:35:22,580
+That's the first box.
+
+573
+00:35:22,580 --> 00:35:25,140
+And if you take some more damage, that's going to be major damage.
+
+574
+00:35:25,140 --> 00:35:26,580
+That's the second box.
+
+575
+00:35:26,580 --> 00:35:30,900
+And then if you take damage a third time, you're going to have severe damage,
+
+576
+00:35:31,700 --> 00:35:36,100
+which is going to require a constitution rule to stay conscious.
+
+577
+00:35:36,100 --> 00:35:41,300
+Otherwise, you're going to have to have one of your teammates help you
+
+578
+00:35:41,300 --> 00:35:44,580
+in order to come back and rejoin the squad.
+
+579
+00:35:45,220 --> 00:35:51,220
+This mechanic that I straight up took one for one from Sam running us through that really fun
+
+580
+00:35:51,220 --> 00:35:54,980
+one shot right before all this quarantine broke out.
+
+581
+00:35:54,980 --> 00:35:56,900
+Rusty sees this happen.
+
+582
+00:35:57,620 --> 00:35:59,940
+The damn fool bird don't know about glass.
+
+583
+00:36:00,820 --> 00:36:03,380
+I've seen it happen many times in my...
+
+584
+00:36:04,260 --> 00:36:10,660
+He tries to multiply how many summers he's been by seven, but he can't because he's a dog.
+
+585
+00:36:14,740 --> 00:36:20,340
+So he just says, in my many summers, I've seen quite a few birds slam against the window.
+
+586
+00:36:20,340 --> 00:36:25,540
+They don't know it's only good for sticking your nose up against and linking.
+
+587
+00:36:25,540 --> 00:36:28,660
+So I'm on the ground, very disoriented.
+
+588
+00:36:28,660 --> 00:36:30,020
+What the fuck just happened?
+
+589
+00:36:30,020 --> 00:36:33,940
+Rusty, in an attempt to revive you, sticks his nose up against you and licks you.
+
+590
+00:36:33,940 --> 00:36:34,580
+Hell yeah.
+
+591
+00:36:34,580 --> 00:36:36,180
+Describe it deeper.
+
+592
+00:36:36,180 --> 00:36:41,860
+Oh, he tries to put his ruffle feathers back in place.
+
+593
+00:36:41,860 --> 00:36:42,500
+He's just like...
+
+594
+00:36:44,100 --> 00:36:46,900
+Yeah, it's a very ginger, like, hey, are you all right?
+
+595
+00:36:46,900 --> 00:36:49,780
+Chip gets on the ground and starts shaking him violently.
+
+596
+00:36:51,060 --> 00:36:54,420
+Little tiny fat chipmunk is like, wake your damn ass up, bro.
+
+597
+00:36:55,780 --> 00:36:56,820
+We got work to do.
+
+598
+00:36:57,380 --> 00:37:02,180
+I get up and I stretch my wings out and flap them off to get any of the spit off.
+
+599
+00:37:02,180 --> 00:37:07,300
+And then I fly up and perch on the little thing next to the window and peck it.
+
+600
+00:37:07,940 --> 00:37:14,820
+And you wake up the giant cat that you saw that was sitting on top of the desk
+
+601
+00:37:14,820 --> 00:37:16,340
+right before you ran in this window.
+
+602
+00:37:16,340 --> 00:37:18,260
+As you peck, it kind of slowly...
+
+603
+00:37:22,020 --> 00:37:24,420
+Hello there, everybody.
+
+604
+00:37:25,460 --> 00:37:30,100
+My name's RoPo and welcome to Hotel Moto.
+
+605
+00:37:30,660 --> 00:37:33,380
+You know, I know you spend more time with her, but that's not RoPo's voice.
+
+606
+00:37:37,220 --> 00:37:39,060
+That's very funny, Tom.
+
+607
+00:37:39,060 --> 00:37:46,100
+I love my sister, Ramona.
+
+608
+00:37:47,140 --> 00:37:49,060
+Could you get Taylor in here to do it right, please?
+
+609
+00:37:49,620 --> 00:37:50,020
+Taylor!
+
+610
+00:37:53,380 --> 00:37:55,300
+Thomas wants to hear your RoPo voice.
+
+611
+00:37:58,500 --> 00:37:59,300
+Taylor gets on like...
+
+612
+00:38:03,700 --> 00:38:05,140
+It has to be better than mine.
+
+613
+00:38:05,620 --> 00:38:10,580
+Hi, guys, it's RoPo.
+
+614
+00:38:13,220 --> 00:38:18,260
+I came to tell you that I just took the biggest shot and it was so fun.
+
+615
+00:38:23,940 --> 00:38:25,780
+RoPo seems weirdly high energy.
+
+616
+00:38:26,740 --> 00:38:26,980
+Yeah.
+
+617
+00:38:28,340 --> 00:38:30,340
+Have you ever seen my ass?
+
+618
+00:38:30,340 --> 00:38:42,180
+That's what RoPo says all the time, though.
+
+619
+00:38:42,180 --> 00:38:42,660
+She's right.
+
+620
+00:38:43,460 --> 00:38:46,900
+Every time she walks up to you and she like rubs against you and meows, she's like,
+
+621
+00:38:46,900 --> 00:38:48,100
+have you seen my ass?
+
+622
+00:38:48,100 --> 00:38:49,060
+Have you seen my ass?
+
+623
+00:38:50,260 --> 00:38:53,780
+I can't find it because my belly's in the way.
+
+624
+00:38:54,500 --> 00:38:56,580
+Boys, I will be back in two shakes.
+
+625
+00:38:56,580 --> 00:38:58,820
+This is what we call...
+
+626
+00:38:58,820 --> 00:38:59,860
+Is it a pee break?
+
+627
+00:39:00,580 --> 00:39:01,380
+Pee break.
+
+628
+00:39:01,380 --> 00:39:02,900
+Everyone leave your recording going.
+
+629
+00:39:02,900 --> 00:39:04,740
+I'm gonna go break as well.
+
+630
+00:39:04,740 --> 00:39:07,060
+Question is, which voice do I come back with?
+
+631
+00:39:14,900 --> 00:39:15,620
+Are you sober?
+
+632
+00:39:16,980 --> 00:39:17,940
+I'm not smoking.
+
+633
+00:39:17,940 --> 00:39:18,900
+Oh, yeah.
+
+634
+00:39:18,900 --> 00:39:20,340
+And I'm out of edibles right now.
+
+635
+00:39:20,900 --> 00:39:21,540
+But I will...
+
+636
+00:39:22,100 --> 00:39:24,660
+I'm also intermittent fasting and...
+
+637
+00:39:25,940 --> 00:39:27,140
+I didn't know you were religious.
+
+638
+00:39:28,020 --> 00:39:31,780
+Yeah, I am really, really deeply religious.
+
+639
+00:39:31,780 --> 00:39:41,380
+And I don't think it's cool to personify animals because they don't have souls.
+
+640
+00:39:42,740 --> 00:39:44,020
+They're not going to heaven.
+
+641
+00:39:44,020 --> 00:39:44,980
+Oh, God.
+
+642
+00:39:44,980 --> 00:39:47,460
+That's for people who love Jesus.
+
+643
+00:39:49,300 --> 00:39:50,900
+A dog can't love Jesus.
+
+644
+00:39:50,900 --> 00:39:59,620
+So THC gets stored in your fat cells for a long ass time.
+
+645
+00:39:59,620 --> 00:40:01,860
+Are you saying and you're not fat anymore?
+
+646
+00:40:01,860 --> 00:40:04,340
+No, I'm still fat.
+
+647
+00:40:04,340 --> 00:40:11,700
+But when I intermittent fast, I definitely feel like I've taken a mild edible during
+
+648
+00:40:11,700 --> 00:40:15,860
+the course of the day, which is cool because my body is getting high on its own supply.
+
+649
+00:40:18,500 --> 00:40:19,780
+You got that slow release.
+
+650
+00:40:20,660 --> 00:40:23,140
+And then the only food he's eating is more edibles.
+
+651
+00:40:28,660 --> 00:40:29,540
+It's not the edibles.
+
+652
+00:40:30,900 --> 00:40:31,620
+It's my fat.
+
+653
+00:40:31,620 --> 00:40:35,700
+So which voice do you guys want me to do for RoPo?
+
+654
+00:40:35,700 --> 00:40:36,420
+Your Santa voice?
+
+655
+00:40:36,420 --> 00:40:38,260
+Whatever you feel comfortable with.
+
+656
+00:40:38,260 --> 00:40:42,100
+I like thinking of RoPo as a weird, big, jolly cat like that.
+
+657
+00:40:42,100 --> 00:40:42,580
+Yeah.
+
+658
+00:40:42,580 --> 00:40:44,020
+Santa Claus it is.
+
+659
+00:40:44,020 --> 00:40:44,340
+All right.
+
+660
+00:40:44,900 --> 00:40:49,700
+Welcome to Ho Ho Ho Ho Hotel Motel.
+
+661
+00:40:50,500 --> 00:40:52,180
+Tyler starts growling at the cat.
+
+662
+00:40:52,180 --> 00:40:52,740
+Yeah.
+
+663
+00:40:52,740 --> 00:40:56,180
+Rusty sees the cat and is startled and goes woof.
+
+664
+00:40:56,180 --> 00:40:56,820
+Hi.
+
+665
+00:40:56,820 --> 00:41:01,700
+RoPo's hair doesn't stand up even a little bit.
+
+666
+00:41:03,060 --> 00:41:04,900
+Are you guys trying to intimidate her?
+
+667
+00:41:04,900 --> 00:41:06,260
+Rusty, no, no, no.
+
+668
+00:41:06,260 --> 00:41:07,380
+It's just a reaction.
+
+669
+00:41:07,380 --> 00:41:11,780
+Rusty tilts his head to the side and then when he sees the cat is no threat, his tail
+
+670
+00:41:11,780 --> 00:41:12,340
+starts wagging.
+
+671
+00:41:12,420 --> 00:41:17,700
+Tyler starts doing like the growl starts to turn into a yip kinda and then like pause
+
+672
+00:41:17,700 --> 00:41:21,220
+down, backs up a little, pause forward, backs up a little.
+
+673
+00:41:21,220 --> 00:41:23,380
+Just trying to gaze what this cat's doing.
+
+674
+00:41:23,380 --> 00:41:24,660
+Hello, my friends.
+
+675
+00:41:24,660 --> 00:41:26,260
+Rusty, what you call this stuff?
+
+676
+00:41:26,260 --> 00:41:27,860
+This force field, what you call it?
+
+677
+00:41:28,820 --> 00:41:30,900
+Oh, it's a window.
+
+678
+00:41:30,900 --> 00:41:33,940
+Hey, RoPo, can you turn this window off?
+
+679
+00:41:38,420 --> 00:41:39,860
+That's a picture of me.
+
+680
+00:41:39,860 --> 00:41:41,620
+I would never want to get rid of it.
+
+681
+00:41:43,140 --> 00:41:47,300
+Would Chip know RoPo as a veteran of the 4C?
+
+682
+00:41:48,020 --> 00:41:51,380
+Chip, it's been a long time, hasn't it?
+
+683
+00:41:51,380 --> 00:41:55,220
+It's good to see you're doing well in these trying times, RoPo.
+
+684
+00:41:55,220 --> 00:41:58,420
+Looks like you haven't been hard up for food none lately.
+
+685
+00:41:58,420 --> 00:42:02,740
+Well, I see you are living lavishly as well, my good sir.
+
+686
+00:42:02,740 --> 00:42:06,100
+I miss our nights together every now and then.
+
+687
+00:42:06,100 --> 00:42:08,500
+Chip slaps his belly a few times.
+
+688
+00:42:08,500 --> 00:42:09,540
+He's like, yeah, brother.
+
+689
+00:42:13,060 --> 00:42:14,420
+That's the Chip I knew.
+
+690
+00:42:15,060 --> 00:42:16,100
+Hey, Cat.
+
+691
+00:42:16,100 --> 00:42:18,260
+Cat, don't you know there's a goo out there?
+
+692
+00:42:18,260 --> 00:42:21,060
+Don't you know it can get into buildings and such?
+
+693
+00:42:21,060 --> 00:42:21,860
+A what?
+
+694
+00:42:21,860 --> 00:42:22,580
+There's a goo.
+
+695
+00:42:22,580 --> 00:42:24,420
+There's a black goo that wants to eat everybody,
+
+696
+00:42:24,420 --> 00:42:26,180
+so all the critters are meeting down at the creek.
+
+697
+00:42:26,180 --> 00:42:28,740
+I've not seen this black goo.
+
+698
+00:42:29,780 --> 00:42:31,140
+Well, keep an eye out for it.
+
+699
+00:42:31,140 --> 00:42:36,580
+RoPo, we need your help to find someone or maybe a couple someones.
+
+700
+00:42:36,580 --> 00:42:41,540
+You know any animals that would be trapped or something in these parts?
+
+701
+00:42:41,540 --> 00:42:43,300
+Are you talking about the dogs?
+
+702
+00:42:43,300 --> 00:42:44,900
+Yeah, Murphy and Bean.
+
+703
+00:42:44,900 --> 00:42:45,380
+Bean.
+
+704
+00:42:45,380 --> 00:42:46,260
+Oh, you almost...
+
+705
+00:42:46,260 --> 00:42:47,700
+Oh, you do know their names.
+
+706
+00:42:48,820 --> 00:42:49,620
+Yes, of course.
+
+707
+00:42:50,340 --> 00:42:58,660
+Well, I'm not much for the symbols, but I believe you'll find where they are on those charts over there.
+
+708
+00:42:58,660 --> 00:43:00,660
+I want to look at the charts.
+
+709
+00:43:00,660 --> 00:43:01,140
+Can you...
+
+710
+00:43:01,140 --> 00:43:02,100
+Did you go to college?
+
+711
+00:43:02,740 --> 00:43:02,980
+Yes.
+
+712
+00:43:04,580 --> 00:43:05,380
+Can you enroll?
+
+713
+00:43:06,020 --> 00:43:07,380
+Critter Community College.
+
+714
+00:43:07,940 --> 00:43:08,180
+Yeah.
+
+715
+00:43:09,700 --> 00:43:10,500
+He's got a critter.
+
+716
+00:43:10,500 --> 00:43:11,780
+What is your skill for that?
+
+717
+00:43:13,940 --> 00:43:15,220
+Intelligence.
+
+718
+00:43:15,220 --> 00:43:15,540
+I thought...
+
+719
+00:43:15,540 --> 00:43:16,420
+Don't you have...
+
+720
+00:43:16,420 --> 00:43:18,420
+You said understand human, which I think means...
+
+721
+00:43:18,420 --> 00:43:22,500
+I could have sworn you had a special skill that meant you could understand, like...
+
+722
+00:43:22,500 --> 00:43:23,140
+Yeah, I can...
+
+723
+00:43:23,140 --> 00:43:23,540
+I have...
+
+724
+00:43:23,540 --> 00:43:26,100
+It's called a little birdie told me.
+
+725
+00:43:27,860 --> 00:43:28,180
+What?
+
+726
+00:43:31,220 --> 00:43:33,780
+When I told you that you could have special skills,
+
+727
+00:43:33,780 --> 00:43:40,180
+you wrote down somewhere that your special skill was a little birdie told me.
+
+728
+00:43:40,660 --> 00:43:44,980
+Yeah, which means I can understand humans and read.
+
+729
+00:43:45,940 --> 00:43:47,060
+I see it needs...
+
+730
+00:43:47,060 --> 00:43:48,500
+I think it has to be one or the other.
+
+731
+00:43:50,420 --> 00:43:52,500
+It's I understand human stuff.
+
+732
+00:43:57,620 --> 00:43:59,780
+Willie's like, have you guys watched The Wire?
+
+733
+00:44:03,380 --> 00:44:05,540
+Dude, I love human stuff.
+
+734
+00:44:05,540 --> 00:44:06,260
+Season two?
+
+735
+00:44:06,260 --> 00:44:06,980
+Are you kidding me?
+
+736
+00:44:08,500 --> 00:44:10,260
+Don't bother with season five.
+
+737
+00:44:10,260 --> 00:44:12,740
+This is now dictating that it's...
+
+738
+00:44:12,740 --> 00:44:15,220
+That you can read and understand stuff.
+
+739
+00:44:15,220 --> 00:44:15,540
+Okay.
+
+740
+00:44:16,500 --> 00:44:18,340
+So go ahead and roll those dice, baby.
+
+741
+00:44:19,860 --> 00:44:24,420
+But if people try to talk to you, boy, you ain't gonna know what they're saying?
+
+742
+00:44:24,420 --> 00:44:25,060
+60.
+
+743
+00:44:25,700 --> 00:44:26,980
+Oh, congratulations.
+
+744
+00:44:26,980 --> 00:44:31,380
+So it very clearly says, hey, Luke, do you know what room Keith Vigna is?
+
+745
+00:44:31,380 --> 00:44:33,300
+If we said it, it was probably seven.
+
+746
+00:44:33,860 --> 00:44:34,980
+I think it was.
+
+747
+00:44:34,980 --> 00:44:39,300
+And then we've got Murphy is on the first floor in room three.
+
+748
+00:44:39,380 --> 00:44:41,780
+We got to go to room seven and three.
+
+749
+00:44:42,340 --> 00:44:43,940
+Do you guys know what that means?
+
+750
+00:44:43,940 --> 00:44:44,340
+No.
+
+751
+00:44:44,340 --> 00:44:45,860
+What the hell are you talking about?
+
+752
+00:44:45,860 --> 00:44:51,780
+RoPo, can you help guide us here to whereabouts we're supposed to search for our friends?
+
+753
+00:44:51,780 --> 00:44:53,060
+Not even a little bit.
+
+754
+00:44:53,060 --> 00:44:56,180
+I believe it's the woodpecker that knows the symbols.
+
+755
+00:44:58,420 --> 00:45:01,860
+I don't know what your quest is or give a fuck about you.
+
+756
+00:45:03,620 --> 00:45:04,820
+Any more, Chip?
+
+757
+00:45:06,340 --> 00:45:07,540
+I dream of you.
+
+758
+00:45:07,540 --> 00:45:08,660
+This is a really tight...
+
+759
+00:45:08,660 --> 00:45:10,180
+This is a really tight game, guys.
+
+760
+00:45:11,940 --> 00:45:14,740
+I can read the symbols on the doors here.
+
+761
+00:45:15,380 --> 00:45:17,780
+This one's seven right here.
+
+762
+00:45:17,780 --> 00:45:19,860
+And I fly over to room seven.
+
+763
+00:45:19,860 --> 00:45:21,540
+Yeah, it's up on the second floor.
+
+764
+00:45:21,540 --> 00:45:23,620
+And you guys go to the stairs.
+
+765
+00:45:23,620 --> 00:45:27,300
+I go to three first then, since it's on the first floor, probably.
+
+766
+00:45:27,300 --> 00:45:29,300
+Is this the one that Bien is in?
+
+767
+00:45:29,300 --> 00:45:30,660
+Is this where Bien is?
+
+768
+00:45:30,660 --> 00:45:33,940
+This one right here is Murphy's, but it's closest.
+
+769
+00:45:33,940 --> 00:45:40,100
+Don't you think we should get beans?
+
+770
+00:45:40,100 --> 00:45:41,220
+He's our mission.
+
+771
+00:45:41,220 --> 00:45:42,820
+He might be able to help us get this other guy.
+
+772
+00:45:43,460 --> 00:45:45,780
+I think we should get beans.
+
+773
+00:45:45,780 --> 00:45:47,700
+What about the other way around?
+
+774
+00:45:47,700 --> 00:45:49,300
+Maybe Murphy can help us.
+
+775
+00:45:49,300 --> 00:45:51,700
+Yeah, and this first dog's on the first floor.
+
+776
+00:45:51,700 --> 00:45:54,100
+Tyler, I'm gonna need you to pull yourself together.
+
+777
+00:45:54,100 --> 00:45:56,980
+These old bones don't get upstairs too well.
+
+778
+00:45:56,980 --> 00:45:58,580
+Tyler starts chasing his tail.
+
+779
+00:45:59,140 --> 00:46:00,180
+He has stopped listening.
+
+780
+00:46:00,420 --> 00:46:07,460
+Can Chip Montgomery pick a little tiny pebble up and throw it at Tyler?
+
+781
+00:46:09,140 --> 00:46:10,660
+Don't throw rocks at dogs.
+
+782
+00:46:10,660 --> 00:46:14,420
+Like really, I'm talking, it's a chipmunk size pebble.
+
+783
+00:46:14,420 --> 00:46:18,580
+Wait, like a pebble for a chipmunk or a pebble that's the size of a chipmunk?
+
+784
+00:46:18,580 --> 00:46:22,180
+No, the pebble for a chipmunk.
+
+785
+00:46:22,180 --> 00:46:24,020
+Because if that's true, Chip is so strong.
+
+786
+00:46:24,020 --> 00:46:25,460
+Chip only has 20 strength.
+
+787
+00:46:25,460 --> 00:46:28,820
+He can barely, he can't lift his own body weight up.
+
+788
+00:46:29,620 --> 00:46:32,900
+Okay, so as this weird squabble is happening,
+
+789
+00:46:32,900 --> 00:46:38,820
+where the cartoon's rocks and chips are changing size rapidly back and forth,
+
+790
+00:46:38,820 --> 00:46:44,980
+I need you guys to roll if you have some sort of like perception ability,
+
+791
+00:46:44,980 --> 00:46:48,420
+special ability that is, or intelligence.
+
+792
+00:46:48,420 --> 00:46:49,860
+Should we all roll then?
+
+793
+00:46:49,860 --> 00:46:52,260
+Hearing and smelling counts as perception, right?
+
+794
+00:46:52,900 --> 00:46:54,180
+It absolutely does.
+
+795
+00:46:54,180 --> 00:46:58,980
+I failed an intelligence check.
+
+796
+00:46:58,980 --> 00:47:00,020
+I failed mine.
+
+797
+00:47:00,020 --> 00:47:03,940
+I passed an intelligence check of 12 on 50.
+
+798
+00:47:04,500 --> 00:47:09,380
+Yeah, fittingly, the two dogs immediately turn and look,
+
+799
+00:47:10,020 --> 00:47:16,660
+and you see driving by slowly is someone who is looking at you,
+
+800
+00:47:16,660 --> 00:47:22,020
+and in the shotgun seat, there's an old person with a cane,
+
+801
+00:47:22,020 --> 00:47:25,460
+and they're shaking the cane at all of you out the window,
+
+802
+00:47:25,460 --> 00:47:29,620
+and they're screaming something in their weird human language,
+
+803
+00:47:30,260 --> 00:47:34,100
+convincing the person who's on the phone to do something.
+
+804
+00:47:34,100 --> 00:47:38,420
+Thomas thinks they're probably calling, trying to call animal control.
+
+805
+00:47:38,420 --> 00:47:39,940
+So does Rusty.
+
+806
+00:47:39,940 --> 00:47:42,740
+Well, Rusty just knows they're up to no good.
+
+807
+00:47:43,780 --> 00:47:46,740
+He's like, I think we need to get a move on.
+
+808
+00:47:46,740 --> 00:47:47,700
+Scatter, brothers.
+
+809
+00:47:48,340 --> 00:47:51,380
+Tyler has been on the run for five days now,
+
+810
+00:47:51,380 --> 00:47:53,940
+and he knows how to avoid humans.
+
+811
+00:47:53,940 --> 00:47:59,220
+He's real skittish, and he's already probably running for under the stairs, maybe.
+
+812
+00:47:59,220 --> 00:48:06,420
+Yeah, and I think maybe even, Tyler, you've seen this caned person before.
+
+813
+00:48:06,420 --> 00:48:07,540
+He's my nemesis.
+
+814
+00:48:08,660 --> 00:48:09,780
+Yeah, exactly.
+
+815
+00:48:11,460 --> 00:48:15,700
+Famed Tyler nemesis, Greargin.
+
+816
+00:48:15,700 --> 00:48:16,660
+Greargin?
+
+817
+00:48:16,660 --> 00:48:17,540
+Fuck, guys, it's Greargin.
+
+818
+00:48:17,540 --> 00:48:18,820
+We have to get out of here.
+
+819
+00:48:18,820 --> 00:48:22,020
+The old contention person.
+
+820
+00:48:24,980 --> 00:48:27,300
+The 300-year-old founder of contention.
+
+821
+00:48:29,540 --> 00:48:30,580
+Nope, they're elsewhere.
+
+822
+00:48:30,580 --> 00:48:33,620
+He just won't die.
+
+823
+00:48:33,620 --> 00:48:34,580
+Wow, spoilies.
+
+824
+00:48:36,100 --> 00:48:37,060
+What are you guys doing?
+
+825
+00:48:39,140 --> 00:48:41,380
+How are you getting into room three or seven?
+
+826
+00:48:41,380 --> 00:48:45,460
+Is there a window on these, like a door with a window next to it?
+
+827
+00:48:45,460 --> 00:48:47,140
+Yeah, they all have a window next to them.
+
+828
+00:48:47,140 --> 00:48:50,500
+I want to peck on the glass of the room three.
+
+829
+00:48:50,500 --> 00:48:52,660
+Look who knows what glass is all of a sudden.
+
+830
+00:48:54,900 --> 00:48:56,660
+His allies taught him.
+
+831
+00:48:56,660 --> 00:48:57,940
+He found out the hard way.
+
+832
+00:48:57,940 --> 00:49:04,340
+That's honestly, that's the most character development we've had on any of the shows so far.
+
+833
+00:49:07,060 --> 00:49:07,560
+All right.
+
+834
+00:49:08,500 --> 00:49:14,900
+Is there any kind of ventilation shafts in and out of these rooms that a small rodent
+
+835
+00:49:14,900 --> 00:49:16,260
+could perhaps go into?
+
+836
+00:49:17,620 --> 00:49:19,060
+Oh, hell yeah, dude.
+
+837
+00:49:19,060 --> 00:49:19,940
+Of course there are.
+
+838
+00:49:20,660 --> 00:49:27,780
+Luke, Wilson is tapping on the glass and the curtain slowly opens with a dark chocolate.
+
+839
+00:49:27,780 --> 00:49:28,980
+I'm talking 92%.
+
+840
+00:49:29,860 --> 00:49:32,180
+Beautiful old dog.
+
+841
+00:49:32,180 --> 00:49:32,900
+Long hair.
+
+842
+00:49:33,620 --> 00:49:37,860
+And it looks at you with these gorgeous knowing eyes.
+
+843
+00:49:38,900 --> 00:49:44,260
+And it says, well, hello there, my good bird friend.
+
+844
+00:49:45,220 --> 00:49:47,700
+I sure would like to get out of this room.
+
+845
+00:49:47,700 --> 00:49:49,300
+Can you turn this window off?
+
+846
+00:49:53,940 --> 00:49:56,820
+Zach, that's, while that's not Murphy's voice, it's close.
+
+847
+00:49:56,820 --> 00:49:59,300
+So, oh, thanks dude.
+
+848
+00:49:59,300 --> 00:50:04,740
+Cut to Chip is running on hind legs through an air vent.
+
+849
+00:50:06,820 --> 00:50:08,340
+I'm really out of shape, my brother.
+
+850
+00:50:08,340 --> 00:50:08,900
+Oh God.
+
+851
+00:50:09,940 --> 00:50:11,780
+John McLean in it.
+
+852
+00:50:11,780 --> 00:50:13,140
+Chip, are you wearing shoes?
+
+853
+00:50:14,820 --> 00:50:20,180
+In my mind, I pictured him wearing like a weird, like fatigues for a little fat.
+
+854
+00:50:21,780 --> 00:50:22,820
+He's a warfatter.
+
+855
+00:50:23,540 --> 00:50:25,060
+He's like he's a prepper squirrel.
+
+856
+00:50:29,220 --> 00:50:31,940
+He's got some sick Nike's on combat.
+
+857
+00:50:31,940 --> 00:50:34,180
+No little combat boots for a chipmunk.
+
+858
+00:50:34,180 --> 00:50:37,540
+Oh man, Justin, I don't want to criticize your role-playing decisions, but you should
+
+859
+00:50:37,540 --> 00:50:38,740
+have been a chipmunk.
+
+860
+00:50:39,540 --> 00:50:43,460
+Oh, like bald on top or like Tony Shalhoub.
+
+861
+00:50:43,460 --> 00:50:44,660
+Oh, yes.
+
+862
+00:50:53,860 --> 00:50:54,900
+All right, let's start over.
+
+863
+00:50:54,900 --> 00:50:55,860
+I'm going to start the recording.
+
+864
+00:50:57,380 --> 00:51:02,820
+It is a brisk December 5th here in contention, made all the more bleak by the-
+
+865
+00:51:02,820 --> 00:51:06,820
+Hey, no shit, I would like, I would start over if you guys wanted to.
+
+866
+00:51:07,460 --> 00:51:07,780
+No.
+
+867
+00:51:07,780 --> 00:51:09,620
+I think we could do this a lot tighter.
+
+868
+00:51:09,620 --> 00:51:11,540
+I loved every second of this.
+
+869
+00:51:11,540 --> 00:51:11,860
+Okay.
+
+870
+00:51:11,860 --> 00:51:13,060
+I think this has been really good.
+
+871
+00:51:13,060 --> 00:51:15,700
+It hasn't been tight, but I like it loose.
+
+872
+00:51:19,220 --> 00:51:19,860
+You heard me.
+
+873
+00:51:22,260 --> 00:51:23,140
+Say what I said.
+
+874
+00:51:26,260 --> 00:51:27,220
+I don't like it loose.
+
+875
+00:51:28,100 --> 00:51:28,580
+Say it.
+
+876
+00:51:29,140 --> 00:51:30,340
+Zach likes it loose.
+
+877
+00:51:35,540 --> 00:51:36,740
+All right, good talk everybody.
+
+878
+00:51:36,740 --> 00:51:38,420
+Did you see my chat to the group?
+
+879
+00:51:38,980 --> 00:51:39,220
+Yes.
+
+880
+00:51:39,220 --> 00:51:39,460
+Yep.
+
+881
+00:51:39,780 --> 00:51:43,860
+Okay, what's Chippy doing?
+
+882
+00:51:43,860 --> 00:51:49,780
+Chip is sprinting as fast as his little chubby legs can take him to try and get to Murphy.
+
+883
+00:51:49,780 --> 00:51:52,900
+Oh yeah, you may get to the vent that's on the other side.
+
+884
+00:51:52,900 --> 00:51:56,260
+Is there a little, can I, is there like a little pocket I can squeeze through in the
+
+885
+00:51:56,260 --> 00:51:56,980
+ventilation?
+
+886
+00:51:59,380 --> 00:51:59,860
+What happened?
+
+887
+00:52:00,980 --> 00:52:03,620
+Yeah, but it's a really wide-
+
+888
+00:52:03,620 --> 00:52:04,980
+No, no, no, listen to me.
+
+889
+00:52:05,940 --> 00:52:06,020
+It's round.
+
+890
+00:52:06,020 --> 00:52:07,060
+It's really wide.
+
+891
+00:52:07,060 --> 00:52:12,500
+But it's really wide and there's some like oil that's just like dripping from it.
+
+892
+00:52:12,500 --> 00:52:13,300
+It's very strange.
+
+893
+00:52:15,060 --> 00:52:16,420
+Wait, what are we talking about?
+
+894
+00:52:16,420 --> 00:52:17,540
+Are we talking about your wife?
+
+895
+00:52:19,700 --> 00:52:20,420
+Holy shit.
+
+896
+00:52:20,420 --> 00:52:22,900
+That is extremely rude, Justin.
+
+897
+00:52:23,540 --> 00:52:27,220
+Yeah, why would you ever say that to me?
+
+898
+00:52:27,220 --> 00:52:45,220
+We are not lazy enough, basically.
+
+899
+00:52:45,220 --> 00:52:49,060
+Did Thomas just say, I'm the devil and I'll be back?
+
+900
+00:52:49,060 --> 00:52:50,660
+Yeah, I think that's what this meant.
+
+901
+00:52:50,660 --> 00:52:52,260
+Oh, Jesus Christ.
+
+902
+00:52:53,220 --> 00:52:54,580
+One, two, three.
+
+903
+00:52:57,940 --> 00:52:59,300
+All right, let's get back to it.
+
+904
+00:52:59,300 --> 00:53:03,860
+My earphones just said my battery is low, so I don't know how much, I don't know what
+
+905
+00:53:03,860 --> 00:53:04,340
+that means.
+
+906
+00:53:05,460 --> 00:53:06,340
+Wait, what?
+
+907
+00:53:07,300 --> 00:53:08,580
+I've got these wireless.
+
+908
+00:53:09,220 --> 00:53:09,620
+Yeah.
+
+909
+00:53:09,620 --> 00:53:12,260
+Can you plug them in while you're wearing them?
+
+910
+00:53:12,260 --> 00:53:15,940
+The cord's like this long, but it should, it should be fine.
+
+911
+00:53:17,300 --> 00:53:18,420
+So let's keep going.
+
+912
+00:53:19,060 --> 00:53:19,780
+Some-
+
+913
+00:53:19,780 --> 00:53:20,260
+Body.
+
+914
+00:53:22,260 --> 00:53:22,760
+Morns.
+
+915
+00:53:23,620 --> 00:53:24,020
+Yeah.
+
+916
+00:53:24,100 --> 00:53:31,940
+On my Animal Crossing game, I made the town theme song All Star.
+
+917
+00:53:33,060 --> 00:53:33,940
+That's really cute.
+
+918
+00:53:34,660 --> 00:53:41,700
+Okay, so you guys are on the outside of this window and the Wilson the woodpecker just
+
+919
+00:53:41,700 --> 00:53:44,660
+asked to turn the glass off.
+
+920
+00:53:44,660 --> 00:53:52,980
+The two dogs are right behind the woodpecker and Chip the chipmunk is about to bust into
+
+921
+00:53:52,980 --> 00:53:54,900
+a grate that is into this room.
+
+922
+00:53:54,900 --> 00:53:56,660
+Chip is always about to bust.
+
+923
+00:53:59,780 --> 00:54:02,180
+I explained that to Murphy.
+
+924
+00:54:02,180 --> 00:54:04,660
+I'm like, hold on there, little fella.
+
+925
+00:54:05,220 --> 00:54:08,420
+Help is coming in the form of a chipmunk.
+
+926
+00:54:08,420 --> 00:54:09,380
+Please don't eat it.
+
+927
+00:54:10,580 --> 00:54:15,300
+Although you might be tempted, he is on our side and he's going to help you get out of
+
+928
+00:54:15,300 --> 00:54:15,860
+that room.
+
+929
+00:54:15,860 --> 00:54:18,500
+I'm curious, do you guys have a plan, Chip?
+
+930
+00:54:18,500 --> 00:54:20,660
+Do you have a plan to help him get out of the room?
+
+931
+00:54:20,660 --> 00:54:24,820
+A real leader takes action and then thinks about it much later.
+
+932
+00:54:24,820 --> 00:54:30,660
+I'm assuming since we're all animals at every door in this hotel is a lever, not a knob.
+
+933
+00:54:31,220 --> 00:54:33,060
+This is a hotel motel for humans.
+
+934
+00:54:33,060 --> 00:54:34,740
+No, it's one of those things.
+
+935
+00:54:34,740 --> 00:54:35,380
+It's a push.
+
+936
+00:54:36,580 --> 00:54:38,100
+So it's just got like a push bar.
+
+937
+00:54:38,660 --> 00:54:39,860
+So none of the doors lock?
+
+938
+00:54:40,500 --> 00:54:41,380
+No, those lock.
+
+939
+00:54:41,380 --> 00:54:42,980
+You just have to use an Allen wrench.
+
+940
+00:54:42,980 --> 00:54:46,340
+I'm going to shout at Murphy from the ventilation.
+
+941
+00:54:46,900 --> 00:54:47,400
+Murphy.
+
+942
+00:54:48,180 --> 00:54:48,740
+Yeah.
+
+943
+00:54:48,820 --> 00:54:49,860
+Now I'm going to come on down.
+
+944
+00:54:49,860 --> 00:54:50,740
+Don't eat me now.
+
+945
+00:54:51,300 --> 00:54:51,800
+Okay.
+
+946
+00:54:52,900 --> 00:54:57,620
+I just really need you to promise me that there ain't going to be no eating of old chip
+
+947
+00:54:57,620 --> 00:54:58,120
+tonight.
+
+948
+00:54:58,740 --> 00:54:59,700
+Roll intelligence.
+
+949
+00:55:00,340 --> 00:55:02,420
+I would never even consider it.
+
+950
+00:55:02,420 --> 00:55:04,100
+I pass 38 on a 40.
+
+951
+00:55:04,100 --> 00:55:06,420
+Oh yeah, no, he would never even consider it.
+
+952
+00:55:07,300 --> 00:55:08,660
+All right now.
+
+953
+00:55:08,660 --> 00:55:12,260
+Well, to be fair, the real Murphy would absolutely consider it.
+
+954
+00:55:12,260 --> 00:55:15,300
+But if you explained it to him, he would know to hold off.
+
+955
+00:55:16,020 --> 00:55:17,140
+That's good to know.
+
+956
+00:55:19,380 --> 00:55:23,700
+Chip will, however he got through the other ventilation, like, I don't know, is it from
+
+957
+00:55:23,700 --> 00:55:26,260
+the ceiling I'm coming or below?
+
+958
+00:55:26,260 --> 00:55:26,900
+Oh yeah.
+
+959
+00:55:26,900 --> 00:55:27,220
+Yeah.
+
+960
+00:55:27,220 --> 00:55:27,940
+From the wall.
+
+961
+00:55:27,940 --> 00:55:31,460
+I have a climbing skill to, to get out safely.
+
+962
+00:55:31,460 --> 00:55:31,960
+Perfect.
+
+963
+00:55:32,660 --> 00:55:35,780
+Describe how you rappel down this hotel wall.
+
+964
+00:55:35,780 --> 00:55:41,780
+Well, uh, chip wants to use some of his old combat moves from the old days.
+
+965
+00:55:41,780 --> 00:55:45,540
+So I'd like to think he like does like a sick ass, like combat role.
+
+966
+00:55:45,620 --> 00:55:48,740
+Like he like slides down the wall with one hand on the wall.
+
+967
+00:55:48,740 --> 00:55:53,540
+So it slows him down with his little tiny, weird, creepy fingernails that rodents have.
+
+968
+00:55:53,540 --> 00:55:54,820
+And he goes down really slow.
+
+969
+00:55:54,820 --> 00:55:59,060
+And then as he lands, he does like a little combat role and like jumps up and he's like,
+
+970
+00:55:59,060 --> 00:56:00,260
+Oh, I love it.
+
+971
+00:56:00,260 --> 00:56:02,020
+Very, very flashy entrance.
+
+972
+00:56:02,020 --> 00:56:03,380
+He's like, now is my time.
+
+973
+00:56:04,820 --> 00:56:10,980
+Speaking of combat and Murphy, he has, uh, he has a hundred in all stats and he, instead
+
+974
+00:56:10,980 --> 00:56:13,380
+of three health boxes, he has a billion.
+
+975
+00:56:13,380 --> 00:56:16,180
+So, so you can't hurt him, Zach.
+
+976
+00:56:17,380 --> 00:56:18,900
+I think you know me better than that.
+
+977
+00:56:20,980 --> 00:56:21,220
+Yeah.
+
+978
+00:56:21,220 --> 00:56:21,860
+I think I do.
+
+979
+00:56:22,500 --> 00:56:23,940
+What do you think of me?
+
+980
+00:56:23,940 --> 00:56:26,660
+I think he would hurt my dog in a role-playing game
+
+981
+00:56:32,020 --> 00:56:35,380
+to elicit like a genuine emotional response from your players.
+
+982
+00:56:36,580 --> 00:56:41,620
+Tyler sees chip fall into the room and he goes and bumps his face into the window.
+
+983
+00:56:41,620 --> 00:56:42,020
+Excited.
+
+984
+00:56:45,140 --> 00:56:45,640
+Yeah.
+
+985
+00:56:46,180 --> 00:56:50,660
+Both the dogs seen the chipmunk forget it's their friend and like bark.
+
+986
+00:56:52,580 --> 00:56:57,220
+When Tyler bumps into the glass, uh, I'm like, Oh, that's a pretty good idea.
+
+987
+00:56:57,220 --> 00:56:59,380
+And I start pecking at the glass.
+
+988
+00:57:00,820 --> 00:57:03,860
+Oh, that's your skill.
+
+989
+00:57:03,860 --> 00:57:07,700
+I'm going to use my pecking skill to pack the glass.
+
+990
+00:57:07,700 --> 00:57:08,660
+Can you break it open?
+
+991
+00:57:09,860 --> 00:57:10,360
+Okay.
+
+992
+00:57:11,320 --> 00:57:15,960
+Luke Wilson, the woodpecker is standing on that little ledge that windows have.
+
+993
+00:57:16,840 --> 00:57:25,880
+And you begin slowly pack, pack, pack, pack, pack, pack, pack, pack, pack, pack, pack,
+
+994
+00:57:25,880 --> 00:57:31,080
+pack, pack, pack, pack, pack, pack, pack, pack, pack, pack, pack, pack, pack, pack,
+
+995
+00:57:31,080 --> 00:57:38,840
+and you start seeing like shards and then sparks as you're going so slowly.
+
+996
+00:57:39,800 --> 00:57:45,640
+So slowly through this glass, but your beak movement is so fast that these little
+
+997
+00:57:45,640 --> 00:57:48,360
+shards sparks of glass begin flying out.
+
+998
+00:57:48,360 --> 00:57:54,760
+And then finally you can smell the stale motel air on the other side.
+
+999
+00:57:55,400 --> 00:57:58,120
+And then the camera zooms out really fast and there's a
+
+1000
+00:57:59,480 --> 00:58:02,040
+as a bunch of different spider web breaks on the glass.
+
+1001
+00:58:02,040 --> 00:58:07,240
+And then it into pebbles as both dogs from the outside.
+
+1002
+00:58:08,200 --> 00:58:08,700
+No.
+
+1003
+00:58:09,560 --> 00:58:19,160
+As Murphy on the inside comes bounding through the glass to the outdoors being ridden by chip.
+
+1004
+00:58:20,040 --> 00:58:21,800
+And what is chip doing on top?
+
+1005
+00:58:21,800 --> 00:58:26,840
+He's a writing it like a Khaleesi does on the dragons where he's like holding it.
+
+1006
+00:58:32,360 --> 00:58:33,160
+That's great.
+
+1007
+00:58:33,160 --> 00:58:36,920
+He's up near its neck, like holding it and trying to guide it.
+
+1008
+00:58:37,240 --> 00:58:40,920
+Rusty gives Murphy a big old lick on the face because he's a good boy.
+
+1009
+00:58:40,920 --> 00:58:43,160
+And a lick is returned.
+
+1010
+00:58:43,160 --> 00:58:44,200
+Tyler sniffs his ass.
+
+1011
+00:58:45,000 --> 00:58:45,960
+Oh, how rude of me.
+
+1012
+00:58:48,200 --> 00:58:49,480
+Rusty sniffs his ass too.
+
+1013
+00:58:51,880 --> 00:58:53,160
+What kind of vibe do I pick up?
+
+1014
+00:58:55,160 --> 00:58:58,600
+Would we know Murphy or is Murphy news to us?
+
+1015
+00:58:58,600 --> 00:59:06,920
+So Murphy is just you've heard tell that there's an old wise wizard that lives in
+
+1016
+00:59:06,920 --> 00:59:14,520
+Hotel Motel, but you've never you've never met this Murphy, but he seems to just be
+
+1017
+00:59:14,520 --> 00:59:17,800
+here passing through or for a short time.
+
+1018
+00:59:17,800 --> 00:59:23,400
+No one really passes through contention, but people do come and leave shortly thereafter.
+
+1019
+00:59:23,400 --> 00:59:28,600
+Now, Murphy, we're part of something called the Contention Creek Critter Coalition,
+
+1020
+00:59:28,600 --> 00:59:31,400
+and we're here to help all the animals we can.
+
+1021
+00:59:31,400 --> 00:59:33,240
+And in particular one that's upstairs right now.
+
+1022
+00:59:34,920 --> 00:59:35,800
+We got to get up there.
+
+1023
+00:59:36,280 --> 00:59:40,840
+Murphy, have you have you smelled the other dog around here, Bean?
+
+1024
+00:59:40,840 --> 00:59:41,560
+Oh, yes.
+
+1025
+00:59:42,680 --> 00:59:45,000
+Up in room seven.
+
+1026
+00:59:46,120 --> 00:59:47,720
+Can you could you guide us there?
+
+1027
+00:59:48,280 --> 00:59:49,800
+Well, but of course.
+
+1028
+00:59:51,000 --> 00:59:52,920
+And then you're all standing outside room seven.
+
+1029
+00:59:52,920 --> 00:59:53,880
+Let's do it again, boys.
+
+1030
+00:59:53,880 --> 00:59:54,680
+Come on.
+
+1031
+00:59:54,680 --> 00:59:55,000
+Same.
+
+1032
+00:59:55,000 --> 00:59:55,160
+Yeah.
+
+1033
+00:59:55,160 --> 00:59:55,960
+Same game plan.
+
+1034
+00:59:56,520 --> 00:59:57,480
+Go for it, Willy.
+
+1035
+00:59:57,480 --> 00:59:58,200
+Holy shit.
+
+1036
+00:59:58,200 --> 01:00:00,120
+OK, hold up.
+
+1037
+01:00:00,120 --> 01:00:08,760
+Cut to the glass shattering as Bean, a gorgeous golden retriever, jumps through the window
+
+1038
+01:00:08,760 --> 01:00:10,440
+with Chip on his back.
+
+1039
+01:00:14,200 --> 01:00:15,080
+And we won.
+
+1040
+01:00:15,080 --> 01:00:17,080
+Thanks for subscribing to the Patreon.
+
+1041
+01:00:19,480 --> 01:00:20,600
+Is this a Patreon episode?
+
+1042
+01:00:21,240 --> 01:00:21,960
+Oh, it's high.
+
+1043
+01:00:21,960 --> 01:00:22,460
+Well.
+
+1044
+01:00:23,880 --> 01:00:24,760
+Go do it anyway.
+
+1045
+01:00:26,360 --> 01:00:27,960
+Thanks for nothing, cucks.
+
+1046
+01:00:27,960 --> 01:00:29,160
+Subscribe to the Patreon.
+
+1047
+01:00:30,360 --> 01:00:31,960
+Oh, boy.
+
+1048
+01:00:31,960 --> 01:00:33,640
+We got to get you back to safety, Bean.
+
+1049
+01:00:34,680 --> 01:00:36,200
+Wait, did that actually happen, though?
+
+1050
+01:00:36,200 --> 01:00:37,480
+Oh, hell yeah.
+
+1051
+01:00:37,480 --> 01:00:38,040
+Give us a.
+
+1052
+01:00:39,480 --> 01:00:41,000
+Hey, Luke, what is Bean sound like?
+
+1053
+01:00:41,000 --> 01:00:41,400
+Yeah.
+
+1054
+01:00:41,400 --> 01:00:42,600
+What should I do?
+
+1055
+01:00:42,600 --> 01:00:44,200
+Oh, he's like.
+
+1056
+01:00:45,160 --> 01:00:49,320
+Remember, you have the opportunity to describe a voice that Zach has to do.
+
+1057
+01:00:49,880 --> 01:00:50,760
+Do not waste.
+
+1058
+01:00:54,760 --> 01:00:56,840
+He sounds like Captain Peanut Butter.
+
+1059
+01:00:56,840 --> 01:00:58,200
+Mr. Peanut Butter?
+
+1060
+01:00:58,200 --> 01:00:59,640
+No, Captain Peanut Butter.
+
+1061
+01:00:59,640 --> 01:01:01,640
+The like Lumberjack.
+
+1062
+01:01:01,640 --> 01:01:02,680
+Mr. Peanut Butter.
+
+1063
+01:01:02,680 --> 01:01:04,520
+It's Mr. Peanut Butter's brother.
+
+1064
+01:01:04,520 --> 01:01:05,720
+Mr. Peanut Butter's brother.
+
+1065
+01:01:05,720 --> 01:01:06,200
+Gotcha.
+
+1066
+01:01:06,200 --> 01:01:06,680
+Yeah.
+
+1067
+01:01:06,680 --> 01:01:07,880
+BoJack Horseman, y'all.
+
+1068
+01:01:07,880 --> 01:01:08,200
+All right.
+
+1069
+01:01:08,200 --> 01:01:10,360
+Just do an excited Labrador voice then.
+
+1070
+01:01:15,080 --> 01:01:17,480
+So exactly Joe's voice.
+
+1071
+01:01:17,480 --> 01:01:20,120
+Do a different dog's voice for this dog.
+
+1072
+01:01:24,600 --> 01:01:25,960
+Does someone fart?
+
+1073
+01:01:25,960 --> 01:01:26,680
+What was that?
+
+1074
+01:01:26,760 --> 01:01:27,560
+Was that Luke?
+
+1075
+01:01:28,360 --> 01:01:29,400
+What did you fart?
+
+1076
+01:01:30,520 --> 01:01:32,200
+I think it was my chair.
+
+1077
+01:01:33,480 --> 01:01:38,200
+As soon as that sound happens, Luke, you coincidentally made a face like you farted
+
+1078
+01:01:38,200 --> 01:01:41,160
+and you knew it and you're a real squeaker.
+
+1079
+01:01:42,120 --> 01:01:45,000
+My headphones keep telling me I got low battery, so I was like.
+
+1080
+01:01:48,120 --> 01:01:50,040
+Luke, what is Bean sound like?
+
+1081
+01:01:50,040 --> 01:01:53,880
+Okay, he sounds like Woody from Toy Story.
+
+1082
+01:01:53,880 --> 01:01:55,400
+He sounds like Woody the Woodpecker.
+
+1083
+01:01:56,840 --> 01:02:00,200
+I'm Bean.
+
+1084
+01:02:01,960 --> 01:02:02,520
+There you go.
+
+1085
+01:02:05,000 --> 01:02:09,000
+Since Bean's dad is a cop, he's like a rebellious teenager.
+
+1086
+01:02:09,000 --> 01:02:09,720
+Okay.
+
+1087
+01:02:09,720 --> 01:02:11,160
+Yeah, that's good.
+
+1088
+01:02:11,160 --> 01:02:12,840
+Thanks for saving me, guys.
+
+1089
+01:02:12,840 --> 01:02:15,080
+But I was fine in there alone.
+
+1090
+01:02:15,080 --> 01:02:16,840
+How long have you been in there?
+
+1091
+01:02:16,840 --> 01:02:17,720
+How long have you been in there?
+
+1092
+01:02:17,720 --> 01:02:20,200
+Also, keep in mind, everyone loves this guy.
+
+1093
+01:02:23,240 --> 01:02:25,560
+I thought Bean was the smartest voice.
+
+1094
+01:02:26,760 --> 01:02:28,440
+Most compassionate and caring.
+
+1095
+01:02:28,440 --> 01:02:29,720
+What's up, fuck sticks?
+
+1096
+01:02:32,760 --> 01:02:34,600
+I'm so fucking smart.
+
+1097
+01:02:34,600 --> 01:02:36,520
+Hey, pussies, is your mom hot too?
+
+1098
+01:02:41,640 --> 01:02:42,440
+Jesus.
+
+1099
+01:02:42,440 --> 01:02:44,040
+Do you guys want to sniff my butt?
+
+1100
+01:02:44,040 --> 01:02:46,920
+If you'll let us.
+
+1101
+01:02:47,480 --> 01:02:48,680
+Yeah, hop on back here.
+
+1102
+01:02:50,040 --> 01:02:51,320
+Got you, dude.
+
+1103
+01:02:51,320 --> 01:02:52,280
+Ah, shit.
+
+1104
+01:02:53,240 --> 01:02:53,640
+Rusty.
+
+1105
+01:02:54,200 --> 01:02:56,760
+Did you guys see Rusty get a rusty eye?
+
+1106
+01:02:56,760 --> 01:02:57,960
+Oh, shit.
+
+1107
+01:02:57,960 --> 01:03:03,080
+Rusty is unbelievably honored that you would gift him with that extra smell.
+
+1108
+01:03:03,080 --> 01:03:04,040
+Dude, hell yeah, man.
+
+1109
+01:03:04,040 --> 01:03:05,480
+You got my stink on you now.
+
+1110
+01:03:05,480 --> 01:03:06,200
+Do you love it?
+
+1111
+01:03:06,920 --> 01:03:07,560
+I do.
+
+1112
+01:03:07,560 --> 01:03:08,040
+That would.
+
+1113
+01:03:08,040 --> 01:03:09,320
+Do you fucking love it?
+
+1114
+01:03:09,320 --> 01:03:10,360
+Let's get out of here, bro.
+
+1115
+01:03:10,360 --> 01:03:13,400
+That's one of the finest ass smells I've ever smelled.
+
+1116
+01:03:13,400 --> 01:03:14,360
+Oh, hell yeah.
+
+1117
+01:03:14,360 --> 01:03:16,120
+Thanks, Luke, for doing this to me.
+
+1118
+01:03:16,120 --> 01:03:18,360
+How long have you been trapped in here?
+
+1119
+01:03:18,360 --> 01:03:19,080
+Oh, God.
+
+1120
+01:03:19,080 --> 01:03:20,440
+This piece of shit, man.
+
+1121
+01:03:20,440 --> 01:03:21,560
+I don't even know.
+
+1122
+01:03:21,560 --> 01:03:25,640
+He's my bro-lo for ro-lo, but I don't even know-lo.
+
+1123
+01:03:27,720 --> 01:03:29,960
+How are you surviving in there all alone?
+
+1124
+01:03:29,960 --> 01:03:33,000
+Honestly, just jacking it nonstop.
+
+1125
+01:03:33,640 --> 01:03:36,440
+Just little red riding head lipstick in this motherfucker.
+
+1126
+01:03:36,440 --> 01:03:37,320
+Jack links.
+
+1127
+01:03:37,320 --> 01:03:38,680
+There's a bunch of jerky in there.
+
+1128
+01:03:38,680 --> 01:03:40,520
+Oh, just rocking my jerky.
+
+1129
+01:03:42,840 --> 01:03:44,040
+I hate this character.
+
+1130
+01:03:44,040 --> 01:03:45,080
+I hate this character.
+
+1131
+01:03:46,840 --> 01:03:49,240
+Yeah, let's put him back.
+
+1132
+01:03:49,240 --> 01:03:50,680
+Let's not rescue this guy.
+
+1133
+01:03:50,680 --> 01:03:51,180
+Yeah.
+
+1134
+01:03:53,080 --> 01:03:55,080
+Hey, Luke, what does Bean sound like?
+
+1135
+01:03:55,080 --> 01:03:56,440
+Like a little tiny girl.
+
+1136
+01:04:03,080 --> 01:04:04,840
+Thanks for saving me, guys.
+
+1137
+01:04:04,840 --> 01:04:08,840
+As you bust through, and the glass just pebbles down and cascades,
+
+1138
+01:04:08,840 --> 01:04:14,120
+and you're all standing there in a line from, like, tallest in the middle,
+
+1139
+01:04:14,120 --> 01:04:17,880
+and then, like, well-crafted shot design all the way through,
+
+1140
+01:04:17,960 --> 01:04:20,920
+and you're all standing in a line sideways, it's beautiful,
+
+1141
+01:04:20,920 --> 01:04:24,280
+and the glass just, like, shatters at your feet into pebbles,
+
+1142
+01:04:24,280 --> 01:04:27,160
+and then you see, like, in the foreground,
+
+1143
+01:04:27,160 --> 01:04:31,560
+the animal control van pulls up, and it is game time.
+
+1144
+01:04:31,560 --> 01:04:32,280
+Oh shit, the fuzz!
+
+1145
+01:04:34,920 --> 01:04:37,160
+The fuzz is here, but we can take him?
+
+1146
+01:04:37,160 --> 01:04:42,920
+Chip starts punching his little tiny fist into his little tiny hand over and over again.
+
+1147
+01:04:42,920 --> 01:04:45,400
+Make him surfer god instead of little girl.
+
+1148
+01:04:45,480 --> 01:04:46,920
+No time to sniff butts.
+
+1149
+01:04:47,560 --> 01:04:49,640
+We've got the man to take on.
+
+1150
+01:04:49,640 --> 01:04:51,160
+It's time to...
+
+1151
+01:04:51,160 --> 01:04:53,000
+To roll initiative, doggy style.
+
+1152
+01:04:55,880 --> 01:04:57,800
+Yes, a hundred percent that.
+
+1153
+01:04:57,800 --> 01:05:02,920
+Lettuce, tomato, roll your dice on dexterity.
+
+1154
+01:05:02,920 --> 01:05:04,200
+It's a deck structure.
+
+1155
+01:05:04,200 --> 01:05:05,000
+That's my worst.
+
+1156
+01:05:05,880 --> 01:05:07,880
+I got a 47 on a 60.
+
+1157
+01:05:07,880 --> 01:05:09,080
+I failed.
+
+1158
+01:05:09,080 --> 01:05:10,600
+17 on a 20.
+
+1159
+01:05:10,600 --> 01:05:13,080
+I passed with a 38 on a 70.
+
+1160
+01:05:13,080 --> 01:05:21,640
+The animal control folk rolled a 66 on a 60.
+
+1161
+01:05:24,040 --> 01:05:26,120
+So you will all get to go first.
+
+1162
+01:05:26,120 --> 01:05:28,520
+So you guys can decide as a group.
+
+1163
+01:05:29,800 --> 01:05:31,000
+Yes, absolutely.
+
+1164
+01:05:31,000 --> 01:05:31,720
+Literally, it's...
+
+1165
+01:05:32,760 --> 01:05:33,800
+God, who should it be?
+
+1166
+01:05:33,800 --> 01:05:36,360
+It should be a pair of doofuses.
+
+1167
+01:05:36,360 --> 01:05:40,760
+Well, I imagine it's just Ron and Hugo from...
+
+1168
+01:05:40,760 --> 01:05:41,960
+Oh, that's better.
+
+1169
+01:05:41,960 --> 01:05:43,480
+Except Rip Harris.
+
+1170
+01:05:44,840 --> 01:05:46,600
+Yeah, it'll be an honor.
+
+1171
+01:05:49,320 --> 01:05:51,480
+No, they're both Sewage Joe.
+
+1172
+01:05:51,480 --> 01:05:52,200
+Who's that?
+
+1173
+01:05:52,200 --> 01:05:53,160
+Sewage Joe?
+
+1174
+01:05:53,160 --> 01:05:54,120
+From Parks and Rec?
+
+1175
+01:05:54,760 --> 01:05:55,240
+Oh, yeah.
+
+1176
+01:05:55,240 --> 01:05:57,080
+Oh, the perverted guy.
+
+1177
+01:05:58,040 --> 01:05:58,540
+Yeah.
+
+1178
+01:05:59,000 --> 01:06:04,200
+One of them and then the surgeon on scrubs with the do-rag.
+
+1179
+01:06:04,200 --> 01:06:05,080
+Oh, the Todd.
+
+1180
+01:06:06,600 --> 01:06:07,720
+The Todd.
+
+1181
+01:06:07,720 --> 01:06:09,080
+Hell yeah, it's the Todd.
+
+1182
+01:06:09,080 --> 01:06:13,000
+And Sewage Joe.
+
+1183
+01:06:16,040 --> 01:06:17,000
+Fantastic.
+
+1184
+01:06:17,000 --> 01:06:19,720
+And both in dark blue jumpsuits.
+
+1185
+01:06:19,720 --> 01:06:21,640
+Oh yeah, I like that.
+
+1186
+01:06:21,640 --> 01:06:23,560
+And they both have taser guns.
+
+1187
+01:06:23,560 --> 01:06:25,480
+No, not guns, prods.
+
+1188
+01:06:25,480 --> 01:06:25,980
+Oh no.
+
+1189
+01:06:26,600 --> 01:06:28,120
+And they're just coming from Murphy.
+
+1190
+01:06:28,120 --> 01:06:34,040
+No, they're just coming from Murphy.
+
+1191
+01:06:34,040 --> 01:06:36,200
+Sacrifices themselves so that we may go...
+
+1192
+01:06:38,920 --> 01:06:40,440
+I quit the podcast forever.
+
+1193
+01:06:42,120 --> 01:06:43,000
+I love you, Luke.
+
+1194
+01:06:43,000 --> 01:06:43,800
+I love you, Justin.
+
+1195
+01:06:43,800 --> 01:06:44,600
+I love you, Joe.
+
+1196
+01:06:45,880 --> 01:06:46,840
+Fuck you, Zach.
+
+1197
+01:06:48,520 --> 01:06:50,040
+It's just that it's 2020.
+
+1198
+01:06:50,040 --> 01:06:52,040
+It's gotten me all shook up.
+
+1199
+01:06:52,040 --> 01:06:53,320
+I'm gonna go hug my dog.
+
+1200
+01:06:55,480 --> 01:06:57,000
+Okay, it's game time.
+
+1201
+01:06:57,000 --> 01:06:58,600
+When they pull up, I look at the other guys.
+
+1202
+01:06:58,600 --> 01:07:03,560
+I'm like, they cut down my favorite tree just because I was pecking on it in the park.
+
+1203
+01:07:03,640 --> 01:07:04,600
+Fuck these guys.
+
+1204
+01:07:05,560 --> 01:07:07,160
+Yeah, these guys are bad news.
+
+1205
+01:07:07,160 --> 01:07:10,280
+They've been looking for me for days and I've been out running them,
+
+1206
+01:07:10,280 --> 01:07:12,120
+but I don't know how we're gonna get out of this, guys.
+
+1207
+01:07:12,120 --> 01:07:12,920
+They're right there.
+
+1208
+01:07:12,920 --> 01:07:17,080
+It don't take much to get old Chip all riled up for action.
+
+1209
+01:07:17,080 --> 01:07:22,040
+First of all, Willie, you know, I don't know much about human bureaucracy,
+
+1210
+01:07:22,040 --> 01:07:24,200
+but it seems like that must have been unrelated.
+
+1211
+01:07:24,200 --> 01:07:27,560
+I don't know if that's within the purview of animal control.
+
+1212
+01:07:28,760 --> 01:07:30,440
+I'm learning a lot of new words today.
+
+1213
+01:07:30,440 --> 01:07:32,520
+Bureaucracy, window, glass.
+
+1214
+01:07:34,200 --> 01:07:35,400
+It's a big old world.
+
+1215
+01:07:35,400 --> 01:07:42,040
+All I know is I've got it out for these fuckers and I take off and I fly towards them
+
+1216
+01:07:42,600 --> 01:07:46,120
+and I take a shit aiming for Todd's eye.
+
+1217
+01:07:47,160 --> 01:07:49,320
+Yes, dive bomb.
+
+1218
+01:07:50,600 --> 01:07:55,720
+Okay, yeah, we'll just do all of these as contested rules, I suppose.
+
+1219
+01:07:55,720 --> 01:07:59,080
+And if you hit the same person twice in a round,
+
+1220
+01:07:59,080 --> 01:08:04,440
+then they'll be at a disadvantage for that second and whatever role.
+
+1221
+01:08:04,440 --> 01:08:06,840
+He's gonna try to high-five it out of the way.
+
+1222
+01:08:07,960 --> 01:08:13,080
+You're gonna roll Dexterity or Intelligence, whichever one is higher,
+
+1223
+01:08:13,080 --> 01:08:17,720
+unless you have a special skill that would help more in a shitty situation.
+
+1224
+01:08:17,720 --> 01:08:20,040
+Oh shit, my headphones just died.
+
+1225
+01:08:21,240 --> 01:08:24,040
+Well, Luke, time to find some more headphones to put on.
+
+1226
+01:08:24,680 --> 01:08:28,200
+In the meantime, I'd be interested to see what he rolled
+
+1227
+01:08:28,200 --> 01:08:34,920
+because I rolled a 49 on the Todd's ability to high-five.
+
+1228
+01:08:36,680 --> 01:08:37,480
+Probably pretty high.
+
+1229
+01:08:38,360 --> 01:08:41,480
+Okay, so I'm gonna roll Dexterity.
+
+1230
+01:08:41,480 --> 01:08:42,040
+Is that what he said?
+
+1231
+01:08:42,920 --> 01:08:45,000
+Yeah, or Intelligence, whichever one's higher.
+
+1232
+01:08:46,360 --> 01:08:47,880
+I already told them what I rolled.
+
+1233
+01:08:47,880 --> 01:08:50,520
+I got a 51 on a 60.
+
+1234
+01:08:51,640 --> 01:08:52,200
+Nice.
+
+1235
+01:08:52,200 --> 01:08:52,840
+What did you get?
+
+1236
+01:08:52,840 --> 01:08:56,360
+Dude, you got a 49, you fucking...
+
+1237
+01:08:56,840 --> 01:08:58,360
+You barely beat the contestant.
+
+1238
+01:08:58,360 --> 01:08:59,000
+That's so good.
+
+1239
+01:08:59,000 --> 01:09:04,360
+As the Todd goes to high-five the stream of shit, it goes right...
+
+1240
+01:09:04,360 --> 01:09:10,760
+It literally curves around his hand like James McAvoy shooting a bullet,
+
+1241
+01:09:10,760 --> 01:09:16,360
+and it hits the Todd square in the eye, disabling him for the entire round.
+
+1242
+01:09:16,360 --> 01:09:18,360
+Rusty barks in approval.
+
+1243
+01:09:19,400 --> 01:09:20,920
+Did you guys see that shit?
+
+1244
+01:09:20,920 --> 01:09:21,880
+He sure did.
+
+1245
+01:09:21,880 --> 01:09:23,880
+God.
+
+1246
+01:09:23,880 --> 01:09:28,840
+I don't get it.
+
+1247
+01:09:29,880 --> 01:09:36,280
+The rest of you can decide on an idea where you could help each other do something,
+
+1248
+01:09:36,280 --> 01:09:42,040
+or basically you have the entire round yourselves before there's a reaction from Sewage Joe.
+
+1249
+01:09:43,800 --> 01:09:44,920
+Listen, y'all.
+
+1250
+01:09:44,920 --> 01:09:51,000
+We've got four dogs and a chipmunk, and they're just two stupid humans.
+
+1251
+01:09:51,000 --> 01:09:54,520
+I think if we work together, we can herd these fuckers.
+
+1252
+01:09:54,520 --> 01:09:56,840
+We can round them up and take care of business.
+
+1253
+01:09:56,840 --> 01:10:00,600
+Rusty, you think you could throw me on one of them son of a bitching guys?
+
+1254
+01:10:01,240 --> 01:10:02,120
+No, I'm a dog.
+
+1255
+01:10:02,120 --> 01:10:03,720
+I don't have opposable thumbs.
+
+1256
+01:10:03,720 --> 01:10:10,280
+Now I'm talking like using that big old mouth of yours, wiggling me around, tossing me up on them.
+
+1257
+01:10:10,280 --> 01:10:12,680
+Then I can do some good work up close.
+
+1258
+01:10:12,680 --> 01:10:17,240
+I'm afraid if I get you in my mouth, the temptation to just chomp down will be too high.
+
+1259
+01:10:17,880 --> 01:10:19,400
+Tyler runs over and does it.
+
+1260
+01:10:21,480 --> 01:10:22,120
+Oh shit.
+
+1261
+01:10:24,120 --> 01:10:28,440
+He just flings you with his head real quick in one swift motion.
+
+1262
+01:10:29,240 --> 01:10:33,800
+I want to be flipped at the guy who has shit in his eyes and face,
+
+1263
+01:10:33,800 --> 01:10:37,800
+so that he doesn't see the beat down that's coming to him.
+
+1264
+01:10:37,800 --> 01:10:42,040
+Yeah, so he's got disadvantage, like a lot of it.
+
+1265
+01:10:42,040 --> 01:10:43,400
+No, he's like fully disabled.
+
+1266
+01:10:44,280 --> 01:10:47,640
+Okay, I want to describe something terrible for you.
+
+1267
+01:10:49,960 --> 01:10:50,360
+Do you?
+
+1268
+01:10:51,960 --> 01:10:53,240
+I really do.
+
+1269
+01:10:53,240 --> 01:10:59,800
+Do you want a mass walk out of your podcast when you fuck with these adorable animals?
+
+1270
+01:11:01,240 --> 01:11:04,440
+Choose your words carefully, motherfucker.
+
+1271
+01:11:04,440 --> 01:11:08,120
+I always try not to say um or like, but I still do sometimes.
+
+1272
+01:11:08,120 --> 01:11:08,680
+It's okay.
+
+1273
+01:11:10,120 --> 01:11:11,480
+Um, like is it?
+
+1274
+01:11:13,160 --> 01:11:17,800
+As Chip is being flung at the Todd,
+
+1275
+01:11:17,800 --> 01:11:24,360
+who has his eyes covered in the fecal matter of Wilson the woodpecker.
+
+1276
+01:11:24,360 --> 01:11:27,720
+It's getting in his mouth because it's open because he's screaming about it
+
+1277
+01:11:27,720 --> 01:11:31,240
+and it's dripping down into his mouth and it's all over his tongue.
+
+1278
+01:11:31,240 --> 01:11:34,120
+Like he just licked ice cream, but it wasn't his bird shit.
+
+1279
+01:11:34,120 --> 01:11:38,680
+And he's like, no, no, you hit him square in the jaw.
+
+1280
+01:11:39,480 --> 01:11:44,680
+And at the exact same time, you see a masked bandit
+
+1281
+01:11:45,320 --> 01:11:49,960
+who has snuck out of its cage in the back of the animal control truck
+
+1282
+01:11:50,920 --> 01:11:55,400
+and is hitting the Todd on the opposite side of the head in the opposite direction
+
+1283
+01:11:55,400 --> 01:11:58,440
+at the exact same time as you're hitting his chin.
+
+1284
+01:11:59,000 --> 01:12:08,600
+And the two of you chip the chipmunk and Rocky the raccoon just snap the Todd's neck.
+
+1285
+01:12:10,760 --> 01:12:14,280
+As his shoulders hit the ground, so does the back of his head.
+
+1286
+01:12:14,680 --> 01:12:17,320
+Front of his shoulders, the back of his head.
+
+1287
+01:12:21,320 --> 01:12:27,960
+So facing up is his back and a face that's covered in Wilson the woodpecker shit.
+
+1288
+01:12:28,600 --> 01:12:29,080
+William.
+
+1289
+01:12:32,280 --> 01:12:33,400
+It's Wilson.
+
+1290
+01:12:33,400 --> 01:12:34,120
+It's Willie.
+
+1291
+01:12:35,640 --> 01:12:36,360
+Is it Wilson?
+
+1292
+01:12:37,160 --> 01:12:38,200
+I thought it was Willie.
+
+1293
+01:12:38,200 --> 01:12:39,160
+You didn't call me Willie.
+
+1294
+01:12:39,160 --> 01:12:39,880
+I have been.
+
+1295
+01:12:40,520 --> 01:12:41,000
+It fits.
+
+1296
+01:12:41,320 --> 01:12:54,120
+Seeing that, Rusty gets into an aggressive stance and it starts growling at Sewage Joe.
+
+1297
+01:12:54,760 --> 01:12:56,920
+And I just want to try to intimidate him.
+
+1298
+01:12:57,480 --> 01:13:00,280
+We just killed your motherfucking co-worker.
+
+1299
+01:13:01,720 --> 01:13:04,600
+Why don't you step the fuck off, idiot?
+
+1300
+01:13:04,600 --> 01:13:07,080
+We'll roll power against power.
+
+1301
+01:13:07,720 --> 01:13:17,960
+Now I'm going to say Sewage Joe has a mental power of 30 because he's a flatter thing.
+
+1302
+01:13:21,880 --> 01:13:24,680
+Rusty is not super physically gifted.
+
+1303
+01:13:25,720 --> 01:13:29,320
+He's got a 20 decks and a 30 strength, but he has a 70 power.
+
+1304
+01:13:29,320 --> 01:13:30,760
+So unless I fuck up the roll.
+
+1305
+01:13:33,080 --> 01:13:33,720
+No, fuck.
+
+1306
+01:13:34,520 --> 01:13:35,880
+I rolled a 75.
+
+1307
+01:13:35,880 --> 01:13:36,600
+That's over, right?
+
+1308
+01:13:37,080 --> 01:13:37,960
+I rolled a 13.
+
+1309
+01:13:39,960 --> 01:13:41,960
+There was so much opportunity.
+
+1310
+01:13:41,960 --> 01:13:45,480
+I thought that you critically failed based on your reaction.
+
+1311
+01:13:46,600 --> 01:13:49,400
+I just thought there was like, yeah, you were going to win.
+
+1312
+01:13:49,400 --> 01:13:49,880
+It's good.
+
+1313
+01:13:49,880 --> 01:13:52,200
+I like that amount of commitment.
+
+1314
+01:13:52,200 --> 01:13:53,320
+That's just my face, man.
+
+1315
+01:13:54,760 --> 01:13:55,640
+I like your face.
+
+1316
+01:13:55,640 --> 01:13:56,520
+Thanks, baby.
+
+1317
+01:13:56,520 --> 01:14:05,080
+So I want you to tell me what is going through the mind of this Sewage Joe.
+
+1318
+01:14:05,960 --> 01:14:08,760
+When he looks into the eyes of Rusty.
+
+1319
+01:14:08,760 --> 01:14:16,040
+So as soon as Joe sees his best friend in the world, the Todd, shit on and like that
+
+1320
+01:14:16,040 --> 01:14:17,240
+like freaks him out.
+
+1321
+01:14:17,240 --> 01:14:23,320
+But then he sees his fucking neck get snapped by a chipmunk and a raccoon.
+
+1322
+01:14:24,200 --> 01:14:29,000
+And then Rusty in the lead, Bean and Murphy flanking him.
+
+1323
+01:14:29,960 --> 01:14:33,160
+Maybe Tyler's chasing his tail in the background.
+
+1324
+01:14:34,120 --> 01:14:39,240
+But these dogs with their hackles up are like slowly advancing on him.
+
+1325
+01:14:39,240 --> 01:14:41,320
+And you see the wolf in them.
+
+1326
+01:14:41,320 --> 01:14:45,960
+They're a pack of predators and they're just staring him down and growling.
+
+1327
+01:14:45,960 --> 01:14:48,600
+And he knows he needs to get the fuck out of there.
+
+1328
+01:14:49,560 --> 01:14:54,440
+It convinces Sewage Joe to drive you all back to the creek.
+
+1329
+01:14:56,680 --> 01:14:57,800
+Isn't it just right there?
+
+1330
+01:15:00,360 --> 01:15:01,720
+That would take longer.
+
+1331
+01:15:01,800 --> 01:15:08,840
+Rusty like locks eyes with him, growls and then points his snout at all the cages like
+
+1332
+01:15:08,840 --> 01:15:09,340
+in the back.
+
+1333
+01:15:10,040 --> 01:15:13,960
+And he intimates that he needs to free the other animals as well.
+
+1334
+01:15:13,960 --> 01:15:16,840
+Oh, yes, no, I will be just one moment.
+
+1335
+01:15:16,840 --> 01:15:17,800
+I will do that.
+
+1336
+01:15:17,800 --> 01:15:20,840
+If he takes his time out here, I will head in there and I will take care of it.
+
+1337
+01:15:20,840 --> 01:15:22,120
+And then I will be right back.
+
+1338
+01:15:22,120 --> 01:15:23,560
+You started out French.
+
+1339
+01:15:24,280 --> 01:15:25,720
+No, I have never been French.
+
+1340
+01:15:25,720 --> 01:15:28,760
+I have only been what I am, which is Rocky the raccoon.
+
+1341
+01:15:28,760 --> 01:15:36,600
+And I will easily take everyone and get them out of there if you just have him stand there
+
+1342
+01:15:36,600 --> 01:15:37,320
+real quick.
+
+1343
+01:15:37,320 --> 01:15:38,360
+Yes, of course.
+
+1344
+01:15:38,360 --> 01:15:44,360
+And so he, this little raccoon runs into the back of the animal control van.
+
+1345
+01:15:44,360 --> 01:15:49,400
+And soon there's a parade of animals, three long.
+
+1346
+01:15:50,360 --> 01:15:55,880
+It's the raccoon that just went in there, a fox, a little red fox.
+
+1347
+01:15:56,680 --> 01:15:59,800
+And there is a goat.
+
+1348
+01:16:01,640 --> 01:16:06,120
+Fox and a goat and a raccoon, but that's too many character voices to do.
+
+1349
+01:16:06,120 --> 01:16:09,160
+So we're going to get you guys back onto the Creek.
+
+1350
+01:16:09,160 --> 01:16:14,760
+And so can I, can Wilson do something else to enact his revenge?
+
+1351
+01:16:15,320 --> 01:16:17,240
+One bit of revenge from Wilson.
+
+1352
+01:16:17,240 --> 01:16:17,560
+Wait.
+
+1353
+01:16:17,560 --> 01:16:17,720
+Yeah.
+
+1354
+01:16:17,720 --> 01:16:18,920
+Cause they cut my tree down.
+
+1355
+01:16:20,840 --> 01:16:22,680
+Oh, well, one of them's dead.
+
+1356
+01:16:23,080 --> 01:16:29,080
+Or yeah, you helped to kill like in terms of eye for an eye.
+
+1357
+01:16:29,080 --> 01:16:31,480
+I want to, can I land on his head?
+
+1358
+01:16:31,480 --> 01:16:34,040
+If you go for revenge, I will kill you.
+
+1359
+01:16:34,040 --> 01:16:34,280
+Why?
+
+1360
+01:16:38,840 --> 01:16:41,640
+You are one woodpecker against a grown human.
+
+1361
+01:16:41,640 --> 01:16:43,880
+I want to pick his eyeballs.
+
+1362
+01:16:43,880 --> 01:16:49,800
+Who just saw that woodpecker and a raccoon kill his best friend and a chipmunk.
+
+1363
+01:16:49,800 --> 01:16:50,840
+But I'm not sewage Joe.
+
+1364
+01:16:50,920 --> 01:16:52,920
+You're a sewage Joe.
+
+1365
+01:16:52,920 --> 01:16:53,640
+Gloves off.
+
+1366
+01:16:55,640 --> 01:17:03,320
+He'll try, but Rusty sees you like staring down at him and he's like, I just wanted to
+
+1367
+01:17:03,320 --> 01:17:09,800
+reiterate that animal control has nothing to do with cutting down trees in the park.
+
+1368
+01:17:09,800 --> 01:17:12,040
+I really think those were different people.
+
+1369
+01:17:13,480 --> 01:17:19,320
+Maybe the utility company, or perhaps even just a local, you know, tree service.
+
+1370
+01:17:19,960 --> 01:17:23,080
+Uh, that tree might've been rotted, might've been about to fall.
+
+1371
+01:17:23,640 --> 01:17:25,800
+I just don't think this is the guy who cut down.
+
+1372
+01:17:25,800 --> 01:17:31,000
+Wilson, I know your hatred for humans runs deep, but you're, you're, you're, you're taking
+
+1373
+01:17:31,000 --> 01:17:32,040
+it too far, man.
+
+1374
+01:17:32,040 --> 01:17:34,040
+We're, we got a mission to complete here.
+
+1375
+01:17:34,040 --> 01:17:43,640
+We're not saying he don't deserve to die, but Wilson is blinded by rage and brushes
+
+1376
+01:17:43,640 --> 01:17:44,440
+off the comments.
+
+1377
+01:17:46,520 --> 01:17:47,320
+Go for it, baby.
+
+1378
+01:17:48,040 --> 01:17:50,600
+I want to land on his head and peck his eyeballs out.
+
+1379
+01:17:52,040 --> 01:17:55,240
+He's already in the, he's in the, he's in the van.
+
+1380
+01:17:55,240 --> 01:17:57,000
+I swooped through the open window.
+
+1381
+01:17:58,120 --> 01:18:02,040
+It wasn't open and you smack into it and you're a killer.
+
+1382
+01:18:02,040 --> 01:18:03,800
+I only have one box check.
+
+1383
+01:18:03,800 --> 01:18:04,040
+Yes.
+
+1384
+01:18:04,680 --> 01:18:05,080
+Okay.
+
+1385
+01:18:05,080 --> 01:18:09,320
+Take your second damage, you motherfucker, because you definitely just flew.
+
+1386
+01:18:11,960 --> 01:18:14,520
+Wait, roll intelligence for the sake of playing.
+
+1387
+01:18:14,520 --> 01:18:15,240
+21 on a 20.
+
+1388
+01:18:15,240 --> 01:18:16,520
+He knows what class is now.
+
+1389
+01:18:17,800 --> 01:18:20,520
+21 on a 20.
+
+1390
+01:18:20,520 --> 01:18:22,040
+That makes me so happy.
+
+1391
+01:18:22,040 --> 01:18:23,080
+That is so perfect.
+
+1392
+01:18:25,240 --> 01:18:33,560
+You slam into the glass of the animal control van and he looks out and you guys make direct
+
+1393
+01:18:33,560 --> 01:18:36,520
+eye contact as he's driving away.
+
+1394
+01:18:36,520 --> 01:18:41,000
+And let me tell you something Wilson, he looks scared.
+
+1395
+01:18:41,000 --> 01:18:41,480
+Good job.
+
+1396
+01:18:41,480 --> 01:18:46,680
+Can I at least crack his window to make his day inconvenient other than his dead friend?
+
+1397
+01:18:47,400 --> 01:18:52,440
+Other than his partner dying and all the animals is hanging.
+
+1398
+01:18:52,440 --> 01:18:56,040
+His best friend died and he was bad at his job.
+
+1399
+01:18:56,040 --> 01:18:58,920
+The only two things that exist in this man's life.
+
+1400
+01:18:58,920 --> 01:18:59,560
+I'll take it.
+
+1401
+01:18:59,560 --> 01:19:01,400
+Oh, my window's cracked.
+
+1402
+01:19:01,400 --> 01:19:03,720
+This is a bigger inconvenience than my partner.
+
+1403
+01:19:03,720 --> 01:19:04,280
+What a day.
+
+1404
+01:19:05,560 --> 01:19:08,840
+But do please roll strength for cracking that window.
+
+1405
+01:19:08,840 --> 01:19:10,120
+44 on a 70.
+
+1406
+01:19:10,680 --> 01:19:11,880
+Critically succeeding.
+
+1407
+01:19:14,760 --> 01:19:15,320
+Yep.
+
+1408
+01:19:15,320 --> 01:19:16,040
+I'm content.
+
+1409
+01:19:16,840 --> 01:19:19,480
+You crack it so hard that it can't roll down.
+
+1410
+01:19:21,960 --> 01:19:23,240
+You fucking showed him, dude.
+
+1411
+01:19:25,080 --> 01:19:27,560
+Okay, let's get back to the creek, I guess.
+
+1412
+01:19:27,560 --> 01:19:31,960
+As the van speeds away, Tyler's gonna give chase for the tire for a second.
+
+1413
+01:19:32,520 --> 01:19:36,760
+And then when it gets fast enough that he can't keep up, he comes back to join the group.
+
+1414
+01:19:38,760 --> 01:19:43,640
+When you join the group, Rusty, Bean, and Murphy all sniff your butt in my group hills.
+
+1415
+01:19:43,640 --> 01:19:45,080
+Oh, thanks.
+
+1416
+01:19:45,880 --> 01:19:46,680
+Thanks, fellas.
+
+1417
+01:19:46,680 --> 01:19:51,880
+I'm picturing just like a made pole dance of y'all just going around the circle,
+
+1418
+01:19:52,920 --> 01:19:54,440
+conga line butt sniffing.
+
+1419
+01:19:54,440 --> 01:19:54,840
+Oh, yeah.
+
+1420
+01:19:55,960 --> 01:20:00,280
+Rusty says to the chipmunk and the woodpecker, you guys want to get in on this?
+
+1421
+01:20:01,480 --> 01:20:01,720
+No.
+
+1422
+01:20:02,280 --> 01:20:07,240
+Chip stands back with his arms folded, but a little wry smile goes across his face.
+
+1423
+01:20:10,280 --> 01:20:12,440
+He's like proud of his journey, doesn't he?
+
+1424
+01:20:12,520 --> 01:20:17,800
+I go and perch on the goats and horns and what's up, kid?
+
+1425
+01:20:24,040 --> 01:20:25,480
+Can this goat be for hand pressure?
+
+1426
+01:20:27,480 --> 01:20:29,000
+Well, of course.
+
+1427
+01:20:33,080 --> 01:20:36,200
+Hey, well, we're attracted to that goat lady.
+
+1428
+01:20:36,200 --> 01:20:41,400
+I don't think it's good.
+
+1429
+01:20:41,400 --> 01:20:44,200
+We ought to get back to the safety of the creek.
+
+1430
+01:20:44,200 --> 01:20:45,560
+Yeah, Beans, we got you, Beans.
+
+1431
+01:20:46,360 --> 01:20:49,720
+The squirrel, he sent us and we're supposed to bring it back to the creek.
+
+1432
+01:20:49,720 --> 01:20:55,240
+This actually, this seemed like a really good just like last shot of y'all celebrating in
+
+1433
+01:20:55,240 --> 01:20:56,040
+the parking lot.
+
+1434
+01:20:56,040 --> 01:20:58,200
+So I think let's just hang it out there.
+
+1435
+01:20:58,200 --> 01:20:59,000
+Freeze frame.
+
+1436
+01:20:59,000 --> 01:21:00,840
+Freeze frame, credits roll.
+
+1437
+01:21:00,840 --> 01:21:06,360
+All right.
+
+1438
+01:21:06,360 --> 01:21:07,720
+I think we should start recording.
+
+1439
+01:21:07,720 --> 01:21:08,360
+Yeah.
+
+1440
+01:21:08,360 --> 01:21:09,720
+Now that we've rehearsed it.
+
+1441
+01:21:09,720 --> 01:21:11,880
+That was a really good dry run.
+
+1442
+01:21:13,080 --> 01:21:14,120
+What are warmups for?
+
+1443
+01:21:14,920 --> 01:21:22,520
+While the credits are rolling, it has a shot of Wilson, the woodpecker, and it says Wilson
+
+1444
+01:21:22,520 --> 01:21:27,480
+found a new favorite tree and never left it because he's deathly afraid that there are
+
+1445
+01:21:27,480 --> 01:21:28,760
+windows in the sky now.
+
+1446
+01:21:31,720 --> 01:21:32,600
+It's really sad.
+
+1447
+01:21:32,600 --> 01:21:33,240
+He's content.
+
+1448
+01:21:34,280 --> 01:21:36,600
+Are we going back to the creek or is this?
+
+1449
+01:21:36,600 --> 01:21:38,360
+No, what's your freeze frame, Justin?
+
+1450
+01:21:39,720 --> 01:21:40,760
+Pass for now.
+
+1451
+01:21:40,760 --> 01:21:41,560
+Not an option.
+
+1452
+01:21:41,560 --> 01:21:45,080
+I'll do some minor characters in between your guys's big ones.
+
+1453
+01:21:45,640 --> 01:21:47,400
+And obviously Murphy will be the last.
+
+1454
+01:21:48,600 --> 01:21:50,600
+Murphy dies immediately.
+
+1455
+01:21:50,600 --> 01:21:52,040
+Yes, be careful, motherfucker.
+
+1456
+01:21:53,560 --> 01:21:56,440
+Oh, right off the bat, we've got the very first one.
+
+1457
+01:21:56,520 --> 01:21:59,640
+We've got Stallone, the old gray squirrel.
+
+1458
+01:21:59,640 --> 01:22:07,000
+And it says Stallone carried his torch well, but not for long as he was gotten on the very
+
+1459
+01:22:07,000 --> 01:22:13,320
+next run, laying down his life for others on a run to get nuts.
+
+1460
+01:22:13,320 --> 01:22:15,000
+It was Stallone, which one?
+
+1461
+01:22:15,000 --> 01:22:15,480
+Yep.
+
+1462
+01:22:15,480 --> 01:22:16,760
+See, that's why he was first.
+
+1463
+01:22:16,760 --> 01:22:20,760
+He was the squirrel that was the head of the contention Creek critter coalition.
+
+1464
+01:22:21,720 --> 01:22:23,640
+Making way for a new leader.
+
+1465
+01:22:23,640 --> 01:22:25,160
+Just a little foreshadowing.
+
+1466
+01:22:25,160 --> 01:22:26,120
+Chip Montgomery.
+
+1467
+01:22:27,080 --> 01:22:31,880
+Can chip Montgomery be the leader or does his beans going to be a chipmunk?
+
+1468
+01:22:31,880 --> 01:22:35,560
+He talks about how he wanted to be a leader, but people didn't believe in him.
+
+1469
+01:22:35,560 --> 01:22:38,120
+And now he, after the successful mission, he's...
+
+1470
+01:22:38,120 --> 01:22:38,840
+I'm sorry.
+
+1471
+01:22:38,840 --> 01:22:42,680
+You're, you're questioning whether a chipmunk can be a leader after a squirrel.
+
+1472
+01:22:44,120 --> 01:22:45,720
+Well, squirrel is one thing.
+
+1473
+01:22:45,720 --> 01:22:46,200
+Wow.
+
+1474
+01:22:46,200 --> 01:22:46,920
+But a chipmunk?
+
+1475
+01:22:46,920 --> 01:22:48,200
+Thomas, do you have a good one?
+
+1476
+01:22:48,200 --> 01:22:49,960
+Yeah, Rusty ate chocolate and died.
+
+1477
+01:22:50,760 --> 01:22:53,880
+Oh, Jesus Christ.
+
+1478
+01:22:53,880 --> 01:22:55,400
+God, who is the next smallest?
+
+1479
+01:22:55,400 --> 01:22:56,600
+Oh, uh, Common.
+
+1480
+01:22:57,800 --> 01:23:02,200
+Common died, uh, on the side of the road, dot, dot, dot.
+
+1481
+01:23:03,240 --> 01:23:04,360
+Or did he?
+
+1482
+01:23:04,360 --> 01:23:06,120
+You know, something of that nature.
+
+1483
+01:23:06,120 --> 01:23:11,960
+And then, uh, the dead possum picture up on the screen winks at you with a little star
+
+1484
+01:23:11,960 --> 01:23:12,280
+that goes...
+
+1485
+01:23:12,280 --> 01:23:14,440
+Oh, I'm glad Common's okay.
+
+1486
+01:23:14,440 --> 01:23:16,120
+Even though I hate him and all his family.
+
+1487
+01:23:16,120 --> 01:23:24,120
+Uh, and then RoPo is still just, uh, sitting like the picture of her is sitting on the
+
+1488
+01:23:24,120 --> 01:23:29,720
+desk and then it says, uh, RoPo found out what the black goo was the hard way.
+
+1489
+01:23:29,720 --> 01:23:29,880
+No.
+
+1490
+01:23:33,880 --> 01:23:38,120
+The freeze frame on Tyler is him kind of veering away from the group.
+
+1491
+01:23:39,000 --> 01:23:44,520
+And, uh, he got distracted and saw a snake in the grass and started following it.
+
+1492
+01:23:44,520 --> 01:23:46,200
+And you guys haven't heard from him since.
+
+1493
+01:23:46,920 --> 01:23:47,800
+I don't like that.
+
+1494
+01:23:49,800 --> 01:23:51,960
+Maybe he'll turn up at a dirty dog grooming in the city.
+
+1495
+01:23:51,960 --> 01:23:58,520
+There's a picture of Rocky the raccoon, uh, sniffing the butt of Rusty.
+
+1496
+01:23:59,480 --> 01:24:07,560
+Rocky made a, made a good friend and then had to tragically watch him die slowly from
+
+1497
+01:24:07,560 --> 01:24:08,840
+chocolate poisoning.
+
+1498
+01:24:08,840 --> 01:24:10,040
+Did Rocky give it to him?
+
+1499
+01:24:10,760 --> 01:24:11,560
+Oh my God.
+
+1500
+01:24:12,520 --> 01:24:14,600
+Shared it with him unknowing.
+
+1501
+01:24:15,320 --> 01:24:19,000
+I don't think animals know what they can't eat because then they wouldn't eat it.
+
+1502
+01:24:19,000 --> 01:24:20,120
+What is Chip's?
+
+1503
+01:24:20,120 --> 01:24:26,600
+Chip would continue fighting to be the leader of the Contention Creek Critter Coalition
+
+1504
+01:24:26,600 --> 01:24:31,320
+despite his age, but no one would accept him because he's an old fat asshole.
+
+1505
+01:24:32,520 --> 01:24:39,960
+And then there's a picture of Murphy and it says Murphy was immediately elected the new
+
+1506
+01:24:40,040 --> 01:24:42,280
+leader of the Contention.
+
+1507
+01:24:43,960 --> 01:24:46,520
+Thomas's eyes just lit up so big.
+
+1508
+01:24:47,640 --> 01:24:53,960
+The Contention Creek Critter Coalition and remains leader fighting off
+
+1509
+01:24:57,880 --> 01:25:00,120
+the chipmunk to this day.
+
+1510
+01:25:02,680 --> 01:25:04,440
+That was the end.
+
+1511
+01:25:05,400 --> 01:25:06,520
+Did you guys like that?
+
+1512
+01:25:10,200 --> 01:25:13,080
+I don't know if we did a good job.
+
+1513
+01:25:16,680 --> 01:25:20,040
+I know I did a good job and that's all I care about.
+
+1514
+01:25:22,920 --> 01:25:24,920
+That's the only thing in my control.
+
+1515
+01:25:24,920 --> 01:25:29,560
+I mean, we can talk more later about Thomas's job.
+
+1516
+01:25:31,320 --> 01:25:32,440
+No, it was fun.
+
+1517
+01:25:32,440 --> 01:25:33,400
+I like you guys.
+
+1518
+01:25:33,400 --> 01:25:34,360
+Yeah, I had fun.
+
+1519
+01:25:35,160 --> 01:25:36,360
+You're great too, man.
+
+1520
+01:25:36,360 --> 01:25:37,560
+I'm going to start the recording now.
+
+1521
+01:26:09,960 --> 01:26:16,040
+The only one trying to pull over.
+
+1522
+01:26:16,040 --> 01:26:24,040
+How can you have enough drowning out of the noise.
+
+1523
+01:26:24,040 --> 01:26:30,040
+With nobody home.
+
+1524
+01:26:30,040 --> 01:26:34,040
+Nobody home.
+
+1525
+01:26:34,040 --> 01:26:38,040
+Nobody home.
+

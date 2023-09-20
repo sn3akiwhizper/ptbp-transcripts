@@ -1,0 +1,7672 @@
+1
+00:00:00,000 --> 00:00:03,740
+Beep bop, beep boop, beep bop boop.
+
+2
+00:00:03,740 --> 00:00:07,100
+It's Wolf the Robot here to give y'all the scoop.
+
+3
+00:00:07,100 --> 00:00:12,100
+PTBP 694.2, y'all know the drill
+
+4
+00:00:12,580 --> 00:00:15,780
+and y'all definitely know what time it is.
+
+5
+00:00:15,780 --> 00:00:19,420
+But wait, do y'all actually know what time it is?
+
+6
+00:00:19,420 --> 00:00:23,300
+Cause I have never once looked at a clock.
+
+7
+00:00:23,300 --> 00:00:25,820
+I hope we broadcast at a decent time
+
+8
+00:00:25,820 --> 00:00:29,180
+where people can tune in in mass droves.
+
+9
+00:00:29,200 --> 00:00:33,400
+Today's Howlin' with Wolf comes from at SexyBaconStrip,
+
+10
+00:00:33,400 --> 00:00:37,140
+who tweeted about the show and tagged at PretendingPod,
+
+11
+00:00:37,140 --> 00:00:40,620
+a delicious, smoky, and salty thing to do
+
+12
+00:00:40,620 --> 00:00:42,700
+if I do say so myself.
+
+13
+00:00:42,700 --> 00:00:43,620
+They right.
+
+14
+00:00:43,620 --> 00:00:45,640
+Howdy, Wolf, just a heads up.
+
+15
+00:00:45,640 --> 00:00:47,220
+Ever since all that weird stuff
+
+16
+00:00:47,220 --> 00:00:48,780
+started here in contention,
+
+17
+00:00:48,780 --> 00:00:52,260
+the dumpster behind Al's Tires and Tiger Sanctuary
+
+18
+00:00:52,260 --> 00:00:56,600
+has turned into some Grade A quality eats.
+
+19
+00:00:56,600 --> 00:00:59,960
+Much like this podcast, it's got all the goo and slime
+
+20
+00:00:59,960 --> 00:01:02,200
+in all the right places.
+
+21
+00:01:02,200 --> 00:01:04,120
+Really though, this podcast has become
+
+22
+00:01:04,120 --> 00:01:06,460
+one of the main things I look forward to.
+
+23
+00:01:06,460 --> 00:01:09,680
+It's so great I even got my own slip case for Delta Green
+
+24
+00:01:09,680 --> 00:01:12,380
+and I can't wait to put my players through hell.
+
+25
+00:01:12,380 --> 00:01:15,360
+Thank y'all and fuck Jeff Bezos.
+
+26
+00:01:15,360 --> 00:01:17,960
+Thank you for writing SexyBaconStrip.
+
+27
+00:01:17,960 --> 00:01:19,800
+I ain't never met a bacon strip
+
+28
+00:01:19,800 --> 00:01:22,720
+that I didn't find at least somewhat erotic.
+
+29
+00:01:22,720 --> 00:01:25,600
+I appreciate you saying those positive things,
+
+30
+00:01:25,600 --> 00:01:27,860
+but the way that none of those positive things
+
+31
+00:01:27,860 --> 00:01:29,840
+were directed at y'alls truly
+
+32
+00:01:29,840 --> 00:01:32,880
+specifically has me feeling some kind of way.
+
+33
+00:01:32,880 --> 00:01:35,800
+Time to hit up Al's Tires and Tiger Sanctuary
+
+34
+00:01:35,800 --> 00:01:37,720
+for some delicious rubber
+
+35
+00:01:37,720 --> 00:01:40,920
+and possibly endangered mystery meat.
+
+36
+00:01:40,920 --> 00:01:44,680
+Remember to tag us in some nice things on the social things
+
+37
+00:01:44,680 --> 00:01:47,800
+if you want us to probably read a thing that you said.
+
+38
+00:01:47,800 --> 00:01:50,100
+Spread the love, spread the goo,
+
+39
+00:01:50,100 --> 00:01:53,020
+and remember to spread the word of wolf too.
+
+40
+00:01:53,020 --> 00:01:55,580
+Now prepare a warm spot on the floor
+
+41
+00:01:55,580 --> 00:01:59,460
+to vore even more of this hardcore lore with Gorgolore
+
+42
+00:01:59,460 --> 00:02:01,700
+and I'll roar and roar for an encore
+
+43
+00:02:01,700 --> 00:02:04,140
+from the troubadours that I adore.
+
+44
+00:02:04,140 --> 00:02:06,140
+It's kudzu with no backbone.
+
+45
+00:02:36,140 --> 00:02:38,860
+In a high school classroom,
+
+46
+00:02:38,860 --> 00:02:42,140
+the analog clock on the wall said 3.30
+
+47
+00:02:42,140 --> 00:02:45,140
+and the chalkboard said detention.
+
+48
+00:02:45,140 --> 00:02:47,820
+Sat at the only occupied desk in the room
+
+49
+00:02:47,820 --> 00:02:50,020
+was a boy of 13 or 14.
+
+50
+00:02:50,020 --> 00:02:54,100
+Jeremy Pettymore wore a denim cutoff jacket,
+
+51
+00:02:54,100 --> 00:02:57,660
+a raggedy thin Western shirt, wrangler jeans,
+
+52
+00:02:57,660 --> 00:03:01,700
+some punky boots, and a perpetual scowl.
+
+53
+00:03:01,700 --> 00:03:02,940
+There was a knock on the door
+
+54
+00:03:02,940 --> 00:03:06,700
+and two more boys of a similar age entered the room.
+
+55
+00:03:06,700 --> 00:03:09,100
+The first was Ken Krenkelhoff,
+
+56
+00:03:09,100 --> 00:03:12,680
+wearing a letterman jacket bought for him by his dad.
+
+57
+00:03:12,680 --> 00:03:15,180
+Ken was tall, fit, had great hair,
+
+58
+00:03:15,180 --> 00:03:18,280
+and walked with his head held high.
+
+59
+00:03:18,280 --> 00:03:20,120
+The teacher greeted Ken warmly,
+
+60
+00:03:20,120 --> 00:03:23,660
+then happily acknowledged the second boy, Ash Hornbeam,
+
+61
+00:03:23,660 --> 00:03:26,520
+with his black, messy hair, white t-shirt,
+
+62
+00:03:26,520 --> 00:03:29,260
+cheetah print vest, acid-washed jeans,
+
+63
+00:03:29,260 --> 00:03:31,280
+and scuffed tennis shoes.
+
+64
+00:03:31,280 --> 00:03:33,240
+The teacher administering detention
+
+65
+00:03:33,240 --> 00:03:36,760
+was confident the new arrivals didn't belong,
+
+66
+00:03:36,760 --> 00:03:37,920
+but Ken said they wanted
+
+67
+00:03:37,920 --> 00:03:39,960
+to keep their friend Jeremy company.
+
+68
+00:03:39,960 --> 00:03:41,320
+The teacher was reluctant, but said,
+
+69
+00:03:41,320 --> 00:03:44,180
+"'These two boys are allowed to do whatever they want.'"
+
+70
+00:03:44,180 --> 00:03:47,240
+Jeremy said his schoolwork necessitated his friends,
+
+71
+00:03:47,240 --> 00:03:50,240
+so if he was supposed to get anything done,
+
+72
+00:03:50,240 --> 00:03:51,680
+he had to go with them.
+
+73
+00:03:51,680 --> 00:03:54,600
+The teacher was relieved to have an excuse to end detention,
+
+74
+00:03:54,600 --> 00:03:57,160
+and Jeremy flipped him off on the way out.
+
+75
+00:03:57,160 --> 00:03:58,880
+The young Pettymore asked the other two
+
+76
+00:03:58,920 --> 00:04:01,320
+if they were ready for the woods that night,
+
+77
+00:04:01,320 --> 00:04:03,440
+and Ash opened his jacket
+
+78
+00:04:03,440 --> 00:04:06,400
+and revealed a bunch of water dynamite.
+
+79
+00:04:06,400 --> 00:04:08,920
+Ken seemed a bit reluctant, but agreed to go,
+
+80
+00:04:08,920 --> 00:04:12,200
+since this year was their last hurrah.
+
+81
+00:04:12,200 --> 00:04:14,320
+Ken would have to meet them in the woods, though,
+
+82
+00:04:14,320 --> 00:04:17,940
+since his mom would still wanna drive him there herself.
+
+83
+00:04:17,940 --> 00:04:19,340
+As they walked through the hall,
+
+84
+00:04:19,340 --> 00:04:22,080
+an upperclassman asked them what they were up to that night.
+
+85
+00:04:22,080 --> 00:04:23,740
+Jeremy said they were going to the woods,
+
+86
+00:04:23,740 --> 00:04:24,580
+that's their thing.
+
+87
+00:04:24,580 --> 00:04:26,080
+Once a year, they go into the woods
+
+88
+00:04:26,080 --> 00:04:30,640
+to look for some folktale legend called Ol' Madge.
+
+89
+00:04:30,640 --> 00:04:32,520
+They left Silas Cole K through 12,
+
+90
+00:04:32,520 --> 00:04:35,200
+slapping the banner sporting their mascot,
+
+91
+00:04:35,200 --> 00:04:37,060
+a minor, on the way out.
+
+92
+00:04:39,900 --> 00:04:42,560
+That evening, Ash drove Jeremy to the woods
+
+93
+00:04:42,560 --> 00:04:44,020
+in his older brother's car.
+
+94
+00:04:44,020 --> 00:04:48,720
+A 1991 Firebird painted a weird, ugly gold.
+
+95
+00:04:48,720 --> 00:04:50,560
+They turned onto a dirt road,
+
+96
+00:04:50,560 --> 00:04:53,160
+and a squirrel ran into the path of the car.
+
+97
+00:04:53,160 --> 00:04:56,320
+Ash was able to quickly swerve and miss it.
+
+98
+00:04:56,320 --> 00:04:58,140
+They pulled into the gravel parking lot
+
+99
+00:04:58,140 --> 00:05:00,000
+for the contention woods,
+
+100
+00:05:00,000 --> 00:05:02,300
+and there were two cars in the lot already.
+
+101
+00:05:02,300 --> 00:05:04,680
+One had a boot on the back left wheel,
+
+102
+00:05:04,680 --> 00:05:07,840
+and the other had a notice taped on the driver's side window
+
+103
+00:05:07,840 --> 00:05:10,840
+that threatened to boot if it wasn't moved.
+
+104
+00:05:10,840 --> 00:05:13,720
+There was also a Ford Bronco with a lift kit on it
+
+105
+00:05:13,720 --> 00:05:16,840
+over next to the small, usually unoccupied,
+
+106
+00:05:16,840 --> 00:05:20,480
+park ranger shack at the entrance to the woods.
+
+107
+00:05:20,480 --> 00:05:22,780
+Ash left a note under his windshield wiper
+
+108
+00:05:23,260 --> 00:05:26,860
+that said, please don't boot my car, signed Ash Hornbeam.
+
+109
+00:05:26,860 --> 00:05:29,260
+They checked if the two cars were unlocked, both were.
+
+110
+00:05:29,260 --> 00:05:31,380
+In the first car, there was almost nothing,
+
+111
+00:05:31,380 --> 00:05:33,820
+as if it had already been cleaned out.
+
+112
+00:05:33,820 --> 00:05:36,580
+In the second car, there was a bunch of camping equipment
+
+113
+00:05:36,580 --> 00:05:38,060
+and a title for the vehicle,
+
+114
+00:05:38,060 --> 00:05:41,420
+which listed a Stuart Feldman as its owner,
+
+115
+00:05:41,420 --> 00:05:43,580
+registered in the city.
+
+116
+00:05:43,580 --> 00:05:45,820
+Jeremy found some liquor and a pistol.
+
+117
+00:05:45,820 --> 00:05:47,660
+Ash grabbed some of the camping equipment
+
+118
+00:05:47,660 --> 00:05:51,540
+and headed over to the shack where he saw an elderly man
+
+119
+00:05:51,540 --> 00:05:54,580
+wearing a state issued uniform sitting on a stool,
+
+120
+00:05:54,580 --> 00:05:56,860
+just waking up as Ash approached.
+
+121
+00:05:56,860 --> 00:06:00,060
+The boys realized this wasn't the normal forest ranger
+
+122
+00:06:00,060 --> 00:06:03,060
+of contention, he introduced himself as Woodrow
+
+123
+00:06:03,060 --> 00:06:04,980
+or Buzz for short.
+
+124
+00:06:04,980 --> 00:06:08,060
+In addition to the normal ranger paraphernalia,
+
+125
+00:06:08,060 --> 00:06:11,520
+there was a big thing, a hand sanitizer and a board
+
+126
+00:06:11,520 --> 00:06:13,460
+behind Buzz covered in pictures
+
+127
+00:06:13,460 --> 00:06:15,900
+and pieces of paper thumbtack to it.
+
+128
+00:06:15,900 --> 00:06:18,720
+Buzz took out a Polaroid camera, took their pictures,
+
+129
+00:06:18,760 --> 00:06:21,720
+took down their information, citing a recent string
+
+130
+00:06:21,720 --> 00:06:24,440
+of disappearances in the woods as his reason
+
+131
+00:06:24,440 --> 00:06:28,320
+and placed the pictures and information up onto the board.
+
+132
+00:06:28,320 --> 00:06:30,920
+Ash asked if they could borrow the first aid kit
+
+133
+00:06:30,920 --> 00:06:32,720
+and Buzz gave it to them.
+
+134
+00:06:32,720 --> 00:06:35,920
+Ash shot an M80 into the distance with his slingshot
+
+135
+00:06:35,920 --> 00:06:37,840
+and Buzz about shat his pants.
+
+136
+00:06:37,840 --> 00:06:40,600
+So he went to the bathroom and Jeremy seized the opportunity
+
+137
+00:06:40,600 --> 00:06:43,520
+to grab a fire extinguisher, two machetes,
+
+138
+00:06:43,520 --> 00:06:46,160
+three flashlights and hand sanitizer
+
+139
+00:06:46,160 --> 00:06:48,960
+and they shoved it all into their bags.
+
+140
+00:06:48,960 --> 00:06:50,920
+They looked over the missing persons board,
+
+141
+00:06:50,920 --> 00:06:52,840
+there were 18 missing people,
+
+142
+00:06:52,840 --> 00:06:55,280
+several of whom the boys recognized.
+
+143
+00:06:55,280 --> 00:06:57,280
+They saw Stuart Feldman on the board,
+
+144
+00:06:57,280 --> 00:07:00,560
+he was an older bald British man in incredible shape
+
+145
+00:07:00,560 --> 00:07:02,440
+with a thick jawline.
+
+146
+00:07:02,440 --> 00:07:06,020
+He had claimed to be in the woods on business.
+
+147
+00:07:06,020 --> 00:07:08,680
+Jeremy also saw the keys to both the Bronco
+
+148
+00:07:08,680 --> 00:07:11,260
+and the shack itself and snagged them.
+
+149
+00:07:11,260 --> 00:07:14,200
+Buzz returned and the boys asked if they could take a picture
+
+150
+00:07:14,200 --> 00:07:16,080
+of the missing persons board so they could have
+
+151
+00:07:16,960 --> 00:07:19,560
+a reference if they ran into any of the people in the woods.
+
+152
+00:07:19,560 --> 00:07:21,880
+Buzz agreed and gave them a Polaroid picture
+
+153
+00:07:21,880 --> 00:07:24,480
+of the board of Polaroid pictures, woof.
+
+154
+00:07:24,480 --> 00:07:27,280
+The two boys gathered their things and headed off
+
+155
+00:07:27,280 --> 00:07:30,520
+to their usual camping spot on foot.
+
+156
+00:07:30,520 --> 00:07:32,920
+As they hiked, Jeremy noticed tracks.
+
+157
+00:07:32,920 --> 00:07:35,640
+It looked like a car and a smaller vehicle,
+
+158
+00:07:35,640 --> 00:07:38,840
+like a four-wheeler had driven down the trail.
+
+159
+00:07:38,840 --> 00:07:40,160
+When they arrived at their spot,
+
+160
+00:07:40,160 --> 00:07:43,680
+there was unusually no firewood waiting for them.
+
+161
+00:07:43,680 --> 00:07:45,680
+Ash went to chop at a big log
+
+162
+00:07:46,160 --> 00:07:47,160
+and Jeremy started looking around,
+
+163
+00:07:47,160 --> 00:07:50,160
+frustrated at the lack of logs.
+
+164
+00:07:50,160 --> 00:07:53,960
+Ash heard a rustling nearby and saw a man's head pop up
+
+165
+00:07:53,960 --> 00:07:56,000
+from behind some bushes.
+
+166
+00:07:56,000 --> 00:07:58,320
+The man made dead eye contact with Ash
+
+167
+00:07:58,320 --> 00:08:01,000
+and popped back down into the thicket.
+
+168
+00:08:01,840 --> 00:08:05,080
+Ken Krinklehoff's mom, Krista Krinklehoff,
+
+169
+00:08:05,080 --> 00:08:06,720
+drove him to the woods in her minivan
+
+170
+00:08:06,720 --> 00:08:08,640
+and explained she didn't like the tradition
+
+171
+00:08:08,640 --> 00:08:10,800
+he and his friends had of going to the woods once a year
+
+172
+00:08:10,800 --> 00:08:12,120
+for their silly game.
+
+173
+00:08:12,120 --> 00:08:13,200
+Ken said not to worry,
+
+174
+00:08:13,240 --> 00:08:15,960
+but a baby fox jumped out trying to cross the road.
+
+175
+00:08:15,960 --> 00:08:19,920
+Ken's mom hid it and crushed the fox without remorse.
+
+176
+00:08:19,920 --> 00:08:21,320
+They pulled into the parking lot
+
+177
+00:08:21,320 --> 00:08:23,760
+and saw the same cars Ash and Jeremy saw
+
+178
+00:08:23,760 --> 00:08:26,520
+plus the 91 Firebird Ash had borrowed.
+
+179
+00:08:26,520 --> 00:08:28,400
+Ken's mom mentioned how multiple people
+
+180
+00:08:28,400 --> 00:08:30,840
+who had gone into the woods recently were missing
+
+181
+00:08:30,840 --> 00:08:32,440
+and she especially wasn't happy
+
+182
+00:08:32,440 --> 00:08:35,640
+he was going into the woods with Ash and Jeremy.
+
+183
+00:08:35,640 --> 00:08:37,560
+Ken grabbed his gear, said goodbye,
+
+184
+00:08:37,560 --> 00:08:39,280
+and headed to the ranger shack.
+
+185
+00:08:39,280 --> 00:08:41,640
+Buzz introduced himself, took Ken's picture,
+
+186
+00:08:41,640 --> 00:08:45,040
+asked for his information, and posted it on the board.
+
+187
+00:08:45,040 --> 00:08:47,440
+After talking about the missing people for a few minutes,
+
+188
+00:08:47,440 --> 00:08:49,560
+Ken headed off into the woods.
+
+189
+00:08:50,680 --> 00:08:52,920
+A group of three high school girls
+
+190
+00:08:52,920 --> 00:08:56,040
+walked into the contention public library.
+
+191
+00:08:56,040 --> 00:08:58,840
+Judy Krinklehoff, a senior at Silas Cole,
+
+192
+00:08:58,840 --> 00:09:01,280
+and the older sister of Ken Krinklehoff
+
+193
+00:09:01,280 --> 00:09:04,440
+still wore the same clothes she bought for freshman year.
+
+194
+00:09:04,440 --> 00:09:06,920
+She was very anxious, never said the right thing,
+
+195
+00:09:06,920 --> 00:09:08,800
+and wanted to be in a relationship
+
+196
+00:09:08,800 --> 00:09:10,680
+with the coolest girl at school,
+
+197
+00:09:10,680 --> 00:09:15,440
+a rebel who bullied Judy named Elizabeth Liz Lonklin.
+
+198
+00:09:15,440 --> 00:09:18,240
+Liz wore a leather jacket and Doc Martens,
+
+199
+00:09:18,240 --> 00:09:19,640
+she smoked cigarettes,
+
+200
+00:09:19,640 --> 00:09:22,920
+and she was a self-described bitch.
+
+201
+00:09:22,920 --> 00:09:25,960
+The final girl, Sharon Shadow Berryman,
+
+202
+00:09:25,960 --> 00:09:28,120
+formerly a popular cheerleader,
+
+203
+00:09:28,120 --> 00:09:31,160
+was now obsessed with going to graveyards,
+
+204
+00:09:31,160 --> 00:09:33,040
+funerals, and hospitals
+
+205
+00:09:33,040 --> 00:09:37,280
+to engage with all forms and stages of death.
+
+206
+00:09:37,280 --> 00:09:40,000
+Shadow asked Steven Page for the location
+
+207
+00:09:40,040 --> 00:09:42,240
+of occult books related to voodoo,
+
+208
+00:09:42,240 --> 00:09:44,360
+and he led them to a small room in the back
+
+209
+00:09:44,360 --> 00:09:47,040
+with a small sign that read occult.
+
+210
+00:09:47,040 --> 00:09:50,040
+Inside, they found a book titled Voodoo.
+
+211
+00:09:50,040 --> 00:09:52,520
+Shadow said they would find what they were looking for
+
+212
+00:09:52,520 --> 00:09:57,520
+on page 419, and Liz revealed she wanted to torture
+
+213
+00:09:58,160 --> 00:10:01,960
+someone named Brittany for sleeping with her boyfriend,
+
+214
+00:10:01,960 --> 00:10:05,280
+all while Judy went on about how beautiful Liz was.
+
+215
+00:10:05,280 --> 00:10:09,140
+Page 419 described a ritual that must be performed
+
+216
+00:10:09,140 --> 00:10:12,380
+while surrounded by trees at night.
+
+217
+00:10:12,380 --> 00:10:15,660
+There were a few ingredients necessary for performing it.
+
+218
+00:10:15,660 --> 00:10:17,740
+The left pinky toe of a dead squirrel,
+
+219
+00:10:17,740 --> 00:10:19,020
+dirt scraped from the earth
+
+220
+00:10:19,020 --> 00:10:22,100
+after it had been stepped on by a menstruating calf,
+
+221
+00:10:22,100 --> 00:10:24,660
+the blood from a former cheerleader gone goth
+
+222
+00:10:24,660 --> 00:10:29,060
+who goes to Silas Colquet through 12, and bird pee.
+
+223
+00:10:29,060 --> 00:10:31,780
+Smash cut to the group leaving the library with the book.
+
+224
+00:10:31,780 --> 00:10:33,920
+Smash cut to them on the side of the road,
+
+225
+00:10:33,920 --> 00:10:36,660
+bent over a dead squirrel cutting off its pinky toe.
+
+226
+00:10:36,660 --> 00:10:38,420
+Smash cut to them in a field,
+
+227
+00:10:38,420 --> 00:10:41,460
+scooping up dirt under a cow bleeding from its lady butt.
+
+228
+00:10:41,460 --> 00:10:43,820
+Smash cut to them standing in a parking lot
+
+229
+00:10:43,820 --> 00:10:46,220
+waiting for a bird to pee slash poo on them.
+
+230
+00:10:46,220 --> 00:10:48,740
+Smash cut to Shadow scratching herself
+
+231
+00:10:48,740 --> 00:10:50,100
+with the dead squirrel toe
+
+232
+00:10:50,100 --> 00:10:52,340
+and dripping her blood into a vial.
+
+233
+00:10:52,340 --> 00:10:55,220
+Smash cut to two days ago when Shadow told Liz
+
+234
+00:10:55,220 --> 00:10:57,180
+her boyfriend was cheating on her with Brittany
+
+235
+00:10:57,180 --> 00:10:59,060
+from Spinkbonk High in the city,
+
+236
+00:10:59,060 --> 00:11:01,060
+and Shadow and Judy agreed to help Liz
+
+237
+00:11:01,060 --> 00:11:02,440
+get back at her boyfriend.
+
+238
+00:11:02,440 --> 00:11:04,700
+Smash cut back to the present,
+
+239
+00:11:04,700 --> 00:11:07,020
+and the girls were on their way to the woods
+
+240
+00:11:07,020 --> 00:11:10,140
+with all the necessary ingredients.
+
+241
+00:11:10,140 --> 00:11:11,940
+Shadow turned onto a gravel road
+
+242
+00:11:11,940 --> 00:11:14,020
+and a possum walked out in front of the car.
+
+243
+00:11:14,020 --> 00:11:18,060
+Shadow drove straight for it and crushed it under the car.
+
+244
+00:11:18,060 --> 00:11:19,420
+She was happy for the possum
+
+245
+00:11:19,420 --> 00:11:21,460
+since it was in a different place now,
+
+246
+00:11:21,460 --> 00:11:24,780
+but Judy worried it wasn't going to heaven.
+
+247
+00:11:24,780 --> 00:11:26,480
+They buried the possum real quick
+
+248
+00:11:26,480 --> 00:11:29,180
+and then arrived at the contention woods parking lot.
+
+249
+00:11:29,180 --> 00:11:31,460
+Already in the parking lot were five cars,
+
+250
+00:11:31,460 --> 00:11:35,420
+the four we expected, plus Krista Krinklehoff's minivan.
+
+251
+00:11:35,420 --> 00:11:36,580
+Judy freaked out a little
+
+252
+00:11:36,580 --> 00:11:38,140
+because she saw her mom's minivan
+
+253
+00:11:38,140 --> 00:11:40,680
+and she was out past her curfew.
+
+254
+00:11:40,680 --> 00:11:43,700
+Liz and Shadow promised to shove Judy into a ditch
+
+255
+00:11:43,700 --> 00:11:45,320
+if they saw Krista Krinklehoff,
+
+256
+00:11:45,320 --> 00:11:48,380
+which assuaged Judy's worries.
+
+257
+00:11:48,380 --> 00:11:51,780
+An old man wearing a state forest ranger uniform
+
+258
+00:11:51,780 --> 00:11:53,580
+jumped out and scared the girls.
+
+259
+00:11:53,580 --> 00:11:57,180
+He introduced himself as Woodrow or Buzz for short
+
+260
+00:11:57,180 --> 00:12:00,180
+and asked them to fill out some forms in the shack.
+
+261
+00:12:00,180 --> 00:12:05,180
+Shadow whispered to the rest to not use their real names.
+
+262
+00:12:05,300 --> 00:12:08,180
+Ash Hornbeam walked over to investigate the bush
+
+263
+00:12:08,180 --> 00:12:11,420
+after seeing the man's face disappear back behind it,
+
+264
+00:12:11,420 --> 00:12:13,140
+his ax in hand.
+
+265
+00:12:13,140 --> 00:12:15,320
+He heard rustling and a chattering sound,
+
+266
+00:12:15,320 --> 00:12:17,500
+so he ran back to find Jeremy Pettymore,
+
+267
+00:12:17,500 --> 00:12:19,140
+who was standing at their campsite,
+
+268
+00:12:19,140 --> 00:12:22,260
+still frustrated at the lack of pre-prepared firewood.
+
+269
+00:12:22,260 --> 00:12:24,660
+Ash sprinted back and squawked about a man in a bush
+
+270
+00:12:24,660 --> 00:12:26,980
+by a log making animal noises.
+
+271
+00:12:26,980 --> 00:12:29,040
+Jeremy readied the gun he found
+
+272
+00:12:29,040 --> 00:12:31,180
+and Ash led him to the bush.
+
+273
+00:12:31,180 --> 00:12:32,900
+It was still rustling with movement
+
+274
+00:12:32,940 --> 00:12:35,920
+and the animal-like noises were still audible.
+
+275
+00:12:37,180 --> 00:12:40,980
+Ash picked up a long stick and poked at the bush.
+
+276
+00:12:40,980 --> 00:12:43,780
+Stepping back from the bush was a naked human man
+
+277
+00:12:43,780 --> 00:12:45,460
+covered in scratches and cuts,
+
+278
+00:12:45,460 --> 00:12:47,180
+some of which were still bleeding.
+
+279
+00:12:47,180 --> 00:12:51,380
+He looked at the boys with huge eyes and froze.
+
+280
+00:12:51,380 --> 00:12:53,740
+Jeremy took out the Polaroid of the Polaroids.
+
+281
+00:12:53,740 --> 00:12:55,460
+They could tell this was one of the people
+
+282
+00:12:55,460 --> 00:12:56,580
+who'd gone missing,
+
+283
+00:12:56,580 --> 00:12:58,920
+though they couldn't quite read his name.
+
+284
+00:12:58,920 --> 00:13:00,000
+The boys called out to him,
+
+285
+00:13:00,000 --> 00:13:02,280
+suggested he put on pants and offered to help
+
+286
+00:13:02,520 --> 00:13:03,680
+with a first aid kit.
+
+287
+00:13:03,680 --> 00:13:05,800
+The man scampered up to them hastily.
+
+288
+00:13:05,800 --> 00:13:08,580
+Jeremy pointed the gun at him to no effect.
+
+289
+00:13:08,580 --> 00:13:10,520
+The man pushed his fingers together,
+
+290
+00:13:10,520 --> 00:13:13,840
+made sad puppy dog eyes and mewled.
+
+291
+00:13:13,840 --> 00:13:16,500
+Ash and Jeremy discussed what to do with the animal man
+
+292
+00:13:16,500 --> 00:13:19,880
+as he sniffed the air and headed to their campsite.
+
+293
+00:13:19,880 --> 00:13:21,580
+The boys tried to Red Rover him,
+
+294
+00:13:21,580 --> 00:13:24,080
+but the situation finally sunk into Ash.
+
+295
+00:13:24,080 --> 00:13:27,060
+He freaked out, backed away and tripped backwards on a log.
+
+296
+00:13:27,060 --> 00:13:29,620
+Jeremy tried to stop the man alone but wasn't able to.
+
+297
+00:13:29,620 --> 00:13:31,760
+Both boys had the realization though
+
+298
+00:13:32,080 --> 00:13:35,640
+that this man did not act or run like a normal human man.
+
+299
+00:13:35,640 --> 00:13:36,840
+He was too fast.
+
+300
+00:13:36,840 --> 00:13:41,360
+He was crouched and he used his front legs or arms
+
+301
+00:13:41,360 --> 00:13:44,440
+to aid his movement toward their campsite.
+
+302
+00:13:44,440 --> 00:13:45,980
+The boys ran back to their spot,
+
+303
+00:13:45,980 --> 00:13:47,760
+still holding their weapons.
+
+304
+00:13:47,760 --> 00:13:48,600
+When they returned,
+
+305
+00:13:48,600 --> 00:13:51,240
+they saw the man hunched over their bag with food,
+
+306
+00:13:51,240 --> 00:13:53,600
+going to town on the snacks they brought.
+
+307
+00:13:53,600 --> 00:13:56,160
+Jeremy cried out for his little Smokies.
+
+308
+00:13:56,160 --> 00:13:59,000
+After a small tussle between the boys and the naked man,
+
+309
+00:13:59,000 --> 00:14:01,120
+Ash kicked away the can of Smokies,
+
+310
+00:14:01,120 --> 00:14:03,560
+kneed him in the face and full nelsoned him
+
+311
+00:14:03,560 --> 00:14:06,280
+down into the mud, immobilizing him.
+
+312
+00:14:06,280 --> 00:14:08,800
+Jeremy took a rope, tied him to a tree
+
+313
+00:14:08,800 --> 00:14:12,480
+and tried to calm him down with more Smokies.
+
+314
+00:14:12,480 --> 00:14:14,320
+Ash used some hand sanitizer
+
+315
+00:14:14,320 --> 00:14:17,600
+and headed back down the trail to get buzz.
+
+316
+00:14:17,600 --> 00:14:19,500
+As Ash headed back to the shack,
+
+317
+00:14:19,500 --> 00:14:21,760
+the trees around him began to warp.
+
+318
+00:14:21,760 --> 00:14:24,300
+The trail became nearly non-existent
+
+319
+00:14:24,300 --> 00:14:26,800
+and he was suddenly looking at a thicket of woods
+
+320
+00:14:26,800 --> 00:14:29,240
+instead of the trail in front of him.
+
+321
+00:14:29,240 --> 00:14:31,040
+The sun was going down
+
+322
+00:14:31,920 --> 00:14:33,220
+and Ash was all by himself
+
+323
+00:14:33,220 --> 00:14:36,600
+and he had no fucking clue where he was.
+
+324
+00:14:38,140 --> 00:14:39,920
+Ken Krenkelhoff walked down the trail
+
+325
+00:14:39,920 --> 00:14:41,680
+and made it to the usual campsite.
+
+326
+00:14:41,680 --> 00:14:44,440
+When he arrived, he saw Jeremy waving little Smokies
+
+327
+00:14:44,440 --> 00:14:47,480
+in front of the face of a naked, bloody man
+
+328
+00:14:47,480 --> 00:14:48,760
+tied up to a tree.
+
+329
+00:14:48,760 --> 00:14:50,520
+Ken shouted as he entered the clearing,
+
+330
+00:14:50,520 --> 00:14:52,780
+startling Jeremy Pettymore.
+
+331
+00:14:52,780 --> 00:14:54,600
+Ken asked if the man could hear him
+
+332
+00:14:54,600 --> 00:14:55,560
+and if he was all right
+
+333
+00:14:55,560 --> 00:14:58,040
+and the man made some more chattering noises.
+
+334
+00:14:58,040 --> 00:15:00,080
+Jeremy indicated this was one of the people
+
+335
+00:15:00,120 --> 00:15:01,880
+who had gone missing in the woods.
+
+336
+00:15:01,880 --> 00:15:05,440
+Ash was on his way back to the ranger station to get buzz.
+
+337
+00:15:05,440 --> 00:15:08,540
+In the meantime, Jeremy was trying to tame the animal man
+
+338
+00:15:08,540 --> 00:15:10,680
+with tiny meat fellows.
+
+339
+00:15:10,680 --> 00:15:13,560
+Ken realized that if Ash was going from the campsite
+
+340
+00:15:13,560 --> 00:15:18,120
+to the ranger shack, they should have crossed paths,
+
+341
+00:15:18,120 --> 00:15:20,040
+but they didn't.
+
+342
+00:15:20,040 --> 00:15:21,960
+Ken called out for Ash but stopped
+
+343
+00:15:21,960 --> 00:15:25,360
+when he looked back at the man and no longer saw humanity.
+
+344
+00:15:25,360 --> 00:15:28,140
+Only animalistic intent behind the eyes
+
+345
+00:15:28,140 --> 00:15:31,500
+of this bloody, muddy, tied up naked human body.
+
+346
+00:15:31,500 --> 00:15:33,300
+Ken freaked out and backed away,
+
+347
+00:15:33,300 --> 00:15:35,260
+claiming the man wasn't a person.
+
+348
+00:15:35,260 --> 00:15:38,460
+Jeremy tried to convince him the man was still a man,
+
+349
+00:15:38,460 --> 00:15:40,180
+but Ken wasn't convinced.
+
+350
+00:15:40,180 --> 00:15:43,340
+He went back to calling out for Ash's panic rising.
+
+351
+00:15:43,340 --> 00:15:45,900
+Jeremy wasn't sure why Ken was scared of this man,
+
+352
+00:15:45,900 --> 00:15:48,120
+whom he had named Rusty.
+
+353
+00:15:49,720 --> 00:15:52,860
+Shadow, Liz, and Judy were in the contention woods
+
+354
+00:15:52,860 --> 00:15:54,780
+parking lot talking to Buzz.
+
+355
+00:15:54,780 --> 00:15:56,360
+Judy worried about her mom
+
+356
+00:15:56,360 --> 00:15:58,740
+and wondered if she'd also gone missing.
+
+357
+00:15:58,740 --> 00:16:01,240
+Shadow and Liz calmed her down by suggesting
+
+358
+00:16:01,240 --> 00:16:03,200
+that perhaps Chris's car was stolen
+
+359
+00:16:03,200 --> 00:16:06,600
+and so it wasn't actually her that drove it to the woods.
+
+360
+00:16:06,600 --> 00:16:09,160
+Now back in the shack, Buzz asked the young ladies
+
+361
+00:16:09,160 --> 00:16:11,160
+to come over and take care of business
+
+362
+00:16:11,160 --> 00:16:12,560
+so they can be on their way.
+
+363
+00:16:12,560 --> 00:16:14,620
+They wondered if they should trust the man,
+
+364
+00:16:14,620 --> 00:16:17,020
+but decided to have their pictures taken anyway.
+
+365
+00:16:17,020 --> 00:16:18,160
+Glancing around the shack,
+
+366
+00:16:18,160 --> 00:16:19,920
+they saw various ranger equipment
+
+367
+00:16:19,920 --> 00:16:21,720
+and the bulletin board of missing people,
+
+368
+00:16:21,720 --> 00:16:25,600
+as well as a massive jug of hand sanitizer on the windowsill.
+
+369
+00:16:25,600 --> 00:16:28,840
+Judy furiously pumped hand sanitizer into her hand,
+
+370
+00:16:28,840 --> 00:16:32,320
+so much so that it overflowed onto the floor.
+
+371
+00:16:32,320 --> 00:16:34,520
+Liz looked at Judy appalled
+
+372
+00:16:34,520 --> 00:16:36,520
+and asked Buzz if they could have a machete
+
+373
+00:16:36,520 --> 00:16:39,240
+to protect themselves from something killing people,
+
+374
+00:16:39,240 --> 00:16:41,040
+like maybe Judy's mom.
+
+375
+00:16:41,040 --> 00:16:43,880
+Judy freaked out and started licking the hand sanitizer
+
+376
+00:16:43,880 --> 00:16:44,880
+from her hands.
+
+377
+00:16:44,880 --> 00:16:47,720
+Buzz offered the hand sanitizer to the other two girls.
+
+378
+00:16:47,720 --> 00:16:50,160
+Shadow refused, but Liz put her hand out
+
+379
+00:16:50,160 --> 00:16:52,840
+and as Buzz started to pump out the hand sanitizer,
+
+380
+00:16:52,840 --> 00:16:54,260
+she tried to pull her hand away,
+
+381
+00:16:54,260 --> 00:16:56,060
+but plenty still landed on her,
+
+382
+00:16:56,060 --> 00:16:58,420
+so she unhappily rubbed it in.
+
+383
+00:16:58,420 --> 00:17:01,120
+As Buzz pinned all their information and pictures
+
+384
+00:17:01,120 --> 00:17:03,200
+on the not missing side of the board,
+
+385
+00:17:03,200 --> 00:17:06,220
+the girls noticed a slight trickle of blood
+
+386
+00:17:06,220 --> 00:17:10,340
+going down the back of his neck, staining his uniform.
+
+387
+00:17:13,900 --> 00:17:16,740
+Ash looked around at the ever darkening tree
+
+388
+00:17:16,740 --> 00:17:20,940
+surrounding him as the sun went down.
+
+389
+00:17:20,940 --> 00:17:23,500
+He heard a noise and saw a tree
+
+390
+00:17:23,500 --> 00:17:26,860
+emitting a bright light from a hollow point.
+
+391
+00:17:26,860 --> 00:17:28,500
+He looked around suspiciously,
+
+392
+00:17:28,500 --> 00:17:30,860
+saw a trip wire between him and the tree
+
+393
+00:17:30,860 --> 00:17:32,780
+and carefully avoided it
+
+394
+00:17:32,780 --> 00:17:35,880
+as he walked up to the light emanating knot.
+
+395
+00:17:35,880 --> 00:17:38,360
+It was so bright, Ash couldn't see what was inside,
+
+396
+00:17:38,360 --> 00:17:41,020
+but he knew something was deep in there.
+
+397
+00:17:41,020 --> 00:17:44,340
+Ash pushed his arm into the arm shaped hole
+
+398
+00:17:44,340 --> 00:17:48,720
+up to his elbow, felt around, found nothing,
+
+399
+00:17:48,720 --> 00:17:52,060
+pushed in deeper and when he attempted to pull his arm out,
+
+400
+00:17:52,100 --> 00:17:55,200
+he felt a great pain on his skin,
+
+401
+00:17:55,200 --> 00:17:57,860
+like he was noodling a razor sharp catfish
+
+402
+00:17:57,860 --> 00:18:00,500
+all the way from elbow to fingertip.
+
+403
+00:18:00,500 --> 00:18:02,460
+Ash pulled out about a centimeter
+
+404
+00:18:02,460 --> 00:18:07,000
+and the bit of arm revealed only raw muscle and tendons.
+
+405
+00:18:07,000 --> 00:18:10,220
+It lacked skin completely.
+
+406
+00:18:10,220 --> 00:18:11,760
+He realized he was trapped
+
+407
+00:18:11,760 --> 00:18:14,480
+and for the first time in his life,
+
+408
+00:18:14,480 --> 00:18:17,980
+Ash Hornbeam had no idea what to do.
+
+409
+00:18:18,980 --> 00:18:22,340
+Shadow told Buzz he was bleeding from his head.
+
+410
+00:18:22,340 --> 00:18:24,740
+She offered to trade her first aid kit for his machete
+
+411
+00:18:24,740 --> 00:18:26,420
+and he gladly accepted.
+
+412
+00:18:26,420 --> 00:18:28,680
+She grabbed the kit in a vial and patched him up
+
+413
+00:18:28,680 --> 00:18:31,740
+while discreetly taking a sample of his blood.
+
+414
+00:18:31,740 --> 00:18:33,760
+The group then took stock of their possessions
+
+415
+00:18:33,760 --> 00:18:36,020
+and headed to their designated camping spot
+
+416
+00:18:36,020 --> 00:18:38,020
+to perform the ritual.
+
+417
+00:18:38,020 --> 00:18:39,740
+Upon arrival, there were no rocks
+
+418
+00:18:39,740 --> 00:18:41,380
+around the designated fire pit
+
+419
+00:18:41,380 --> 00:18:43,380
+in order to keep the fire contained.
+
+420
+00:18:43,380 --> 00:18:45,620
+This was very concerning to Judy.
+
+421
+00:18:45,620 --> 00:18:46,900
+Liz went to find some rocks
+
+422
+00:18:46,900 --> 00:18:50,540
+and Shadow swayed in the wind to attune with nature.
+
+423
+00:18:50,540 --> 00:18:52,180
+Judy, worried about her mom
+
+424
+00:18:52,180 --> 00:18:54,740
+and the pond water she just used to brush her teeth,
+
+425
+00:18:54,740 --> 00:18:56,460
+suffered a bout of insanity.
+
+426
+00:18:56,460 --> 00:18:58,220
+She saw reality warp.
+
+427
+00:18:58,220 --> 00:19:02,560
+Shadow blended into the trees and the ground became the sky.
+
+428
+00:19:02,560 --> 00:19:06,240
+Judy promptly ran into the woods in her footy pajamas.
+
+429
+00:19:06,240 --> 00:19:09,300
+Shadow sighed and followed with her machete,
+
+430
+00:19:09,300 --> 00:19:11,500
+leaping and dancing as she went.
+
+431
+00:19:12,940 --> 00:19:15,180
+Liz's reality glitched
+
+432
+00:19:15,180 --> 00:19:17,140
+and she suddenly found herself lost
+
+433
+00:19:17,140 --> 00:19:19,760
+in an unrecognizable part of the woods.
+
+434
+00:19:19,760 --> 00:19:22,300
+Behind some rocks, she saw a fit looking bald man
+
+435
+00:19:22,300 --> 00:19:25,540
+in his forties walking in circles, waving his hands
+
+436
+00:19:25,540 --> 00:19:27,060
+and talking to himself.
+
+437
+00:19:27,060 --> 00:19:30,900
+All on the other side of a thick line of white powder.
+
+438
+00:19:30,900 --> 00:19:35,700
+A branch like sigil was carved into every tree in sight.
+
+439
+00:19:35,700 --> 00:19:38,780
+Liz tried to get away quietly, but she stepped on a stick
+
+440
+00:19:38,780 --> 00:19:40,980
+and he beckoned her over to his little camp
+
+441
+00:19:40,980 --> 00:19:42,900
+with some semi-intelligible,
+
+442
+00:19:42,900 --> 00:19:45,780
+mostly English accented instructions.
+
+443
+00:19:45,780 --> 00:19:48,660
+She went over partly because she found him attractive.
+
+444
+00:19:48,660 --> 00:19:52,320
+He was concerned about two things, the sky turning
+
+445
+00:19:52,320 --> 00:19:56,220
+and keeping the lady in the wood away.
+
+446
+00:19:56,220 --> 00:20:00,100
+A tattoo of a stylized H was slightly hidden
+
+447
+00:20:00,100 --> 00:20:01,700
+on the back of his neck.
+
+448
+00:20:01,700 --> 00:20:03,180
+After a little more discussion,
+
+449
+00:20:03,180 --> 00:20:05,540
+Liz decided she was too worried by the situation
+
+450
+00:20:05,540 --> 00:20:06,820
+and didn't trust him.
+
+451
+00:20:06,820 --> 00:20:08,740
+She ran away as he shouted,
+
+452
+00:20:08,740 --> 00:20:11,680
+she was definitely going to get go.
+
+453
+00:20:12,660 --> 00:20:17,620
+Lost in the woods, Liz Lonklin stumbled upon Ash Hornbeam
+
+454
+00:20:17,620 --> 00:20:21,740
+stuck in a tree with tears streaming down his face.
+
+455
+00:20:21,740 --> 00:20:24,460
+They were understandably surprised to see each other.
+
+456
+00:20:24,460 --> 00:20:27,140
+Ash warned her about the trip wire just in time,
+
+457
+00:20:27,140 --> 00:20:29,500
+but the helpless situation caused him to lose it
+
+458
+00:20:29,500 --> 00:20:32,360
+and pull his arm out a little bit more.
+
+459
+00:20:32,360 --> 00:20:35,020
+The loss of skin was staggering.
+
+460
+00:20:35,020 --> 00:20:36,820
+He threw up at a sheer panic.
+
+461
+00:20:36,820 --> 00:20:38,660
+Liz dipped out, shouting for help.
+
+462
+00:20:39,540 --> 00:20:41,340
+She was leaving Ash alone with the tree once again,
+
+463
+00:20:41,340 --> 00:20:45,580
+staring at his lacerated, dripping arm.
+
+464
+00:20:45,580 --> 00:20:47,700
+Judy ran haphazardly through the woods,
+
+465
+00:20:47,700 --> 00:20:49,860
+but thankfully stopped just before
+
+466
+00:20:49,860 --> 00:20:52,700
+a suspicious looking pile of leaves.
+
+467
+00:20:52,700 --> 00:20:56,260
+Shadow almost danced directly into the dubious detritus,
+
+468
+00:20:56,260 --> 00:20:57,780
+but Judy pulled her out of the way,
+
+469
+00:20:57,780 --> 00:21:01,460
+revealing the 10 foot deep pit underneath the leaf pile.
+
+470
+00:21:01,460 --> 00:21:03,060
+Shaken, but not yet broken,
+
+471
+00:21:03,060 --> 00:21:04,940
+the two headed back to their campsite.
+
+472
+00:21:04,940 --> 00:21:07,220
+They didn't see Liz, but they did see a raccoon
+
+473
+00:21:07,220 --> 00:21:10,460
+sitting there eating just like a person would.
+
+474
+00:21:10,460 --> 00:21:13,220
+The little trash panda indicated that hand sanitizer
+
+475
+00:21:13,220 --> 00:21:15,920
+should not be used, might be deadly.
+
+476
+00:21:15,920 --> 00:21:17,860
+Judy looked into the raccoon's eyes,
+
+477
+00:21:17,860 --> 00:21:21,220
+saw the soul of a human and decided to trust it.
+
+478
+00:21:21,220 --> 00:21:24,120
+Shadow tottered along with T-Rex arms,
+
+479
+00:21:24,120 --> 00:21:27,620
+imitating the raccoon as the trio headed back
+
+480
+00:21:27,620 --> 00:21:29,860
+to the entrance of the woods.
+
+481
+00:21:30,800 --> 00:21:32,780
+After searching through the woods
+
+482
+00:21:32,780 --> 00:21:36,500
+in the dwindling twilight, Liz finally found the trail
+
+483
+00:21:36,500 --> 00:21:38,820
+along with Jeremy Pettymore and Ken Krinkelhoff
+
+484
+00:21:38,820 --> 00:21:40,060
+at their campsite.
+
+485
+00:21:40,060 --> 00:21:42,620
+She saw them talking to a feral man,
+
+486
+00:21:42,620 --> 00:21:44,420
+feeding him little winkies.
+
+487
+00:21:44,420 --> 00:21:46,660
+She told them Ash was in trouble with a tree
+
+488
+00:21:46,660 --> 00:21:49,180
+while Jeremy fed Rusty more smokes.
+
+489
+00:21:49,180 --> 00:21:51,540
+They debated whether or not to take Rusty along
+
+490
+00:21:51,540 --> 00:21:52,380
+for the search.
+
+491
+00:21:52,380 --> 00:21:56,960
+Ken finally agreed to it and Liz Lonklin led the party.
+
+492
+00:21:56,960 --> 00:21:59,560
+Shadow, Judy and the raccoon made their way
+
+493
+00:21:59,560 --> 00:22:01,620
+back to the parking lot and were confronted
+
+494
+00:22:01,620 --> 00:22:04,960
+by Judy's mom's voice coming out of the shack.
+
+495
+00:22:04,960 --> 00:22:08,040
+Judy instinctively ran to get more hand sanitizer
+
+496
+00:22:08,040 --> 00:22:10,080
+from her mom and succeeded in doing so
+
+497
+00:22:10,080 --> 00:22:13,340
+despite the raccoon physically trying to stop her.
+
+498
+00:22:13,340 --> 00:22:15,480
+Krista told the girls that Buzz had asked her
+
+499
+00:22:15,480 --> 00:22:19,360
+to watch the shack while he went to investigate an argument.
+
+500
+00:22:19,360 --> 00:22:22,320
+The raccoon indicated they should get the fuck out of Dodge
+
+501
+00:22:22,320 --> 00:22:24,720
+but Shadow wanted to go back and get Liz.
+
+502
+00:22:24,720 --> 00:22:27,840
+She persuaded Krista to help her find Liz.
+
+503
+00:22:27,840 --> 00:22:30,320
+Judy could stay in the shack with the raccoon.
+
+504
+00:22:30,320 --> 00:22:33,600
+When Shadow and Krista skipped into the forest together,
+
+505
+00:22:33,600 --> 00:22:35,480
+Judy hit the restroom.
+
+506
+00:22:35,480 --> 00:22:40,480
+There she saw the limp, neatly folded body
+
+507
+00:22:40,760 --> 00:22:44,040
+of Ranger Buzz on the floor.
+
+508
+00:22:45,920 --> 00:22:50,160
+Ken Krinklehoff, Jeremy Pettymore, Liz Lonklin and Rusty
+
+509
+00:22:50,160 --> 00:22:52,980
+walked through the woods looking for Ash Hornbeam
+
+510
+00:22:52,980 --> 00:22:55,520
+whose arm was stuck in a tree.
+
+511
+00:22:55,520 --> 00:22:59,800
+The sun had now gone down and they were in total darkness.
+
+512
+00:22:59,800 --> 00:23:02,880
+Too far off the trail, the group began to realize
+
+513
+00:23:02,880 --> 00:23:04,960
+none of them knew where they were.
+
+514
+00:23:04,960 --> 00:23:06,780
+They walked deeper into the woods
+
+515
+00:23:06,780 --> 00:23:09,600
+and eventually saw through the moonlight
+
+516
+00:23:09,600 --> 00:23:13,000
+a picture frame hanging on a tree.
+
+517
+00:23:14,320 --> 00:23:18,400
+Flashback to Ken Krinklehoff a couple years ago.
+
+518
+00:23:18,400 --> 00:23:20,160
+He and his friends were out in the woods
+
+519
+00:23:20,160 --> 00:23:23,320
+on their annual outing to look for Ol' Madge.
+
+520
+00:23:23,320 --> 00:23:25,100
+He popped away to pee behind a tree
+
+521
+00:23:25,100 --> 00:23:27,520
+and as he looked up from his stream of urine,
+
+522
+00:23:27,520 --> 00:23:30,880
+he saw a frame like of a painting
+
+523
+00:23:30,920 --> 00:23:33,000
+hanging there in the woods.
+
+524
+00:23:33,000 --> 00:23:35,620
+It looked like nothing was in the frame.
+
+525
+00:23:35,620 --> 00:23:38,680
+Ken approached and noticed that somewhere along
+
+526
+00:23:38,680 --> 00:23:42,220
+the edge of this frame, something didn't line up
+
+527
+00:23:42,220 --> 00:23:45,680
+as if what was behind the frame wasn't the same
+
+528
+00:23:45,680 --> 00:23:47,880
+as what he could see through it.
+
+529
+00:23:47,880 --> 00:23:49,560
+He strafed to the side to get a better look
+
+530
+00:23:49,560 --> 00:23:52,320
+and saw that beyond the frame was a cabin.
+
+531
+00:23:52,320 --> 00:23:55,640
+Ken walked up to this frame to put his hand through it
+
+532
+00:23:55,640 --> 00:23:58,200
+but at the last second noticed a trip wire
+
+533
+00:23:58,200 --> 00:24:00,160
+he was about to step on.
+
+534
+00:24:00,200 --> 00:24:02,240
+Ken jumped back, grabbed a rock
+
+535
+00:24:02,240 --> 00:24:03,960
+and threw it at the trip wire.
+
+536
+00:24:03,960 --> 00:24:07,400
+A giant wooden spear came flying through the canvas
+
+537
+00:24:07,400 --> 00:24:10,720
+of the painting and stabbed directly into a tree
+
+538
+00:24:10,720 --> 00:24:12,440
+just missing Ken.
+
+539
+00:24:12,440 --> 00:24:15,800
+He rushed back to the camp while convincing himself
+
+540
+00:24:15,800 --> 00:24:17,320
+it wasn't real.
+
+541
+00:24:17,320 --> 00:24:20,880
+Flashback forward to Jeremy, Liz, Ken and Rusty
+
+542
+00:24:20,880 --> 00:24:23,600
+standing in the clearing looking at the weird frame.
+
+543
+00:24:23,600 --> 00:24:27,280
+Ken yelled out for everyone to stop and not go any closer.
+
+544
+00:24:27,320 --> 00:24:30,360
+He pointed at the ground and next to the frame
+
+545
+00:24:30,360 --> 00:24:31,880
+there was a trip wire.
+
+546
+00:24:31,880 --> 00:24:34,240
+He tossed a small log onto the trip wire
+
+547
+00:24:34,240 --> 00:24:36,720
+and a massive spear shot through the frame
+
+548
+00:24:36,720 --> 00:24:39,400
+directly into a nearby tree.
+
+549
+00:24:39,400 --> 00:24:41,680
+Ken shared his memory with the rest of the party
+
+550
+00:24:41,680 --> 00:24:44,400
+and as they all looked at this frame
+
+551
+00:24:44,400 --> 00:24:46,480
+they could see a cabin in the woods
+
+552
+00:24:46,480 --> 00:24:48,300
+through the spear made hole.
+
+553
+00:24:48,300 --> 00:24:52,120
+Ken snapped, grabbed the spear and raced toward the cabin.
+
+554
+00:24:52,120 --> 00:24:53,760
+As Jeremy yelled at him to stop,
+
+555
+00:24:53,760 --> 00:24:56,960
+Ken stepped on a pile of leaves covering a hole
+
+556
+00:24:57,520 --> 00:24:59,480
+and disappeared into the ground.
+
+557
+00:25:00,960 --> 00:25:04,400
+Ash Hornbeam stood in the woods terrified.
+
+558
+00:25:04,400 --> 00:25:08,240
+His arm stuck halfway into the hollow of a tree.
+
+559
+00:25:08,240 --> 00:25:10,520
+Part of his arm that he could see had been stripped
+
+560
+00:25:10,520 --> 00:25:13,160
+of every layer of flesh.
+
+561
+00:25:13,160 --> 00:25:16,440
+The sun finished going down and Ash stood alone
+
+562
+00:25:16,440 --> 00:25:18,320
+in the moonlight.
+
+563
+00:25:18,320 --> 00:25:20,600
+He heard the snap of a branch nearby
+
+564
+00:25:20,600 --> 00:25:23,180
+and out of the trees approached a man
+
+565
+00:25:23,180 --> 00:25:26,360
+in a black suit, white shirt and bolo tie.
+
+566
+00:25:26,400 --> 00:25:29,400
+He was a fit man in his late 20s or early 30s
+
+567
+00:25:29,400 --> 00:25:31,920
+with a glorious mustache and pants
+
+568
+00:25:31,920 --> 00:25:33,840
+that were a bit too tight.
+
+569
+00:25:33,840 --> 00:25:36,720
+He flashed an FBI badge and introduced himself
+
+570
+00:25:36,720 --> 00:25:38,360
+as Agent Kevin.
+
+571
+00:25:38,360 --> 00:25:40,760
+He asked Ash why he was out in the woods.
+
+572
+00:25:40,760 --> 00:25:42,880
+Ash said he and some friends come out to the woods
+
+573
+00:25:42,880 --> 00:25:45,140
+every year to camp and look for old Madge,
+
+574
+00:25:45,140 --> 00:25:47,800
+a woman in the woods from local legend.
+
+575
+00:25:47,800 --> 00:25:51,640
+Kevin cursed, thanked him and with a trembling hand
+
+576
+00:25:51,640 --> 00:25:54,940
+pressed a gun to the back of Ash's head.
+
+577
+00:25:54,940 --> 00:25:57,860
+Acting on pure instinct, Ash reached into his pocket,
+
+578
+00:25:57,860 --> 00:26:00,460
+pulled out a lighter and some firecrackers,
+
+579
+00:26:00,460 --> 00:26:04,740
+lit them with one hand and held them against Kevin's head.
+
+580
+00:26:04,740 --> 00:26:06,800
+Kevin lowered his gun, grabbed the fireworks
+
+581
+00:26:06,800 --> 00:26:08,540
+and threw them away.
+
+582
+00:26:08,540 --> 00:26:12,340
+On closer inspection, Kevin recognized Ash as a local kid
+
+583
+00:26:12,340 --> 00:26:14,100
+who was celebrated in the community
+
+584
+00:26:14,100 --> 00:26:17,380
+after he defended his home from a couple burglars.
+
+585
+00:26:17,380 --> 00:26:18,860
+Flashback!
+
+586
+00:26:18,860 --> 00:26:22,000
+To a younger Ash Hornbeam sitting on his front porch
+
+587
+00:26:22,000 --> 00:26:23,800
+wrapped in a crisis blanket,
+
+588
+00:26:23,800 --> 00:26:26,880
+talking to a contention police officer.
+
+589
+00:26:26,880 --> 00:26:29,520
+Ash had heard noises in his basement
+
+590
+00:26:29,520 --> 00:26:31,700
+and it sounded like two men's voices,
+
+591
+00:26:31,700 --> 00:26:35,320
+one tall and skinny, the other short and fat.
+
+592
+00:26:35,320 --> 00:26:38,440
+Ash thought they were after his dad's coin collection.
+
+593
+00:26:38,440 --> 00:26:39,560
+Flashback!
+
+594
+00:26:39,560 --> 00:26:44,380
+To a few hours before this to Ash home alone watching TV.
+
+595
+00:26:44,380 --> 00:26:46,900
+On the screen is a commercial for a CD player
+
+596
+00:26:46,900 --> 00:26:49,840
+Ash desperately wanted but couldn't afford.
+
+597
+00:26:49,840 --> 00:26:51,760
+So he hatched a plan to steal
+
+598
+00:26:51,760 --> 00:26:54,880
+some of his dad's rare coin collection.
+
+599
+00:26:54,880 --> 00:26:58,100
+He tried typing in birthdays into the lock box
+
+600
+00:26:58,100 --> 00:27:01,920
+that contained the coins and his birthday worked.
+
+601
+00:27:01,920 --> 00:27:06,360
+Ash took a handful, roughly $600 worth of coins.
+
+602
+00:27:06,360 --> 00:27:07,720
+Flashback forward!
+
+603
+00:27:07,720 --> 00:27:11,080
+To the officer asking Ash about the paint cans
+
+604
+00:27:11,080 --> 00:27:13,000
+hanging from strings.
+
+605
+00:27:13,000 --> 00:27:15,260
+Ash said he set up traps and tripwires
+
+606
+00:27:15,260 --> 00:27:18,880
+and told an epic story of utilizing these common objects
+
+607
+00:27:18,880 --> 00:27:22,240
+to hassle the robbers until they gave up and left.
+
+608
+00:27:22,240 --> 00:27:24,080
+Flash a bit more forward!
+
+609
+00:27:24,080 --> 00:27:27,800
+To Ash carrying his new CD player with him
+
+610
+00:27:27,800 --> 00:27:29,760
+everywhere he went.
+
+611
+00:27:29,760 --> 00:27:31,720
+Flash fully back forward!
+
+612
+00:27:31,720 --> 00:27:36,080
+To Kevin returning to the trapped Ash
+
+613
+00:27:36,080 --> 00:27:38,640
+along with a woman wearing a black suit,
+
+614
+00:27:38,640 --> 00:27:41,040
+white shirt and a black tie.
+
+615
+00:27:41,040 --> 00:27:43,440
+She held a machete and she chanted
+
+616
+00:27:43,440 --> 00:27:46,600
+while she rubbed a hand on the blade.
+
+617
+00:27:46,600 --> 00:27:49,580
+The woman smiled a cold, vacant smile
+
+618
+00:27:49,580 --> 00:27:53,500
+behind asymmetrical bangs covering one of her eyes.
+
+619
+00:27:53,500 --> 00:27:57,400
+Agent Kevin introduced her as Agent Karen
+
+620
+00:27:57,400 --> 00:28:00,440
+and she immediately lifted the machete above her head
+
+621
+00:28:00,440 --> 00:28:03,440
+and brought it down through Ash's elbow.
+
+622
+00:28:03,440 --> 00:28:05,840
+Out of shock, Ash stepped back, looked down
+
+623
+00:28:05,840 --> 00:28:09,000
+and saw his arm had been cut off.
+
+624
+00:28:09,000 --> 00:28:12,040
+The end of it was completely cauterized
+
+625
+00:28:12,040 --> 00:28:15,400
+and the skin around the stump began to grow back
+
+626
+00:28:15,400 --> 00:28:17,040
+as he watched.
+
+627
+00:28:17,040 --> 00:28:19,840
+Agent Karen said nothing, just smiled,
+
+628
+00:28:19,840 --> 00:28:22,520
+turned around and walked away.
+
+629
+00:28:22,520 --> 00:28:24,360
+Agent Kevin put his arm around Ash
+
+630
+00:28:24,360 --> 00:28:28,540
+and led him to a black sedan sitting next to a four wheeler
+
+631
+00:28:28,540 --> 00:28:31,000
+in the middle of the woods.
+
+632
+00:28:31,000 --> 00:28:35,760
+Through some brush and trees, they could see a cabin.
+
+633
+00:28:37,560 --> 00:28:41,080
+Shadow and Krista Krinklehoff walked down the trail
+
+634
+00:28:41,080 --> 00:28:44,380
+and Shadow sang a song about death.
+
+635
+00:28:44,380 --> 00:28:47,260
+The sun finished setting and they continued to walk
+
+636
+00:28:47,260 --> 00:28:49,420
+lit only by a flashlight.
+
+637
+00:28:49,420 --> 00:28:52,420
+Krista said she saw Liz and shot off with the flashlight
+
+638
+00:28:52,420 --> 00:28:56,260
+into the woods followed by a giggling Shadow.
+
+639
+00:28:56,260 --> 00:28:59,360
+But then Shadow watched the flashlight go completely dark
+
+640
+00:28:59,360 --> 00:29:01,940
+and felt a rope tighten around her ankle.
+
+641
+00:29:01,940 --> 00:29:04,320
+She was hoisted into the air upside down
+
+642
+00:29:04,320 --> 00:29:05,960
+hanging by one foot.
+
+643
+00:29:05,960 --> 00:29:09,700
+Krista turned on the flashlight under her chin
+
+644
+00:29:09,700 --> 00:29:13,280
+like it was spooky story time.
+
+645
+00:29:13,280 --> 00:29:18,280
+She said, my darling, it is certifiably unfortunate
+
+646
+00:29:19,800 --> 00:29:22,520
+that your demise is seemingly necessary
+
+647
+00:29:22,520 --> 00:29:25,600
+despite my finding your demeanor so appropriate
+
+648
+00:29:25,600 --> 00:29:26,840
+for your kind.
+
+649
+00:29:28,240 --> 00:29:32,640
+From your personal hymns, I can assume and do hope
+
+650
+00:29:32,640 --> 00:29:35,980
+that a lack of existence is your preference?
+
+651
+00:29:36,920 --> 00:29:40,720
+Shadow whispered to herself, finally.
+
+652
+00:29:41,720 --> 00:29:46,720
+And she watched a long silver tendril grow from the back
+
+653
+00:29:47,200 --> 00:29:50,880
+of Krista Krinklehoff's neck and then another
+
+654
+00:29:50,880 --> 00:29:53,280
+and another and another.
+
+655
+00:29:53,280 --> 00:29:56,920
+The limbs extended towards Shadow's pinoted body
+
+656
+00:29:56,920 --> 00:30:01,200
+and the camera panned down to show the long shadows
+
+657
+00:30:01,200 --> 00:30:03,760
+play out the grizzly scene.
+
+658
+00:30:03,760 --> 00:30:07,840
+One of the shiny tentacles sliced into the soft tissue
+
+659
+00:30:07,880 --> 00:30:09,240
+on the back of her neck.
+
+660
+00:30:09,240 --> 00:30:12,920
+Another snapped her head forward and a third reached in
+
+661
+00:30:12,920 --> 00:30:17,360
+and gripped her spinal cord and ripped it out of her body
+
+662
+00:30:17,360 --> 00:30:22,180
+delivering Shadow to her finish line, her goal,
+
+663
+00:30:22,180 --> 00:30:27,180
+her lack of a destination and finally she felt nothing.
+
+664
+00:30:29,400 --> 00:30:32,520
+The sun had set and as it began to rain outside
+
+665
+00:30:32,520 --> 00:30:35,920
+Judy Krinklehoff stood at the doorway to the bathroom
+
+666
+00:30:36,000 --> 00:30:41,000
+and stared at the lifeless folded crumpled body of Buzz.
+
+667
+00:30:41,440 --> 00:30:44,720
+She could tell by looking around there'd been a tussle
+
+668
+00:30:44,720 --> 00:30:48,080
+and she found a stick of her mom's favorite brand
+
+669
+00:30:48,080 --> 00:30:50,920
+of chapstick behind the toilet.
+
+670
+00:30:50,920 --> 00:30:53,280
+The raccoons stood in the doorway motioning
+
+671
+00:30:53,280 --> 00:30:55,160
+to get the fuck out of there.
+
+672
+00:30:55,160 --> 00:30:58,880
+Judy followed the raccoon into the rain into the darkness
+
+673
+00:30:58,880 --> 00:31:02,100
+and a lightning bolt flashed in the distance.
+
+674
+00:31:02,100 --> 00:31:07,100
+It was just bright enough to illuminate a blood covered
+
+675
+00:31:07,620 --> 00:31:12,620
+Krista Krinklehoff walking directly toward her.
+
+676
+00:31:12,640 --> 00:31:15,420
+The raccoon at Judy's side shivered
+
+677
+00:31:15,420 --> 00:31:18,300
+and tried to communicate tugging at Judy's arm
+
+678
+00:31:18,300 --> 00:31:22,940
+but eventually ran away when Judy went to help her mother.
+
+679
+00:31:22,940 --> 00:31:25,480
+Judy guided her back to the shack to clean up
+
+680
+00:31:25,480 --> 00:31:29,260
+her blood drenched mother but when she closed the door
+
+681
+00:31:29,260 --> 00:31:32,380
+Judy felt a pinch on the back of her neck.
+
+682
+00:31:32,380 --> 00:31:37,060
+She turned and saw her mom's body had crumpled to the ground
+
+683
+00:31:37,060 --> 00:31:40,500
+and standing in front of her was a small one inch
+
+684
+00:31:40,500 --> 00:31:44,460
+silver sphere with metallic arms grounding itself
+
+685
+00:31:44,460 --> 00:31:47,060
+in the walls and ceiling of the shack.
+
+686
+00:31:47,060 --> 00:31:50,900
+Shiny tendrils reached out, snapped Judy's neck forward
+
+687
+00:31:50,900 --> 00:31:54,320
+and ripped out her spine shoving itself
+
+688
+00:31:54,320 --> 00:31:57,140
+into her spinal column.
+
+689
+00:31:57,140 --> 00:32:01,720
+Judy Krinklehoff was no longer Judy Krinklehoff.
+
+690
+00:32:01,720 --> 00:32:04,960
+She was an objective based entity
+
+691
+00:32:04,960 --> 00:32:08,400
+and its current objective was to collect
+
+692
+00:32:08,400 --> 00:32:11,540
+as many bodies as possible.
+
+693
+00:32:12,460 --> 00:32:15,660
+After falling into the hidden hole under the pile of leaves
+
+694
+00:32:15,660 --> 00:32:20,100
+Ken Krinklehoff slid on his back down an earthy viscous slide
+
+695
+00:32:20,100 --> 00:32:23,180
+for some time until he finally landed in a pit
+
+696
+00:32:23,180 --> 00:32:25,980
+of cold dirt and perfect darkness.
+
+697
+00:32:25,980 --> 00:32:29,220
+He was in a small crawl space with what looked like
+
+698
+00:32:29,220 --> 00:32:32,860
+floor supports though they were translucent tubes
+
+699
+00:32:32,860 --> 00:32:36,500
+filled with a squamous black ooze that traveled down
+
+700
+00:32:36,500 --> 00:32:40,140
+from the cabin into the ground below.
+
+701
+00:32:40,140 --> 00:32:43,460
+Ken also saw a door above him and he cautiously listened
+
+702
+00:32:43,460 --> 00:32:45,800
+for any sound on the other side.
+
+703
+00:32:46,660 --> 00:32:50,060
+Ash Hornbeam followed agents Kevin and Karen
+
+704
+00:32:50,060 --> 00:32:53,580
+to the black sedan and four wheeler hidden in the brush.
+
+705
+00:32:53,580 --> 00:32:55,580
+There was another agent in the backseat wearing
+
+706
+00:32:56,020 --> 00:32:57,580
+the same black suit with a white shirt.
+
+707
+00:32:57,580 --> 00:33:01,660
+The man in his early 30s had buzzed blonde hair
+
+708
+00:33:01,660 --> 00:33:04,820
+and introduced himself as Agent Kyle.
+
+709
+00:33:04,820 --> 00:33:07,700
+As Ash looked out ahead of him he saw the cabin
+
+710
+00:33:07,700 --> 00:33:09,380
+in a small clearing.
+
+711
+00:33:09,380 --> 00:33:12,020
+Next to the cabin sat a small shipping container
+
+712
+00:33:12,020 --> 00:33:14,460
+and a large yellow excavator.
+
+713
+00:33:14,460 --> 00:33:17,140
+A moat surrounded the clearing.
+
+714
+00:33:17,140 --> 00:33:19,680
+Ash saw movement just outside the moat.
+
+715
+00:33:19,680 --> 00:33:22,980
+Liz, Jeremy and Ken stopped to talk.
+
+716
+00:33:22,980 --> 00:33:25,380
+Ken picked up a small log, threw it
+
+717
+00:33:26,220 --> 00:33:28,460
+and a long wooden spear flew in their direction
+
+718
+00:33:28,460 --> 00:33:29,580
+and hit a tree.
+
+719
+00:33:29,580 --> 00:33:32,300
+Ken grabbed the spear, took off running, fell into the
+
+720
+00:33:32,300 --> 00:33:34,600
+ground and disappeared.
+
+721
+00:33:34,600 --> 00:33:37,560
+Kevin turned back to Ash and broke his mind
+
+722
+00:33:37,560 --> 00:33:39,760
+with two sentences.
+
+723
+00:33:39,760 --> 00:33:43,340
+The woods are full of traps and Ol' Madge,
+
+724
+00:33:43,340 --> 00:33:48,000
+the local legend the boys searched for annually was real.
+
+725
+00:33:48,000 --> 00:33:49,940
+Ash couldn't handle it, something snapped,
+
+726
+00:33:49,940 --> 00:33:52,520
+he bailed out of the car, ran and disappeared
+
+727
+00:33:52,520 --> 00:33:53,540
+into the night.
+
+728
+00:33:54,380 --> 00:33:57,480
+Jeremy and Liz stood in the dark of the woods
+
+729
+00:33:57,480 --> 00:34:00,620
+when they saw Ken disappear into the ground
+
+730
+00:34:00,620 --> 00:34:02,100
+and it began to rain.
+
+731
+00:34:02,100 --> 00:34:04,600
+They looked forward, the cabin lights turned on
+
+732
+00:34:04,600 --> 00:34:07,620
+and they noticed a storage container and a big yellow
+
+733
+00:34:07,620 --> 00:34:11,620
+excavator next to the cabin all encircled by a moat.
+
+734
+00:34:11,620 --> 00:34:13,500
+The pair moved forward to investigate the cabin
+
+735
+00:34:13,500 --> 00:34:16,300
+and found the moat was about five feet across.
+
+736
+00:34:16,300 --> 00:34:18,980
+Jeremy threw some smokies onto the other side
+
+737
+00:34:18,980 --> 00:34:22,820
+and held Rusty's feet as he lunged across to grab
+
+738
+00:34:22,820 --> 00:34:24,960
+the small sausage boys.
+
+739
+00:34:24,960 --> 00:34:27,700
+Liz crossed Rusty's back without issue but Jeremy
+
+740
+00:34:27,700 --> 00:34:30,720
+and Rusty fell into the fish filled moat.
+
+741
+00:34:30,720 --> 00:34:33,780
+They crawled out near Liz, a wet mess.
+
+742
+00:34:33,780 --> 00:34:36,740
+The trio approached the cabin slowly.
+
+743
+00:34:36,740 --> 00:34:39,720
+Liz stumbled up the stairs to look through the window
+
+744
+00:34:39,720 --> 00:34:43,640
+and she saw strange lab equipment and translucent tubes
+
+745
+00:34:43,640 --> 00:34:46,880
+that ran down into the floorboards filled with a
+
+746
+00:34:46,880 --> 00:34:50,400
+squamous black viscous goo.
+
+747
+00:34:50,400 --> 00:34:53,240
+Papers were scattered across tables and a desk
+
+748
+00:34:53,240 --> 00:34:57,560
+and in the corner sat a large wooden trunk.
+
+749
+00:34:57,560 --> 00:35:01,080
+Jeremy edged toward the storage unit, opened the door
+
+750
+00:35:01,080 --> 00:35:05,320
+and saw on one side a closet full of clothes
+
+751
+00:35:05,320 --> 00:35:07,960
+and on the other side lined up against the wall
+
+752
+00:35:07,960 --> 00:35:12,960
+the bodies of roughly 15 people hung limply on hooks
+
+753
+00:35:13,000 --> 00:35:15,880
+from a pole in the back of each neck.
+
+754
+00:35:15,880 --> 00:35:19,040
+Jeremy turned and screamed at Liz they needed to get
+
+755
+00:35:19,040 --> 00:35:22,880
+the fuck out of there and the pair bolted across the moat.
+
+756
+00:35:22,880 --> 00:35:26,300
+As they ran Liz heard a click under her foot.
+
+757
+00:35:26,300 --> 00:35:29,840
+She tried to stop in time but a giant metal cloth
+
+758
+00:35:29,840 --> 00:35:34,240
+swung down from the branch above and removed her head
+
+759
+00:35:34,240 --> 00:35:36,240
+from her shoulders.
+
+760
+00:35:36,240 --> 00:35:40,680
+Jeremy knew she was dead, he kept running.
+
+761
+00:35:40,680 --> 00:35:44,720
+Ash Hornbeam also ran through the dark rainy night.
+
+762
+00:35:44,720 --> 00:35:47,080
+He found the trail and in the distance he saw
+
+763
+00:35:47,080 --> 00:35:49,600
+Judy Krinklehoff walking toward him.
+
+764
+00:35:49,600 --> 00:35:52,460
+Ash grabbed her arm and kept running, pulling her with him.
+
+765
+00:35:52,460 --> 00:35:54,360
+They arrived at his usual campsite.
+
+766
+00:35:54,360 --> 00:35:57,840
+Ash fell to his knees, gasped for air and told Judy
+
+767
+00:35:57,840 --> 00:36:01,200
+her brother disappeared into a hole in the ground.
+
+768
+00:36:01,200 --> 00:36:05,360
+Judy seemed unworried by this news and suggested finding
+
+769
+00:36:05,360 --> 00:36:07,140
+some large rocks.
+
+770
+00:36:07,140 --> 00:36:10,040
+Ash continued to panic and freak out and Judy went to go
+
+771
+00:36:10,040 --> 00:36:11,560
+find some rocks.
+
+772
+00:36:11,560 --> 00:36:14,960
+Ash considered his options but decided to stay with Judy
+
+773
+00:36:14,960 --> 00:36:18,000
+for now since he did have a crush on her.
+
+774
+00:36:18,000 --> 00:36:23,000
+Judy found a huge rock, walked up behind Ash and crushed
+
+775
+00:36:23,500 --> 00:36:25,520
+his head in.
+
+776
+00:36:25,520 --> 00:36:29,220
+Ken Krinklehoff crouched in the crawl space under the cabin
+
+777
+00:36:29,220 --> 00:36:31,840
+lit only by his flashlight.
+
+778
+00:36:31,840 --> 00:36:34,840
+He gently put his ear to the door above him and heard
+
+779
+00:36:34,840 --> 00:36:37,160
+a muffled yell in the distance.
+
+780
+00:36:37,160 --> 00:36:41,960
+It was Jeremy screaming for Liz to get the fuck out of here.
+
+781
+00:36:41,960 --> 00:36:44,160
+Ken poked his head up through the door.
+
+782
+00:36:44,200 --> 00:36:47,140
+This was not a cabin, it was a lab.
+
+783
+00:36:47,140 --> 00:36:51,040
+The same translucent tubes full of black ooze were all
+
+784
+00:36:51,040 --> 00:36:54,840
+around the room going into the floor and Ken saw the tubes
+
+785
+00:36:54,840 --> 00:36:59,040
+were coming from small coffin shaped boxes.
+
+786
+00:36:59,040 --> 00:37:02,160
+There was a desk littered with papers, a bulletin board
+
+787
+00:37:02,160 --> 00:37:04,580
+and a large wooden trunk.
+
+788
+00:37:04,580 --> 00:37:07,620
+Ken heard a guttural scream cut short and looked out the
+
+789
+00:37:07,620 --> 00:37:11,360
+window at the exact moment Liz Lonklin was stopped dead
+
+790
+00:37:11,360 --> 00:37:16,360
+in her tracks by the decapitation from a massive metal claw.
+
+791
+00:37:17,880 --> 00:37:21,140
+Having convinced himself that what he just saw could not
+
+792
+00:37:21,140 --> 00:37:24,200
+have been real, Ken turned back around and investigated
+
+793
+00:37:24,200 --> 00:37:25,400
+the scene.
+
+794
+00:37:25,400 --> 00:37:29,880
+He found articles of organization for a new business called
+
+795
+00:37:29,880 --> 00:37:34,880
+Cole's Orphanage, New School Under Modern Etiquette.
+
+796
+00:37:35,720 --> 00:37:39,720
+All the other papers were blueprints for an odd looking gun
+
+797
+00:37:39,720 --> 00:37:43,040
+which seemed to have been recently completed.
+
+798
+00:37:43,040 --> 00:37:47,160
+There were also plans for small metal spheres one inch
+
+799
+00:37:47,160 --> 00:37:52,160
+in diameter which were being placed into small human bodies.
+
+800
+00:37:52,400 --> 00:37:55,760
+Ken took a wary glance at the little coffins.
+
+801
+00:37:55,760 --> 00:37:59,200
+He opened one and a black viscous goo began pouring out of it
+
+802
+00:37:59,200 --> 00:38:01,000
+onto the table and floor.
+
+803
+00:38:01,000 --> 00:38:04,960
+Inside the coffin there sat the body of a two year old
+
+804
+00:38:04,960 --> 00:38:09,200
+that was not quite fully human looking as if it was being
+
+805
+00:38:09,720 --> 00:38:13,720
+3D printed and was not yet finished like a face with a
+
+806
+00:38:13,720 --> 00:38:15,560
+plastic bag over it.
+
+807
+00:38:15,560 --> 00:38:19,760
+Ken freaked the fuck out and ran for the front door
+
+808
+00:38:19,760 --> 00:38:20,720
+of the cabin.
+
+809
+00:38:21,880 --> 00:38:24,480
+Jeremy Pettymore ran desperately through the woods
+
+810
+00:38:24,480 --> 00:38:27,720
+and eventually found Judy Krinkelhoff walking toward him.
+
+811
+00:38:27,720 --> 00:38:30,200
+Judy said she didn't know what to do since the other girls
+
+812
+00:38:30,200 --> 00:38:31,840
+had left her alone.
+
+813
+00:38:31,840 --> 00:38:34,480
+The two decided to head back to the ranger shack.
+
+814
+00:38:34,480 --> 00:38:36,040
+Jeremy took the lead.
+
+815
+00:38:36,040 --> 00:38:39,240
+Judy pulled out the machete she was hiding and lunged
+
+816
+00:38:39,240 --> 00:38:42,600
+at the Pettymore boy but she slipped on the muddy rocks
+
+817
+00:38:42,600 --> 00:38:47,600
+below, fell face first onto the machete and split her skull
+
+818
+00:38:47,600 --> 00:38:52,600
+wide open enough for Jeremy to see a small one inch
+
+819
+00:38:52,800 --> 00:38:57,160
+in diameter silver sphere in the middle of her head.
+
+820
+00:38:57,160 --> 00:39:02,160
+Black ooze began to leak onto the trail and Jeremy ran.
+
+821
+00:39:03,160 --> 00:39:07,040
+Ken stumbled out of the cabin and saw three figures
+
+822
+00:39:07,040 --> 00:39:08,200
+approaching.
+
+823
+00:39:08,200 --> 00:39:11,040
+Through the rain and darkness a lightning strike in the
+
+824
+00:39:11,040 --> 00:39:13,440
+distance revealed the trio.
+
+825
+00:39:13,440 --> 00:39:16,560
+All wearing black suits with white shirts, two with black
+
+826
+00:39:16,560 --> 00:39:19,440
+ties and one with a bolo tie.
+
+827
+00:39:19,440 --> 00:39:22,520
+The tall one had buzz blonde hair, the man with the bolo
+
+828
+00:39:22,520 --> 00:39:26,160
+tie was shorter, sported tight pants and a thick mustache
+
+829
+00:39:26,160 --> 00:39:30,800
+and the last was a woman smiling a cold, vacant smile
+
+830
+00:39:30,840 --> 00:39:35,480
+behind asymmetrical bangs covering one of her eyes.
+
+831
+00:39:35,480 --> 00:39:39,040
+They saw Ken and the woman began chanting.
+
+832
+00:39:39,040 --> 00:39:42,920
+Ken turned to rush back into the cabin, his arm reached out
+
+833
+00:39:42,920 --> 00:39:47,920
+for the door and his hand phased into and through the wood.
+
+834
+00:39:48,200 --> 00:39:52,040
+He felt an aberrant push in the back and his body too
+
+835
+00:39:52,040 --> 00:39:54,960
+was forced into the door.
+
+836
+00:39:54,960 --> 00:39:59,960
+Ken Krinklehoff was trapped halfway in and halfway out
+
+837
+00:40:00,080 --> 00:40:02,880
+the entrance and exit of this cabin.
+
+838
+00:40:02,880 --> 00:40:06,600
+His mind worked just long enough to watch the suits
+
+839
+00:40:06,600 --> 00:40:08,520
+ransack the lab.
+
+840
+00:40:08,520 --> 00:40:12,200
+One grabbed a bucket of water filled with fish to splash
+
+841
+00:40:12,200 --> 00:40:13,640
+and repel the ooze.
+
+842
+00:40:13,640 --> 00:40:18,200
+The other two took some papers in the trunk and they left
+
+843
+00:40:18,200 --> 00:40:22,080
+but not before the woman chanted once more and ignited
+
+844
+00:40:22,080 --> 00:40:25,720
+the cabin in unnatural flames.
+
+845
+00:40:25,720 --> 00:40:29,560
+Ken Krinklehoff died burning part of the cabin
+
+846
+00:40:30,080 --> 00:40:31,280
+in the contention woods.
+
+847
+00:40:33,360 --> 00:40:38,360
+Jeremy Pettymore now all alone ran back to the ranger shack
+
+848
+00:40:38,520 --> 00:40:40,160
+in the parking lot.
+
+849
+00:40:40,160 --> 00:40:43,040
+He got to the Bronco with the keys he had nabbed earlier
+
+850
+00:40:43,040 --> 00:40:44,600
+but the car wouldn't start.
+
+851
+00:40:44,600 --> 00:40:47,720
+He got out and then the heavy rain and darkness of night
+
+852
+00:40:47,720 --> 00:40:51,060
+he ran down the road toward town.
+
+853
+00:40:51,060 --> 00:40:55,160
+Behind Jeremy, the black sedan drove furiously into view
+
+854
+00:40:55,160 --> 00:40:57,240
+and behind it the four wheeler.
+
+855
+00:40:57,240 --> 00:41:00,720
+As they approached, the four wheeler overtook the sedan
+
+856
+00:41:00,720 --> 00:41:04,760
+and pulled up next to Jeremy as he desperately sprinted.
+
+857
+00:41:04,760 --> 00:41:07,880
+Jeremy looked over and the man who drove this ATV
+
+858
+00:41:07,880 --> 00:41:11,120
+was pretty fit for his early 40s and he wore a black suit
+
+859
+00:41:11,120 --> 00:41:13,880
+with a white shirt and a bolo tie below a face
+
+860
+00:41:13,880 --> 00:41:16,120
+with a badass mustache.
+
+861
+00:41:16,120 --> 00:41:20,000
+He recognized the man as John Lee Pettymore III,
+
+862
+00:41:20,000 --> 00:41:21,840
+his second cousin.
+
+863
+00:41:21,840 --> 00:41:26,240
+The two came to a stop and Jeremy waved and tried to hop
+
+864
+00:41:26,280 --> 00:41:27,640
+on the four wheeler.
+
+865
+00:41:27,640 --> 00:41:31,040
+John, John, Uncle John, Uncle John.
+
+866
+00:41:31,040 --> 00:41:35,920
+John stopped, saw Jeremy and his heart sank.
+
+867
+00:41:35,920 --> 00:41:38,780
+Uncle John, thank God you're here.
+
+868
+00:41:38,780 --> 00:41:40,100
+What's wrong, Uncle John?
+
+869
+00:41:40,100 --> 00:41:43,980
+John Lee Pettymore III lifted a pistol
+
+870
+00:41:43,980 --> 00:41:47,040
+and put it to his second cousin's head.
+
+871
+00:41:47,040 --> 00:41:51,440
+Jeremy Pettymore, 14 years old, closed his eyes tight,
+
+872
+00:41:51,440 --> 00:41:55,880
+shaking, he felt the gun against his head trembling.
+
+873
+00:41:57,040 --> 00:41:59,440
+And then there was nothing.
+
+874
+00:42:01,200 --> 00:42:03,800
+Now, back to the contention boys.
+
+875
+00:42:03,800 --> 00:42:06,920
+Clark Bishop, Keith Vigna and John Lee Pettymore IV
+
+876
+00:42:06,920 --> 00:42:09,560
+and the body of John Lee Pettymore III
+
+877
+00:42:09,560 --> 00:42:13,360
+woke up, bodies fully in shock, ears ringing,
+
+878
+00:42:13,360 --> 00:42:18,360
+bellies weirdly satisfied and an uncomfortably savory smell
+
+879
+00:42:19,200 --> 00:42:23,300
+in their nostrils as their eyes adjusted to see
+
+880
+00:42:23,300 --> 00:42:27,580
+the inside of a mausoleum splattered in blood.
+
+881
+00:42:27,580 --> 00:42:30,560
+They remembered everything that had happened to them before
+
+882
+00:42:30,560 --> 00:42:33,280
+but they seemed to be back in the same physical
+
+883
+00:42:33,280 --> 00:42:36,280
+and mental state they were in just after meeting
+
+884
+00:42:36,280 --> 00:42:39,640
+the chanting cloaked old Clark.
+
+885
+00:42:39,640 --> 00:42:43,280
+According to Clark's watch, it was the day of the funeral
+
+886
+00:42:43,280 --> 00:42:46,160
+at 1 p.m. again.
+
+887
+00:42:47,040 --> 00:42:50,280
+Keith ripped his shirt off and found the word Marvin
+
+888
+00:42:50,280 --> 00:42:54,000
+that had been burned into his chest had been crossed out.
+
+889
+00:42:54,000 --> 00:42:56,560
+The other names, Tildy on their dominant palms,
+
+890
+00:42:56,560 --> 00:42:59,520
+Drew on their backs and Maggie on the bottom
+
+891
+00:42:59,520 --> 00:43:01,920
+of their left feet were still branded
+
+892
+00:43:01,920 --> 00:43:05,040
+on each of their bodies the same as before.
+
+893
+00:43:05,040 --> 00:43:07,960
+They wondered whether Marvin would still be dead
+
+894
+00:43:07,960 --> 00:43:10,440
+and theorized that they'd have to work their way
+
+895
+00:43:10,440 --> 00:43:12,040
+through the other names as well.
+
+896
+00:43:12,040 --> 00:43:15,520
+Would they have to kill Maggie and Drew?
+
+897
+00:43:15,560 --> 00:43:17,960
+And how would they find Tildy?
+
+898
+00:43:17,960 --> 00:43:20,680
+John called Rosemary, she picked up
+
+899
+00:43:20,680 --> 00:43:22,820
+and he immediately hung up.
+
+900
+00:43:22,820 --> 00:43:25,780
+John recalled the vision he'd had the last time
+
+901
+00:43:25,780 --> 00:43:27,640
+they were at the cemetery.
+
+902
+00:43:27,640 --> 00:43:30,360
+Keith told the others about the visions he had
+
+903
+00:43:30,360 --> 00:43:32,740
+while wearing his father's watch.
+
+904
+00:43:32,740 --> 00:43:35,360
+Clark suggested calling Maggie and reporting
+
+905
+00:43:35,360 --> 00:43:38,500
+that he'd successfully killed Stan Manstein
+
+906
+00:43:38,500 --> 00:43:42,920
+but first he tried to summon old Clark.
+
+907
+00:43:42,920 --> 00:43:46,920
+He only succeeded in driving himself into a rage
+
+908
+00:43:46,920 --> 00:43:49,080
+and he charged John.
+
+909
+00:43:49,080 --> 00:43:51,160
+When they finally sorted themselves out,
+
+910
+00:43:51,160 --> 00:43:55,440
+the CPD-3 exited the mausoleum and again
+
+911
+00:43:55,440 --> 00:43:58,960
+encountered the old lady who freaked out.
+
+912
+00:43:58,960 --> 00:44:01,640
+She'd already seen them leave the tomb earlier.
+
+913
+00:44:01,640 --> 00:44:04,880
+The gang of risen ex-cops scared her off
+
+914
+00:44:04,880 --> 00:44:07,940
+and discussed the implications of this news.
+
+915
+00:44:07,940 --> 00:44:09,720
+They considered just waiting around
+
+916
+00:44:09,720 --> 00:44:12,460
+for their next iterations to come out of the mausoleum
+
+917
+00:44:12,860 --> 00:44:15,680
+but decided instead to call Maggie.
+
+918
+00:44:17,540 --> 00:44:21,180
+The vision Clark received when he tried to summon himself
+
+919
+00:44:21,180 --> 00:44:24,260
+became instantly clear in his mind.
+
+920
+00:44:24,260 --> 00:44:28,180
+A candlelit stone room contained a hooded figure
+
+921
+00:44:28,180 --> 00:44:33,180
+scribbling furiously into an ornately decorated book
+
+922
+00:44:33,600 --> 00:44:37,300
+made of strange leather.
+
+923
+00:44:37,300 --> 00:44:42,220
+This figure was an elderly decrepit Clark Bishop.
+
+924
+00:44:42,220 --> 00:44:44,940
+There was a knock on the door and a voice called,
+
+925
+00:44:44,940 --> 00:44:49,940
+my Lord, my Lord, as the door opened up.
+
+926
+00:44:50,220 --> 00:44:54,500
+Cut to a silver accord flying down the highway
+
+927
+00:44:54,500 --> 00:44:57,340
+driven by a frantic Maggie Cook.
+
+928
+00:44:57,340 --> 00:45:00,880
+He saw her call him on her phone.
+
+929
+00:45:00,880 --> 00:45:04,460
+Clark blinked away this unnatural vision
+
+930
+00:45:04,460 --> 00:45:09,420
+and suddenly the phone in his pocket began to buzz.
+
+931
+00:45:09,420 --> 00:45:11,420
+Clark answered and Maggie told him
+
+932
+00:45:11,460 --> 00:45:14,700
+to get to the parking lot immediately to meet her.
+
+933
+00:45:14,700 --> 00:45:17,060
+John and Keith joined even though they disagreed
+
+934
+00:45:17,060 --> 00:45:19,100
+with Clark about trusting her.
+
+935
+00:45:19,100 --> 00:45:22,620
+Maggie sped into the parking lot and pulled up next to them.
+
+936
+00:45:22,620 --> 00:45:27,620
+She tasked them with taking out a man named Bruce Robin
+
+937
+00:45:28,620 --> 00:45:31,100
+as he had gone fully insane
+
+938
+00:45:31,100 --> 00:45:35,180
+and was a danger to the world at large.
+
+939
+00:45:35,180 --> 00:45:39,460
+She was shook by the appearance of John Lee Pettymore III
+
+940
+00:45:39,460 --> 00:45:42,820
+and they quickly explained that whole situation.
+
+941
+00:45:42,820 --> 00:45:47,180
+She did not take it well and they had to calm her down.
+
+942
+00:45:47,180 --> 00:45:49,700
+Clark grabbed the burner phone from his car
+
+943
+00:45:49,700 --> 00:45:52,220
+and saw a text that read,
+
+944
+00:45:52,220 --> 00:45:56,720
+your parents owned an artifact of immense power,
+
+945
+00:45:56,720 --> 00:46:00,300
+too much power for them to be trusted with.
+
+946
+00:46:00,300 --> 00:46:02,920
+He responded, what artifact?
+
+947
+00:46:03,980 --> 00:46:08,340
+Maggie asked her former coworkers to murder Bruce Robin,
+
+948
+00:46:08,340 --> 00:46:11,500
+owner of Bar Corp and former business partner
+
+949
+00:46:11,500 --> 00:46:14,700
+of Keith's brother, Ferguson Beans.
+
+950
+00:46:14,700 --> 00:46:18,560
+John began to question Maggie on how she was still alive,
+
+951
+00:46:18,560 --> 00:46:22,740
+but the ringing of her cell phone cut off Maggie's reply.
+
+952
+00:46:22,740 --> 00:46:24,180
+As Clark rejoined the group,
+
+953
+00:46:24,180 --> 00:46:27,280
+he noted a second cell phone vibrating
+
+954
+00:46:27,280 --> 00:46:29,420
+from within the chief's car.
+
+955
+00:46:29,420 --> 00:46:32,420
+On the call, Maggie berated Leon,
+
+956
+00:46:32,420 --> 00:46:34,820
+told him to do his fucking job.
+
+957
+00:46:34,820 --> 00:46:37,220
+He needed to knock the dust off his knuckles
+
+958
+00:46:37,220 --> 00:46:40,660
+because he knew what needed to be done.
+
+959
+00:46:40,660 --> 00:46:42,660
+She hung up and explained,
+
+960
+00:46:42,660 --> 00:46:45,020
+she never died, just had to disappear.
+
+961
+00:46:45,020 --> 00:46:46,760
+She implied the body they'd found
+
+962
+00:46:46,760 --> 00:46:49,400
+in the remains of her house was a decoy.
+
+963
+00:46:49,400 --> 00:46:52,300
+Maggie tossed the officers a manila envelope,
+
+964
+00:46:52,300 --> 00:46:56,740
+reminded them she was counting on this and drove away.
+
+965
+00:46:56,740 --> 00:46:59,680
+The manila envelope had a manila folder inside
+
+966
+00:46:59,680 --> 00:47:03,620
+labeled Operation Hole Puncher, Bar Corp.
+
+967
+00:47:03,620 --> 00:47:05,960
+It contained information on Bar Corp,
+
+968
+00:47:05,960 --> 00:47:10,400
+including its three subsidiaries, Jesus Christ Ministries,
+
+969
+00:47:10,400 --> 00:47:13,040
+Health and Rehabilitation Unlimited,
+
+970
+00:47:13,040 --> 00:47:15,220
+and The Learning Center.
+
+971
+00:47:15,220 --> 00:47:18,480
+It also showed finances for the last five years
+
+972
+00:47:18,480 --> 00:47:21,680
+and profits had been steadily rising.
+
+973
+00:47:21,680 --> 00:47:25,800
+The previous year, they made over $850 million
+
+974
+00:47:25,800 --> 00:47:28,400
+and paid zero in taxes,
+
+975
+00:47:28,400 --> 00:47:32,080
+and they were projected to make over $2 billion
+
+976
+00:47:32,080 --> 00:47:33,540
+in the current year.
+
+977
+00:47:33,540 --> 00:47:37,420
+It was also noted that after being declared deceased,
+
+978
+00:47:37,420 --> 00:47:40,960
+Ferguson Beans' majority share was split
+
+979
+00:47:40,960 --> 00:47:44,740
+between his wife Stacy, daughter Frances,
+
+980
+00:47:44,740 --> 00:47:48,140
+and the mill on the other side of the city,
+
+981
+00:47:48,140 --> 00:47:52,620
+which secured Bruce Robin as the majority owner.
+
+982
+00:47:52,620 --> 00:47:55,580
+John mentioned he recently sold that cocaine
+
+983
+00:47:55,580 --> 00:47:57,420
+they'd found in the storage units
+
+984
+00:47:57,420 --> 00:48:00,140
+to Jesus Christ Ministries,
+
+985
+00:48:00,140 --> 00:48:03,060
+a church camp just outside the city.
+
+986
+00:48:03,060 --> 00:48:08,060
+Clark told John they saw Marvin Glass split his body in half
+
+987
+00:48:08,100 --> 00:48:11,700
+to reveal a silver ball inside his head.
+
+988
+00:48:11,700 --> 00:48:13,500
+John explained his working theory
+
+989
+00:48:13,500 --> 00:48:16,820
+was that all the officers might be bald.
+
+990
+00:48:16,820 --> 00:48:20,060
+He explained that upon the death of his original body,
+
+991
+00:48:20,060 --> 00:48:23,860
+he burst out and went into John Lee Kevinmore's body.
+
+992
+00:48:23,860 --> 00:48:25,180
+He believed this was possible
+
+993
+00:48:25,180 --> 00:48:28,660
+because he was just a little silver ball.
+
+994
+00:48:28,660 --> 00:48:31,260
+Clark described the actions of Rosemary
+
+995
+00:48:31,260 --> 00:48:35,300
+in her final moments inside the flooded Glass office.
+
+996
+00:48:35,300 --> 00:48:37,340
+John asserted her turn on Marvin
+
+997
+00:48:37,340 --> 00:48:39,700
+may have been due to her infatuation
+
+998
+00:48:39,700 --> 00:48:42,420
+with Marvin's son, Jermaine Glass,
+
+999
+00:48:42,420 --> 00:48:47,420
+the man who disappeared when he used the odd-looking gun.
+
+1000
+00:48:48,260 --> 00:48:50,820
+After a quick confession from Keith
+
+1001
+00:48:50,820 --> 00:48:54,340
+detailing the murder of his own brother by proxy
+
+1002
+00:48:54,340 --> 00:48:58,120
+as well as the firsthand murder of Bruce Robin's mother,
+
+1003
+00:48:58,120 --> 00:49:00,140
+the former contention police officers
+
+1004
+00:49:00,140 --> 00:49:03,660
+traveled to Robin's home address downtown in the city,
+
+1005
+00:49:03,660 --> 00:49:08,660
+hoping to find personal files and or Bruce Robin himself.
+
+1006
+00:49:09,740 --> 00:49:10,900
+However, when they arrived,
+
+1007
+00:49:10,900 --> 00:49:12,980
+they found police tape across the door
+
+1008
+00:49:12,980 --> 00:49:14,820
+of Robin's brownstone.
+
+1009
+00:49:14,820 --> 00:49:16,340
+The residence was wrecked
+
+1010
+00:49:16,340 --> 00:49:19,220
+and human excrement was strewn throughout.
+
+1011
+00:49:19,220 --> 00:49:21,940
+The stench was overwhelming.
+
+1012
+00:49:21,940 --> 00:49:23,780
+Spray paint covered the walls.
+
+1013
+00:49:23,780 --> 00:49:28,020
+It repeated the same number pattern over and over.
+
+1014
+00:49:28,020 --> 00:49:33,020
+8118189520131181119.
+
+1015
+00:49:35,100 --> 00:49:36,780
+John checked upstairs.
+
+1016
+00:49:36,780 --> 00:49:41,780
+His hair stood on end with the feeling of a heavy presence.
+
+1017
+00:49:42,220 --> 00:49:44,820
+In a room deemed to be a former office,
+
+1018
+00:49:44,820 --> 00:49:48,740
+the same set of numbers was carved into the walls
+
+1019
+00:49:48,740 --> 00:49:53,740
+again and again and again on every surface in the room.
+
+1020
+00:49:53,780 --> 00:49:55,380
+Clark investigated what he thought
+
+1021
+00:49:55,380 --> 00:49:58,260
+might once have been the master bedroom
+
+1022
+00:49:58,260 --> 00:50:01,140
+and found various sleeping pallets.
+
+1023
+00:50:01,140 --> 00:50:03,660
+It was clear as many as 20 people
+
+1024
+00:50:03,660 --> 00:50:06,460
+had been sleeping in this room at one time.
+
+1025
+00:50:06,460 --> 00:50:08,820
+John called the city PD
+
+1026
+00:50:08,820 --> 00:50:12,860
+under the cover of having tracked a drifter to this home.
+
+1027
+00:50:12,860 --> 00:50:16,340
+He requested any information they'd uncovered at the scene.
+
+1028
+00:50:16,340 --> 00:50:17,860
+The city officer shared
+
+1029
+00:50:17,860 --> 00:50:20,820
+that Bruce Robin went missing two days ago.
+
+1030
+00:50:20,820 --> 00:50:24,700
+His neighbors spoke about how crazy Bruce had been recently.
+
+1031
+00:50:24,820 --> 00:50:27,340
+He'd had all kinds of people coming in and out
+
+1032
+00:50:27,340 --> 00:50:29,300
+at all times of the day and night.
+
+1033
+00:50:29,300 --> 00:50:32,340
+The steep decline of Bruce Robin
+
+1034
+00:50:32,340 --> 00:50:35,580
+had been a rapid transformation.
+
+1035
+00:50:35,580 --> 00:50:36,980
+On their way out to the car,
+
+1036
+00:50:36,980 --> 00:50:39,660
+they noted again the sickly green hue
+
+1037
+00:50:39,660 --> 00:50:41,900
+of the city around them.
+
+1038
+00:50:41,900 --> 00:50:45,220
+The putrid smell, the oppressive grays,
+
+1039
+00:50:45,220 --> 00:50:49,380
+the bloated and lifeless faces of the people on the streets.
+
+1040
+00:50:49,380 --> 00:50:51,380
+And in contrast to all this,
+
+1041
+00:50:51,380 --> 00:50:54,980
+the beautiful blooming flowers on every corner
+
+1042
+00:50:54,980 --> 00:50:57,580
+and from every crack in the sidewalk.
+
+1043
+00:50:57,580 --> 00:51:02,220
+John asked a passerby why he was so pallid and corpse-like.
+
+1044
+00:51:02,220 --> 00:51:04,140
+The man explained that work at Bar Corp
+
+1045
+00:51:04,140 --> 00:51:05,580
+had been hard as of late,
+
+1046
+00:51:05,580 --> 00:51:09,260
+though they'd just been given some days off.
+
+1047
+00:51:09,260 --> 00:51:11,620
+He felt the color was actually probably better now
+
+1048
+00:51:11,620 --> 00:51:13,060
+than it had been recently.
+
+1049
+00:51:13,060 --> 00:51:16,860
+Bar Corp was surprisingly paying all employees
+
+1050
+00:51:16,860 --> 00:51:19,420
+time and a half to take two weeks off.
+
+1051
+00:51:19,420 --> 00:51:21,420
+John asked why a big corporation like that
+
+1052
+00:51:21,420 --> 00:51:24,060
+would pay its staff to take time off.
+
+1053
+00:51:24,060 --> 00:51:24,980
+The man wasn't sure,
+
+1054
+00:51:24,980 --> 00:51:28,420
+but it might have to do with the new CEO.
+
+1055
+00:51:28,420 --> 00:51:32,860
+Bruce Robin announced he would renovate every building
+
+1056
+00:51:32,860 --> 00:51:36,020
+and provide everyone a livable wage,
+
+1057
+00:51:36,020 --> 00:51:39,060
+benefits and better working hours.
+
+1058
+00:51:39,060 --> 00:51:41,500
+Clark asked what exactly Bar Corp does.
+
+1059
+00:51:41,500 --> 00:51:42,940
+Do they sell something?
+
+1060
+00:51:42,940 --> 00:51:46,260
+The man asked Clark to pull anything out of his pockets.
+
+1061
+00:51:46,260 --> 00:51:48,020
+Clark produced a pin
+
+1062
+00:51:48,020 --> 00:51:49,700
+and the man said Bar Corp made it.
+
+1063
+00:51:49,700 --> 00:51:54,100
+Sure enough, the pin read Bar Corp there along the side.
+
+1064
+00:51:54,100 --> 00:51:55,660
+The party hatched a plan.
+
+1065
+00:51:55,660 --> 00:51:58,180
+Keith would call Bruce Robin directly
+
+1066
+00:51:58,180 --> 00:52:00,100
+under the guise of commiseration
+
+1067
+00:52:00,100 --> 00:52:02,740
+over the death of Ferguson Beans.
+
+1068
+00:52:02,740 --> 00:52:04,900
+But a woman named Winifred Worth
+
+1069
+00:52:04,900 --> 00:52:07,180
+answered for Bruce Robin's office.
+
+1070
+00:52:07,180 --> 00:52:09,540
+Keith explained Ferguson Beans was his brother
+
+1071
+00:52:09,540 --> 00:52:12,340
+to which Winifred expressed condolences.
+
+1072
+00:52:12,340 --> 00:52:14,420
+Keith requested to speak to Bruce
+
+1073
+00:52:14,420 --> 00:52:16,500
+to ask him some questions.
+
+1074
+00:52:16,500 --> 00:52:19,620
+Winifred promised she would pass along the questions
+
+1075
+00:52:19,620 --> 00:52:21,500
+to Bruce for him.
+
+1076
+00:52:21,500 --> 00:52:22,420
+Keith pressed her.
+
+1077
+00:52:22,420 --> 00:52:23,980
+He'd hoped to have a conversation
+
+1078
+00:52:23,980 --> 00:52:26,100
+with his late brother's business partner.
+
+1079
+00:52:26,100 --> 00:52:27,340
+She insisted.
+
+1080
+00:52:27,340 --> 00:52:29,780
+While Bruce was currently in the office,
+
+1081
+00:52:29,780 --> 00:52:32,460
+he was currently unavailable.
+
+1082
+00:52:32,460 --> 00:52:34,180
+Keith found out Bruce's office
+
+1083
+00:52:34,180 --> 00:52:36,860
+was on the 17th floor and hung up.
+
+1084
+00:52:36,860 --> 00:52:39,380
+He then called the number for Ferguson's office,
+
+1085
+00:52:39,380 --> 00:52:42,620
+but he was greeted again by Winifred.
+
+1086
+00:52:42,620 --> 00:52:46,460
+Keith tried to disguise his identity as Ferguson,
+
+1087
+00:52:46,460 --> 00:52:49,380
+but Keith, caught in the act, just hung up.
+
+1088
+00:52:49,380 --> 00:52:52,540
+The group decided since they knew where Bruce Robin was,
+
+1089
+00:52:52,540 --> 00:52:54,540
+they would head that way and barge in
+
+1090
+00:52:54,540 --> 00:52:57,380
+as officers of the law to question him.
+
+1091
+00:52:58,300 --> 00:52:59,500
+On the way to Bar Corp,
+
+1092
+00:52:59,500 --> 00:53:04,060
+the fellas noticed both flowers and sickness everywhere.
+
+1093
+00:53:04,060 --> 00:53:07,020
+After a diversion to acquire blue windbreakers,
+
+1094
+00:53:07,020 --> 00:53:09,100
+coveralls, and fancy hats,
+
+1095
+00:53:09,100 --> 00:53:12,020
+they pulled up to the 17-story building
+
+1096
+00:53:12,020 --> 00:53:14,380
+and walked through the revolving doors
+
+1097
+00:53:14,420 --> 00:53:18,300
+into a massive foyer with marble columns.
+
+1098
+00:53:18,300 --> 00:53:20,220
+A security guard and a receptionist
+
+1099
+00:53:20,220 --> 00:53:23,100
+stood at a large marble desk,
+
+1100
+00:53:23,100 --> 00:53:26,060
+behind which hung a giant mural
+
+1101
+00:53:26,060 --> 00:53:29,060
+of Washington crossing the Delaware,
+
+1102
+00:53:29,060 --> 00:53:33,580
+but all the guns were replaced by flowers.
+
+1103
+00:53:33,580 --> 00:53:38,140
+The building directory showed only 12 of the 17 floors.
+
+1104
+00:53:38,140 --> 00:53:40,220
+John fast-talked the security guard
+
+1105
+00:53:40,220 --> 00:53:42,900
+and the group found their way into the only elevator
+
+1106
+00:53:42,900 --> 00:53:46,860
+that actually went all the way to the 17th floor.
+
+1107
+00:53:46,860 --> 00:53:48,940
+On 17, they were met straight away
+
+1108
+00:53:48,940 --> 00:53:52,980
+by a small older woman with a shock of white hair.
+
+1109
+00:53:52,980 --> 00:53:56,460
+Winifred Worth wore a white satin blouse
+
+1110
+00:53:56,460 --> 00:53:59,660
+with black vertical stripes on the left-hand side,
+
+1111
+00:53:59,660 --> 00:54:02,420
+high-waisted pants with horizontal stripes
+
+1112
+00:54:02,420 --> 00:54:04,180
+on the right-hand side,
+
+1113
+00:54:04,180 --> 00:54:07,580
+white platform shoes with studded soles,
+
+1114
+00:54:07,580 --> 00:54:12,300
+and interconnected silver rings across her right hand.
+
+1115
+00:54:12,340 --> 00:54:15,020
+She knew they were the disgraced police officers
+
+1116
+00:54:15,020 --> 00:54:18,900
+from contention and she demanded to know their business.
+
+1117
+00:54:18,900 --> 00:54:20,620
+John attempted to persuade her
+
+1118
+00:54:20,620 --> 00:54:23,260
+to let them into Bruce Robin's office.
+
+1119
+00:54:23,260 --> 00:54:24,900
+She was not convinced.
+
+1120
+00:54:24,900 --> 00:54:28,460
+John's solution was to push this 71-year-old lady
+
+1121
+00:54:28,460 --> 00:54:31,980
+to the ground and holler for the others to run past.
+
+1122
+00:54:31,980 --> 00:54:33,940
+John called an ambulance for her
+
+1123
+00:54:33,940 --> 00:54:37,300
+and gave Keith's name as the caller.
+
+1124
+00:54:37,300 --> 00:54:40,460
+Keith picked the lock to get into Bruce's office,
+
+1125
+00:54:40,460 --> 00:54:43,500
+which was in a state of disarray.
+
+1126
+00:54:43,500 --> 00:54:46,100
+A large bookcase had been ransacked.
+
+1127
+00:54:46,100 --> 00:54:48,900
+A conference table was absolutely covered
+
+1128
+00:54:48,900 --> 00:54:51,380
+in binders, files, and papers.
+
+1129
+00:54:51,380 --> 00:54:54,300
+Behind an equally cluttered desk,
+
+1130
+00:54:54,300 --> 00:54:57,420
+a panicked Bruce Robin paced back and forth
+
+1131
+00:54:57,420 --> 00:55:00,140
+and muttered numbers to himself.
+
+1132
+00:55:00,140 --> 00:55:03,260
+He wore a disheveled but well-tailored suit
+
+1133
+00:55:03,260 --> 00:55:05,820
+and his hair was a disaster.
+
+1134
+00:55:05,820 --> 00:55:07,020
+Bruce greeted them
+
+1135
+00:55:07,020 --> 00:55:09,860
+and the officers asked him about the numbers.
+
+1136
+00:55:09,900 --> 00:55:11,860
+He denied he was even saying numbers
+
+1137
+00:55:11,860 --> 00:55:14,380
+and became aggravated when pushed.
+
+1138
+00:55:14,380 --> 00:55:16,780
+They asked if he knew who Keith was.
+
+1139
+00:55:16,780 --> 00:55:18,100
+While Bruce considered this,
+
+1140
+00:55:18,100 --> 00:55:20,460
+they noticed his bleeding knuckles
+
+1141
+00:55:20,460 --> 00:55:23,700
+and the silver ring with a flat blank top
+
+1142
+00:55:23,700 --> 00:55:25,220
+on his middle finger,
+
+1143
+00:55:25,220 --> 00:55:28,900
+exactly like the one they found at Jim Cook's house.
+
+1144
+00:55:28,900 --> 00:55:32,060
+Keith revealed the ring he had tied around his neck
+
+1145
+00:55:32,060 --> 00:55:35,860
+with a shoestring and Bruce's eyes went wide
+
+1146
+00:55:35,860 --> 00:55:38,540
+with fear and excitement.
+
+1147
+00:55:38,540 --> 00:55:41,380
+He asked if they were with Myriad.
+
+1148
+00:55:41,380 --> 00:55:45,100
+Keith said yes and put the ring on.
+
+1149
+00:55:46,140 --> 00:55:48,860
+Bruce stared off above their heads
+
+1150
+00:55:48,860 --> 00:55:52,140
+through a curtain of unwashed hair
+
+1151
+00:55:52,140 --> 00:55:54,220
+and began chanting,
+
+1152
+00:55:54,220 --> 00:55:56,820
+Tawil Alakol.
+
+1153
+00:55:56,820 --> 00:56:00,100
+Clark leapt across the desk, tackle punched him,
+
+1154
+00:56:00,100 --> 00:56:02,660
+and knocked a hidden pistol out of his hand,
+
+1155
+00:56:02,660 --> 00:56:04,820
+but Bruce kept chanting.
+
+1156
+00:56:04,820 --> 00:56:07,500
+Keith tried to stomp on his arm to take the ring,
+
+1157
+00:56:07,500 --> 00:56:10,940
+but Robin used the momentum to pull Keith to the ground.
+
+1158
+00:56:10,940 --> 00:56:13,740
+John tried and failed to gag the chanting man
+
+1159
+00:56:13,740 --> 00:56:15,940
+with his own tie.
+
+1160
+00:56:15,940 --> 00:56:17,540
+Bruce threw Clark off of him
+
+1161
+00:56:17,540 --> 00:56:20,620
+and reached the fallen gun chanting the whole time.
+
+1162
+00:56:20,620 --> 00:56:24,180
+Keith instinctively shot the once again armed CEO
+
+1163
+00:56:24,180 --> 00:56:27,820
+to protect Clark, but it only wounded the businessman.
+
+1164
+00:56:27,820 --> 00:56:30,140
+John demanded Bruce stop chanting
+
+1165
+00:56:30,140 --> 00:56:32,780
+and went to check on Winifred.
+
+1166
+00:56:32,780 --> 00:56:35,740
+However, Bruce Robin completed the chant
+
+1167
+00:56:35,740 --> 00:56:39,860
+and promptly shot himself in the head.
+
+1168
+00:56:39,860 --> 00:56:43,340
+Keith took the ring off Bruce's limp finger.
+
+1169
+00:56:43,340 --> 00:56:44,380
+When he stood back up,
+
+1170
+00:56:44,380 --> 00:56:49,380
+he noticed John was writing numbers on the desk in blood.
+
+1171
+00:56:49,420 --> 00:56:52,140
+Clark stopped him, but John strangely wasn't aware
+
+1172
+00:56:52,140 --> 00:56:54,220
+he'd been writing any numbers.
+
+1173
+00:56:54,220 --> 00:56:57,700
+Suddenly, the doors to the office burst open
+
+1174
+00:56:57,700 --> 00:57:00,180
+and the trio realized they no longer stood
+
+1175
+00:57:00,180 --> 00:57:03,500
+in the places they'd had just been standing.
+
+1176
+00:57:03,500 --> 00:57:06,020
+They were stark naked and drenched
+
+1177
+00:57:06,020 --> 00:57:08,300
+in Bruce Robin's blood.
+
+1178
+00:57:08,300 --> 00:57:13,300
+The numbers 218213518152914 were scrawled
+
+1179
+00:57:15,140 --> 00:57:20,140
+in dark red fluid on every surface of the office
+
+1180
+00:57:20,580 --> 00:57:25,580
+and the gang had no recollection of their actions.
+
+1181
+00:57:27,340 --> 00:57:29,660
+When the doors to the office busted open,
+
+1182
+00:57:29,660 --> 00:57:31,860
+three police officers barged in
+
+1183
+00:57:31,860 --> 00:57:34,540
+as John, Clark, and Keith became aware
+
+1184
+00:57:34,540 --> 00:57:37,860
+of their abruptly changed surroundings.
+
+1185
+00:57:37,860 --> 00:57:40,180
+Clark recognized the officer at the back,
+
+1186
+00:57:40,180 --> 00:57:45,180
+an attractive older man with gray hair as Leon Simpson.
+
+1187
+00:57:45,300 --> 00:57:48,260
+Leon dropped two duffel bags on the ground
+
+1188
+00:57:48,260 --> 00:57:52,580
+and expeditiously executed the other two officers
+
+1189
+00:57:52,580 --> 00:57:53,580
+from behind.
+
+1190
+00:57:53,580 --> 00:57:56,700
+He then marched back out into the hallway
+
+1191
+00:57:56,700 --> 00:58:00,900
+and fired a single additional shot.
+
+1192
+00:58:00,900 --> 00:58:03,060
+Clark told the other two this newcomer
+
+1193
+00:58:03,060 --> 00:58:06,100
+was from the circle of knowledge.
+
+1194
+00:58:06,100 --> 00:58:08,980
+Leon came back, donned headphones and gloves,
+
+1195
+00:58:08,980 --> 00:58:13,940
+turned up some outlaw country and began to clean the scene.
+
+1196
+00:58:13,940 --> 00:58:15,460
+Inside one of the duffel bags,
+
+1197
+00:58:15,460 --> 00:58:17,500
+Clark found cleaning supplies
+
+1198
+00:58:17,500 --> 00:58:20,900
+and three clean city PD uniforms.
+
+1199
+00:58:20,900 --> 00:58:24,620
+Clark, John, and Keith cleaned themselves and suited up.
+
+1200
+00:58:24,620 --> 00:58:27,500
+Leon pulled papers from Bruce's desk
+
+1201
+00:58:27,500 --> 00:58:31,860
+and stamped them with a copy of Bruce's signature.
+
+1202
+00:58:31,860 --> 00:58:35,460
+These papers signed Bruce's share of bar corp
+
+1203
+00:58:35,460 --> 00:58:39,180
+over to the mill on the other side of the city.
+
+1204
+00:58:39,180 --> 00:58:42,380
+Among Bruce's things, John found a note.
+
+1205
+00:58:42,380 --> 00:58:46,820
+It read, she broke me open and all new things
+
+1206
+00:58:46,820 --> 00:58:50,740
+have the power to escort change in the future of good
+
+1207
+00:58:50,740 --> 00:58:54,020
+in order to break the cycle and find fulfillment
+
+1208
+00:58:54,020 --> 00:58:56,060
+in an unquestioning goodness
+
+1209
+00:58:56,100 --> 00:58:58,140
+that breaks the relentless tether
+
+1210
+00:58:58,140 --> 00:59:02,500
+holding this lie of a world withstanding itself.
+
+1211
+00:59:02,500 --> 00:59:04,540
+I can smell my past.
+
+1212
+00:59:04,540 --> 00:59:06,420
+I can hear my future.
+
+1213
+00:59:06,420 --> 00:59:07,980
+I am joy.
+
+1214
+00:59:07,980 --> 00:59:09,780
+I am destruction.
+
+1215
+00:59:09,780 --> 00:59:11,540
+I am pure.
+
+1216
+00:59:11,540 --> 00:59:14,300
+Death to Myriad.
+
+1217
+00:59:14,300 --> 00:59:16,300
+811-818-9520-131181119.
+
+1218
+00:59:22,020 --> 00:59:24,380
+They recognized the number from Bruce's house
+
+1219
+00:59:24,380 --> 00:59:26,980
+and finally broke the cipher.
+
+1220
+00:59:26,980 --> 00:59:30,460
+They found the numbers spelled Harriet Marks,
+
+1221
+00:59:30,460 --> 00:59:33,340
+a name they hadn't come across.
+
+1222
+00:59:33,340 --> 00:59:36,740
+Clark received a text on the mysterious burner phone
+
+1223
+00:59:36,740 --> 00:59:40,220
+that read, the book your parents died for
+
+1224
+00:59:40,220 --> 00:59:44,980
+is still hidden in an undisclosed location.
+
+1225
+00:59:44,980 --> 00:59:47,540
+He texted back, what book?
+
+1226
+00:59:47,540 --> 00:59:48,620
+Where?
+
+1227
+00:59:48,620 --> 00:59:51,060
+A quick search for Harriet Marks revealed
+
+1228
+00:59:51,060 --> 00:59:53,500
+she was a pro-union activist
+
+1229
+00:59:53,500 --> 00:59:56,380
+studying at City State University
+
+1230
+00:59:56,380 --> 00:59:58,500
+who committed suicide in her dorm room
+
+1231
+00:59:58,500 --> 01:00:01,980
+just four days before on December 2nd.
+
+1232
+01:00:01,980 --> 01:00:04,340
+Leon said they would go investigate her
+
+1233
+01:00:04,340 --> 01:00:05,980
+after they cleaned up.
+
+1234
+01:00:05,980 --> 01:00:09,740
+The group heard sirens and made a run for Leon's car.
+
+1235
+01:00:09,740 --> 01:00:13,380
+After a destructive chase and a lethal getaway,
+
+1236
+01:00:13,380 --> 01:00:16,700
+Keith noticed Clark and John zoning out
+
+1237
+01:00:16,700 --> 01:00:19,140
+muttering the number sequence.
+
+1238
+01:00:19,140 --> 01:00:21,100
+Keith described to Leon what happened
+
+1239
+01:00:21,100 --> 01:00:22,380
+in Bruce Robin's office
+
+1240
+01:00:22,380 --> 01:00:24,980
+and what they'd worked out about the cipher.
+
+1241
+01:00:24,980 --> 01:00:28,220
+Leon showed Keith a picture of the inside
+
+1242
+01:00:28,220 --> 01:00:30,420
+of Harriet Marks's dorm room.
+
+1243
+01:00:30,420 --> 01:00:34,540
+Spray painted all over the walls was a third sequence.
+
+1244
+01:00:34,540 --> 01:00:39,540
+1522518195518, the code for overseer.
+
+1245
+01:00:42,500 --> 01:00:44,820
+Leon evangelized.
+
+1246
+01:00:44,820 --> 01:00:47,500
+Clark is more than a man.
+
+1247
+01:00:47,500 --> 01:00:49,020
+He's a God.
+
+1248
+01:00:49,860 --> 01:00:51,740
+He's the savior.
+
+1249
+01:00:51,740 --> 01:00:55,740
+A prophecy maintains Clark will go back in time
+
+1250
+01:00:55,740 --> 01:00:59,180
+and found the circle of knowledge.
+
+1251
+01:00:59,180 --> 01:01:02,860
+John and Clark came to in a parking lot on CSU campus
+
+1252
+01:01:02,860 --> 01:01:05,700
+with Leon and Keith staring at them.
+
+1253
+01:01:05,700 --> 01:01:08,500
+Keith informed them they had just been chanting
+
+1254
+01:01:08,500 --> 01:01:10,300
+Bruce Robin's numbers.
+
+1255
+01:01:10,300 --> 01:01:13,620
+Then he handed them the folder Leon had given him.
+
+1256
+01:01:13,620 --> 01:01:17,060
+Inside were pictures of a crime scene in a dorm room.
+
+1257
+01:01:17,060 --> 01:01:20,180
+Numbers were spray painted on every surface.
+
+1258
+01:01:20,180 --> 01:01:23,860
+In the cipher, it read overseer.
+
+1259
+01:01:23,860 --> 01:01:26,660
+Clark bluntly asked Leon if he believed
+
+1260
+01:01:26,660 --> 01:01:29,060
+Clark was the overseer and was met
+
+1261
+01:01:29,060 --> 01:01:31,380
+with an equally blunt yes.
+
+1262
+01:01:31,380 --> 01:01:32,900
+Leon went on.
+
+1263
+01:01:32,900 --> 01:01:36,620
+He believed Clark would eventually go back in time
+
+1264
+01:01:36,620 --> 01:01:39,500
+and found the circle of knowledge.
+
+1265
+01:01:39,500 --> 01:01:41,820
+The contention officers informed Leon
+
+1266
+01:01:41,820 --> 01:01:45,260
+that an old Clark had been poking and prodding
+
+1267
+01:01:45,260 --> 01:01:46,820
+at their lives recently.
+
+1268
+01:01:46,820 --> 01:01:51,060
+Leon seemed curious and asked them to explain further.
+
+1269
+01:01:51,060 --> 01:01:54,260
+They recalled the time old Clark warned Drew
+
+1270
+01:01:54,260 --> 01:01:55,700
+something terrible would happen
+
+1271
+01:01:55,700 --> 01:01:57,980
+before the chief's house exploded
+
+1272
+01:01:57,980 --> 01:02:00,620
+and how old Clark had branded names
+
+1273
+01:02:00,620 --> 01:02:03,460
+into their skin with magic.
+
+1274
+01:02:03,460 --> 01:02:05,660
+Leon proposed the group split up.
+
+1275
+01:02:05,660 --> 01:02:07,820
+John and Keith could head to the dorm room.
+
+1276
+01:02:07,820 --> 01:02:10,860
+He and Clark would go to the administration building.
+
+1277
+01:02:10,860 --> 01:02:14,340
+Leon explained while they're not sure what it is,
+
+1278
+01:02:14,380 --> 01:02:17,780
+it seemed to transfer from person to person.
+
+1279
+01:02:17,780 --> 01:02:20,740
+Bruce Robin got it from Harriet Marks
+
+1280
+01:02:20,740 --> 01:02:24,300
+and Harriet Marks got it from the overseer
+
+1281
+01:02:24,300 --> 01:02:26,460
+based on the numbers in her dorm room.
+
+1282
+01:02:26,460 --> 01:02:29,500
+They needed to know why Clark had done this.
+
+1283
+01:02:29,500 --> 01:02:31,300
+Clark reminded them it's not him
+
+1284
+01:02:31,300 --> 01:02:32,660
+they're talking about exactly,
+
+1285
+01:02:32,660 --> 01:02:35,140
+so maybe they could call old Clark Clarkold
+
+1286
+01:02:35,140 --> 01:02:36,980
+to avoid confusion.
+
+1287
+01:02:36,980 --> 01:02:40,100
+With that, the groups split off.
+
+1288
+01:02:40,100 --> 01:02:43,620
+Leon began to drive away with Clark in the back seat
+
+1289
+01:02:43,660 --> 01:02:46,220
+and Clark noticed Leon reached for a gun
+
+1290
+01:02:46,220 --> 01:02:47,900
+that looked like the tranquilizer gun
+
+1291
+01:02:47,900 --> 01:02:50,980
+he'd given Clark to coerce agent Trent Chad.
+
+1292
+01:02:50,980 --> 01:02:53,940
+Before Leon could fire, Clark kicked the back of his seat
+
+1293
+01:02:53,940 --> 01:02:57,260
+and a tranq dart stuck in the ceiling of the car.
+
+1294
+01:02:57,260 --> 01:02:58,600
+After a short struggle,
+
+1295
+01:02:58,600 --> 01:03:01,260
+Clark wrestled the gun away from Leon.
+
+1296
+01:03:01,260 --> 01:03:06,100
+He held the gun to the back of Leon's head with a strong,
+
+1297
+01:03:06,100 --> 01:03:08,620
+what the fuck?
+
+1298
+01:03:08,620 --> 01:03:11,580
+Leon explained he had hoped to knock Clark out.
+
+1299
+01:03:11,580 --> 01:03:13,480
+He was terrified something would happen to Clark
+
+1300
+01:03:14,300 --> 01:03:15,140
+like a stray bullet.
+
+1301
+01:03:15,140 --> 01:03:19,480
+If Clark died, that could mean the world ends.
+
+1302
+01:03:19,480 --> 01:03:22,960
+Leon felt he needed to protect Clark at all costs,
+
+1303
+01:03:22,960 --> 01:03:26,520
+but Clark argued if he really was the overseer
+
+1304
+01:03:26,520 --> 01:03:29,600
+and he did go back to found the circle of knowledge,
+
+1305
+01:03:29,600 --> 01:03:31,560
+then this must all work out.
+
+1306
+01:03:31,560 --> 01:03:34,200
+In fact, he might be bulletproof now.
+
+1307
+01:03:34,200 --> 01:03:36,640
+In a pretty threatening tone,
+
+1308
+01:03:36,640 --> 01:03:40,080
+Clark reminded Leon he might be the one needing protection
+
+1309
+01:03:40,120 --> 01:03:43,240
+as he didn't recall an old Leon
+
+1310
+01:03:43,240 --> 01:03:46,600
+running around as Clark Old's right-hand man.
+
+1311
+01:03:46,600 --> 01:03:48,740
+Leon replied with a sigh.
+
+1312
+01:03:48,740 --> 01:03:50,460
+He said it was time.
+
+1313
+01:03:50,460 --> 01:03:53,900
+They really needed to go to calm, comfy campground,
+
+1314
+01:03:53,900 --> 01:03:56,720
+but Leon had been coerced.
+
+1315
+01:03:56,720 --> 01:03:59,860
+First, they could put Clark's invincibility theory
+
+1316
+01:03:59,860 --> 01:04:03,600
+to the test and finish out the investigation at CSU.
+
+1317
+01:04:03,600 --> 01:04:06,460
+So Leon Simpson swung the car back around
+
+1318
+01:04:06,460 --> 01:04:08,580
+and headed to the administration building
+
+1319
+01:04:08,580 --> 01:04:10,500
+they'd first set out for
+
+1320
+01:04:10,500 --> 01:04:13,860
+before the failed kidnapping attempt.
+
+1321
+01:04:13,860 --> 01:04:16,620
+John and Keith walked through the holiday decoration
+
+1322
+01:04:16,620 --> 01:04:21,620
+riddled CSU campus to gifts house, Harriet Marks dormitory.
+
+1323
+01:04:22,140 --> 01:04:24,860
+The lobby was dark and vacant.
+
+1324
+01:04:24,860 --> 01:04:27,380
+John hopped on the computer behind the front desk
+
+1325
+01:04:27,380 --> 01:04:30,320
+and the desktop background was a promotional flyer
+
+1326
+01:04:30,320 --> 01:04:33,940
+for the Jingle Ball scheduled for that evening,
+
+1327
+01:04:33,940 --> 01:04:36,500
+December 6th at CSU.
+
+1328
+01:04:36,540 --> 01:04:39,500
+The poster read, follow the scavenger hunt
+
+1329
+01:04:39,500 --> 01:04:42,980
+to make your way to the Jingle Ball.
+
+1330
+01:04:42,980 --> 01:04:45,300
+On the computer, John found the directory
+
+1331
+01:04:45,300 --> 01:04:49,300
+and discovered Harriet Marks and her roommate, Amelia Locke
+
+1332
+01:04:49,300 --> 01:04:53,660
+lived in 328 across the hall from a show dorm
+
+1333
+01:04:53,660 --> 01:04:56,600
+for tours to prospective students.
+
+1334
+01:04:56,600 --> 01:04:58,340
+They called the elevator and the light
+
+1335
+01:04:58,340 --> 01:05:01,060
+that emanated from the open doors
+
+1336
+01:05:01,060 --> 01:05:04,140
+revealed countless unique number sequences
+
+1337
+01:05:04,140 --> 01:05:08,300
+scribbled all over the walls and floor of this building
+
+1338
+01:05:08,300 --> 01:05:13,300
+in materials ranging from spray paint to bodily fluids.
+
+1339
+01:05:13,500 --> 01:05:18,140
+And inside the elevator, the limp corpse of a student
+
+1340
+01:05:18,140 --> 01:05:20,380
+was slumped over itself.
+
+1341
+01:05:20,380 --> 01:05:25,020
+Her face was amorphous, smashed repeatedly
+
+1342
+01:05:25,020 --> 01:05:27,800
+until she was unrecognizable.
+
+1343
+01:05:29,100 --> 01:05:30,780
+Back in the administration building
+
+1344
+01:05:30,780 --> 01:05:33,500
+the campus seemed absolutely empty.
+
+1345
+01:05:33,500 --> 01:05:35,940
+It looked like Christmas itself had thrown up
+
+1346
+01:05:35,940 --> 01:05:39,460
+the decorations that adorned everything in sight.
+
+1347
+01:05:39,460 --> 01:05:41,980
+The lights of the administration building were off
+
+1348
+01:05:41,980 --> 01:05:45,380
+but down the hall stood two figures.
+
+1349
+01:05:45,380 --> 01:05:49,140
+One mumbled a sequence of letters and numbers interrupted
+
+1350
+01:05:49,140 --> 01:05:53,780
+by desperate appeals requesting physical violence.
+
+1351
+01:05:53,780 --> 01:05:57,060
+In their city PD uniforms, the pair approached
+
+1352
+01:05:57,060 --> 01:06:00,840
+under the guise of officers looking for the records office.
+
+1353
+01:06:01,720 --> 01:06:05,320
+In the elevator, John Lee Pettymore began to mumble
+
+1354
+01:06:05,320 --> 01:06:07,560
+and pulled a Sharpie from his pocket.
+
+1355
+01:06:07,560 --> 01:06:09,720
+He put the marker to the elevator wall
+
+1356
+01:06:09,720 --> 01:06:13,440
+and wrote the familiar cipher of Bruce Robin.
+
+1357
+01:06:13,440 --> 01:06:17,000
+The third floor was similarly dark and silent
+
+1358
+01:06:17,000 --> 01:06:20,280
+and the doors to both 328 gifts house
+
+1359
+01:06:20,280 --> 01:06:23,840
+and the show dorm room across the hall were open.
+
+1360
+01:06:23,840 --> 01:06:26,660
+The show dorm room was covered in numbers
+
+1361
+01:06:26,660 --> 01:06:29,360
+like every other surface in this building.
+
+1362
+01:06:29,440 --> 01:06:32,360
+And there was an out of place Casio keyboard
+
+1363
+01:06:32,360 --> 01:06:34,900
+in the middle of the room with a sheet of music
+
+1364
+01:06:34,900 --> 01:06:35,940
+on the stand.
+
+1365
+01:06:35,940 --> 01:06:38,040
+However, instead of notes on the staff
+
+1366
+01:06:38,040 --> 01:06:41,240
+the sheet music is made of little cartoon pictures,
+
+1367
+01:06:41,240 --> 01:06:46,000
+seven eggs, a golf ball, a cat, a demon and another egg.
+
+1368
+01:06:46,000 --> 01:06:47,960
+Keith pushed on a few of the keys
+
+1369
+01:06:47,960 --> 01:06:49,800
+and the electronic piano was set
+
+1370
+01:06:49,800 --> 01:06:52,520
+to make the sound of jingle bells.
+
+1371
+01:06:52,520 --> 01:06:55,160
+Keith put the silly sheet music in his pocket
+
+1372
+01:06:55,160 --> 01:06:58,320
+and continued investigating the display dorm.
+
+1373
+01:06:58,320 --> 01:07:02,520
+A window looked out on the overly festive campus.
+
+1374
+01:07:02,520 --> 01:07:07,080
+In the middle of the quad was a large old bell tower.
+
+1375
+01:07:07,080 --> 01:07:10,760
+Keith ignored that and found a flyer for the jingle ball
+
+1376
+01:07:10,760 --> 01:07:13,320
+and written on the back was a math equation.
+
+1377
+01:07:13,320 --> 01:07:17,040
+The solution to this problem was 330,
+
+1378
+01:07:17,040 --> 01:07:19,040
+the number of the room in which he stood.
+
+1379
+01:07:19,040 --> 01:07:21,380
+Keith ignored that and headed across the hall
+
+1380
+01:07:21,380 --> 01:07:25,040
+to Harriet Marks's room with the mumbling John in tow.
+
+1381
+01:07:25,040 --> 01:07:28,520
+In 328 Gift's house, Keith found trophies
+
+1382
+01:07:28,520 --> 01:07:33,240
+for riddle solving competitions on the desk of Amelia Locke,
+
+1383
+01:07:33,240 --> 01:07:37,320
+a desk which clearly lacked a laptop.
+
+1384
+01:07:37,320 --> 01:07:40,440
+The charging cord and various USB accoutrement
+
+1385
+01:07:40,440 --> 01:07:45,440
+wreathed a rectangular negative space on its surface.
+
+1386
+01:07:45,480 --> 01:07:49,640
+On scrap paper, Keith found a handwritten note from Amelia
+
+1387
+01:07:49,640 --> 01:07:53,420
+that outlined her views on the suicide of her roommate.
+
+1388
+01:07:53,420 --> 01:07:56,860
+She clearly did not believe Harriet was suicidal
+
+1389
+01:07:56,860 --> 01:07:59,180
+and she wrote she had a plan to figure out
+
+1390
+01:07:59,180 --> 01:08:00,820
+what actually happened.
+
+1391
+01:08:00,820 --> 01:08:02,580
+Keith went through Harriet's things
+
+1392
+01:08:02,580 --> 01:08:05,700
+and found a tucked away sticky note
+
+1393
+01:08:05,700 --> 01:08:08,440
+with a two point to do list.
+
+1394
+01:08:08,440 --> 01:08:13,440
+The first, research most unethical corporation in the city.
+
+1395
+01:08:14,580 --> 01:08:18,580
+The second, who is the overseer?
+
+1396
+01:08:19,440 --> 01:08:21,620
+Clark and Leon approached the two figures
+
+1397
+01:08:21,620 --> 01:08:23,860
+in the hall outside the admin office.
+
+1398
+01:08:23,860 --> 01:08:25,780
+A short and slight freshman jumped up
+
+1399
+01:08:25,780 --> 01:08:28,940
+and poked a tall, well-dressed student with perfect hair.
+
+1400
+01:08:28,940 --> 01:08:31,420
+The little one begged to be hit
+
+1401
+01:08:31,420 --> 01:08:33,980
+and the tall one calmly declined.
+
+1402
+01:08:33,980 --> 01:08:36,620
+Defeated, the short dude ran to a wall,
+
+1403
+01:08:36,620 --> 01:08:39,180
+slammed his head against it and yelled
+
+1404
+01:08:39,180 --> 01:08:42,860
+that doing it himself just wasn't the same.
+
+1405
+01:08:42,860 --> 01:08:44,880
+Clark and Leon approached and the tall student
+
+1406
+01:08:44,880 --> 01:08:47,980
+calmly asked for a moment as he stared up
+
+1407
+01:08:47,980 --> 01:08:51,580
+at a banner above the office window that read,
+
+1408
+01:08:52,420 --> 01:08:54,380
+at the end of the 10th day,
+
+1409
+01:08:54,380 --> 01:08:58,740
+my true love had given me blank gifts.
+
+1410
+01:08:58,740 --> 01:09:00,600
+Leon ignored the scene entirely
+
+1411
+01:09:00,600 --> 01:09:03,260
+and entered the unlocked administration office.
+
+1412
+01:09:03,260 --> 01:09:07,820
+The crazed, small student requested pain from Clark
+
+1413
+01:09:07,820 --> 01:09:10,420
+who asked why the kid would wanna be hit so badly.
+
+1414
+01:09:10,420 --> 01:09:12,620
+The student said he would love it
+
+1415
+01:09:12,620 --> 01:09:16,420
+and then suddenly started to spout some numbers off.
+
+1416
+01:09:16,420 --> 01:09:18,120
+Clark asked about the numbers.
+
+1417
+01:09:18,120 --> 01:09:22,000
+The student didn't recall saying any numbers.
+
+1418
+01:09:22,000 --> 01:09:25,680
+Clark hit him and he crumpled the floor in delight
+
+1419
+01:09:25,680 --> 01:09:29,120
+before scampering off into the darkness.
+
+1420
+01:09:29,120 --> 01:09:31,320
+Clark asked if the tall, calm student
+
+1421
+01:09:31,320 --> 01:09:33,920
+was thinking of numbers at all.
+
+1422
+01:09:33,920 --> 01:09:34,840
+He said no.
+
+1423
+01:09:34,840 --> 01:09:38,120
+Leon reiterated the question and flipped on the lights
+
+1424
+01:09:38,120 --> 01:09:40,440
+which revealed countless numbers
+
+1425
+01:09:40,440 --> 01:09:43,220
+covering the walls of the hall.
+
+1426
+01:09:43,220 --> 01:09:45,800
+The tall student affirmed he didn't even know
+
+1427
+01:09:45,800 --> 01:09:47,240
+the numbers were there
+
+1428
+01:09:47,240 --> 01:09:51,860
+and he introduced himself as Donovan West Haven.
+
+1429
+01:09:51,860 --> 01:09:53,760
+Donovan West something explained
+
+1430
+01:09:53,760 --> 01:09:56,680
+he was just trying to work out the riddle on the banner.
+
+1431
+01:09:56,680 --> 01:09:59,280
+After some debate about how to solve
+
+1432
+01:09:59,280 --> 01:10:00,920
+the gift counting riddle,
+
+1433
+01:10:00,920 --> 01:10:05,140
+Clark and Leon agreed to investigate the office instead.
+
+1434
+01:10:05,140 --> 01:10:08,180
+The single computer was password protected.
+
+1435
+01:10:08,180 --> 01:10:11,880
+On the desk sat pictures of a woman in her early 20s
+
+1436
+01:10:11,880 --> 01:10:14,440
+holding trophies for scavenger hunts.
+
+1437
+01:10:14,440 --> 01:10:17,760
+The name on the trophies, Amelia Locke.
+
+1438
+01:10:17,760 --> 01:10:20,560
+There was also a photo of a group of students
+
+1439
+01:10:20,560 --> 01:10:25,480
+holding up a banner that said Best R.A. Gifts House.
+
+1440
+01:10:25,480 --> 01:10:27,600
+Clark suggested their best bet
+
+1441
+01:10:27,600 --> 01:10:29,820
+would be to head to Locke's dorm.
+
+1442
+01:10:29,820 --> 01:10:31,540
+Donovan asked if he could tag along.
+
+1443
+01:10:31,540 --> 01:10:35,560
+He would, after all, need help solving the other riddles.
+
+1444
+01:10:35,560 --> 01:10:36,720
+On the way to Gifts House,
+
+1445
+01:10:36,720 --> 01:10:39,840
+they could hear strange whoops and hollers
+
+1446
+01:10:39,840 --> 01:10:43,400
+from unseen people all over campus.
+
+1447
+01:10:43,400 --> 01:10:46,280
+Inside Gifts House, the lights were out.
+
+1448
+01:10:46,280 --> 01:10:48,520
+Clark motioned for Leon to investigate
+
+1449
+01:10:48,520 --> 01:10:50,000
+the receptionist's computer
+
+1450
+01:10:50,000 --> 01:10:54,920
+while Clark hollered a hello down the empty hall.
+
+1451
+01:10:54,920 --> 01:10:57,400
+Donovan wandered into a smaller hallway
+
+1452
+01:10:57,400 --> 01:10:59,560
+and lights suddenly came on.
+
+1453
+01:10:59,560 --> 01:11:02,880
+Numbers covered everything and from behind a door
+
+1454
+01:11:02,880 --> 01:11:06,880
+at the end of this hall came a desperate no, no, no,
+
+1455
+01:11:08,460 --> 01:11:11,800
+followed by a sequence of numbers.
+
+1456
+01:11:11,800 --> 01:11:14,520
+The door cracked slightly
+
+1457
+01:11:14,520 --> 01:11:18,480
+and a voice very creepily reached out.
+
+1458
+01:11:18,480 --> 01:11:22,840
+Please turn out the lights.
+
+1459
+01:11:22,840 --> 01:11:26,920
+Donovan obliged and slowly backed out of the hallway
+
+1460
+01:11:26,920 --> 01:11:31,920
+and a genuine thank you oozed from the room.
+
+1461
+01:11:33,800 --> 01:11:36,760
+Clark warned Donovan that if he heard numbers like that,
+
+1462
+01:11:36,760 --> 01:11:39,360
+he might want to close his ears.
+
+1463
+01:11:39,360 --> 01:11:41,360
+But Clark still wasn't sure how exactly
+
+1464
+01:11:41,880 --> 01:11:43,800
+this thing spread so he went to ask Leon,
+
+1465
+01:11:43,800 --> 01:11:46,220
+who'd already put on noise canceling headphones.
+
+1466
+01:11:46,220 --> 01:11:47,880
+Clark tapped him on the shoulder
+
+1467
+01:11:47,880 --> 01:11:49,840
+and Leon tapped the computer screen
+
+1468
+01:11:49,840 --> 01:11:52,760
+that showed the room number of Amelia Locke
+
+1469
+01:11:52,760 --> 01:11:56,380
+and her roommate, Harriet Marks.
+
+1470
+01:11:56,380 --> 01:11:58,800
+When asked, Donovan said people
+
+1471
+01:11:58,800 --> 01:12:01,880
+had been shouting numbers at him constantly.
+
+1472
+01:12:01,880 --> 01:12:04,220
+Clark wondered if he'd had any blackouts
+
+1473
+01:12:04,220 --> 01:12:06,840
+or gabs in his memory but Donovan replied no,
+
+1474
+01:12:06,840 --> 01:12:08,800
+he felt pretty good actually.
+
+1475
+01:12:08,800 --> 01:12:11,120
+Clark pondered aloud whether Donovan
+
+1476
+01:12:11,120 --> 01:12:14,120
+might be the thing they were looking for.
+
+1477
+01:12:14,120 --> 01:12:17,760
+It seemed like he could be immune.
+
+1478
+01:12:17,760 --> 01:12:20,960
+The trio headed up to Amelia and Harriet's room
+
+1479
+01:12:20,960 --> 01:12:22,800
+on the third floor.
+
+1480
+01:12:22,800 --> 01:12:27,200
+Clark Bishop, Leon Simpson and Donovan Westerfuck
+
+1481
+01:12:27,200 --> 01:12:29,240
+approached 328 Giff's house
+
+1482
+01:12:29,240 --> 01:12:31,260
+and found John and Keith already there.
+
+1483
+01:12:31,260 --> 01:12:33,320
+John snapped out of a haze as they entered
+
+1484
+01:12:33,320 --> 01:12:37,880
+and mumbled something about being able to do anything.
+
+1485
+01:12:37,880 --> 01:12:40,800
+Keith explained they'd come across a dead body
+
+1486
+01:12:40,800 --> 01:12:42,740
+in the elevator when John went blank
+
+1487
+01:12:42,740 --> 01:12:45,400
+and started writing the Bruce Robin numbers.
+
+1488
+01:12:45,400 --> 01:12:47,780
+Clark asked John if he remembered writing the numbers
+
+1489
+01:12:47,780 --> 01:12:52,780
+and John asked Clark if he had ever felt quote, immense.
+
+1490
+01:12:53,240 --> 01:12:55,440
+Clark introduced Donovan to John and Keith
+
+1491
+01:12:55,440 --> 01:12:58,060
+and revealed there was a chance Donovan was the key
+
+1492
+01:12:58,060 --> 01:13:01,800
+to all this, that he might be immune to the numbers.
+
+1493
+01:13:01,800 --> 01:13:03,960
+John walked directly into a wall
+
+1494
+01:13:04,000 --> 01:13:08,400
+and confessed he was still working out the kinks.
+
+1495
+01:13:08,400 --> 01:13:10,980
+The reconvened team put their heads together
+
+1496
+01:13:10,980 --> 01:13:15,400
+on the riddle from the banner and came up with 330.
+
+1497
+01:13:15,400 --> 01:13:17,960
+The room across the hall where Keith already found
+
+1498
+01:13:17,960 --> 01:13:20,840
+a piece of paper that depicted illustrations
+
+1499
+01:13:20,840 --> 01:13:24,360
+of seven eggs, a golf ball, a cat, a demon
+
+1500
+01:13:24,360 --> 01:13:27,680
+and another egg set upon a music staff
+
+1501
+01:13:27,680 --> 01:13:29,800
+atop a Casio keyboard.
+
+1502
+01:13:29,840 --> 01:13:34,000
+Keith then presented the to-do list from Harriet's desk.
+
+1503
+01:13:34,000 --> 01:13:38,160
+One, research the most unethical corporation in the city.
+
+1504
+01:13:38,160 --> 01:13:41,040
+Two, who is the overseer?
+
+1505
+01:13:41,040 --> 01:13:43,760
+He also had a note from Amelia's desk
+
+1506
+01:13:43,760 --> 01:13:45,640
+where she wrote she didn't believe Harriet
+
+1507
+01:13:45,640 --> 01:13:48,400
+would commit suicide and she was going to get
+
+1508
+01:13:48,400 --> 01:13:50,080
+to the bottom of it.
+
+1509
+01:13:50,080 --> 01:13:53,160
+They hit the first letters of each cartoon
+
+1510
+01:13:53,160 --> 01:13:55,900
+as notes on the Casio keyboard.
+
+1511
+01:13:55,900 --> 01:13:58,120
+It's the melody of Jingle Bells
+
+1512
+01:13:58,120 --> 01:14:01,520
+and out the window of 330 Gift's house
+
+1513
+01:14:01,520 --> 01:14:04,320
+they watched the bell tower in the center
+
+1514
+01:14:04,320 --> 01:14:09,320
+of the CSU campus light up in all its holiday glory.
+
+1515
+01:14:11,680 --> 01:14:14,160
+This not so subtle clue led the party
+
+1516
+01:14:14,160 --> 01:14:16,500
+to a pleasant stroll through campus,
+
+1517
+01:14:16,500 --> 01:14:21,040
+admiring the crisp white snow, festive decorations
+
+1518
+01:14:21,040 --> 01:14:23,560
+and constant screaming on their way
+
+1519
+01:14:23,560 --> 01:14:26,160
+to the lit old bell tower.
+
+1520
+01:14:26,160 --> 01:14:29,760
+They climbed the spiral staircase behind Keith
+
+1521
+01:14:29,760 --> 01:14:32,000
+who warned them to close their eyes
+
+1522
+01:14:32,000 --> 01:14:36,260
+to not look at the corpse of an almost retired security guard
+
+1523
+01:14:36,260 --> 01:14:37,900
+some of them listened.
+
+1524
+01:14:37,900 --> 01:14:40,540
+The interior of the bell tower and the corpse
+
+1525
+01:14:40,540 --> 01:14:42,900
+were also covered in numbers.
+
+1526
+01:14:42,900 --> 01:14:45,800
+At the top of the tower they met an attractive young woman
+
+1527
+01:14:45,800 --> 01:14:49,260
+named ShamWow Chameleon who recited the numbers
+
+1528
+01:14:49,260 --> 01:14:52,840
+for Harriet Marks as she desperately tried
+
+1529
+01:14:52,840 --> 01:14:55,480
+to get onto the roof of the tower.
+
+1530
+01:14:55,480 --> 01:14:59,400
+Keith saw a sleigh lit up across the way
+
+1531
+01:14:59,400 --> 01:15:01,520
+which indicated the Jingle Ball
+
+1532
+01:15:01,520 --> 01:15:04,800
+was in the Accord Student Center.
+
+1533
+01:15:04,800 --> 01:15:06,840
+John accidentally let slip to Leon
+
+1534
+01:15:06,840 --> 01:15:11,320
+that at least some of them might possibly also be ball.
+
+1535
+01:15:11,320 --> 01:15:14,440
+Keith and John helped ShamWow out of the bell tower
+
+1536
+01:15:14,440 --> 01:15:18,280
+and onto the roof and the group headed off across campus
+
+1537
+01:15:18,280 --> 01:15:20,920
+to go to the Jingle Ball.
+
+1538
+01:15:20,920 --> 01:15:24,800
+On the journey a path of colorful string lights
+
+1539
+01:15:24,800 --> 01:15:29,240
+led to a sitting area which contained a ripe corpse
+
+1540
+01:15:29,240 --> 01:15:33,800
+and a frantic dancer who pointed to the student union.
+
+1541
+01:15:33,800 --> 01:15:36,000
+They entered the Accord Student Center
+
+1542
+01:15:36,000 --> 01:15:39,320
+on the middle floor of a three story atrium
+
+1543
+01:15:39,320 --> 01:15:41,880
+filled with the pure chaos
+
+1544
+01:15:41,880 --> 01:15:45,440
+of wholly obsessive students and faculty.
+
+1545
+01:15:45,440 --> 01:15:49,880
+On their level a girl shaved a team of live reindeer
+
+1546
+01:15:49,880 --> 01:15:54,520
+with a blunt knife and glued the fur to herself.
+
+1547
+01:15:55,080 --> 01:15:58,200
+On the floor below a pair of muscular young men
+
+1548
+01:15:58,200 --> 01:16:01,480
+in Santa outfits diligently wrapped a student
+
+1549
+01:16:01,480 --> 01:16:05,320
+in wrapping paper with duct tape and force.
+
+1550
+01:16:05,320 --> 01:16:08,200
+Above an older woman in a bathrobe
+
+1551
+01:16:08,200 --> 01:16:12,560
+and an aviator hat climbed a garland to the top floor.
+
+1552
+01:16:12,560 --> 01:16:15,480
+A huge disco ball and a Santa hat
+
+1553
+01:16:15,480 --> 01:16:18,440
+hung from the middle of the domed ceiling.
+
+1554
+01:16:18,440 --> 01:16:21,440
+On the lower level a naked man used a mop
+
+1555
+01:16:21,440 --> 01:16:25,080
+and bucket full of paint to write out numbers.
+
+1556
+01:16:25,080 --> 01:16:29,480
+An ice skating rink contained three people dressed as elves.
+
+1557
+01:16:29,480 --> 01:16:32,440
+They placed carrots in various locations
+
+1558
+01:16:32,440 --> 01:16:36,760
+on a life size snowman model and laughed hysterically.
+
+1559
+01:16:36,760 --> 01:16:40,600
+A young woman in a t-shirt that identified her
+
+1560
+01:16:40,600 --> 01:16:45,240
+as a gifts house RA threw a laptop in the air
+
+1561
+01:16:45,240 --> 01:16:48,680
+over and over again while spinning around.
+
+1562
+01:16:48,680 --> 01:16:52,200
+A man doing squats on top of Santa's throne
+
+1563
+01:16:52,200 --> 01:16:54,280
+suddenly stopped.
+
+1564
+01:16:54,280 --> 01:16:57,800
+He looked out, wild eyed and screamed,
+
+1565
+01:16:57,800 --> 01:17:02,000
+Tawil alagool, Tawil alagool.
+
+1566
+01:17:02,000 --> 01:17:04,920
+John with the power in his mind
+
+1567
+01:17:04,920 --> 01:17:07,680
+commanded the chanting man to stop.
+
+1568
+01:17:07,680 --> 01:17:09,680
+Unfortunately to no avail.
+
+1569
+01:17:09,680 --> 01:17:11,600
+Keith shot the guy and he collapsed
+
+1570
+01:17:11,600 --> 01:17:13,240
+into the Santa Claus throne.
+
+1571
+01:17:13,240 --> 01:17:16,760
+However, he was not dead and continued to chant.
+
+1572
+01:17:16,760 --> 01:17:19,360
+The gunshot grabbed the attention of the assembly
+
+1573
+01:17:19,360 --> 01:17:23,000
+in the atrium and they changed their behaviors.
+
+1574
+01:17:23,000 --> 01:17:26,840
+The woman with the fur sharpened the reindeer's antlers.
+
+1575
+01:17:26,840 --> 01:17:29,040
+The Santa twins wrapped each other
+
+1576
+01:17:29,040 --> 01:17:30,800
+instead of the other students.
+
+1577
+01:17:30,800 --> 01:17:33,200
+The ascending woman climbed faster.
+
+1578
+01:17:33,200 --> 01:17:35,360
+The elves took off their skates
+
+1579
+01:17:35,360 --> 01:17:37,560
+and the girl with the laptop threw it
+
+1580
+01:17:37,560 --> 01:17:39,800
+even higher than before.
+
+1581
+01:17:39,800 --> 01:17:42,520
+John accidentally shot two reindeer.
+
+1582
+01:17:42,520 --> 01:17:45,040
+Clark ran toward the laptop girl.
+
+1583
+01:17:45,040 --> 01:17:48,440
+Keith shot one of the Santa twins to death.
+
+1584
+01:17:48,440 --> 01:17:52,760
+Leon gave Donovan a gun and escorted him to a safe spot.
+
+1585
+01:17:52,760 --> 01:17:56,840
+Suddenly, the frenzied throng froze
+
+1586
+01:17:56,840 --> 01:17:59,320
+and began the chants.
+
+1587
+01:17:59,320 --> 01:18:01,960
+The man in Santa's chair jumped
+
+1588
+01:18:01,960 --> 01:18:06,080
+and impaled himself on the post of the throne.
+
+1589
+01:18:06,080 --> 01:18:10,240
+The laptop landed on the side of the spinning woman's head
+
+1590
+01:18:10,240 --> 01:18:12,200
+and knocked her out cold.
+
+1591
+01:18:12,200 --> 01:18:13,640
+Clark grabbed the laptop
+
+1592
+01:18:13,640 --> 01:18:17,160
+and checked the unconscious RA's vitals.
+
+1593
+01:18:17,160 --> 01:18:21,040
+As the rest of the deranged chanting party
+
+1594
+01:18:21,040 --> 01:18:25,840
+executed their elaborate and festive suicides,
+
+1595
+01:18:25,840 --> 01:18:30,840
+Emilia Locke took her last breath in Clark's arms.
+
+1596
+01:18:32,120 --> 01:18:34,800
+The atrium of the Accord Student Center
+
+1597
+01:18:34,800 --> 01:18:38,960
+was a suddenly still disgusting mess.
+
+1598
+01:18:38,960 --> 01:18:42,480
+The PA crossfaded out of the classic mashup
+
+1599
+01:18:42,480 --> 01:18:46,040
+of Wonderful Christmastime by Sir Paul McCartney
+
+1600
+01:18:46,040 --> 01:18:48,520
+and Grown Up by Danny Brown,
+
+1601
+01:18:48,520 --> 01:18:52,400
+replaced by a horrifying rendition of Santa Baby
+
+1602
+01:18:52,400 --> 01:18:54,480
+by Tyler the Creator.
+
+1603
+01:18:54,480 --> 01:18:58,520
+John and Clark fell back into their unnatural malaise
+
+1604
+01:18:58,520 --> 01:19:01,360
+and scrawled the numbers for Bruce Robin
+
+1605
+01:19:01,360 --> 01:19:04,720
+all over whatever mess they sat in.
+
+1606
+01:19:04,720 --> 01:19:07,040
+Leon Simpson, for the first time,
+
+1607
+01:19:07,080 --> 01:19:10,760
+fell to the ground to write out a sequence of numbers.
+
+1608
+01:19:10,760 --> 01:19:12,800
+Donovan was still conscious and present,
+
+1609
+01:19:12,800 --> 01:19:14,800
+but absolutely shook.
+
+1610
+01:19:14,800 --> 01:19:18,240
+Keith solved Leon Simpson's new cipher,
+
+1611
+01:19:18,240 --> 01:19:20,520
+the solve Ben Smith,
+
+1612
+01:19:20,520 --> 01:19:23,840
+who Keith recognized after a quick Google search
+
+1613
+01:19:23,840 --> 01:19:26,560
+happened to be the corpse nearest,
+
+1614
+01:19:26,560 --> 01:19:30,960
+the now dazed member of the circle of knowledge.
+
+1615
+01:19:30,960 --> 01:19:33,120
+Still the only team member up in Adam,
+
+1616
+01:19:33,120 --> 01:19:35,600
+Keith opened Emilia Locke's laptop.
+
+1617
+01:19:35,680 --> 01:19:37,120
+He found screenshots
+
+1618
+01:19:37,120 --> 01:19:40,400
+from the CSU Biology Department Twitter account.
+
+1619
+01:19:40,400 --> 01:19:41,920
+The first read,
+
+1620
+01:19:41,920 --> 01:19:44,080
+a few of us who are not infected
+
+1621
+01:19:44,080 --> 01:19:45,760
+are quarantined in the lab.
+
+1622
+01:19:45,760 --> 01:19:47,520
+Please call 911.
+
+1623
+01:19:47,520 --> 01:19:49,760
+Our calls are not going through.
+
+1624
+01:19:49,760 --> 01:19:51,880
+The second was in all caps.
+
+1625
+01:19:51,880 --> 01:19:55,680
+Call 911, CSU campus infected with a virus.
+
+1626
+01:19:55,680 --> 01:19:57,320
+Please help, we are trapped.
+
+1627
+01:19:57,320 --> 01:19:59,520
+Call 911.
+
+1628
+01:19:59,520 --> 01:20:02,080
+And the final tweet pleaded.
+
+1629
+01:20:02,080 --> 01:20:04,720
+We're still quarantined in the lab.
+
+1630
+01:20:04,720 --> 01:20:08,760
+If you are the person or entity scrubbing this page,
+
+1631
+01:20:08,760 --> 01:20:10,480
+please have a heart.
+
+1632
+01:20:10,480 --> 01:20:13,240
+We are running low on supplies.
+
+1633
+01:20:13,240 --> 01:20:14,920
+There were also two videos
+
+1634
+01:20:14,920 --> 01:20:17,720
+and small windows open on the desktop.
+
+1635
+01:20:17,720 --> 01:20:21,360
+One showed Harriet Marks sitting in her dorm room.
+
+1636
+01:20:21,360 --> 01:20:24,600
+The other was a dark and distorted picture
+
+1637
+01:20:24,600 --> 01:20:28,480
+with only a lit candle in frame.
+
+1638
+01:20:28,480 --> 01:20:30,920
+Clark and John snapped back to reality,
+
+1639
+01:20:30,920 --> 01:20:32,920
+but Leon Simpson began dancing
+
+1640
+01:20:32,920 --> 01:20:35,200
+like his life depended on it.
+
+1641
+01:20:35,200 --> 01:20:37,000
+Keith showed Clark the laptop,
+
+1642
+01:20:37,000 --> 01:20:38,800
+but Clark was far more interested
+
+1643
+01:20:38,800 --> 01:20:41,000
+in the glow than the content.
+
+1644
+01:20:41,000 --> 01:20:44,040
+Leon's phone went off and he continued to boogie down
+
+1645
+01:20:44,040 --> 01:20:46,280
+with no concern for his surroundings.
+
+1646
+01:20:46,280 --> 01:20:47,240
+Due to his groove,
+
+1647
+01:20:47,240 --> 01:20:50,600
+the buzzing flip phone popped out of Simpson's trousers.
+
+1648
+01:20:50,600 --> 01:20:52,400
+Clark grabbed it for the glow,
+
+1649
+01:20:52,400 --> 01:20:54,720
+but noticed 25 missed calls
+
+1650
+01:20:54,720 --> 01:20:57,240
+and an interesting text thread.
+
+1651
+01:20:57,240 --> 01:20:59,840
+Responding to, how's it going?
+
+1652
+01:20:59,840 --> 01:21:03,360
+Leon sent, the secretary is stubborn,
+
+1653
+01:21:03,360 --> 01:21:05,760
+looking for another option.
+
+1654
+01:21:05,760 --> 01:21:08,080
+That was the last outgoing message,
+
+1655
+01:21:08,080 --> 01:21:11,560
+but there was a barrage of words from the other side.
+
+1656
+01:21:11,560 --> 01:21:15,840
+In short stabs, they wrote, I don't want excuses, pick up.
+
+1657
+01:21:15,840 --> 01:21:17,280
+Okay, I sent them.
+
+1658
+01:21:17,280 --> 01:21:20,200
+T.O. will be ready for extraction.
+
+1659
+01:21:20,200 --> 01:21:23,440
+Don't forget to get the signatures.
+
+1660
+01:21:23,440 --> 01:21:28,440
+E.T.A., question mark, Jesus Christ, what is going on?
+
+1661
+01:21:29,200 --> 01:21:31,320
+Question mark, question mark, question mark,
+
+1662
+01:21:31,320 --> 01:21:34,080
+before the longer final message.
+
+1663
+01:21:34,080 --> 01:21:38,240
+If he doesn't get here in time, this is all over.
+
+1664
+01:21:38,240 --> 01:21:41,800
+Everything we've worked for, everything that exists,
+
+1665
+01:21:41,800 --> 01:21:43,880
+just gone, for what?
+
+1666
+01:21:43,880 --> 01:21:45,840
+Your fucking conscience?
+
+1667
+01:21:45,840 --> 01:21:49,440
+Morality won't save us.
+
+1668
+01:21:49,440 --> 01:21:52,400
+They all assumed it was Maggie on the other end,
+
+1669
+01:21:52,400 --> 01:21:56,320
+so Clark responded, hey, it's Clark.
+
+1670
+01:21:56,320 --> 01:21:58,720
+Donovan led the group to Glass Hall,
+
+1671
+01:21:58,720 --> 01:22:00,960
+which housed the biology lab.
+
+1672
+01:22:00,960 --> 01:22:04,600
+Clark received a text on his mysterious burner.
+
+1673
+01:22:04,600 --> 01:22:06,840
+He had asked, what book, where?
+
+1674
+01:22:06,840 --> 01:22:09,800
+And this message read, your book.
+
+1675
+01:22:09,800 --> 01:22:12,280
+Calm, comfy campground.
+
+1676
+01:22:12,280 --> 01:22:14,960
+Leon's phone also received a text.
+
+1677
+01:22:14,960 --> 01:22:18,000
+It said, fuck, what did you do?
+
+1678
+01:22:18,000 --> 01:22:21,040
+From both phones, Clark Bishop sent the question,
+
+1679
+01:22:21,040 --> 01:22:22,560
+who is this?
+
+1680
+01:22:22,560 --> 01:22:26,680
+And on both phones, he got the same response.
+
+1681
+01:22:26,680 --> 01:22:28,160
+Destiny.
+
+1682
+01:22:28,160 --> 01:22:30,440
+The walk across campus was soundtracked
+
+1683
+01:22:30,440 --> 01:22:33,000
+by a cacophony of guttural moans,
+
+1684
+01:22:33,000 --> 01:22:36,480
+which danced on the cold December winds.
+
+1685
+01:22:36,480 --> 01:22:39,440
+In the quad, they saw ShamWow Chameleon
+
+1686
+01:22:39,440 --> 01:22:43,440
+as she steadied herself on the sanctified minion blow up
+
+1687
+01:22:43,440 --> 01:22:48,240
+atop the bell tower and screamed about getting even higher.
+
+1688
+01:22:48,240 --> 01:22:51,680
+In the far distance, the chopping of helicopter blades
+
+1689
+01:22:51,680 --> 01:22:55,360
+slowly but surely grew louder and louder.
+
+1690
+01:22:55,360 --> 01:22:58,360
+Given the option between a longer lit path
+
+1691
+01:22:58,360 --> 01:23:00,360
+and a shorter one in darkness,
+
+1692
+01:23:00,360 --> 01:23:03,320
+Clark persuaded the group to stay in the light.
+
+1693
+01:23:03,320 --> 01:23:07,040
+Around a well-lit corner, an old man moaned
+
+1694
+01:23:07,040 --> 01:23:10,560
+and took a citrus peeler to his frail fingers.
+
+1695
+01:23:10,560 --> 01:23:13,760
+Keith saw this horror and lost it again.
+
+1696
+01:23:13,760 --> 01:23:15,360
+The group, sans vigna,
+
+1697
+01:23:15,360 --> 01:23:17,880
+deciphered this old man's number sequence
+
+1698
+01:23:17,880 --> 01:23:20,720
+and learned the name belonged to a coworker
+
+1699
+01:23:20,720 --> 01:23:24,840
+who hanged himself in front of this bloody mad old-timer.
+
+1700
+01:23:24,840 --> 01:23:27,960
+They continued on to Glass Hall Keith came to
+
+1701
+01:23:27,960 --> 01:23:32,960
+and they found a child meticulously sticking syringes
+
+1702
+01:23:33,800 --> 01:23:38,560
+into a somehow unmoving student's eyeballs.
+
+1703
+01:23:38,560 --> 01:23:40,080
+With that, John and Keith
+
+1704
+01:23:40,080 --> 01:23:42,440
+were lost in their numbers once again.
+
+1705
+01:23:42,440 --> 01:23:45,760
+Inside Glass Hall, the sounds of a few deranged folk
+
+1706
+01:23:45,760 --> 01:23:48,200
+bounced and echoed through the halls.
+
+1707
+01:23:48,200 --> 01:23:52,040
+A trail of blood slowly dripped down the stairwell
+
+1708
+01:23:52,040 --> 01:23:55,600
+which had a few bloody screwdrivers scattered about.
+
+1709
+01:23:55,600 --> 01:23:59,680
+On their way down the wet, sticky stairs to the biology lab,
+
+1710
+01:23:59,680 --> 01:24:01,840
+Keith Vigna tripped, fell,
+
+1711
+01:24:01,840 --> 01:24:04,720
+and knocked something loose in his head.
+
+1712
+01:24:04,720 --> 01:24:06,440
+He popped up ecstatic
+
+1713
+01:24:06,440 --> 01:24:09,720
+and grabbed what he thought were handfuls of cash
+
+1714
+01:24:09,720 --> 01:24:14,320
+but were, in reality, handfuls of bloody screwdrivers.
+
+1715
+01:24:14,320 --> 01:24:16,880
+He stuffed them into all of his pockets
+
+1716
+01:24:16,920 --> 01:24:20,120
+and, for good measure, pulled a few out of a woman's corpse
+
+1717
+01:24:20,120 --> 01:24:23,880
+while he smiled and yelled they were rich.
+
+1718
+01:24:23,880 --> 01:24:27,800
+Keith Vigna then crammed his finger deep into his nose
+
+1719
+01:24:27,800 --> 01:24:30,960
+and sniffed with all of his lungs.
+
+1720
+01:24:33,480 --> 01:24:37,960
+Eyes wide, he shoved his finger into Clark Bishop's nose
+
+1721
+01:24:37,960 --> 01:24:42,960
+who did not expect a heaping bump of pure cocaine.
+
+1722
+01:24:42,960 --> 01:24:45,360
+Clark immediately went blank,
+
+1723
+01:24:45,360 --> 01:24:48,720
+but instead of numbers, he chanted,
+
+1724
+01:24:48,720 --> 01:24:51,360
+Ta will alico.
+
+1725
+01:24:51,360 --> 01:24:53,640
+In the basement of Glass Hall,
+
+1726
+01:24:53,640 --> 01:24:57,720
+the team stood just outside of the biology lab.
+
+1727
+01:24:57,720 --> 01:25:00,440
+Keith Vigna collected bloody screwdrivers
+
+1728
+01:25:00,440 --> 01:25:02,400
+he thought were cash.
+
+1729
+01:25:02,400 --> 01:25:05,320
+John Lee Pettymore talked down to everyone
+
+1730
+01:25:05,320 --> 01:25:07,280
+like a god might.
+
+1731
+01:25:07,280 --> 01:25:10,360
+Donovan Wester-something-or-other panicked.
+
+1732
+01:25:10,360 --> 01:25:15,240
+Leon Simpson boogied and Clark Bishop chanted.
+
+1733
+01:25:15,240 --> 01:25:18,840
+The lights went out and the red emergency lights activated.
+
+1734
+01:25:18,840 --> 01:25:21,600
+An ominous glow illuminated the party
+
+1735
+01:25:21,600 --> 01:25:25,240
+as the entrance of Glass Hall burst open.
+
+1736
+01:25:25,240 --> 01:25:26,600
+Orders were shouted.
+
+1737
+01:25:26,600 --> 01:25:28,960
+Crazed voices were silenced.
+
+1738
+01:25:28,960 --> 01:25:33,080
+Clark grabbed one of Keith's dripping screwdrivers.
+
+1739
+01:25:33,080 --> 01:25:36,480
+A small canister was tossed down the stairs
+
+1740
+01:25:36,480 --> 01:25:40,320
+and a thick gas came pouring out of it.
+
+1741
+01:25:40,320 --> 01:25:43,440
+Clark sharpened his screwdriver.
+
+1742
+01:25:43,440 --> 01:25:45,680
+Keith and Donovan rushed into the lab.
+
+1743
+01:25:45,680 --> 01:25:47,240
+Leon danced.
+
+1744
+01:25:47,240 --> 01:25:51,200
+Down the stairs stormed a squad in tactical gear.
+
+1745
+01:25:51,200 --> 01:25:54,240
+They shouted and tossed more gas canisters.
+
+1746
+01:25:54,240 --> 01:25:58,360
+Clark jammed the sharpened screwdriver into his eye
+
+1747
+01:25:58,360 --> 01:26:02,320
+until the handle was flush with his socket.
+
+1748
+01:26:02,320 --> 01:26:05,240
+Blood dripped down his face
+
+1749
+01:26:05,240 --> 01:26:09,120
+and Clark Bishop crumpled to the ground,
+
+1750
+01:26:09,160 --> 01:26:11,400
+limp and lifeless.
+
+1751
+01:26:13,280 --> 01:26:17,080
+John stared at the scene, began chanting
+
+1752
+01:26:17,080 --> 01:26:19,560
+and ran into the lab.
+
+1753
+01:26:20,640 --> 01:26:23,400
+Inside, a man and a woman in lab coats
+
+1754
+01:26:23,400 --> 01:26:26,000
+sat turned away at a desk.
+
+1755
+01:26:26,000 --> 01:26:27,840
+The woman greeted the group and asked
+
+1756
+01:26:27,840 --> 01:26:30,360
+if they knew how to fix the situation.
+
+1757
+01:26:30,360 --> 01:26:32,800
+Back in the hallway, Leon started chanting
+
+1758
+01:26:32,800 --> 01:26:36,600
+and fell to the ground, surrounded by the tactical squad.
+
+1759
+01:26:36,600 --> 01:26:39,240
+John aimed his gun at the door
+
+1760
+01:26:39,240 --> 01:26:41,760
+and waited for the incursion.
+
+1761
+01:26:41,760 --> 01:26:43,960
+Barbara, the woman in the lab coat,
+
+1762
+01:26:43,960 --> 01:26:47,160
+insisted that she and Phillip were just fine,
+
+1763
+01:26:47,160 --> 01:26:49,560
+much like Donovan Whateverhaven.
+
+1764
+01:26:49,560 --> 01:26:54,480
+She asked Phillip to explain, but he didn't move.
+
+1765
+01:26:54,480 --> 01:26:57,640
+Donovan, worried he might be the only sane person
+
+1766
+01:26:57,640 --> 01:27:00,920
+left on Earth, looked to John for help,
+
+1767
+01:27:00,920 --> 01:27:04,880
+but John was turning his firearm on himself.
+
+1768
+01:27:04,880 --> 01:27:07,920
+So, Jonathan fired at John to try to disable him
+
+1769
+01:27:07,920 --> 01:27:10,120
+from committing suicide, but he missed
+
+1770
+01:27:10,120 --> 01:27:14,800
+and sent a bullet right into the CSU biology department's
+
+1771
+01:27:14,800 --> 01:27:18,920
+prized anti-virus machine.
+
+1772
+01:27:18,920 --> 01:27:21,360
+Barbara turned Phillip's chair around
+
+1773
+01:27:21,360 --> 01:27:23,640
+so he could see this madness,
+
+1774
+01:27:23,640 --> 01:27:28,280
+but Phillip held his own eyeballs in his hands
+
+1775
+01:27:28,280 --> 01:27:32,200
+and dried blood covered his face below
+
+1776
+01:27:32,200 --> 01:27:34,800
+his empty eye sockets.
+
+1777
+01:27:34,800 --> 01:27:37,480
+The raid from the tactical squad began.
+
+1778
+01:27:37,480 --> 01:27:38,960
+Smoke filled the lab.
+
+1779
+01:27:38,960 --> 01:27:41,800
+John looked around the room and smiled.
+
+1780
+01:27:41,800 --> 01:27:45,440
+Finally at peace, John Lee Pettymore the third
+
+1781
+01:27:45,440 --> 01:27:47,680
+shot himself in the head.
+
+1782
+01:27:47,680 --> 01:27:51,320
+Keith prepared for a showdown and Donovan went to his knees,
+
+1783
+01:27:51,320 --> 01:27:53,360
+submitted and asked for help.
+
+1784
+01:27:53,360 --> 01:27:55,480
+One of the infiltrating squad members
+
+1785
+01:27:55,480 --> 01:27:57,800
+placed an oxygen mask on Donovan
+
+1786
+01:27:57,800 --> 01:27:59,840
+and he immediately fell asleep,
+
+1787
+01:27:59,840 --> 01:28:03,160
+but high on disillusion and cocaine,
+
+1788
+01:28:03,200 --> 01:28:05,960
+Keith Vigna murdered two of the troops
+
+1789
+01:28:05,960 --> 01:28:08,080
+with bloody screwdrivers
+
+1790
+01:28:08,080 --> 01:28:11,600
+before they eventually ended his life.
+
+1791
+01:28:13,760 --> 01:28:17,160
+Through the haze and red emergency lights,
+
+1792
+01:28:17,160 --> 01:28:21,960
+we see the two casualties of Keith's screwdrivers,
+
+1793
+01:28:21,960 --> 01:28:25,360
+lifeless in pools of their own blood.
+
+1794
+01:28:25,360 --> 01:28:27,240
+The camera leaves the lab,
+
+1795
+01:28:27,240 --> 01:28:31,360
+passes the elderly pile of a corpse in the hallway,
+
+1796
+01:28:31,360 --> 01:28:34,440
+moves up the stairs and out of glass hall.
+
+1797
+01:28:34,440 --> 01:28:37,600
+The CSU campus is humming.
+
+1798
+01:28:37,600 --> 01:28:39,480
+Sirens are constant.
+
+1799
+01:28:39,480 --> 01:28:43,600
+Limp bodies are being transported by teams of two
+
+1800
+01:28:43,600 --> 01:28:45,480
+in full tactical gear
+
+1801
+01:28:45,480 --> 01:28:49,720
+and dragged into prison transport buses.
+
+1802
+01:28:49,720 --> 01:28:54,040
+The sky is littered with unmarked black helicopters.
+
+1803
+01:28:54,040 --> 01:28:58,320
+We see one hovering above the minion atop the bell tower,
+
+1804
+01:28:58,320 --> 01:29:03,320
+a rope ladder allowing ShamWow Chameleon to get even higher.
+
+1805
+01:29:03,360 --> 01:29:05,440
+As we leave the CSU campus,
+
+1806
+01:29:05,440 --> 01:29:08,400
+we see a confluence of black SUVs
+
+1807
+01:29:08,400 --> 01:29:10,800
+heading toward one of the taller buildings
+
+1808
+01:29:10,800 --> 01:29:12,520
+of the city skyline,
+
+1809
+01:29:12,520 --> 01:29:15,720
+a building that is being climbed
+
+1810
+01:29:15,720 --> 01:29:20,040
+by something massive and spherical.
+
+1811
+01:29:20,040 --> 01:29:22,440
+We continue past the business district
+
+1812
+01:29:22,440 --> 01:29:25,320
+and swoop down into the back of a van
+
+1813
+01:29:25,320 --> 01:29:27,480
+heading out toward the pier.
+
+1814
+01:29:27,480 --> 01:29:32,480
+The broken and upgraded and dead and metal corpses
+
+1815
+01:29:32,840 --> 01:29:35,480
+of John Lee Pettymore and Keith Vigna
+
+1816
+01:29:35,480 --> 01:29:39,040
+are jostling around the posterior of this van
+
+1817
+01:29:39,040 --> 01:29:42,760
+that pulls up to a grand old edifice,
+
+1818
+01:29:42,760 --> 01:29:45,320
+alone on the edge of the water
+
+1819
+01:29:45,320 --> 01:29:48,520
+with a well-lit sign outside that reads,
+
+1820
+01:29:48,520 --> 01:29:50,720
+The City Asylum.
+
+1821
+01:29:50,720 --> 01:29:53,840
+Inside the front doors are two familiar guards,
+
+1822
+01:29:53,840 --> 01:29:56,440
+tall and overweight and all black
+
+1823
+01:29:56,440 --> 01:29:59,120
+with prominent facial scarring.
+
+1824
+01:29:59,120 --> 01:30:01,360
+After we move down through the floor,
+
+1825
+01:30:01,360 --> 01:30:03,760
+we are immediately looking through
+
+1826
+01:30:03,760 --> 01:30:07,400
+a long line of the bottoms of feet.
+
+1827
+01:30:07,400 --> 01:30:10,320
+Body after body has been laid out in a row
+
+1828
+01:30:10,320 --> 01:30:13,400
+covered in sheets, feet sticking out.
+
+1829
+01:30:13,400 --> 01:30:16,920
+We stop on the final four soles.
+
+1830
+01:30:16,920 --> 01:30:18,880
+Both right feet are blank.
+
+1831
+01:30:18,880 --> 01:30:21,480
+Both left feet have dead skin
+
+1832
+01:30:21,480 --> 01:30:23,960
+in the shape of the circle of knowledge,
+
+1833
+01:30:23,960 --> 01:30:27,520
+but one left foot has the name Maggie
+
+1834
+01:30:27,520 --> 01:30:30,920
+burned on top of the seven circles.
+
+1835
+01:30:30,920 --> 01:30:34,040
+Our vision moves up through the ceiling
+
+1836
+01:30:34,040 --> 01:30:37,360
+and into a small dark room.
+
+1837
+01:30:37,360 --> 01:30:42,160
+Donovan Westhaven wakes up to the sounds of beeps
+
+1838
+01:30:42,160 --> 01:30:47,160
+and bloops of a machine that you feel yourself connected to
+
+1839
+01:30:48,480 --> 01:30:52,160
+and you're laying in a hospital bed
+
+1840
+01:30:52,200 --> 01:30:56,000
+in a room that is completely dark
+
+1841
+01:30:56,000 --> 01:30:59,120
+except for the lights coming from the machine
+
+1842
+01:30:59,120 --> 01:31:01,200
+on either side of you.
+
+1843
+01:31:01,200 --> 01:31:04,080
+You see that your blood is being drawn
+
+1844
+01:31:04,080 --> 01:31:06,880
+and there is an IV in your other arm
+
+1845
+01:31:06,880 --> 01:31:09,160
+and then a screen turns on,
+
+1846
+01:31:09,160 --> 01:31:12,560
+a freeze frame of like a webcam video
+
+1847
+01:31:12,560 --> 01:31:17,560
+and it's Harriet Marks and she is mid-chant.
+
+1848
+01:31:17,880 --> 01:31:22,800
+Allacle, towel, allacle, towel, allacle, towel, allacle.
+
+1849
+01:31:22,800 --> 01:31:27,800
+Towel, allacle, towel, allacle, towel, allacle.
+
+1850
+01:31:28,920 --> 01:31:33,920
+Towel, allacle, towel, allacle, towel, allacle, towel.
+
+1851
+01:31:36,000 --> 01:31:39,040
+And then you see at the bottom of the screen,
+
+1852
+01:31:39,040 --> 01:31:44,040
+the barrel of a gun comes up and she squeezes the trigger
+
+1853
+01:31:45,040 --> 01:31:49,000
+and then she with a splatter of blood behind her
+
+1854
+01:31:49,000 --> 01:31:51,760
+falls back and out of frame of the camera
+
+1855
+01:31:51,760 --> 01:31:53,960
+and you're just looking at her dorm room
+
+1856
+01:31:53,960 --> 01:31:56,880
+with a paint of blood behind her
+
+1857
+01:31:56,880 --> 01:32:00,680
+on the wall and on the ceiling and then the video stops.
+
+1858
+01:32:01,680 --> 01:32:04,360
+And a man comes out of the darkness
+
+1859
+01:32:04,360 --> 01:32:06,280
+in the back corner of the room
+
+1860
+01:32:06,280 --> 01:32:09,680
+and you can see that he's lit by your machines
+
+1861
+01:32:09,680 --> 01:32:13,160
+and he's wearing a black suit with a black tie
+
+1862
+01:32:13,480 --> 01:32:14,440
+and a white shirt.
+
+1863
+01:32:15,560 --> 01:32:19,680
+I need you to tell me everything that happened.
+
+1864
+01:32:24,160 --> 01:32:25,280
+Okay.
+
+1865
+01:32:25,280 --> 01:32:30,280
+What's up everybody?
+
+1866
+01:32:40,760 --> 01:32:42,360
+I just wanna drop in here real quick
+
+1867
+01:32:42,360 --> 01:32:45,760
+to shout out two absolutely indispensable folks
+
+1868
+01:32:45,760 --> 01:32:49,640
+from over on the Discord who have made this tiresome task
+
+1869
+01:32:49,640 --> 01:32:52,560
+about 10 times less interminable feeling.
+
+1870
+01:32:52,560 --> 01:32:54,320
+First, I Shot Marvin.
+
+1871
+01:32:54,320 --> 01:32:58,400
+I Shot Marvin wrote up recaps for six episodes.
+
+1872
+01:32:58,400 --> 01:33:00,800
+They have earned a shirt.
+
+1873
+01:33:00,800 --> 01:33:02,880
+And second, Here Be Tigers.
+
+1874
+01:33:02,880 --> 01:33:05,080
+Here Be Tigers got a name check last time
+
+1875
+01:33:05,080 --> 01:33:07,680
+because they not only wrote four recaps
+
+1876
+01:33:07,680 --> 01:33:10,640
+but their recaps were super well done.
+
+1877
+01:33:10,640 --> 01:33:13,920
+Well, they added five more episodes this time around
+
+1878
+01:33:13,920 --> 01:33:17,480
+bringing their total to nine fucking recaps.
+
+1879
+01:33:17,480 --> 01:33:20,560
+Thank you so, so, so much.
+
+1880
+01:33:20,560 --> 01:33:23,480
+You have so clearly and obviously earned yourself
+
+1881
+01:33:23,480 --> 01:33:26,320
+an elusive PTBP T-shirt.
+
+1882
+01:33:26,320 --> 01:33:28,240
+As for the fourth and final part
+
+1883
+01:33:28,240 --> 01:33:30,920
+of this Here season one recap project,
+
+1884
+01:33:30,920 --> 01:33:32,480
+I still need your help
+
+1885
+01:33:32,480 --> 01:33:36,080
+and I'm still willing to send you clothes in return.
+
+1886
+01:33:36,080 --> 01:33:38,080
+There's a link in the show notes and on Twitter,
+
+1887
+01:33:38,080 --> 01:33:41,000
+fuck Jack Dorsey and Facebook, fuck Mark Zuckerberg
+
+1888
+01:33:41,000 --> 01:33:43,160
+to a Google doc we can all share.
+
+1889
+01:33:43,160 --> 01:33:46,560
+If you write up a few succinct but thorough paragraphs
+
+1890
+01:33:46,560 --> 01:33:48,880
+recapping an episode of this show,
+
+1891
+01:33:48,880 --> 01:33:52,440
+you will be entered to win a PTBP T-shirt.
+
+1892
+01:33:52,440 --> 01:33:55,200
+If you write up a few succinct but thorough paragraphs
+
+1893
+01:33:55,200 --> 01:33:58,120
+recapping three or more episodes,
+
+1894
+01:33:58,120 --> 01:34:02,920
+you will be entered to win one of five PTBP T-shirts.
+
+1895
+01:34:02,920 --> 01:34:07,920
+And if you really go wolf to the slap, wolf to the slap,
+
+1896
+01:34:07,920 --> 01:34:11,360
+if you write up a few succinct but thorough paragraphs
+
+1897
+01:34:11,360 --> 01:34:14,480
+recapping five or more episodes,
+
+1898
+01:34:14,480 --> 01:34:18,000
+I will guarantee you a PTBP T-shirt.
+
+1899
+01:34:18,000 --> 01:34:19,840
+Leave your handle or email address
+
+1900
+01:34:19,840 --> 01:34:21,600
+commented on the episode numbers
+
+1901
+01:34:21,600 --> 01:34:24,040
+so we know who wrote what and how to contact you
+
+1902
+01:34:24,040 --> 01:34:26,240
+in case we get to ship you a shirt.
+
+1903
+01:34:26,240 --> 01:34:29,280
+Join us, earn a shirt and help finish
+
+1904
+01:34:29,280 --> 01:34:32,320
+this last recap episode so we can deliver you
+
+1905
+01:34:32,320 --> 01:34:36,200
+the final arc of season one of pretending to be people.
+
+1906
+01:34:36,200 --> 01:34:38,960
+I'm so stupid stoked.
+
+1907
+01:34:38,960 --> 01:34:42,400
+We are dumb grateful for all of you sharing
+
+1908
+01:34:42,400 --> 01:34:44,360
+in our absurd story.
+
+1909
+01:34:44,360 --> 01:34:49,120
+In the delicious words of John Raymond Ray Arnold,
+
+1910
+01:34:49,120 --> 01:34:52,040
+chief engineer of Jurassic Park,
+
+1911
+01:34:52,040 --> 01:34:53,520
+hold on to your butts.
+
+1912
+01:34:53,520 --> 01:35:16,840
+How am I the only one trying to pull off
+
+1913
+01:35:16,840 --> 01:35:23,080
+how can you have enough drowning out
+
+1914
+01:35:23,080 --> 01:35:27,840
+of all who knows?
+
+1915
+01:35:27,840 --> 01:35:31,840
+There's no one home.
+
+1916
+01:35:31,840 --> 01:35:35,840
+No one home.
+
+1917
+01:35:35,840 --> 01:35:39,840
+No one home.
+
+1918
+01:35:39,840 --> 01:35:44,200
+Fly, fly, to the stream you know.
+

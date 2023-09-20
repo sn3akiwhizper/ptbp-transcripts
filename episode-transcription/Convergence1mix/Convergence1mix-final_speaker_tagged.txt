@@ -1,0 +1,255 @@
+0.00 47.74 speaker0  Howdy, my friends and foes. It's the titan of Tennessee, Wolf the dog. And I am coming at you live from Groversville? Now how the fuck did I end up here? Wolf, dammit. I guess I'll still do my best to give y'all a wonderful show here at 694.2 PTBP. This barn smells like shit, That bad stank. Something weird is going on around here. is from at necro wang on Twitter,
+45.32 57.66 speaker1  which is a rad thing to do regardless of if you have a necro wang, a bio wang,
+55.68 111.38 speaker0  Hello, Wolf the dog. How are you today? It's a true honor for you to read my words on your show. May I take this moment to speak with you, oh magnificent beast of the festering heap about the king in yellow and his most radiant church. Our king has feelings, Wolf. He's happy when we're happy and sad when we're suffering. He wants us to talk to him through prayer and through plays. And he wants to talk back and stand before us. So, my sewer surfing and delightfully grimy friend, may I invite you to our king's gala, yours truly, servant of our king in yellow,
+108.38 116.48 speaker1  I'm sorry to say that my heart and soul
+113.66 141.92 speaker0  They provide warmth when I am clammy. They provide the densest of creams. They devour those who would speak ill of them. And they got a real cool radio show. It's me, I'm my own god. It's wolf in Greece for me, baby. And hey, guess what?
+137.24 158.12 speaker1  for your Tennessean wolf to how, it's real simple.
+153.12 164.88 speaker0  and send a screenshot to pretendingpod at gmail.com.
+160.28 184.28 speaker1  Or you can tag us on Facebook, I guess, if you have to. And if you got sloppy wet mitts like me and you hate trying to type handles on the internet,
+182.00 211.24 speaker0  Bet you can't find them. Bet you can't click on them. a transition made without pause or interruption.
+208.06 217.86 speaker1  wherein we finished answering every single question
+215.84 287.58 speaker0  But this week is going to be the start of something new and horrible. I am pleased to announce the coming of a guest handler. After all, guests should be taken care of, And Wolf does not simply introduce a new friend
+282.58 305.82 speaker2  What's up everybody, it's Zach.
+303.34 360.60 speaker3  We are starting a new one shot. We are playing a scenario of a little game called Delta Green and we are here with a guest handler. That's right, we are here with a guest handler. Androids and Aliens, a Starfinder podcast. He is the dungeon master of New Game Who Dis, He is David Winters. Hello, David. We're really looking forward to having you here. We are really excited because for the first time We're gonna see if we like it.
+359.04 368.48 speaker2  Yeah, we thought we'd try it out.
+366.24 415.30 speaker3  That's not too much on your shoulders there, is it David? No, not at all, but like I said pre-show, I don't plan on there being much rules lawyering from my direction at least So we're all just gonna. Well, I think we're just gonna make this up as we go. To at least one or two episodes of our show before this. So you know what you're walking into. on your show. And in fact, your show is actually the only actual play show outside of the GCN shows that I listened to. And so when you pinged me and you're like, hey, we should do this. I was like, hell yeah. Cause for the most part, when people ping me, I say, hell no. Very, very happy to be here. We're glad you're here.
+414.04 421.50 speaker2  Yeah, this is exciting. For those of you who are listening,
+418.46 446.72 speaker3  if you came for David Winters, we're just gonna let that one slide. And I'm Zach. And I am here with three of my best friends in the whole world, I'm Joe.
+445.04 453.38 speaker2  I'm like the serious one. Yup. The rules kind of pushing everybody through. Yeah. Good things. Get that plot moving.
+452.54 474.92 speaker3  Flowing, you know. David, do you wanna tell us what scenario we're playing? No. that you'll find out what it is later.
+473.48 479.22 speaker2  No, I'll tell you, I'll tell you.
+478.38 483.56 speaker3  Research?
+481.08 490.48 speaker2  That's really only a risk for like,
+489.22 513.08 speaker3  That's a very, very fair point. I guess maybe I'm giving a little bit too much credit. that he was not familiar with in at least some capacity. And at least according to him, the rest of you all, you know, you said you can just run whatever. They don't really research.
+512.14 516.36 speaker2  Exactly.
+513.44 530.28 speaker3  He was very demeaning when it came to describing your level of familiarity with Delta Green scenarios. But that's neither here nor there.
+527.56 546.88 speaker2  when we first started, you read all these scenarios and you're like, I'm not gonna run any of them. I'm immediately gonna start writing my own cool shit. And so you ran us through that at home for a couple of years
+544.28 551.62 speaker3  We're all in it for the surprise, yeah.
+548.20 563.60 speaker2  And you wrote a great 40 episode story. 113 episodes.
+560.82 592.24 speaker3  And so if you haven't checked this out, you can go back. We have 113 episode long season one that tells one continuous story of a small town called Contention. And then we also have one other short little game, a little bonus in which we play Call of Cthulhu's Bleak Prospect. And we actually had the author run that game for us. So Scott Dorward, the guy who wrote Bleak Prospect came on and ran us through Bleak Prospect,
+590.70 599.36 speaker2  which was an excellent time,
+598.52 611.42 speaker3  on new game Houdis. So it was really fun hearing another group play through a scenario in a completely different way. They played it way different than we played it.
+608.96 615.36 speaker2  Oh, did Scott run you through that one?
+614.52 617.36 speaker3  I'm totally kidding.
+616.44 618.36 speaker2  I'm being caddies.
+617.36 664.16 speaker3  Oh, oh, oh. getting back to your original question, what we're gonna be running through is actually from the original source book that came out in the mid nineties before Delta Green was even a system. You know, the original source book to basically modernize Call of Cthulhu. And this came out in the mid nineties, I think. So this scenario actually takes place even before that. We're in like the early nineties and the scenario is called Convergence and it takes place in a little town in Tennessee. But the great thing about this though. Shit, we actually all read that one. Yeah, we're very familiar with this.
+663.34 676.72 speaker2  Convergence, contention. I'm a tenofile, so anything related to the state.
+672.54 701.52 speaker3  is really just walling that off and playing it fresh. And I know you're capable of it, but no, I was gonna say, Shane Ivey actually was really generous in this case because they just ran their Kickstarter for the next dozen Delta Green books that are coming out. This is being reprinted in one of those early books. This is one of the lowest stretch goals. It was like their $70,000 stretch goal. And he was nice enough to send over the draft of the new version of it this week. Cool.
+700.70 704.82 speaker2  Very cool. You hear that listeners?
+702.54 708.22 speaker3  Yeah, that's what we're rolling with today. I dig it. Shall we? Let's do it.
+707.32 712.94 speaker2  I think we shall.
+709.72 715.06 speaker3  It's just not an hour of banter per episode.
+712.94 717.70 speaker2  I think that we're all much more comfortable
+716.86 729.02 speaker3  Yeah. where we don't want to play the game, do everything we can to actively avoid it.
+726.70 735.62 speaker2  We're really stressed out just talking to each other and we're like, can I please be someone else? Yeah, I want to hide in my character for a while.
+732.98 749.72 speaker3  Thanks to Christian to be a person. That's the name of the show. Okey-dokey. Oh, please. I already told you basically the timeframe. We're talking the early 1990s. That's when I was born. Me too. In the early 1990s?
+747.80 752.56 speaker2  Yeah, me and Luke were both born in the early 1990s.
+750.56 759.92 speaker3  There'll be all sorts of cultural and technological stuff that you have absolutely no frame of reference for for this scenario, which will be fantastic. Perfect.
+757.60 770.64 speaker2  Joe and I were born in 89, so we'll be all over it.
+768.56 843.62 speaker3  Let's imagine the scene initially. It is a nondescript office building, a low rise kind of in the outskirts of a modestly sized Southern city. And I already kind of said which state. We're talking Tennessee. Zoom in to the building and there's a long conference room, presumably the largest conference room in the building. It looks as almost if two walls had been knocked down and two conference rooms are joined together. There's a comedically long table in the middle of this conference room with about three dozen spinning office chairs. Those kind of chairs that try to be comfy and soft are made out of that like shitty fake leather. And the table is that weird wood that doesn't quite look like wood. And the walls, that old fashioned wooden paneling, the colors match a little bit too much. It's if anything, a bit unsettling to you. At one far end of the room, there's a large crest. It's an FBI logo. Now the other end of the room is a pulled down projector screen. And one of those overhead projectors, which will be our first technological reference for those of you who...
+841.22 855.74 speaker2  And this real hot air blows out of it and it makes this like strange but comforting smell and you get real sleepy.
+853.30 876.38 speaker3  My dad was a youth minister when I was growing up for people to sing along for the worship times. And he would do such parody covers of popular songs as eight days a week. Ooh, I need your love, God. Eight days a week.
+874.78 888.46 speaker2  Hey, God. with absolutely all of us. Just a couple of shreks.
+885.94 898.06 speaker3  And all it took was a reference to an overhead projector and we got... And we got completely derailed. The initial scene setting is over. No, just kidding.
+896.74 906.54 speaker2  One last thing about the overhead projector. If you looked right in the, like the bulb, you were fucked.
+904.38 961.38 speaker3  because this is a very large screen it's projecting to. It's so big that that bulb is still on from the previous meeting and you can feel the heat radiating across the room. It's almost like a space heater. It's so hot. It's mid September, middle of the afternoon. You see beams of light slipping in from the outside through those slightly ajar hanging kind of floppy curtains that you open and close with the chain. It's an old building. You see little specks of dust in the air as you just trail off staring at the specks of dust almost in a trance. Then suddenly you remember you're not the only one in this room. You look around and there's four people seated around the comedically large conference room table. And it's the four of you. Tell me what you see. Tell me who you are. This is the opportune time for character introductions. So let's see. Who should I cold call on first? Luke, you're not paying attention.
+959.26 964.68 speaker2  I was looking at my character sheet hoping that you wouldn't call on me.
+963.84 973.50 speaker3  Yep, sorry. I'm calling on you first.
+969.10 1067.48 speaker2  Tanner Tan, Daniel Dan Lewd Hyde. A 38 year old man, kind of thinning hair, small sunglasses, not quite matrix style, but like Walmart matrix sunglasses. He has some like tribal tattoos on his arm. Doesn't really look like the kind of guy that would get tattoos, but one arm is just covered in them. That would be very unique. Yeah, he's just sitting there kind of looking around pretty nervous actually. Joe, you go. He's got curly black hair. He's got an eye that's kind of has a mind of its own. It's sort of lazy, but it's also kind of there. It can look at you, but it's sometimes just looking past you a little bit. And he's wearing a black polo that's tucked into some cargo pants, lots of pockets. He looks kind of like he was lost in his own world and he hears you say, hey, and he kind of turns back to you. Oh, hello there.
+1065.10 1215.84 speaker3  She has white hair and it's short cropped. It's in like a flat top on top of her head, very shaved close on the sides, very, very flat on top. She's wearing a sleeveless blouse. She has tattoos all over her arms and the tattoos are the chemical compounds of different substances. And she also has just like a skull smoking a joint and there's a coffee pot on her forearm. And she's just got a bunch of different stuff. She's got a tattoo on the back of her neck that just says crystal. She's a very intense looking person. She's wearing platform Doc Martens and that makes her probably like 5'11 in those platform boots there. She's got a purse that's doubling as a backpack around her. And as we zoom in on her eyes, we see that they turn back time and she's quite a bit younger. And then we zoom out and we see a team of people and she's wearing a helmet. She's got dog tags around her neck. She has an assault rifle in her hand. It's got a holographic sight. It has targeting lasers and sound suppressors. She has six spare magazines and a chest rig, a medium pistol and a holster, two spare magazines and a chest rig, two frag hand grenades, two smoke grenades, two flash bang stun grenades, a combat knife, flexible cuffs around this tactical body armor. She's wearing a Kevlar helmet and she is ready to go and you see her as she just screams, And then we zoom back out and she's just this old woman in an extremely clean studio apartment. And looking around the apartment, there's a children's drawing that's on the fridge. There's a playpen that's pushed neatly into the corner and the toys have all been collected and put away. And Cindy, Cindy Woodabaga, sits down on the toilet and takes a shit and she pulls out her phone and she Googles her own name, Cindy Woodabaga. And all of these Google results come up of the trial.
+1214.60 1227.28 speaker2  the setting of our current campaign.
+1224.76 1261.44 speaker3  in front of her while she's taking a shit. and her eyes narrow as she reads this article about Cindy Woodabaga and she was on trial for murder. She was on trial for murdering her husband. and heads off to this meeting.
+1257.64 1343.08 speaker2  and her partner, Jodine, DEA. She gets a little lost in her memories. I assure you, she's a very effective field agent, one of the best we have. I've worked with her for quite a while now. So, Jodine is dressed a lot like Harlan Nash, except he's in a white polo with cargo pants. It looks like he's recently lost a lot of hair when they're sitting at the table, but if they sat up, Cindy Woodabaga would just tower over him. He says, again, I do wanna apologize for my partner. Sometimes she just goes, you know. It's the analytical investigative mind that makes her such an effective crime fighter. What's happening now is that her, she looked, well, don't look too hard, but look into her eyes.
+1341.58 1350.26 speaker3  This is my first.
+1347.06 1359.86 speaker2  It's, I've been exposed. Me too. What's that mean? Which one?
+1357.74 1365.66 speaker3  That's interesting.
+1364.06 1378.98 speaker2  If you knew Japanese, you would know that it's actually a Chinese symbol that says crab.
+1378.14 1381.74 speaker3  Is that okay? Can we go back to the flashback?
+1380.90 1384.48 speaker2  Sure. Are you fully prepped there, Zach?
+1383.66 1386.66 speaker3  Can you run that? I can roll up a quick character.
+1385.32 1392.38 speaker2  It did sound like he had enough equipment for the rest of us.
+1389.10 1419.62 speaker3  She was on the DEA's FAST team, which is the Foreign Deployed Advisory Support Team, which was paramilitary units in far-flung areas of the world where narcotics are grown and processed. But that was a long time ago, and now she is just a desk jockey with Joe Dean here, but they got pulled into Delta Green about, what, six months ago?
+1417.08 1428.42 speaker2  Also, if you're new to us, can you tell which one, new listeners, is the DM? Pfft.
+1427.58 1567.30 speaker3  Yep. You're in the room. You snapped out of your dust-fueled sunlight trance. This conversation happened. The two of you that know each other, great. You've also met the two new folks that are here as well. Behind your chairs, you all have bags. You just flew in this morning. This is the FBI field office in Memphis, Tennessee, and you were summoned here by an FBI agent, James Derringer. You checked in. This is, again, all pre-9-11, right? So security, pretty lax. You showed up, you flashed some random ID, they give you a visitor badge, and you were just strolling around an FBI field office. And you went to this room, but you've been waiting for a while, and waiting, and waiting, and waiting. And eventually, what seems like could have been over an hour of waiting for this guy, he finally busts into the room in a hurry. You see this man, relatively tall, lean, and with very deep set eyes. And as he walks in, there's just a grimace on his face. Yeah, that's the problem. he's not sipping a pumpkin spice latte, wearing Uggs or anything else. I mean, they're... Thanks for finally making it. I've got something that I need to keep off the FBI, say, radar for a bit. And I think your unique backgrounds probably can help. Before I get too much into it, let me just show you. So he rolls over a TV on a cart, one of those big CRT, 30-inch TVs that probably weighs 80 pounds back then, cart with a strap over the top, kind of reels that over, there's a VCR. Agent Dean immediately runs over are we gonna watch some Magic School Bus, you think?
+1566.14 1573.10 speaker2  Do you think so?
+1572.06 1684.90 speaker3  Hits play. Security footage starts playing at a gas station, it looks like. It's just one of those overhead cameras kind of angled at the cashier. And cashier's just there kind of standing, chilling, organizing some stuff. And a young man approaches the counter looking agitated. He says something to the cashier. The cashier says something back. You can't hear anything because there's no audio. This is crappy, low resolution, constantly looping security footage. But he says something and then the cashier just stares at him very blankly, like not quite understanding what he's saying. Then you see the young man wind up with his fist, just like a normal punch, going to punch this guy in the head. He makes contact, but you can see from the impact, the guy's head almost deflates. His skull instantly shatters. And as the punch continues to connect, the head gets knocked cleanly off the body. Holy shit. So skull crushed, head pops off, head hits the back wall, flops down. The body's kind of there stumbling a bit, blood squirting out of the stump, if you will, that is his neck. And then the body just falls and collapses. The young man steps back with a look of shock. And then steps forward, hits some keys on the cash register, pulls out all the cash he can, runs off screen. Then you see him come back into frame, basically as he's walking out of the gas station with a bunch of pill bottles. Money in one hand, pill bottles in his arms, and then rushes off camera, presumably leaving the scene. And that's actually gonna give us our first roll of the evening. Roll me some sanity for that neck you just saw. That was intense.
+1683.18 1703.10 speaker2  but Jodine still definitely vomits on the conference room floor. but all you failures, one point of sanity damage.
+1701.62 1795.10 speaker3  It's like, ah, rookie. I guess we all gotta start somewhere, but we got pulled into this. He held up six gas stations and drugstores in the last two weeks. First here in Tennessee, then he crossed state lines, bringing us into it, into Alabama, then Georgia. We eventually got him, took some bullets, but we managed to get him, and we have him here. He's downstairs and holding. He's alive. Took four MP5 bullets. And that slowed him down just enough for us to restrain him. Center mass or? Yes, four center mass bullets. We got him. We got agents downstairs watching him. Let me warn you, first and foremost, not everyone here is your friend. Those agents down there in the room with them, they're not part of this. So be careful what you say in front of them. The cover story is this kid went on a crime spree because something went south with some drug dealers he was dealing with. but that's how we can get DEA agents, a marshal, someone who's good at tracking and investigating, ATF agent as well. But the whole point is you're keeping this off the FBI's radar. You've got about a week. Be careful calling me here. If I have anything for you, I will send you a courier. I'll send someone out to you with any message, but we're gonna need a password, a secret phrase, if you will. Any suggestions? Bubble gum tree? Bubble gum tree it is.
+1794.26 1805.98 speaker2  ESPN. I don't miss much college football anymore.
+1804.54 1814.14 speaker3  if you wanna check this guy out. Do you have any questions for me now though, before we go in front of those guards and stuff?
+1810.82 1822.26 speaker2  Has anybody seen this footage other than you and us? So the agents downstairs, they don't know about
+1820.22 1857.62 speaker3  Oh no, they know he's dangerous. In fact, the three agents downstairs were part of who apprehended him. It was basically a roadblock in Georgia when we finally stopped him. He had stolen a car. We managed to spike strip the car down, got him out of the car. Several FBI agents plus a state trooper shot at him. That's when they finally got him. But before they even got those four bullets into him, he got to a trooper, grabbed his shotgun and was able to basically bend it in half. So these guys have seen his strength.
+1856.70 1860.06 speaker2  That's what you're telling me? Yeah.
+1858.46 1861.94 speaker3  They know if he gets out of his restraints,
+1861.10 1870.62 speaker2  Well, we can see- Well, sorry. It was a little delay. No, I just missed it.
+1869.78 1874.78 speaker3  Yeah, sorry. You're getting very hyped.
+1871.46 1884.66 speaker2  I can't stop fiddling with this cables. How many heads did he pop off? It all started with his dad actually.
+1883.10 1937.62 speaker3  This was eight days ago. Boy went missing, showed back up two days later, no clue where he was. He was in a lot of pain. Parents put him to bed. went to check on him, touched him on the shoulder, asked him if he was okay. Boy turns around, punches him right through the chest, blows a hole about a foot wide right through the center of his chest, dies instantly. That's when the crime spree started. His name's Billy Ray Spivey. Just graduated from high school. Recently applied for a job at the local Saturn Auto plant about an hour south of his town. Child of Rich and Angel Spivey.
+1936.78 1940.90 speaker2  PZP? We're running tests.
+1938.46 1957.78 speaker3  Who's gonna have access to those blood results? Just me to start. Let's probably keep it that way for a minute. Yeah. To answer your other question, no drugs. No drugs in his system. Outside of the stuff he'd been stealing. He'd been stealing pain meds at a lot of these pharmacies. Was he taking them or trying to sell them?
+1956.30 1962.22 speaker2  Taking them. A lot of them. Did he have a previous criminal record?
+1961.26 1989.52 speaker3  No record at all. No record at all. That's why it doesn't make much sense. Town he's from, Groversville, small town, 1200 people. Itty bitty tiny town. Not much crime there. Even this whole drug angle's gonna look kinda weak there. But it's what we gotta go with a lot better than people running around with superhuman strength punching people's heads off. Generally the public doesn't like that.
+1986.38 2011.18 speaker2  I did a little public relations. We've got folks pretty well terrified of methamphetamine. I think we can say this is some kinda strange super myth my partner and I are investigating. Especially if the blood results stay between the three of us. Well, and these two. No, we're running all sorts of tests.
+2009.50 2030.30 speaker3  How do you have him restrained? various chains. He looks basically like a mummy wrapped into that chair with metal. That boy wakes up fully.
+2028.06 2035.82 speaker2  Well we better get to him quick then.
+2034.28 2053.70 speaker3  He takes you to an elevator. You're on like the second or third floor now. You go down, ground floor, basement, That's like the secure, secure part of the building. That's where 15 years from now, where all the servers will be
+2051.54 2062.94 speaker2  Right now that's presumably where they keep all the weapons
+2060.22 2119.02 speaker3  He leads you into a room though, heavy steel door. You walk inside and it's exactly what he described, which is the chair, guy bolted down into it, and then three guys with assault rifles pointed directly at him. They're body armored up, a SWAT team basically, trained on this guy. And he's there, just in his chair, kind of loopy. Do any of you have medicine over 20? Nope. Nope. Yes. Yep. Great. With the Humint over 40, a little bloodshot, and he's just kind of rocking back and forth in the chair. He thought that he learned something new
+2117.10 2125.46 speaker2  He murdered people. Can you fucking imagine? He did it.
+2123.38 2128.46 speaker3  Yeah, but if he was gone, missing for a while,
+2127.26 2157.62 speaker2  when he did all that stuff. I forgot you got shot four times. That probably doesn't feel too good, does it?
+2152.62 2183.70 speaker3  No, my arms, my legs, everything hurts. I don't know. You fucking tell me right now, where were you? I don't know where I was and then I came back
+2182.82 2195.10 speaker2  Because you hurt? You know what from? Are you sick?
+2193.42 2198.82 speaker3  I just want the pain to stop.
+2196.78 2209.42 speaker2  and get real close to his face. Can you remember the last thing you remember before you don't remember?
+2208.26 2218.82 speaker3  Lights.
+2216.70 2260.94 speaker2  but could you describe where you were? Maybe we should get Jane on the phone She misses you and she wants to talk to you, but we can't really let that happen unless, unless you really fully answer all our questions.
+2258.18 2275.10 speaker3  leading up to you disappearing? I don't think so. No, I applied for a job. Yeah, the sat, I just wanted to build cars like my daddy.
+2273.50 2281.34 speaker2  Where did your daddy build cars?
+2280.02 2283.18 speaker3  Just like my daddy.
+2281.38 2326.18 speaker2  So you went there and applied in person? Yes. Which is of course the only way to do it right now. Hey, that's not necessary. Hey, sorry, I just thought it would, I don't feel sorry for this guy.
+2325.18 2329.58 speaker3  I follow.
+2328.74 2330.42 speaker2  Tan.
+2329.58 2339.94 speaker3  Yeah, Tanner.
+2339.10 2375.62 speaker2  so- I ain't never seen punched in the heads off or nothing. Mostly, you know, alcohol, tobacco, and firearms, really. I'm sure at no time in the near future will the ATF get involved in anything hairier than that. Uh-oh, uh-oh. yeah, yeah, well, you don't have to say it. You know about the stuff, right, the spooky stuff?
+2374.66 2381.66 speaker1  I'm aware. Yeah, yeah, yeah, it's kind of scary.
+2380.18 2418.86 speaker2  through his daddy's chest and then a cashier's head clean off, is that normal to you or is that spooky? figure out why it's happening, and keep it fucking quiet from all the people who don't know about the spooky shit. for punching a hole in his daddy or not. When you're investigating a perp, you gotta use advanced psychology to make him think you're on his side or sometimes threaten him.
+2417.26 2448.50 speaker3  Is that your speech impediment or your name? No, my name is W, Rutabaga. which is like a purse that she has a bunch of random stuff in. She grabs a cardigan out of it and some cheaters. She throws the cardigan on over her blouse, covering up all of her tattoos, and throws on these little gas station glasses with a long chain on them. Yeah, cheaters.
+2447.66 2450.78 speaker2  Just magnified glasses?
+2448.50 2478.48 speaker3  Yeah, but they're not like, they're not real glasses, they're not prescription, they're just cheaters. She puts on this get up with her reading glasses, with a much different demeanor. I just wanted to talk to you, Billy Ray, for just a moment.
+2475.36 2491.32 speaker2  I'm like, as crazy as this seems, I seen it work. Especially with a sedated boy like this, he's probably not gonna know it's the same lady.
+2489.44 2533.76 speaker3  Yeah, that's right. But you're dead. And she pinches both of his cheeks lovingly, just like very soft, in a comfortable way. This isn't weird.
+2532.92 2540.76 speaker2  Good. Good.
+2538.16 2576.44 speaker3  in order to hopefully just gain one more pertinent piece of information here. Give me a persuade roll with that. Okay. 35 on a 60. All right, great. Tiny little cuts everywhere. My legs, my arms, everywhere where it hurts, cuts.
+2573.28 2589.22 speaker2  Give me a search roll. Yeah, 42 on a 70.
+2588.38 2595.08 speaker3  Great.
+2593.08 2611.12 speaker2  she was like turning back toward them
+2608.76 2654.54 speaker3  And you're, yeah, you're just like looking at his wrists in his ankles and everything. He's wearing a pair of a jean cut off shorts, old beat up Chuck Taylors and a even more beat up Metallica t-shirt. But yeah, you look closely, especially Joe Dean with that crit success. You see the tiniest of incisions. They look almost like a relatively large needle poke that has been kind of healed over, almost laser like. Randomly spaced out all along his arms, all along his legs. Basically when you look very, very, very closely, they look almost like hair follicles.
+2651.86 2658.42 speaker2  Can we pull back his collar on his shirt
+2657.10 2695.14 speaker3  His pussy and his crack. The answer is yes. Yeah, all over him. Basically anywhere there's musculature on his body, They're a little more concentrated in areas of heavy muscle like around his calves and thighs, biceps, and then a little less so in other areas like his hands,
+2692.12 2703.92 speaker2  and he wants to grab James Derringer
+2701.78 2730.68 speaker3  because you still are in the hallway of an FBI building and wants to make sure no one is around. We took tissue samples though. Took tissue samples. They've already been sent to a lab. I'll make sure to get the results. I will send someone with the results once I have them, but it could be a couple of days.
+2726.44 2737.52 speaker2  was the rate of healing consistent with an eight day period?
+2734.60 2761.80 speaker3  but as far as we can tell from the tests we've done, his skeleton's been unchanged. It's only his muscle. We think the superhuman strength, if he were to say, try to pick up a car, he probably could, but then his bones would snap under the weight. So we think that's the limits of this boy's ability. That's all we know now though. We're gonna wait for the tests.
+2759.72 2764.80 speaker2  as soon as those results come in.
+2761.80 2774.00 speaker3  Of course, you're my eyes and ears on the ground. Joe Dean steps out in the hallway too.
+2769.12 2789.28 speaker2  Anyway, he says, is there a friendly doctor in town? Is there someone you could get into this sub-basement who could be trusted that could run some more expediated, perhaps radical tests?
+2786.40 2801.68 speaker3  I have a friendly doctor on the case though. I'm not even leaving it to chance of some Miranda running these tests. That's part of why it's gonna take a little longer is I want fewer eyes on this.
+2799.56 2841.74 speaker2  with some tweezers and a magnifying glass and just dug around one of those injection sites and saw what we could see? See if we couldn't pull anything out? Also quickly gets caught up. Tan, here's the rundown. Oh, thanks. Like try to put him at ease. Is he, he's on him right now? and they ain't helping him.
+2840.48 2849.20 speaker1  to dig around in there then.
+2846.22 2863.34 speaker2  I don't know that digging around is necessary. We've already, they've taken tissue samples. I assume you would have said if you found something in those samples, correct? They've taken tissue samples and they're gonna get all the results in a couple of days, right?
+2862.24 2866.82 speaker1  I mean, they would have told us
+2865.18 2881.90 speaker2  There's only one way to find out. and faxes, perhaps even hand sent letters to.
+2878.02 2884.34 speaker3  for consent to operate on him in the basement or? Oh, no, no, no, none of that.
+2883.50 2887.12 speaker2  I just meant.
+2885.58 2890.22 speaker3  Yeah, so Joe's question is
+2888.42 2901.44 speaker2  Did they find anything in those sites? So we don't know yet. But we're not gonna know that for a while, right? It's muscle tissue.
+2898.50 2907.92 speaker3  but yeah, you're not gonna know for a couple of days.
+2904.56 2922.28 speaker2  I'm just asking how they would have seen as much of that as you would in this moment, right? Is that information included in that report that you have so far?
+2918.76 2941.12 speaker3  However, if you want to dig around in the wounds of an incredibly dangerous multi-state killer. Yeah, it's on the table. We could go digging. It's your funeral, as they say.
+2939.68 2954.16 speaker2  You know, sometimes you get the genius of the grandma routine, and sometimes it's just shit like that. That's why I'm doing great.
+2952.28 2989.60 speaker3  The only other thing you need to know, he's not the only one that's reported going missing in Grover'sville. about this happening to some of his friends and stuff. It's strange. It's a weird town, to be honest. Small town, 1200 people. It's the butt end of a lot of UFO conspiracy jokes. You know, shows up in the tabloids.
+2988.04 2990.44 speaker2  And what is the name of that town again?
+2989.60 2996.92 speaker3  Grover'sville. Grover'sville.
+2994.52 3002.32 speaker2  what does that date back to?
+2999.04 3021.36 speaker3  You know, it's just random crackpot stories, moronic ideas. Place is just the butt end of regional and even national news headlines. You like that term butt end.
+3019.56 3023.84 speaker2  he knows that got disappeared too?
+3022.44 3035.52 speaker3  He's worried about his girlfriend.
+3031.80 3082.00 speaker2  or a telephone that I can call Jane on? I wish we had the government funding Well, the DEA car, we came down in here and it does have a car phone. Well, there was definitely some pork, some graft in our budget this year. It can fly.
+3080.92 3106.68 speaker3  if you're interested. but we leave the scene in the Bronco.
+3104.56 3118.16 speaker2  The DEA car can drive itself. and also it's kit from that driver.
+3117.04 3171.94 speaker3  So what do you want to do? So Cindy Woodabaga is still just like pinching cheeks, rubbing face of this Billy Ray Spivey. And after she gets all the pertinent information that she thinks she's attained from him, her face quickly changes back to the hardened face your grandpappy was a. She's trying to get like any pull on his mental state. I'd like to look into Zach's eyes Much like me, Billy Ray just looks really confused right now.
+3168.78 3178.14 speaker2  Basically I took the thing in Delta Green Creation
+3173.86 3193.64 speaker3  and hers is that she is just like drawn to making people as uncomfortable as possible. Good disorder, very on brand. Yes. Okay, cool.
+3191.52 3200.64 speaker2  I have a crippling gambling addiction.
+3198.62 3211.64 speaker3  I just do it all the time and I like it a lot.
+3209.80 3220.28 speaker2  see what, or maybe we should just, does she live in in Grover's Ville?
+3216.36 3223.20 speaker1  I agree that we should probably make way for Grover's Ville.
+3221.28 3227.00 speaker2  Make way for Grover's Ville. Toot, toot.
+3225.34 3232.64 speaker3  You're taking the DEA car and you're taking the White Ford Bronco?
+3230.08 3262.20 speaker2  and then the DEA car will meet us there. Driving stuff. Let's just keep pushing this bit until it's a mechanic you can't take away from us.
+3259.28 3267.18 speaker3  so I'm gonna have to make some tweaks, but.
+3264.04 3301.50 speaker2  Yeah, I'll drive the Bronco down and follow the DEA. I'll ride with him. how well do you think you drive? Oh, not even there probably. a lot of these crazy drivers out here operate in no more than 20%. You know, if they didn't specifically read their driver's manual, so.
+3298.46 3308.14 speaker3  I've been saying, you are my ride or drive. So I'm gonna ride you drive.
+3305.32 3309.50 speaker2  or do I like driving?
+3308.14 3311.78 speaker1  If you wanna drive, that's fine.
+3309.50 3329.46 speaker2  I've just got the basic training. Oh yeah, I've been told I'm slightly above average at driving, only a few tickets here and there.
+3326.54 3339.90 speaker3  that if base drive is 20, just statistically, you're gonna have a lot of fails and a lot of fumbles on a regular basis, so yeah. It does explain a lot of things in real life.
+3336.82 3358.82 speaker2  When I get in the Bronco, I check in the glove compartment for some driving gloves and I try to put them on, but they don't fit. Instead, you'll find a super advanced car computer. I know.
+3354.34 3373.14 speaker3  The car stereo in the Bronco, it's got pretty good lows, but how are the highs, man?
+3370.54 3377.82 speaker1  I wish I could get an orange juice box.
+3375.26 3381.38 speaker2  after brutally murdering my wife and this baby.
+3377.82 3388.94 speaker3  Or in thaw of us need to calm down so we can keep going.
+3387.66 3401.58 speaker2  I don't get any of this. I believe that to be true. I made the glove gym. Have you not seen The Simpsons? No, never have. I'm pretty sure that's what it is.
+3399.86 3407.04 speaker3  I was born in 93.
+3404.18 3414.08 speaker2  so they don't realize things like smartphones
+3411.92 3433.12 speaker3  You mean they talk to people without video at the same time? It's like young children today that are like, why are you putting the phone up to your ear? That doesn't make any sense. Why would someone do that? Are you stupid? You're going to block the camera. I don't want to look at you
+3431.76 3456.76 speaker2  that need to be asked rapidly Exactly. We're in separate cars.
+3453.52 3477.80 speaker3  So Memphis is Southwest in the state. You're basically driving up through Nashville, going to kind of the East side of central Tennessee. Groversville is the county seat of Grover County, Tennessee. It's largely rural, a little bit of agriculture, not a heck of a lot because there's only a 1200 person town. However, there's a lot more here
+3474.52 3481.86 speaker2  than there would be otherwise because it is the county seat.
+3479.68 3570.86 speaker3  the county courthouses here, but really at the center of town, it's an intersection of two streets, one single blinking red light in the middle. That is the only traffic light even in town. There's not even a standard red, yellow, and green light. This town is so small. kind of nearby, you have a small combo sheriff station, part-time ambulance and largely volunteer fire department, a town library, a post office, an auto and body shop, and a pair of local banks. A little further out, more standard stuff. Grocery store, hardware store, pharmacy, a family video, pair of churches, 24 hour diner and ice cream shop called the Mega Deuce. And then further out in town, you have a pair of unbranded gas stations, a bowling alley, a Dollar General, an auto zone, a bar called Murrells County Bunker, and then the place where you'll be staying, Murrell's Shut Eye, a 12 room motel. And someday if they're lucky, they'll actually get fast food or a real restaurant in this town. What was the ice cream shop there? The Mega Deuce. That's their slogan. One Mega Deuce, one Mega Deuce, and you'll be making a Mega Deuce. That's just good marketing.
+3568.82 3576.56 speaker2  Come on down to the shit hole.
+3573.10 3621.52 speaker3  you're given the name of the sheriff before you left, his name is Dan Oakley, as in the sunglasses. You called ahead and you had booked rooms in advance at Murrell's Shut Eye, the motel, whenever you needed. Getting late though on the first day, first night getting into town. Where do you wanna go? I'm so deeply sorry, I'm about to piss my pants, I've been holding it for like 30 minutes. Back in like literally 20 seconds. Yeah.
+3620.00 3637.92 speaker2  Oh, he did it. Oh, that's a lot. Why is it so sticky? but I don't, I think maybe if we just drop in, she's probably not doing anything, there's not much to do around here.
+3635.56 3645.08 speaker1  There was the possibility that she was missing,
+3641.06 3660.32 speaker2  that inflict you with super strength, but endless pain. Well, hopefully that's not the case. I hope so too, Tan. Vroom, vroom, vroom. maybe at the motel? Merle's Shudai. Merle's Shudai.
+3657.98 3665.40 speaker3  I'll hop in the DEA car if we wanna take one.
+3662.72 3666.44 speaker2  It's a nice early 90s sedan.
+3665.40 3673.36 speaker3  Yep, I got it. It is a 1992 Crown Victoria LX.
+3671.92 3676.48 speaker2  Nice. Nice.
+3675.64 3704.04 speaker3  Burgundy. Burgundy 1992 generation one Crown Vic, and then your 1992 Ford Bronco XLT. Very lovely. Yeah, those are your two cars. All right, you're gonna take the Crown Vic. You're gonna go to the Allen household. Jane Allen's house. You're not calling. You're driving there, correct? Just going, showing up.
+3702.06 3711.00 speaker1  just to be in good graces with the locals.
+3709.10 3729.12 speaker2  I mean, there's definitely an advantage to the element of surprise. I don't know if it's on this high school girl. She seems like probably just another victim at this point, unless she's abducting people, taking them out to the woods, operating on them with supernatural light surgery and releasing them as pain monsters.
+3726.44 3734.56 speaker3  Well, I think we have our primary suspect, so let's go find her and kill her.
+3733.24 3738.88 speaker2  the more I'm talking to myself into it. We should bust that door down.
+3737.28 3755.22 speaker1  I mean, we could do it in character or out of character, but I think Harlan's point to visiting Jane was because he went missing when he was going to her house. what he had been doing that day, but also I kind of wanted to know where the kids hang out in town. Yeah, totally.
+3754.38 3756.88 speaker3  Jane Alien. Ooh.
+3756.04 3763.56 speaker2  It's right there. It's up to you guys. Well, let's go talk to Jane
+3761.52 3769.08 speaker1  and then we can swing by the Sheriff's office.
+3768.24 3777.38 speaker2  and you're right. If we need to hide any of the, you know, it's not called Delta Green yet, right? Or it is? It is.
+3775.34 3787.78 speaker3  But it's a little more underground and cell-based and whatnot. Presumably you all are from a particular cell, the two of you?
+3786.62 3794.26 speaker2  lore-wise. Does somebody else want to say it out loud first?
+3792.42 3802.84 speaker3  Cindy Woodabaga is Agent Nan.
+3799.46 3821.28 speaker2  Yeah, Ncell, which isn't a funny word in the early 90s. Not yet. It's not a funny word now. It's a dangerous, poor, random hole. Yeah.
+3820.08 3836.06 speaker3  Or they just skip that one. There's only 25 cells. It's like skipping the 13th floor on elevators and stuff.
+3833.88 3842.08 speaker2  instead of N cell for Nashville?
+3841.12 3883.40 speaker3  outside of town. It's a slightly nicer house than many of the others, about a mile outside of town. Again, it's a small town, so that only takes a couple of minutes. You roll up to a nicer two-story house, well-manicured lawn, couple cars in the driveway. Definitely looks a lot nicer than a lot of the other houses that you've driven by on the way out here. Quite possibly. You tap on your microphone loudly.
+3882.36 3912.24 speaker2  You are an enigma, Agent Dan. Yeah, I'd knock on the door and ring the doorbell.
+3909.80 3921.76 speaker3  Jane Allen, might have been involved and we would like to speak to her. I'm sorry, I-
+3920.92 3952.44 speaker2  Where is she? When was the last time you saw her? Nancy Allen.
+3949.52 3966.28 speaker3  No, she's come back. He's, you know, it's just me here.
+3964.52 3975.94 speaker2  that she would disappear. It's not usual for her to do that
+3974.94 3978.90 speaker3  I'll do that also.
+3978.06 3980.56 speaker2  89.
+3979.72 3981.82 speaker1  Fuck, I fail also.
+3980.56 3993.46 speaker2  Hold on. So I get on a 60. 39 on a 60.
+3990.38 4038.86 speaker3  and is pretty forthcoming and honest and doesn't actually seem to be that concerned at all. The rest of you can't get a good read. Has this ever happened before? People just, they go places and they come back.
+4036.78 4045.02 speaker1  For the third time, no. Nancy.
+4043.26 4053.90 speaker2  It's just such a weird story. Like, I feel like I'm getting something wrong here.
+4052.58 4059.58 speaker3  about your daughter.
+4058.46 4061.74 speaker2  I'm a cool mom. Oh yeah.
+4060.42 4067.10 speaker3  I'm a very cool mom.
+4064.70 4088.58 speaker2  Yeah, I had to really pull myself through. Well, you know, like I had to get myself to high school and then pay for my own college and everything. Cool mom isn't always so cool at the end of the day. You know what I mean? Is that some sort of thing they do in like the Northeast? Are you from up in Pennsylvania maybe
+4086.10 4100.90 speaker3  and you were trying out like the parenting technique, some sort of Philadelphia experiment or something?
+4100.06 4109.94 speaker2  Expand on that. Yes.
+4109.10 4114.94 speaker3  Inbred. Rewind that and listen again.
+4112.62 4124.34 speaker2  For those of you playing along at home.
+4122.70 4133.12 speaker3  No, he's just at work. Where does he work? Just so busy. Work, work, work. What is his name?
+4132.30 4137.54 speaker2  Allen. Allen.
+4135.98 4139.62 speaker3  It's Bradley Allen.
+4137.54 4146.14 speaker2  Maybe we ought to go talk to him.
+4144.26 4149.02 speaker1  for an extended period of time at this point?
+4148.02 4178.54 speaker3  He's been working real hard. Yeah, you seem pretty chill. Sure. Maybe she has like some letters that she's written from her. Sure. She is going to walk you all upstairs.
+4175.78 4190.14 speaker1  Can I get a sense of which one Jane looks like?
+4189.10 4236.88 speaker3  One of those people with almost like uniformly colored skin tone, just like kind of this off-white eggshellish almost color. Oddly, in all the photos, she has almost identically the same smile. She's one of those people that whenever they smile, it's exact same look every single photo. Zach, Zach same. I liked it. Every time. It was good. It was good. is looking particularly good in a family photo.
+4236.04 4246.44 speaker2  Thank you. Sometimes it works.
+4245.60 4260.46 speaker1  Ever done it? I killed my daughter in this dress, yeah.
+4259.62 4266.42 speaker2  Is anything missing from her room? Any clothes or nothing?
+4265.34 4271.92 speaker3  One more question about her.
+4269.42 4280.66 speaker2  Or has she been wearing these clothes for like three weeks? I take care of herself.
+4277.10 4292.32 speaker3  Jane Allen's room, bed made, window open. It's not sunny anymore cause it's later in the day, but it looks like a freshly cleaned kids room.
+4291.48 4295.60 speaker1  Exactly.
+4294.48 4310.20 speaker3  and then just left. You want to give me those search roles? Yeah.
+4308.36 4316.24 speaker1  Critical success.
+4314.72 4415.06 speaker3  There's nothing really out of place as far as clothes or anything else goes. Her desk is there. It's September. She just started her senior year of high school. So you see kind of her freshly purchased books and other material, but she's been gone for three weeks basically since like the start of the semester. But with that critical success, you find a business card on that desk on top of the books. And that business card says Scott Adams, And it has an email address. And the email address is watchtheskies at aol.com.
+4411.98 4534.98 speaker1  ["I Can't Get High"] ["I Can't Get High"] ["I Can't Get High"] ["I Can't Get High"]

@@ -1,0 +1,4840 @@
+1
+00:00:00,000 --> 00:00:02,160
+Welcome, my brood.
+
+2
+00:00:02,160 --> 00:00:06,400
+It is I, Wolf the Dog, DJ of the Year,
+
+3
+00:00:06,400 --> 00:00:10,320
+and I set upon many eggs to birth all of you
+
+4
+00:00:10,320 --> 00:00:14,840
+so that you may be my lifelong loyal listeners.
+
+5
+00:00:14,840 --> 00:00:17,220
+I think, maybe that was a dream.
+
+6
+00:00:17,220 --> 00:00:20,560
+Ever since I started eating grease too close to Betty
+
+7
+00:00:20,560 --> 00:00:25,200
+by time, I've been dreaming up all kinds of crazy shit.
+
+8
+00:00:25,200 --> 00:00:28,920
+And oh yeah, I'm the host of this here radio show.
+
+9
+00:00:28,920 --> 00:00:33,920
+Y'all find yourselves tuned into 694.2 PTBP.
+
+10
+00:00:35,440 --> 00:00:39,560
+All I ask from my hatchlings is for a little love,
+
+11
+00:00:39,560 --> 00:00:43,960
+maybe a little forehead kiss, or some fan mail.
+
+12
+00:00:43,960 --> 00:00:48,080
+And hey, would you look at what we got here, y'all?
+
+13
+00:00:48,080 --> 00:00:51,160
+This episode's Howlin' with Wolf is from Eric
+
+14
+00:00:51,160 --> 00:00:53,680
+in Jersey City, New Jersey,
+
+15
+00:00:53,680 --> 00:00:56,840
+who tagged at Pretending Pod on the internet.
+
+16
+00:00:56,880 --> 00:00:59,640
+Well done, my good and faithful Eric
+
+17
+00:00:59,640 --> 00:01:03,120
+in Jersey City, New Jersey, Eric writes.
+
+18
+00:01:03,120 --> 00:01:06,560
+Looking for a little more spookiness in your life?
+
+19
+00:01:06,560 --> 00:01:09,720
+Check out The Nature of My Game podcast,
+
+20
+00:01:09,720 --> 00:01:13,400
+a story-focused actual play of investigation,
+
+21
+00:01:13,400 --> 00:01:15,600
+strangeness, and fear.
+
+22
+00:01:15,600 --> 00:01:20,600
+Each season of the show features a new horror-themed RPG,
+
+23
+00:01:20,920 --> 00:01:24,020
+a new cast, and a new story.
+
+24
+00:01:24,020 --> 00:01:29,020
+And soon, we'll be kicking off a Yellow King RPG campaign,
+
+25
+00:01:29,140 --> 00:01:32,540
+playing the yet-to-be-released Casilda song
+
+26
+00:01:32,540 --> 00:01:34,560
+from Pelgrain Press.
+
+27
+00:01:34,560 --> 00:01:36,860
+Listen to The Nature of My Game
+
+28
+00:01:36,860 --> 00:01:39,380
+wherever you get your podcasts,
+
+29
+00:01:39,380 --> 00:01:44,180
+and a huge thanks to PTBP for the inspiration.
+
+30
+00:01:44,180 --> 00:01:48,540
+Well, New Jersey Eric, I'm glad that my radio show
+
+31
+00:01:48,540 --> 00:01:51,180
+could be of inspiration to ya,
+
+32
+00:01:51,180 --> 00:01:54,700
+although I'm not too sure what a RPG is
+
+33
+00:01:54,700 --> 00:01:57,500
+or what an actual play is.
+
+34
+00:01:57,500 --> 00:02:00,480
+Are there theoretical play podcasts?
+
+35
+00:02:00,480 --> 00:02:02,820
+Damn, metaphysical ones.
+
+36
+00:02:02,820 --> 00:02:06,240
+I gotta start listening to these damn things someday.
+
+37
+00:02:06,240 --> 00:02:09,540
+If you wanna write up something for your wolf to howl,
+
+38
+00:02:09,540 --> 00:02:12,860
+just tag at Pretending Pod on the internet
+
+39
+00:02:12,860 --> 00:02:16,620
+or write up a five-star review and make sure I seize it.
+
+40
+00:02:16,620 --> 00:02:18,900
+Heck, if you write up a five-star review
+
+41
+00:02:18,900 --> 00:02:21,660
+and you title that bad boy howling with wolf
+
+42
+00:02:21,660 --> 00:02:23,420
+or something to that effect,
+
+43
+00:02:23,420 --> 00:02:27,260
+I might even just read your review right here on air.
+
+44
+00:02:27,260 --> 00:02:29,580
+And speaking of airwaves,
+
+45
+00:02:29,580 --> 00:02:33,940
+we have a privileged, confidential RSS feed
+
+46
+00:02:33,940 --> 00:02:35,500
+that you can get access to
+
+47
+00:02:35,500 --> 00:02:38,040
+by supporting this show financially
+
+48
+00:02:38,040 --> 00:02:41,480
+at patreon.com slash Pretending Pod.
+
+49
+00:02:41,480 --> 00:02:44,800
+It's basically like having a tin can on a string
+
+50
+00:02:44,800 --> 00:02:47,260
+coming into the window of your bedroom,
+
+51
+00:02:47,260 --> 00:02:50,780
+and that string is strung all the way over to me
+
+52
+00:02:50,780 --> 00:02:53,400
+here in my current studio,
+
+53
+00:02:53,400 --> 00:02:56,500
+and it's not attached to a tin can on my end.
+
+54
+00:02:56,500 --> 00:02:58,340
+Ha ha ha, no way.
+
+55
+00:02:58,340 --> 00:03:00,300
+It's attached to my soul,
+
+56
+00:03:00,300 --> 00:03:03,060
+and my greedy soul needs feeding,
+
+57
+00:03:03,060 --> 00:03:07,120
+so heed my reprieve and hop on that secret feed,
+
+58
+00:03:07,120 --> 00:03:09,500
+and you will receive, I kid you not,
+
+59
+00:03:09,500 --> 00:03:13,660
+47 bonus episodes for just five bucks.
+
+60
+00:03:13,660 --> 00:03:18,020
+That's like less than a dime and a penny per bonus episode,
+
+61
+00:03:18,020 --> 00:03:19,680
+and the most recent ones
+
+62
+00:03:19,680 --> 00:03:23,060
+are a side-splittingly goofy two-parter
+
+63
+00:03:23,060 --> 00:03:27,100
+of the boys playing a mad gab-style party RPG
+
+64
+00:03:27,100 --> 00:03:29,140
+called The People and Patrick,
+
+65
+00:03:29,140 --> 00:03:31,900
+wherein they played little alien guys
+
+66
+00:03:31,900 --> 00:03:36,740
+inside a human Jaeger just trying to fit into society.
+
+67
+00:03:36,740 --> 00:03:38,740
+And not only do you get access
+
+68
+00:03:38,740 --> 00:03:42,500
+to that thick bonus feed of 47 episodes
+
+69
+00:03:42,500 --> 00:03:43,860
+you ain't heard yet,
+
+70
+00:03:43,860 --> 00:03:46,500
+you also get the satisfaction of knowing
+
+71
+00:03:46,500 --> 00:03:49,620
+that you support the dudes who make this show happen,
+
+72
+00:03:49,620 --> 00:03:53,060
+like me, Wolf the Dog, and my producer,
+
+73
+00:03:53,060 --> 00:03:58,060
+and some guys named Tim, John, Luis, and Zarch,
+
+74
+00:03:58,460 --> 00:03:59,860
+and that's pretty neat.
+
+75
+00:03:59,860 --> 00:04:02,060
+Oh, you don't have to type out
+
+76
+00:04:02,060 --> 00:04:05,380
+HTTPS semicolon slash slash
+
+77
+00:04:05,380 --> 00:04:09,940
+www.patreon.com slash pretending pod.
+
+78
+00:04:09,940 --> 00:04:13,740
+That's fine, because the links are in the show notes.
+
+79
+00:04:13,740 --> 00:04:16,900
+I gave up measuring time in SI.
+
+80
+00:04:16,900 --> 00:04:19,140
+That's a non-sec-quitter,
+
+81
+00:04:19,140 --> 00:04:22,780
+but that don't mean it ain't time for the news.
+
+82
+00:04:22,780 --> 00:04:26,660
+Last time, the can crew had a difficult conversation
+
+83
+00:04:26,660 --> 00:04:29,860
+with Kaylee Silver, difficult due to the presence
+
+84
+00:04:29,860 --> 00:04:32,700
+of the bagged waxy substance they carried,
+
+85
+00:04:32,700 --> 00:04:36,820
+but Kaylee did tell them her best friend, Kaylee Gold,
+
+86
+00:04:36,820 --> 00:04:39,060
+had gotten partially inside her
+
+87
+00:04:39,060 --> 00:04:42,180
+after Silver took a swig of a new beer
+
+88
+00:04:42,180 --> 00:04:45,860
+she had brewed with yeasts from the Godel Company,
+
+89
+00:04:45,860 --> 00:04:50,340
+and that wasn't even the wildest part of last episode.
+
+90
+00:04:50,340 --> 00:04:53,300
+Julius kicked off a jailbreak attempt
+
+91
+00:04:53,300 --> 00:04:55,780
+by breaking his dad's shackles
+
+92
+00:04:55,780 --> 00:05:00,540
+with Dr. Brock Hargrave's unnaturally sharp shovel,
+
+93
+00:05:00,540 --> 00:05:03,540
+and after Burl took down some guards,
+
+94
+00:05:03,540 --> 00:05:06,260
+Julius followed in hot pursuit,
+
+95
+00:05:06,260 --> 00:05:10,060
+taking us now to the moment between Cal Colorado,
+
+96
+00:05:10,060 --> 00:05:12,380
+Stevie, and Beck Wilder,
+
+97
+00:05:12,380 --> 00:05:15,780
+where they decide if they want to follow the summers
+
+98
+00:05:15,780 --> 00:05:18,340
+or bail with their friends in the air.
+
+99
+00:05:18,340 --> 00:05:21,420
+It's Alter Girl with My Life Is Great
+
+100
+00:05:21,420 --> 00:05:23,980
+and It Is All My Fault.
+
+101
+00:05:23,980 --> 00:05:26,980
+My life is all my fault
+
+102
+00:05:26,980 --> 00:05:31,980
+Cause my life is great
+
+103
+00:05:31,980 --> 00:05:33,980
+And it's all mine
+
+104
+00:05:41,980 --> 00:05:45,980
+Cause my life is great
+
+105
+00:05:45,980 --> 00:05:48,980
+And it's all my fault
+
+106
+00:05:53,980 --> 00:05:59,980
+Episode 36, Let's Go
+
+107
+00:05:59,980 --> 00:06:04,980
+Okay Beck, here we are, standing at the precipice.
+
+108
+00:06:04,980 --> 00:06:06,980
+We either follow the green line back,
+
+109
+00:06:06,980 --> 00:06:08,980
+or we follow the bodies.
+
+110
+00:06:08,980 --> 00:06:11,980
+I mean, I think we should follow the bodies.
+
+111
+00:06:11,980 --> 00:06:15,980
+I don't want to be caught
+
+112
+00:06:15,980 --> 00:06:17,980
+without the guys who know what they're doing.
+
+113
+00:06:17,980 --> 00:06:19,980
+Like, this is weird fucking shit,
+
+114
+00:06:19,980 --> 00:06:21,980
+and I think that we should follow the bodies.
+
+115
+00:06:21,980 --> 00:06:22,980
+This is weird fucking shit,
+
+116
+00:06:22,980 --> 00:06:24,980
+and I think that we should follow the guys
+
+117
+00:06:24,980 --> 00:06:26,980
+who know how to handle weird fucking shit.
+
+118
+00:06:26,980 --> 00:06:27,980
+Cal thinks about that,
+
+119
+00:06:27,980 --> 00:06:29,980
+and he doesn't even bring up the news.
+
+120
+00:06:29,980 --> 00:06:33,980
+He realizes, like, you're right, this is real shit.
+
+121
+00:06:33,980 --> 00:06:36,980
+He doesn't have to play act about it.
+
+122
+00:06:36,980 --> 00:06:38,980
+We need to get the fuck out of here.
+
+123
+00:06:38,980 --> 00:06:41,980
+Do keep rolling though, but yes, yeah, you're right.
+
+124
+00:06:41,980 --> 00:06:42,980
+I'm kidding at all.
+
+125
+00:06:42,980 --> 00:06:43,980
+We should get moving.
+
+126
+00:06:43,980 --> 00:06:44,980
+We do. We hustle.
+
+127
+00:06:44,980 --> 00:06:45,980
+Let's go.
+
+128
+00:06:45,980 --> 00:06:46,980
+Let's go, yeah.
+
+129
+00:06:46,980 --> 00:06:48,980
+Oh yeah, did you want any input, Stevie?
+
+130
+00:06:48,980 --> 00:06:49,980
+Nope, absolutely not.
+
+131
+00:06:49,980 --> 00:06:50,980
+I'm down for whatever.
+
+132
+00:06:50,980 --> 00:06:51,980
+We got this.
+
+133
+00:06:51,980 --> 00:06:52,980
+We're not going to take his clothes.
+
+134
+00:06:52,980 --> 00:06:54,980
+That would be making the news.
+
+135
+00:06:54,980 --> 00:06:55,980
+We're not going to do that.
+
+136
+00:06:55,980 --> 00:06:56,980
+We're just running.
+
+137
+00:06:56,980 --> 00:06:57,980
+Yeah, yeah, let's go.
+
+138
+00:06:57,980 --> 00:06:59,980
+And running we shall.
+
+139
+00:07:03,980 --> 00:07:05,980
+Yeah, so you're already at the end of this hallway,
+
+140
+00:07:05,980 --> 00:07:07,980
+so you bust through the next door.
+
+141
+00:07:07,980 --> 00:07:09,980
+Bust through.
+
+142
+00:07:09,980 --> 00:07:11,980
+You probably gently open this next door.
+
+143
+00:07:11,980 --> 00:07:13,980
+Stevie goes and-
+
+144
+00:07:13,980 --> 00:07:14,980
+Use the shovel on that door!
+
+145
+00:07:14,980 --> 00:07:16,980
+Creeps around.
+
+146
+00:07:17,980 --> 00:07:18,980
+They turn.
+
+147
+00:07:18,980 --> 00:07:19,980
+They're like, what?
+
+148
+00:07:19,980 --> 00:07:22,980
+And the shovel goes through the door.
+
+149
+00:07:22,980 --> 00:07:26,980
+Stevie creeps out through the door and opens it gently
+
+150
+00:07:26,980 --> 00:07:30,980
+and sticks her head around the corner and turns back to you,
+
+151
+00:07:30,980 --> 00:07:35,980
+holding one fist in the air and then turning it into two fingers
+
+152
+00:07:35,980 --> 00:07:37,980
+and jutting them forward like, let's go.
+
+153
+00:07:37,980 --> 00:07:38,980
+I look at Gal.
+
+154
+00:07:38,980 --> 00:07:41,980
+Dude, it's like Navy Seal shit.
+
+155
+00:07:41,980 --> 00:07:42,980
+Navy Seal shit.
+
+156
+00:07:42,980 --> 00:07:43,980
+Yeah, that was cool.
+
+157
+00:07:43,980 --> 00:07:48,980
+They keep moving and coming up there is an intersection of the hallway.
+
+158
+00:07:48,980 --> 00:07:51,980
+So you are in a corridor that continues on straight
+
+159
+00:07:51,980 --> 00:07:53,980
+and then tees off at the end,
+
+160
+00:07:53,980 --> 00:07:58,980
+but then there's a hallway that runs through this hallway left and right.
+
+161
+00:07:58,980 --> 00:08:04,980
+And right as you open the door, you all see Julius and Burl Summers.
+
+162
+00:08:04,980 --> 00:08:07,980
+And Burl seemed to be counting.
+
+163
+00:08:07,980 --> 00:08:11,980
+And then you just see Burl grab Julius' shirt collar
+
+164
+00:08:11,980 --> 00:08:15,980
+and then they run together around the corner to the left,
+
+165
+00:08:15,980 --> 00:08:16,980
+15 yards away from you.
+
+166
+00:08:16,980 --> 00:08:18,980
+And sirens are going wild.
+
+167
+00:08:18,980 --> 00:08:21,980
+What did you mean by seems to be counting?
+
+168
+00:08:21,980 --> 00:08:23,980
+Is he using his fingers or is he looking at something?
+
+169
+00:08:23,980 --> 00:08:28,980
+Yeah, using his fingers and counting out loud.
+
+170
+00:08:28,980 --> 00:08:29,980
+Oh, gotcha.
+
+171
+00:08:29,980 --> 00:08:31,980
+Do you think he's got the numbers in him?
+
+172
+00:08:31,980 --> 00:08:33,980
+Oh, Beck, roll grip.
+
+173
+00:08:36,980 --> 00:08:37,980
+Fuck.
+
+174
+00:08:37,980 --> 00:08:38,980
+52.
+
+175
+00:08:38,980 --> 00:08:40,980
+I've rolled a bunch of 50, so I'm retiring these days.
+
+176
+00:08:40,980 --> 00:08:43,980
+Because I said that or because he saw that?
+
+177
+00:08:43,980 --> 00:08:44,980
+Because he saw that.
+
+178
+00:08:44,980 --> 00:08:45,980
+Okay.
+
+179
+00:08:45,980 --> 00:08:48,980
+Beck, you lose one grip and you are almost positive.
+
+180
+00:08:48,980 --> 00:08:51,980
+Then I saw an eight and a three and a C.
+
+181
+00:08:51,980 --> 00:08:54,980
+He held up four fingers on one hand, four fingers on another hand.
+
+182
+00:08:54,980 --> 00:08:56,980
+Then he held up three fingers on one hand,
+
+183
+00:08:56,980 --> 00:08:59,980
+and then he held five fingers on one hand and one finger on the other hand.
+
+184
+00:08:59,980 --> 00:09:02,980
+And you also think maybe he mouthed.
+
+185
+00:09:02,980 --> 00:09:04,980
+And he said, eight, three, six.
+
+186
+00:09:06,980 --> 00:09:07,980
+Okay, okay.
+
+187
+00:09:07,980 --> 00:09:09,980
+I like the first one.
+
+188
+00:09:09,980 --> 00:09:11,980
+That's not super weird.
+
+189
+00:09:11,980 --> 00:09:13,980
+I mean, it's the fucking weirdest.
+
+190
+00:09:13,980 --> 00:09:15,980
+But no, it is weird.
+
+191
+00:09:15,980 --> 00:09:16,980
+Thank you.
+
+192
+00:09:16,980 --> 00:09:17,980
+I'm not.
+
+193
+00:09:22,980 --> 00:09:24,980
+All the eight, three, six stuff is weird.
+
+194
+00:09:24,980 --> 00:09:26,980
+It's not weird that he was saying it necessarily
+
+195
+00:09:26,980 --> 00:09:29,980
+because he's the guy who takes care of weird stuff.
+
+196
+00:09:29,980 --> 00:09:31,980
+And so Julius told him about it.
+
+197
+00:09:31,980 --> 00:09:34,980
+And so he's, you know, making sure he got it right.
+
+198
+00:09:34,980 --> 00:09:35,980
+Did I hear you right, son?
+
+199
+00:09:35,980 --> 00:09:36,980
+Eight, three, six.
+
+200
+00:09:36,980 --> 00:09:37,980
+Eight, three, six?
+
+201
+00:09:37,980 --> 00:09:38,980
+Eight, three, six.
+
+202
+00:09:38,980 --> 00:09:42,980
+Yeah, so, you know, if you want to learn more about it,
+
+203
+00:09:42,980 --> 00:09:44,980
+we could just follow that guy.
+
+204
+00:09:44,980 --> 00:09:46,980
+I think we should go and ask him.
+
+205
+00:09:48,980 --> 00:09:49,980
+Perfect.
+
+206
+00:09:49,980 --> 00:09:51,980
+Carrot is donkey.
+
+207
+00:09:56,980 --> 00:09:59,980
+The three of you run forward and turn the corner left.
+
+208
+00:09:59,980 --> 00:10:03,980
+And as you turn the corner left, you all kind of check your right,
+
+209
+00:10:03,980 --> 00:10:07,980
+like you're looking both ways before you cross the street almost.
+
+210
+00:10:07,980 --> 00:10:11,980
+You see no one down either end of the corridor.
+
+211
+00:10:12,980 --> 00:10:15,980
+And ahead of you, you see Burl and Julius.
+
+212
+00:10:15,980 --> 00:10:17,980
+And I think we can get Luke in the room.
+
+213
+00:10:34,980 --> 00:10:35,980
+Which one worked?
+
+214
+00:10:35,980 --> 00:10:36,980
+I don't know.
+
+215
+00:10:37,980 --> 00:10:38,980
+Woo!
+
+216
+00:10:40,980 --> 00:10:41,980
+So...
+
+217
+00:10:42,980 --> 00:10:46,980
+Julius, Burl counts, lands on the number, grabs you,
+
+218
+00:10:46,980 --> 00:10:51,980
+turns the corner left, and you all begin making your way down this hallway.
+
+219
+00:10:52,980 --> 00:10:55,980
+Suddenly, Julius hollers.
+
+220
+00:10:55,980 --> 00:10:57,980
+What does it mean?
+
+221
+00:10:57,980 --> 00:11:03,980
+And as Julius hollers that, the blinds on the windows of the rooms
+
+222
+00:11:03,980 --> 00:11:06,980
+on either side of this corridor flick open.
+
+223
+00:11:06,980 --> 00:11:10,980
+And he also sees down the end of the hallway, back the way you came,
+
+224
+00:11:10,980 --> 00:11:16,980
+turning the corner that you just turned, Cal Colorado, Beck Wilder, and Stevie.
+
+225
+00:11:16,980 --> 00:11:18,980
+Julius, dude! Wait up!
+
+226
+00:11:18,980 --> 00:11:23,980
+Julius gets super calm all of a sudden and just looks at his dad.
+
+227
+00:11:23,980 --> 00:11:24,980
+There's your shovel.
+
+228
+00:11:24,980 --> 00:11:28,980
+The camera does a crazy anime zoom-in on the shovel
+
+229
+00:11:28,980 --> 00:11:32,980
+tucked underneath Stevie's arm on top of one of the bags.
+
+230
+00:11:33,980 --> 00:11:34,980
+Come on, guys!
+
+231
+00:11:36,980 --> 00:11:38,980
+Beck wants to come running up and saying,
+
+232
+00:11:38,980 --> 00:11:40,980
+What does it mean? Were you asking him about the numbers?
+
+233
+00:11:40,980 --> 00:11:42,980
+Because I saw him counting numbers!
+
+234
+00:11:42,980 --> 00:11:43,980
+Was it the 836?
+
+235
+00:11:43,980 --> 00:11:45,980
+Julius just shrugs, yep.
+
+236
+00:11:45,980 --> 00:11:47,980
+Fucking what does it mean, he says to Burl.
+
+237
+00:11:47,980 --> 00:11:51,980
+You weren't supposed to start yelling. They weren't supposed to see us.
+
+238
+00:11:51,980 --> 00:11:57,980
+And Burl turns and kicks open the door behind him in this hallway.
+
+239
+00:11:57,980 --> 00:12:01,980
+Julius watches him do it, and what Julius sees is his dad
+
+240
+00:12:01,980 --> 00:12:06,980
+holding a Nerf gun, just kind of jokingly kicking open the door.
+
+241
+00:12:06,980 --> 00:12:08,980
+And he looks down and he's got a Nerf gun too.
+
+242
+00:12:10,980 --> 00:12:15,980
+And he follows his dad, waving the other guys to follow him.
+
+243
+00:12:15,980 --> 00:12:21,980
+Cal, Beck, and Stevie see officers on either side,
+
+244
+00:12:21,980 --> 00:12:27,980
+one in each room with the blinds open, one on the left, one on the right.
+
+245
+00:12:27,980 --> 00:12:31,980
+And they're making their way toward the door into this corridor.
+
+246
+00:12:31,980 --> 00:12:33,980
+We're going in dexterity order.
+
+247
+00:12:33,980 --> 00:12:34,980
+Oh, fuck.
+
+248
+00:12:34,980 --> 00:12:35,980
+Who's up?
+
+249
+00:12:35,980 --> 00:12:36,980
+I've got a 70.
+
+250
+00:12:36,980 --> 00:12:37,980
+I've got a 50.
+
+251
+00:12:37,980 --> 00:12:38,980
+45.
+
+252
+00:12:38,980 --> 00:12:42,980
+So we started with Julius, who went through the door following his dad.
+
+253
+00:12:42,980 --> 00:12:43,980
+Correct.
+
+254
+00:12:43,980 --> 00:12:44,980
+Burl Summers.
+
+255
+00:12:44,980 --> 00:12:49,980
+And then we have Stevie, who immediately dips, does the same,
+
+256
+00:12:49,980 --> 00:12:53,980
+and follows, runs with the bag out the door behind Julius.
+
+257
+00:12:53,980 --> 00:12:55,980
+I would like to do that too.
+
+258
+00:12:55,980 --> 00:12:57,980
+As well would I.
+
+259
+00:12:57,980 --> 00:13:02,980
+Okay, so we've got two officers coming in hot pursuit of you all
+
+260
+00:13:02,980 --> 00:13:05,980
+as you run through this door.
+
+261
+00:13:05,980 --> 00:13:07,980
+We've got a long hallway.
+
+262
+00:13:07,980 --> 00:13:10,980
+This next one, we've got a long hallway,
+
+263
+00:13:10,980 --> 00:13:17,980
+and it has just windows on the left side into the outdoor area
+
+264
+00:13:17,980 --> 00:13:21,980
+where you see inmates in the hot July sun,
+
+265
+00:13:21,980 --> 00:13:25,980
+playing basketball, lifting weights, hanging out, playing hacky sack.
+
+266
+00:13:25,980 --> 00:13:30,980
+There seems to be a group at a table with some, like,
+
+267
+00:13:30,980 --> 00:13:34,980
+sticks and leaves splayed out in different areas on the table,
+
+268
+00:13:34,980 --> 00:13:37,980
+and you all are sprinting down this hallway.
+
+269
+00:13:37,980 --> 00:13:40,980
+I need everyone to roll athletics.
+
+270
+00:13:45,980 --> 00:13:46,980
+Pass.
+
+271
+00:13:47,980 --> 00:13:48,980
+Fail.
+
+272
+00:13:48,980 --> 00:13:49,980
+Critical fail.
+
+273
+00:13:49,980 --> 00:13:50,980
+88.
+
+274
+00:13:51,980 --> 00:13:53,980
+Cal trips on his old ass.
+
+275
+00:13:56,980 --> 00:13:57,980
+Oh, fuck Cal.
+
+276
+00:13:57,980 --> 00:13:59,980
+Ouchie, ouchie.
+
+277
+00:13:59,980 --> 00:14:00,980
+My ankle.
+
+278
+00:14:03,980 --> 00:14:04,980
+Roll a D4.
+
+279
+00:14:05,980 --> 00:14:06,980
+Ooh, ooh.
+
+280
+00:14:06,980 --> 00:14:07,980
+Ouchie, ouchie.
+
+281
+00:14:07,980 --> 00:14:08,980
+Two ouchies.
+
+282
+00:14:10,980 --> 00:14:11,980
+Carry me back.
+
+283
+00:14:13,980 --> 00:14:18,980
+I do like a sports carry, you know, getting his arm around my shoulders,
+
+284
+00:14:18,980 --> 00:14:21,980
+and now we're three-legged racing down the hall.
+
+285
+00:14:22,980 --> 00:14:23,980
+Okay.
+
+286
+00:14:23,980 --> 00:14:25,980
+Burl, and did you succeed?
+
+287
+00:14:25,980 --> 00:14:26,980
+I did.
+
+288
+00:14:26,980 --> 00:14:30,980
+Burl, Stevie, and Julius all make it to the next door.
+
+289
+00:14:30,980 --> 00:14:33,980
+Burl blasts through this next door.
+
+290
+00:14:33,980 --> 00:14:34,980
+Julius?
+
+291
+00:14:34,980 --> 00:14:35,980
+Following his dad.
+
+292
+00:14:35,980 --> 00:14:36,980
+Following his dad.
+
+293
+00:14:36,980 --> 00:14:40,980
+And Stevie stops and looks back.
+
+294
+00:14:44,980 --> 00:14:45,980
+It's okay, Stevie.
+
+295
+00:14:45,980 --> 00:14:47,980
+You can go on ahead if you have to.
+
+296
+00:14:47,980 --> 00:14:52,980
+And Stevie runs toward you, back down this long hallway,
+
+297
+00:14:52,980 --> 00:14:57,980
+and then past you, and they grab the shovel out from under their arm
+
+298
+00:14:57,980 --> 00:15:03,980
+and levy it forward as the door opens, and two officers come through it.
+
+299
+00:15:03,980 --> 00:15:04,980
+Stevie, no!
+
+300
+00:15:05,980 --> 00:15:09,980
+They miss, and the shovel goes right into the door
+
+301
+00:15:09,980 --> 00:15:14,980
+and just sinks itself right into the door, and as they pull back,
+
+302
+00:15:14,980 --> 00:15:19,980
+they pull a massive chunk of the door out with them,
+
+303
+00:15:19,980 --> 00:15:23,980
+and these two officers are just staring in disbelief,
+
+304
+00:15:23,980 --> 00:15:29,980
+one of them completely frozen, unable to handle what they just saw.
+
+305
+00:15:29,980 --> 00:15:33,980
+The shovel went through a door like it was Play-Doh.
+
+306
+00:15:33,980 --> 00:15:37,980
+The other one loosens their neck and lunges forward,
+
+307
+00:15:37,980 --> 00:15:42,980
+grabs at the shovel, Stevie pulls it back, and they are locked.
+
+308
+00:15:42,980 --> 00:15:47,980
+They both have two hands on the shovel, and they're just tugging back and forth.
+
+309
+00:15:47,980 --> 00:15:48,980
+What do you do, Joe?
+
+310
+00:15:48,980 --> 00:15:51,980
+Beck wants to pull something out of his pockets
+
+311
+00:15:51,980 --> 00:15:55,980
+to throw at the feet of the tussle to try and...
+
+312
+00:15:55,980 --> 00:15:57,980
+He wants it to be in favor of Stevie,
+
+313
+00:15:57,980 --> 00:15:59,980
+but it's really just they're going to be thrown off balance,
+
+314
+00:15:59,980 --> 00:16:01,980
+and somebody's going to win that struggle.
+
+315
+00:16:01,980 --> 00:16:03,980
+Interesting. Okay.
+
+316
+00:16:03,980 --> 00:16:05,980
+So throwing off their footing?
+
+317
+00:16:05,980 --> 00:16:06,980
+Yeah.
+
+318
+00:16:06,980 --> 00:16:07,980
+Okay.
+
+319
+00:16:08,980 --> 00:16:13,980
+All right, go ahead and roll to see what you end up finding.
+
+320
+00:16:13,980 --> 00:16:15,980
+I think you can roll a search here,
+
+321
+00:16:15,980 --> 00:16:21,980
+or you can roll your news skill for going through your camera bag, I guess.
+
+322
+00:16:21,980 --> 00:16:23,980
+I pass my videographer skill.
+
+323
+00:16:23,980 --> 00:16:24,980
+Okay, that'll do.
+
+324
+00:16:24,980 --> 00:16:26,980
+A bunch of mic clips.
+
+325
+00:16:26,980 --> 00:16:27,980
+Okay, yeah.
+
+326
+00:16:27,980 --> 00:16:30,980
+Yeah, just little odd-shaped mic clips.
+
+327
+00:16:30,980 --> 00:16:33,980
+I throw them back there like caltrops.
+
+328
+00:16:34,980 --> 00:16:38,980
+Good name for a TikTok segment.
+
+329
+00:16:40,980 --> 00:16:45,980
+Fail for Stevie, crit fail for the officer.
+
+330
+00:16:45,980 --> 00:16:47,980
+So kind of maybe worked?
+
+331
+00:16:47,980 --> 00:16:49,980
+Like perfectly worked.
+
+332
+00:16:49,980 --> 00:16:56,980
+The officer who is gripping with two hands on this shovel
+
+333
+00:16:56,980 --> 00:16:59,980
+loses their footing as one of these mic clips
+
+334
+00:16:59,980 --> 00:17:01,980
+just slips right underneath their heel
+
+335
+00:17:01,980 --> 00:17:03,980
+that they were going to put all their pressure on,
+
+336
+00:17:03,980 --> 00:17:06,980
+and it slips out from underneath them.
+
+337
+00:17:06,980 --> 00:17:08,980
+They start falling backwards.
+
+338
+00:17:08,980 --> 00:17:10,980
+Stevie can't hold on.
+
+339
+00:17:10,980 --> 00:17:14,980
+Neither can the officer as they land right on their tailbone,
+
+340
+00:17:14,980 --> 00:17:19,980
+and the shovel falls to the ground next to them.
+
+341
+00:17:19,980 --> 00:17:24,980
+The officer that is kind of dazed is slowly kind of coming out of it,
+
+342
+00:17:24,980 --> 00:17:26,980
+but it's Cal Colorado's turn.
+
+343
+00:17:26,980 --> 00:17:30,980
+Cal wants to try to hobble over there as quickly as he can.
+
+344
+00:17:30,980 --> 00:17:33,980
+Can I try a persuade roll on combat?
+
+345
+00:17:33,980 --> 00:17:34,980
+Yeah, absolutely.
+
+346
+00:17:34,980 --> 00:17:36,980
+He just shouts,
+
+347
+00:17:36,980 --> 00:17:40,980
+Wait, wait, this is a huge misunderstanding.
+
+348
+00:17:40,980 --> 00:17:43,980
+This was just a reenactment for the news.
+
+349
+00:17:43,980 --> 00:17:45,980
+Awesome.
+
+350
+00:17:45,980 --> 00:17:48,980
+Roll persuade.
+
+351
+00:17:48,980 --> 00:17:55,980
+70 on a 80.
+
+352
+00:17:55,980 --> 00:17:58,980
+Fuck yeah.
+
+353
+00:17:58,980 --> 00:18:01,980
+The officer succeeds, but at a lower rate,
+
+354
+00:18:01,980 --> 00:18:05,980
+and they're already blown away by the shovel,
+
+355
+00:18:05,980 --> 00:18:07,980
+and so they connect the dots.
+
+356
+00:18:07,980 --> 00:18:09,980
+This is a prop door.
+
+357
+00:18:09,980 --> 00:18:11,980
+It's a special effect.
+
+358
+00:18:11,980 --> 00:18:15,980
+It's all movie magic, as they say.
+
+359
+00:18:15,980 --> 00:18:19,980
+And he's like, Oh, oh.
+
+360
+00:18:19,980 --> 00:18:22,980
+We're at the city news, so we have pretty a big budget.
+
+361
+00:18:22,980 --> 00:18:24,980
+No, of course, of course.
+
+362
+00:18:24,980 --> 00:18:26,980
+That makes all the sense in the world.
+
+363
+00:18:26,980 --> 00:18:30,980
+Yeah, so sorry about the mic clip thing.
+
+364
+00:18:30,980 --> 00:18:32,980
+You could call the network.
+
+365
+00:18:32,980 --> 00:18:34,980
+Oh, it looks like there's a hole in my pocket.
+
+366
+00:18:34,980 --> 00:18:35,980
+Dang it.
+
+367
+00:18:35,980 --> 00:18:37,980
+They must have all spilled out of there.
+
+368
+00:18:37,980 --> 00:18:39,980
+Probably caught on one of those prison doors, so.
+
+369
+00:18:39,980 --> 00:18:41,980
+Get on up here, Batralamude.
+
+370
+00:18:41,980 --> 00:18:42,980
+Come on.
+
+371
+00:18:42,980 --> 00:18:44,980
+And he helps the other guy up.
+
+372
+00:18:44,980 --> 00:18:45,980
+Batralamude?
+
+373
+00:18:45,980 --> 00:18:47,980
+That's an amazing name.
+
+374
+00:18:47,980 --> 00:18:49,980
+Oh, you know, he doesn't like to talk about it too much.
+
+375
+00:18:49,980 --> 00:18:53,980
+No, I don't.
+
+376
+00:18:53,980 --> 00:18:55,980
+Are we going to be in the news?
+
+377
+00:18:55,980 --> 00:18:57,980
+Batralamude, I wasn't really set up for that shot,
+
+378
+00:18:57,980 --> 00:18:59,980
+but yeah, if you want to go back through that door
+
+379
+00:18:59,980 --> 00:19:00,980
+and wait for your cue.
+
+380
+00:19:00,980 --> 00:19:01,980
+Okay.
+
+381
+00:19:01,980 --> 00:19:03,980
+We'll shout at you when you need to come through.
+
+382
+00:19:03,980 --> 00:19:04,980
+Okay, sounds good.
+
+383
+00:19:04,980 --> 00:19:06,980
+Do we need to reset this door?
+
+384
+00:19:06,980 --> 00:19:07,980
+Reset the door.
+
+385
+00:19:07,980 --> 00:19:09,980
+And if you could also radio ahead to,
+
+386
+00:19:09,980 --> 00:19:11,980
+I think some of your other colleagues
+
+387
+00:19:11,980 --> 00:19:13,980
+might have taken this a little too seriously.
+
+388
+00:19:13,980 --> 00:19:16,980
+Oh, are these alarms like part of your...
+
+389
+00:19:16,980 --> 00:19:17,980
+It's all fake.
+
+390
+00:19:17,980 --> 00:19:19,980
+Well, these are the real alarms.
+
+391
+00:19:19,980 --> 00:19:22,980
+All right, well, yes, but it's a fake scenario, you see.
+
+392
+00:19:22,980 --> 00:19:23,980
+Yeah, okay.
+
+393
+00:19:23,980 --> 00:19:24,980
+For the noose.
+
+394
+00:19:24,980 --> 00:19:26,980
+Hmm, wow.
+
+395
+00:19:26,980 --> 00:19:28,980
+You could just get the word out to not resist.
+
+396
+00:19:28,980 --> 00:19:31,980
+Beck just kind of says into the air,
+
+397
+00:19:31,980 --> 00:19:33,980
+all right, we're going to reset to one.
+
+398
+00:19:33,980 --> 00:19:35,980
+Resetting everybody, resetting everybody.
+
+399
+00:19:35,980 --> 00:19:37,980
+Batralamude, you've been great.
+
+400
+00:19:37,980 --> 00:19:38,980
+Thank you.
+
+401
+00:19:38,980 --> 00:19:39,980
+What was your name, sir?
+
+402
+00:19:39,980 --> 00:19:40,980
+Nah, Jerram.
+
+403
+00:19:40,980 --> 00:19:42,980
+Jerram.
+
+404
+00:19:42,980 --> 00:19:44,980
+Jerram and Batralamude.
+
+405
+00:19:44,980 --> 00:19:50,980
+You two are just for Zach, huh?
+
+406
+00:19:50,980 --> 00:19:53,980
+Didn't know we were going to have so much talking to do.
+
+407
+00:19:53,980 --> 00:19:58,980
+Zach's like, names, names.
+
+408
+00:19:58,980 --> 00:20:04,980
+Jared, big cat, Batralamude.
+
+409
+00:20:04,980 --> 00:20:06,980
+What are they really?
+
+410
+00:20:06,980 --> 00:20:07,980
+What?
+
+411
+00:20:07,980 --> 00:20:08,980
+What are, who are those?
+
+412
+00:20:08,980 --> 00:20:09,980
+What do you mean?
+
+413
+00:20:09,980 --> 00:20:10,980
+In the Bible.
+
+414
+00:20:10,980 --> 00:20:11,980
+Oh.
+
+415
+00:20:11,980 --> 00:20:13,980
+No, I don't think either one of those are...
+
+416
+00:20:13,980 --> 00:20:14,980
+Oh, I assumed.
+
+417
+00:20:14,980 --> 00:20:15,980
+Nope.
+
+418
+00:20:15,980 --> 00:20:16,980
+Okay.
+
+419
+00:20:16,980 --> 00:20:17,980
+Nope.
+
+420
+00:20:17,980 --> 00:20:19,980
+Cool, waste of time.
+
+421
+00:20:20,980 --> 00:20:24,980
+That was the question he was, so.
+
+422
+00:20:24,980 --> 00:20:27,980
+I mean, should I have answered?
+
+423
+00:20:27,980 --> 00:20:29,980
+Yes, and.
+
+424
+00:20:29,980 --> 00:20:31,980
+Nah, I don't do that shit.
+
+425
+00:20:31,980 --> 00:20:34,980
+If the plan is working, they're going back through the door.
+
+426
+00:20:34,980 --> 00:20:35,980
+And we're going.
+
+427
+00:20:35,980 --> 00:20:36,980
+Running away.
+
+428
+00:20:36,980 --> 00:20:37,980
+Yeah, we're leaving.
+
+429
+00:20:37,980 --> 00:20:43,980
+As you run away, Jerram looks through the hole in the door and he's like,
+
+430
+00:20:43,980 --> 00:20:47,980
+I thought you said you were going to reset the door to the...
+
+431
+00:20:47,980 --> 00:20:49,980
+Props department will be here in a minute.
+
+432
+00:20:49,980 --> 00:20:51,980
+We've got to go to makeup.
+
+433
+00:20:51,980 --> 00:20:57,980
+And the three of you run through the next door.
+
+434
+00:20:57,980 --> 00:21:01,980
+And on the other side, you see that.
+
+435
+00:21:01,980 --> 00:21:06,980
+It's so great that this worked.
+
+436
+00:21:06,980 --> 00:21:12,980
+I thought we were going to die.
+
+437
+00:21:12,980 --> 00:21:13,980
+I've had dreams like this.
+
+438
+00:21:13,980 --> 00:21:17,980
+I didn't realize I could just tell them it was for the news.
+
+439
+00:21:17,980 --> 00:21:19,980
+It's for the news.
+
+440
+00:21:19,980 --> 00:21:20,980
+Hey, buddy.
+
+441
+00:21:20,980 --> 00:21:23,980
+Calm down.
+
+442
+00:21:23,980 --> 00:21:33,980
+When the door opens, Julius is pleading with Burl Summers as they stand at the precipice of another corner.
+
+443
+00:21:33,980 --> 00:21:36,980
+And once again, Burl is counting.
+
+444
+00:21:36,980 --> 00:21:38,980
+He looks at Beck.
+
+445
+00:21:38,980 --> 00:21:39,980
+He's doing it again.
+
+446
+00:21:39,980 --> 00:21:43,980
+735, 736, 737.
+
+447
+00:21:43,980 --> 00:21:45,980
+He hasn't said the numbers yet, but it's okay.
+
+448
+00:21:45,980 --> 00:21:47,980
+He's going to say the numbers.
+
+449
+00:21:47,980 --> 00:21:48,980
+We've got to get to him.
+
+450
+00:21:48,980 --> 00:21:49,980
+We've got to get to him.
+
+451
+00:21:49,980 --> 00:21:50,980
+There's still like 100.
+
+452
+00:21:50,980 --> 00:21:53,980
+Yeah, there's a lot of numbers before he gets to the one that I'm scared of.
+
+453
+00:21:53,980 --> 00:21:55,980
+We can knock him over or something.
+
+454
+00:21:55,980 --> 00:21:56,980
+I don't know.
+
+455
+00:21:56,980 --> 00:21:59,980
+I think he's counting to make sure that we go at the right time.
+
+456
+00:21:59,980 --> 00:22:00,980
+He's got the plan.
+
+457
+00:22:00,980 --> 00:22:01,980
+Oh.
+
+458
+00:22:01,980 --> 00:22:02,980
+Oh.
+
+459
+00:22:02,980 --> 00:22:07,980
+And that took me a while to say, so he's probably at a much higher number.
+
+460
+00:22:07,980 --> 00:22:08,980
+812.
+
+461
+00:22:08,980 --> 00:22:09,980
+813.
+
+462
+00:22:09,980 --> 00:22:11,980
+So we're just following the numbers?
+
+463
+00:22:11,980 --> 00:22:12,980
+Did we let him do it?
+
+464
+00:22:12,980 --> 00:22:15,980
+I mean, which way are we going?
+
+465
+00:22:15,980 --> 00:22:16,980
+Point.
+
+466
+00:22:16,980 --> 00:22:23,980
+He points, but then he gives you the don't go hand motion and then holds up a finger.
+
+467
+00:22:23,980 --> 00:22:29,980
+You're about to fucking say 836, and that's going to mean something to you, and I want it to mean something to me.
+
+468
+00:22:29,980 --> 00:22:32,980
+834, 835, 836.
+
+469
+00:22:32,980 --> 00:22:33,980
+Let's go.
+
+470
+00:22:33,980 --> 00:22:34,980
+Fucking told you.
+
+471
+00:22:34,980 --> 00:22:35,980
+And then he dips around the corner.
+
+472
+00:22:35,980 --> 00:22:37,980
+Julius starts running.
+
+473
+00:22:37,980 --> 00:22:41,980
+Beck doesn't immediately go and turns to Stevie and Cal.
+
+474
+00:22:41,980 --> 00:22:43,980
+It's the fucking numbers, but maybe they're a good thing.
+
+475
+00:22:43,980 --> 00:22:44,980
+We gotta go.
+
+476
+00:22:44,980 --> 00:22:45,980
+We gotta go.
+
+477
+00:22:45,980 --> 00:22:46,980
+Let's go.
+
+478
+00:22:46,980 --> 00:22:47,980
+Let's go.
+
+479
+00:22:47,980 --> 00:22:48,980
+Let's go.
+
+480
+00:22:48,980 --> 00:22:59,980
+And at the exact moment that you all turn this corner and start running out, you see a door in the lobby close, and you are now in the lobby, the foyer of this jail.
+
+481
+00:22:59,980 --> 00:23:09,980
+But the way that this escape has been timed out, there's only one person in the area, and it's Officer-
+
+482
+00:23:09,980 --> 00:23:10,980
+Peeler!
+
+483
+00:23:10,980 --> 00:23:11,980
+Peeler!
+
+484
+00:23:11,980 --> 00:23:12,980
+Peeler, open the door!
+
+485
+00:23:12,980 --> 00:23:13,980
+We got it for the shot.
+
+486
+00:23:13,980 --> 00:23:16,980
+Peeler, have you heard about the reenactment for the news?
+
+487
+00:23:16,980 --> 00:23:20,980
+Well, yeah, somebody sent through on the radio about the-
+
+488
+00:23:20,980 --> 00:23:23,980
+We need you to buzz the door open so we don't lose our shot.
+
+489
+00:23:23,980 --> 00:23:24,980
+Hurry!
+
+490
+00:23:24,980 --> 00:23:25,980
+Golden hour, Peeler!
+
+491
+00:23:25,980 --> 00:23:26,980
+Golden hour!
+
+492
+00:23:26,980 --> 00:23:29,980
+And then Julius starts running towards the door, hoping it is gonna open.
+
+493
+00:23:29,980 --> 00:23:30,980
+Awesome.
+
+494
+00:23:30,980 --> 00:23:34,980
+Roll, persuade, probably Cal.
+
+495
+00:23:34,980 --> 00:23:36,980
+75 on an 80.
+
+496
+00:23:36,980 --> 00:23:38,980
+Yes!
+
+497
+00:23:38,980 --> 00:23:40,980
+He succeeds with a 62.
+
+498
+00:23:40,980 --> 00:23:41,980
+Ooh!
+
+499
+00:23:41,980 --> 00:23:44,980
+That would've been scary.
+
+500
+00:23:44,980 --> 00:23:53,980
+As Julius makes it to the door, the red light goes green, and Julius's massive thighs slam into the metal bar that open.
+
+501
+00:23:53,980 --> 00:23:54,980
+Ka-junk!
+
+502
+00:23:54,980 --> 00:23:58,980
+Peeler, out of the lobby and into the world.
+
+503
+00:23:58,980 --> 00:23:59,980
+Woohoo!
+
+504
+00:23:59,980 --> 00:24:00,980
+That was fun!
+
+505
+00:24:00,980 --> 00:24:03,980
+Oh my god, we're gonna get to keep doing this!
+
+506
+00:24:03,980 --> 00:24:05,980
+And he's like looking at his dad, stoked.
+
+507
+00:24:05,980 --> 00:24:09,980
+Beck grabs Burl by the collar and pulls him in.
+
+508
+00:24:09,980 --> 00:24:20,980
+On the front steps of this beautiful city jail with this oppressive architecture, big concrete columns, big concrete stairs.
+
+509
+00:24:20,980 --> 00:24:29,980
+And at the top, where a rocky-like figure might feel victory, Beck feels what?
+
+510
+00:24:29,980 --> 00:24:34,980
+From the outside it would look like anger, but inside it's pleading help.
+
+511
+00:24:34,980 --> 00:24:39,980
+What do they fucking mean?
+
+512
+00:24:39,980 --> 00:24:45,980
+Burl smiles a stringy smile.
+
+513
+00:24:45,980 --> 00:24:48,980
+What is a stringy smile?
+
+514
+00:24:48,980 --> 00:24:51,980
+Oh, it's like, yeah.
+
+515
+00:24:51,980 --> 00:24:52,980
+Saliva-y.
+
+516
+00:24:52,980 --> 00:24:57,980
+His teeth become floss in it.
+
+517
+00:24:57,980 --> 00:24:59,980
+Flossy.
+
+518
+00:24:59,980 --> 00:25:02,980
+Ew, flossy teeth.
+
+519
+00:25:02,980 --> 00:25:05,980
+Somebody just leaves fucking strands trailing.
+
+520
+00:25:05,980 --> 00:25:08,980
+Oh, I call it my baleens.
+
+521
+00:25:08,980 --> 00:25:10,980
+That one over my head.
+
+522
+00:25:10,980 --> 00:25:13,980
+It's the plates that whales use to trap plankton.
+
+523
+00:25:13,980 --> 00:25:14,980
+Oh, nice.
+
+524
+00:25:14,980 --> 00:25:15,980
+Nerd.
+
+525
+00:25:15,980 --> 00:25:18,980
+It's whale teeth.
+
+526
+00:25:18,980 --> 00:25:22,980
+Uh, more people than just nerds watch fucking planet Earth, Luke.
+
+527
+00:25:22,980 --> 00:25:26,980
+Oh, never mind.
+
+528
+00:25:26,980 --> 00:25:28,980
+What, you think just stoners and nerds are watching?
+
+529
+00:25:28,980 --> 00:25:29,980
+There it is.
+
+530
+00:25:29,980 --> 00:25:32,980
+Yeah, no, you're right.
+
+531
+00:25:32,980 --> 00:25:35,980
+Julius is looking at his dad like he wants to know too.
+
+532
+00:25:35,980 --> 00:25:37,980
+I don't know. I'm sorry.
+
+533
+00:25:37,980 --> 00:25:39,980
+Then why say it?
+
+534
+00:25:39,980 --> 00:25:41,980
+It works.
+
+535
+00:25:41,980 --> 00:25:43,980
+It fucking works.
+
+536
+00:25:43,980 --> 00:25:44,980
+We need to go.
+
+537
+00:25:44,980 --> 00:25:47,980
+And he dips down the stairs.
+
+538
+00:25:47,980 --> 00:25:48,980
+Where's your ride?
+
+539
+00:25:48,980 --> 00:25:50,980
+Did we just park in front?
+
+540
+00:25:50,980 --> 00:25:51,980
+Yeah.
+
+541
+00:25:51,980 --> 00:25:52,980
+I think so.
+
+542
+00:25:52,980 --> 00:25:53,980
+I did, yeah.
+
+543
+00:25:53,980 --> 00:25:55,980
+I'll drive if you want.
+
+544
+00:25:55,980 --> 00:25:58,980
+And he kind of just does a little jog down the steps.
+
+545
+00:25:58,980 --> 00:26:01,980
+Like that all didn't just happen.
+
+546
+00:26:01,980 --> 00:26:05,980
+Beep, beep.
+
+547
+00:26:05,980 --> 00:26:07,980
+Can we let them use...
+
+548
+00:26:07,980 --> 00:26:10,980
+What if we just called you guys an Uber or something?
+
+549
+00:26:10,980 --> 00:26:11,980
+That's a betting.
+
+550
+00:26:11,980 --> 00:26:13,980
+That's still a betting.
+
+551
+00:26:13,980 --> 00:26:15,980
+We already abetted.
+
+552
+00:26:15,980 --> 00:26:17,980
+We did the ruse.
+
+553
+00:26:17,980 --> 00:26:18,980
+We abetted.
+
+554
+00:26:18,980 --> 00:26:19,980
+We did do a ruse.
+
+555
+00:26:19,980 --> 00:26:20,980
+We abetted.
+
+556
+00:26:20,980 --> 00:26:24,980
+You're saying in the can van as you're driving away from the crime.
+
+557
+00:26:24,980 --> 00:26:26,980
+The full blown crime.
+
+558
+00:26:26,980 --> 00:26:27,980
+We are a betting.
+
+559
+00:26:27,980 --> 00:26:28,980
+We are a betting.
+
+560
+00:26:28,980 --> 00:26:30,980
+Julius is driving away and just being like,
+
+561
+00:26:30,980 --> 00:26:32,980
+yeah, you guys are in now.
+
+562
+00:26:32,980 --> 00:26:36,980
+I told you.
+
+563
+00:26:36,980 --> 00:26:39,980
+Holy shit.
+
+564
+00:26:39,980 --> 00:26:41,980
+Beck, we're going to have to...
+
+565
+00:26:41,980 --> 00:26:42,980
+We're going to have to...
+
+566
+00:26:42,980 --> 00:26:43,980
+Are you guys hungry?
+
+567
+00:26:43,980 --> 00:26:44,980
+Destroy that footage.
+
+568
+00:26:44,980 --> 00:26:46,980
+I mean, or...
+
+569
+00:26:46,980 --> 00:26:47,980
+Oh, you're right.
+
+570
+00:26:47,980 --> 00:26:49,980
+The honorable thing to do is to send it to the police ourselves.
+
+571
+00:26:49,980 --> 00:26:52,980
+Yeah, but like later.
+
+572
+00:26:52,980 --> 00:26:55,980
+Does Burl have anything to say about that?
+
+573
+00:26:55,980 --> 00:26:59,980
+Burl is just giving you big eyes with a knowing look.
+
+574
+00:26:59,980 --> 00:27:01,980
+He's giving him a little fist bump.
+
+575
+00:27:01,980 --> 00:27:02,980
+Thanks for getting me out.
+
+576
+00:27:02,980 --> 00:27:05,980
+Yeah, I mean, I figured you'd maybe use the shovel,
+
+577
+00:27:05,980 --> 00:27:07,980
+but that was interesting too.
+
+578
+00:27:07,980 --> 00:27:08,980
+Abet, here we are.
+
+579
+00:27:08,980 --> 00:27:10,980
+Well, you use the shovel.
+
+580
+00:27:10,980 --> 00:27:11,980
+True.
+
+581
+00:27:11,980 --> 00:27:12,980
+Anything for you.
+
+582
+00:27:12,980 --> 00:27:13,980
+Are you guys hungry?
+
+583
+00:27:13,980 --> 00:27:14,980
+You're probably hungry.
+
+584
+00:27:14,980 --> 00:27:15,980
+What do you want?
+
+585
+00:27:15,980 --> 00:27:18,980
+Oh, you know what I could really go for is tacos.
+
+586
+00:27:18,980 --> 00:27:22,980
+And Julius is just going to aimlessly drive until he sees tacos.
+
+587
+00:27:22,980 --> 00:27:25,980
+Julius, dude, are you okay, dude?
+
+588
+00:27:25,980 --> 00:27:26,980
+Yeah.
+
+589
+00:27:26,980 --> 00:27:27,980
+My dad's here.
+
+590
+00:27:27,980 --> 00:27:31,980
+You seem really unaffected by the fact that we just broke your dad out of jail
+
+591
+00:27:31,980 --> 00:27:34,980
+and like almost got in jail ourselves.
+
+592
+00:27:34,980 --> 00:27:37,980
+Julius is kind of like, what are you talking about?
+
+593
+00:27:38,980 --> 00:27:40,980
+Whatever, Beck.
+
+594
+00:27:40,980 --> 00:27:41,980
+We got my dad's ear.
+
+595
+00:27:41,980 --> 00:27:43,980
+Going to get tacos.
+
+596
+00:27:43,980 --> 00:27:45,980
+I give a worried glance to Cal.
+
+597
+00:27:45,980 --> 00:27:48,980
+Hey, Mr. Summers.
+
+598
+00:27:48,980 --> 00:27:49,980
+Yeah.
+
+599
+00:27:49,980 --> 00:27:53,980
+Can we have a talk about your parenting style?
+
+600
+00:27:53,980 --> 00:27:56,980
+What can you learn?
+
+601
+00:27:56,980 --> 00:28:01,980
+I was very confident.
+
+602
+00:28:01,980 --> 00:28:04,980
+What's going on here between you and your boy?
+
+603
+00:28:04,980 --> 00:28:10,980
+I've raised Julius to take care of the actual world,
+
+604
+00:28:10,980 --> 00:28:13,980
+the underlying reality that exists,
+
+605
+00:28:13,980 --> 00:28:18,980
+that we hide away from those who would otherwise be affected.
+
+606
+00:28:18,980 --> 00:28:19,980
+Yeah, yeah, yeah.
+
+607
+00:28:19,980 --> 00:28:20,980
+We know all about that.
+
+608
+00:28:20,980 --> 00:28:22,980
+I live in the shadows.
+
+609
+00:28:22,980 --> 00:28:25,980
+Okay, okay, okay, okay.
+
+610
+00:28:25,980 --> 00:28:28,980
+Dad, I forgot to tell you, you're going to be stoked.
+
+611
+00:28:28,980 --> 00:28:29,980
+Typh?
+
+612
+00:28:29,980 --> 00:28:31,980
+No.
+
+613
+00:28:31,980 --> 00:28:32,980
+Really?
+
+614
+00:28:32,980 --> 00:28:33,980
+Yeah.
+
+615
+00:28:33,980 --> 00:28:34,980
+What happened?
+
+616
+00:28:34,980 --> 00:28:35,980
+I killed him.
+
+617
+00:28:35,980 --> 00:28:36,980
+Wait, you killed him?
+
+618
+00:28:36,980 --> 00:28:37,980
+I killed him.
+
+619
+00:28:37,980 --> 00:28:38,980
+That's what he tells us.
+
+620
+00:28:38,980 --> 00:28:41,980
+I thought we were compartmentalizing that.
+
+621
+00:28:44,980 --> 00:28:46,980
+This is what I want to talk about.
+
+622
+00:28:46,980 --> 00:28:49,980
+You have a strange effect on this boy,
+
+623
+00:28:49,980 --> 00:28:51,980
+and I don't think it's entirely natural.
+
+624
+00:28:51,980 --> 00:28:54,980
+Speaking of the dark weirdness of the world or whatnot.
+
+625
+00:28:54,980 --> 00:28:58,980
+Something about hearing Cal and his tone of voice
+
+626
+00:28:58,980 --> 00:29:02,980
+kind of snaps Julius back a little bit.
+
+627
+00:29:02,980 --> 00:29:04,980
+As he's driving, he starts to just sweat.
+
+628
+00:29:04,980 --> 00:29:05,980
+There.
+
+629
+00:29:05,980 --> 00:29:06,980
+See?
+
+630
+00:29:06,980 --> 00:29:07,980
+Julius.
+
+631
+00:29:07,980 --> 00:29:10,980
+Julius, are you in there, boy?
+
+632
+00:29:10,980 --> 00:29:13,980
+And he's like shaking, and he has to pull the van over.
+
+633
+00:29:13,980 --> 00:29:15,980
+What are you doing?
+
+634
+00:29:15,980 --> 00:29:16,980
+His heart is like racing.
+
+635
+00:29:16,980 --> 00:29:17,980
+He needs a medic.
+
+636
+00:29:17,980 --> 00:29:18,980
+Can you tell?
+
+637
+00:29:18,980 --> 00:29:19,980
+We have to keep going.
+
+638
+00:29:19,980 --> 00:29:20,980
+What the fuck?
+
+639
+00:29:20,980 --> 00:29:23,980
+We did not go in there to do that.
+
+640
+00:29:23,980 --> 00:29:27,980
+No, I mean, I didn't know that you were even coming today.
+
+641
+00:29:27,980 --> 00:29:29,980
+I didn't know that this was happening either.
+
+642
+00:29:29,980 --> 00:29:30,980
+Oh my fucking God.
+
+643
+00:29:30,980 --> 00:29:31,980
+We have to destroy that tape.
+
+644
+00:29:31,980 --> 00:29:32,980
+Why were you filming?
+
+645
+00:29:32,980 --> 00:29:33,980
+We do have to destroy that tape.
+
+646
+00:29:33,980 --> 00:29:36,980
+Guys, what if it's the thing that proves we were right all along?
+
+647
+00:29:36,980 --> 00:29:38,980
+In what way?
+
+648
+00:29:38,980 --> 00:29:39,980
+I don't know.
+
+649
+00:29:39,980 --> 00:29:40,980
+The numbers are a thing.
+
+650
+00:29:40,980 --> 00:29:45,980
+Hold on.
+
+651
+00:29:45,980 --> 00:29:49,980
+Julius starts driving again, maybe towards tacos,
+
+652
+00:29:49,980 --> 00:29:51,980
+probably just aimlessly.
+
+653
+00:29:51,980 --> 00:29:53,980
+I think we got to tell him.
+
+654
+00:29:53,980 --> 00:29:57,980
+Like, we got to fill him in.
+
+655
+00:29:57,980 --> 00:29:58,980
+And then they fill him in.
+
+656
+00:29:59,980 --> 00:30:04,980
+Isn't that fucking crazy?
+
+657
+00:30:04,980 --> 00:30:06,980
+I mean, are you guys cool with that?
+
+658
+00:30:06,980 --> 00:30:09,980
+We're filling Burl in on all of our escapades.
+
+659
+00:30:09,980 --> 00:30:10,980
+Yeah.
+
+660
+00:30:10,980 --> 00:30:14,980
+Beck is fine with it because he is using that as part of the argument to not destroy the footage.
+
+661
+00:30:14,980 --> 00:30:15,980
+It's all linked.
+
+662
+00:30:15,980 --> 00:30:16,980
+See?
+
+663
+00:30:16,980 --> 00:30:19,980
+At the end of the day, we're going to have this body of evidence.
+
+664
+00:30:19,980 --> 00:30:20,980
+It's going to be irrefutable.
+
+665
+00:30:20,980 --> 00:30:21,980
+Bodies.
+
+666
+00:30:21,980 --> 00:30:24,980
+Yeah, there's been a lot of bodies.
+
+667
+00:30:24,980 --> 00:30:26,980
+Is it for the greater good?
+
+668
+00:30:26,980 --> 00:30:27,980
+Is it?
+
+669
+00:30:27,980 --> 00:30:30,980
+This might be one of those things where the ends justify the means?
+
+670
+00:30:30,980 --> 00:30:31,980
+Oh, yeah.
+
+671
+00:30:31,980 --> 00:30:32,980
+Definitely.
+
+672
+00:30:32,980 --> 00:30:33,980
+Obviously.
+
+673
+00:30:33,980 --> 00:30:36,980
+I mean, think about what we're doing.
+
+674
+00:30:36,980 --> 00:30:37,980
+What are we doing?
+
+675
+00:30:37,980 --> 00:30:38,980
+What are you doing?
+
+676
+00:30:38,980 --> 00:30:43,980
+We're learning about the world and how it works and we work in the shadows.
+
+677
+00:30:43,980 --> 00:30:48,980
+And we keep the world safe from that which they cannot know.
+
+678
+00:30:48,980 --> 00:30:53,980
+You know, I kicked the ass of a creep a lot like you just a few hours ago.
+
+679
+00:30:53,980 --> 00:30:55,980
+Julius is so offended.
+
+680
+00:30:56,980 --> 00:30:58,980
+Don't talk to daddy like that.
+
+681
+00:30:58,980 --> 00:30:59,980
+I knew it.
+
+682
+00:30:59,980 --> 00:31:00,980
+I knew there was some weird thing.
+
+683
+00:31:00,980 --> 00:31:03,980
+You went to him so quickly with his whole daddy bed.
+
+684
+00:31:03,980 --> 00:31:05,980
+I was just looking for somebody.
+
+685
+00:31:05,980 --> 00:31:07,980
+And now I've got two.
+
+686
+00:31:07,980 --> 00:31:09,980
+I have to be everybody's fucking dad?
+
+687
+00:31:11,980 --> 00:31:12,980
+No.
+
+688
+00:31:12,980 --> 00:31:13,980
+You don't.
+
+689
+00:31:13,980 --> 00:31:14,980
+He has a dad.
+
+690
+00:31:14,980 --> 00:31:15,980
+But look at you.
+
+691
+00:31:15,980 --> 00:31:16,980
+Come on, look at me.
+
+692
+00:31:16,980 --> 00:31:17,980
+Look at you.
+
+693
+00:31:17,980 --> 00:31:18,980
+You're three weird strands.
+
+694
+00:31:18,980 --> 00:31:19,980
+We just broke you out of jail.
+
+695
+00:31:19,980 --> 00:31:21,980
+You hypnotized your son into breaking you out of jail.
+
+696
+00:31:21,980 --> 00:31:22,980
+I mean, he-
+
+697
+00:31:22,980 --> 00:31:24,980
+Who would call that good parenting?
+
+698
+00:31:24,980 --> 00:31:25,980
+Hmm?
+
+699
+00:31:25,980 --> 00:31:27,980
+I'd call it good sunning for sure.
+
+700
+00:31:27,980 --> 00:31:28,980
+Thanks.
+
+701
+00:31:28,980 --> 00:31:29,980
+Good job, son.
+
+702
+00:31:29,980 --> 00:31:32,980
+Dad, maybe tell him about the rat guy.
+
+703
+00:31:34,980 --> 00:31:35,980
+Tell me about the rat guy.
+
+704
+00:31:35,980 --> 00:31:37,980
+You want to know about Matthew?
+
+705
+00:31:45,980 --> 00:31:47,980
+Oh my God.
+
+706
+00:31:47,980 --> 00:31:49,980
+Beck, are you filming?
+
+707
+00:31:51,980 --> 00:31:52,980
+Keep driving, Julius.
+
+708
+00:31:52,980 --> 00:31:53,980
+Yes, sir.
+
+709
+00:31:53,980 --> 00:31:54,980
+Toward tacos.
+
+710
+00:31:54,980 --> 00:31:58,980
+Julius types in, best tacos near me.
+
+711
+00:31:58,980 --> 00:32:03,980
+And he spends a little too much time actually reading the reviews of every place.
+
+712
+00:32:03,980 --> 00:32:04,980
+I want birria tacos.
+
+713
+00:32:04,980 --> 00:32:05,980
+Oh, okay.
+
+714
+00:32:05,980 --> 00:32:09,980
+Julius finds one with birria tacos and heads there.
+
+715
+00:32:09,980 --> 00:32:13,980
+And the place is called Beer E A Taco.
+
+716
+00:32:13,980 --> 00:32:15,980
+Like beer and one taco?
+
+717
+00:32:15,980 --> 00:32:19,980
+Beer and a taco in English and Spanish.
+
+718
+00:32:19,980 --> 00:32:21,980
+Beer E A Taco.
+
+719
+00:32:22,980 --> 00:32:26,980
+While we're heading to Beer E A Taco, Mr. Summers.
+
+720
+00:32:26,980 --> 00:32:27,980
+Yeah.
+
+721
+00:32:27,980 --> 00:32:29,980
+Why don't you tell me about Matthew?
+
+722
+00:32:29,980 --> 00:32:32,980
+Matthew was kind.
+
+723
+00:32:32,980 --> 00:32:34,980
+He was good.
+
+724
+00:32:34,980 --> 00:32:44,980
+He was, well, I assume Julius already explained his physical abnormalities, but Matthew could feel.
+
+725
+00:32:44,980 --> 00:32:46,980
+Matthew could kind of talk.
+
+726
+00:32:46,980 --> 00:32:57,980
+He could communicate after a while in his own way through, you know, bits of squeaks, but seemingly had a human vocal cord set on him.
+
+727
+00:32:57,980 --> 00:33:07,980
+So the squeaks were varied enough to where, you know, I could make out kind of the situation and we would talk for hours.
+
+728
+00:33:08,980 --> 00:33:10,980
+They fucking took him.
+
+729
+00:33:13,980 --> 00:33:14,980
+The firm?
+
+730
+00:33:14,980 --> 00:33:15,980
+The firm.
+
+731
+00:33:15,980 --> 00:33:16,980
+The seventh.
+
+732
+00:33:17,980 --> 00:33:19,980
+Whatever you want to call them.
+
+733
+00:33:19,980 --> 00:33:20,980
+The government.
+
+734
+00:33:20,980 --> 00:33:22,980
+The United States of America.
+
+735
+00:33:22,980 --> 00:33:26,980
+Dad, we found a place where there's a lot of Matthews.
+
+736
+00:33:26,980 --> 00:33:27,980
+Hey, what do you mean?
+
+737
+00:33:27,980 --> 00:33:30,980
+The whole Godel thing we were talking about?
+
+738
+00:33:30,980 --> 00:33:32,980
+How it's big and it's bad?
+
+739
+00:33:32,980 --> 00:33:34,980
+There are animal people there, sure.
+
+740
+00:33:34,980 --> 00:33:35,980
+I don't know if they're Matthews.
+
+741
+00:33:35,980 --> 00:33:37,980
+Yeah, it seems like maybe some of these could talk.
+
+742
+00:33:37,980 --> 00:33:39,980
+Like really just talk talk.
+
+743
+00:33:39,980 --> 00:33:45,980
+We had discussed these being separate, whole separate deals and perhaps leading an army of the rat men to defeat these other animal people.
+
+744
+00:33:45,980 --> 00:33:48,980
+You never saw another rat man like Matthew?
+
+745
+00:33:48,980 --> 00:33:58,980
+No, I wish I wish I could have. I wish I would have made friends with the whole army, but no, just Matthew.
+
+746
+00:33:59,980 --> 00:34:00,980
+Oh.
+
+747
+00:34:02,980 --> 00:34:03,980
+I hope he's okay.
+
+748
+00:34:03,980 --> 00:34:06,980
+Did you ever find out like where he came from?
+
+749
+00:34:07,980 --> 00:34:26,980
+He used to draw this, you know, I tried different ways of communicating with him and anytime that he could get his hands on something to, you know, make a design with or draw something out, it was the same design over and over and he grabs a notebook and starts sketching and
+
+750
+00:34:26,980 --> 00:34:30,980
+Beck is rewinding through his footage to get to the it pit.
+
+751
+00:34:30,980 --> 00:34:45,980
+And he holds up a sketch right as you arrive at the footage of the it pit and there is a singular difference actually between the design that he is sketched.
+
+752
+00:34:45,980 --> 00:34:49,980
+It does not have an upside down cross.
+
+753
+00:34:50,980 --> 00:34:52,980
+All the other symbols are present.
+
+754
+00:34:52,980 --> 00:34:54,980
+It didn't have an upside down cross.
+
+755
+00:34:54,980 --> 00:34:57,980
+I see the upside down church when I smell God.
+
+756
+00:34:57,980 --> 00:35:03,980
+We were in Godel Gorge and this was scrawled on the walls of a really fucking terrible place, dude.
+
+757
+00:35:03,980 --> 00:35:05,980
+Oh, we've been in the it pit, baby.
+
+758
+00:35:05,980 --> 00:35:07,980
+I think it's where they kept the animal people.
+
+759
+00:35:07,980 --> 00:35:09,980
+Yeah, and that's what he's, yeah.
+
+760
+00:35:10,980 --> 00:35:12,980
+How long have they been doing this?
+
+761
+00:35:12,980 --> 00:35:13,980
+Oh my God.
+
+762
+00:35:13,980 --> 00:35:14,980
+Since before you were alive.
+
+763
+00:35:14,980 --> 00:35:16,980
+I think we gotta go back.
+
+764
+00:35:17,980 --> 00:35:19,980
+Dad, they have like jumpy, bouncy sidewalks?
+
+765
+00:35:19,980 --> 00:35:29,980
+I mean, we know for sure now Matthew has some connection to Godel's Gorge.
+
+766
+00:35:29,980 --> 00:35:30,980
+It would appear that way.
+
+767
+00:35:30,980 --> 00:35:38,980
+And Kaylee got her yeast that makes her want to eat people or they go in her stomach or something and that's from Godel.
+
+768
+00:35:38,980 --> 00:35:40,980
+It made her go crazy.
+
+769
+00:35:40,980 --> 00:35:43,980
+The same happened to Dr. Brock apparently.
+
+770
+00:35:43,980 --> 00:35:45,980
+Who knows who else?
+
+771
+00:35:45,980 --> 00:35:51,980
+And every time I've smelled that yeast, yeasts, I see the upside down church.
+
+772
+00:35:51,980 --> 00:35:55,980
+Yeast, you've smelled what's in the bag, but we think they put what's in the bag in the yeasts.
+
+773
+00:35:55,980 --> 00:36:02,980
+Well, either way, it's the same trigger and it makes me see the upside down church with blood and bodies and I smell God.
+
+774
+00:36:02,980 --> 00:36:07,980
+I see like visions of like things happened and things that are happening.
+
+775
+00:36:07,980 --> 00:36:09,980
+I haven't seen the church myself yet.
+
+776
+00:36:09,980 --> 00:36:10,980
+And Fred's not dead?
+
+777
+00:36:10,980 --> 00:36:12,980
+Oh yeah, what's that about?
+
+778
+00:36:12,980 --> 00:36:14,980
+Why does he want to pretend that he's dead?
+
+779
+00:36:14,980 --> 00:36:20,980
+Maybe to, uh, hell, I don't know. I just cover the news.
+
+780
+00:36:20,980 --> 00:36:24,980
+I don't want to make sense of it.
+
+781
+00:36:24,980 --> 00:36:28,980
+That's for the historians.
+
+782
+00:36:28,980 --> 00:36:33,980
+Julius turns off his maps and is going to start driving towards the bridge.
+
+783
+00:36:33,980 --> 00:36:40,980
+Uh, Julius, seems you turned away from beer-y-ah tacos.
+
+784
+00:36:40,980 --> 00:36:43,980
+Yeah. Um, are we not going to the taco?
+
+785
+00:36:43,980 --> 00:36:46,980
+I think we gotta go. I think, I think we gotta go.
+
+786
+00:36:46,980 --> 00:36:47,980
+To?
+
+787
+00:36:47,980 --> 00:36:48,980
+To the hole.
+
+788
+00:36:48,980 --> 00:37:02,980
+Oh, no, I'd rather not. I've got to meet, uh, a mysterious caller at a jazz den tonight.
+
+789
+00:37:02,980 --> 00:37:06,980
+Julius is just going to kind of blankly stare ahead and keep driving.
+
+790
+00:37:06,980 --> 00:37:10,980
+Are you, you're thinking about jumping into the hole? Is that what your plan is here?
+
+791
+00:37:10,980 --> 00:37:11,980
+I don't know, maybe.
+
+792
+00:37:11,980 --> 00:37:13,980
+Uh, Burl, can you speak to your boy here?
+
+793
+00:37:13,980 --> 00:37:20,980
+Well, I mean, if he wants to go down the hole, we're going to need, what, some sort of scuba gear?
+
+794
+00:37:20,980 --> 00:37:23,980
+And like backup, like a lot of backup.
+
+795
+00:37:23,980 --> 00:37:26,980
+We've talked about this. It's, it's really dumb to go there right now.
+
+796
+00:37:26,980 --> 00:37:34,980
+We should bring, if not an army of rat men, I don't know, some, uh,
+
+797
+00:37:34,980 --> 00:37:37,980
+do you have any mean friends?
+
+798
+00:37:37,980 --> 00:37:43,980
+Julius immediately starts thinking of all the people he's met through Delta Green.
+
+799
+00:37:43,980 --> 00:37:45,980
+Oh, do you remember any numbers?
+
+800
+00:37:45,980 --> 00:37:46,980
+Uh, yeah.
+
+801
+00:37:46,980 --> 00:37:49,980
+Three, six.
+
+802
+00:37:49,980 --> 00:37:51,980
+Do you remember anyone's numbers?
+
+803
+00:37:51,980 --> 00:37:52,980
+Yeah.
+
+804
+00:37:52,980 --> 00:37:54,980
+He starts heading back to Buri, uh, taco.
+
+805
+00:37:54,980 --> 00:37:57,980
+Should we like rally your guys' troops?
+
+806
+00:37:57,980 --> 00:38:02,980
+Oh, this could be fun. Get the old crew back together. Well, not the last old crew, but-
+
+807
+00:38:02,980 --> 00:38:04,980
+No, they got caught. No offense.
+
+808
+00:38:04,980 --> 00:38:06,980
+Oh, maybe the bog job? Bog job crew?
+
+809
+00:38:06,980 --> 00:38:08,980
+Yeah, bog job crew.
+
+810
+00:38:08,980 --> 00:38:09,980
+Yeah.
+
+811
+00:38:09,980 --> 00:38:11,980
+Should we tell Diggory?
+
+812
+00:38:11,980 --> 00:38:14,980
+No, I think we should absolutely not tell Diggory.
+
+813
+00:38:14,980 --> 00:38:18,980
+Okay. Maybe we should bring that doctor with us.
+
+814
+00:38:18,980 --> 00:38:20,980
+And he looks at Cal and Beck.
+
+815
+00:38:20,980 --> 00:38:21,980
+Are you kidnapping us?
+
+816
+00:38:21,980 --> 00:38:22,980
+No, we're-
+
+817
+00:38:22,980 --> 00:38:29,980
+I mean, I'm not fucking going either. We're going to hang back, I think, and they're going to go down the hole with the crew.
+
+818
+00:38:29,980 --> 00:38:31,980
+Wait, Stevie, you don't- I mean like-
+
+819
+00:38:31,980 --> 00:38:33,980
+No, I'm not fucking going down there. Are you kidding me?
+
+820
+00:38:33,980 --> 00:38:39,980
+I don't exactly want to either, but like, we've been working on this for a while now. We need to see it through to the end, don't you?
+
+821
+00:38:39,980 --> 00:38:45,980
+You saw what that was down there. I'm with Cal. We're not going down there unless we have an army of Ant-Man coming in behind us.
+
+822
+00:38:45,980 --> 00:38:46,980
+This doesn't- yeah.
+
+823
+00:38:46,980 --> 00:38:51,980
+Right. I'm not saying we go now. I'm saying we call up our guys. We go get some tacos.
+
+824
+00:38:51,980 --> 00:38:54,980
+But who needs the bog job guys when you've got the US Marines?
+
+825
+00:38:54,980 --> 00:38:55,980
+I don't know if-
+
+826
+00:38:55,980 --> 00:38:59,980
+I mean, the bog job guys are kind of more up for this sort of challenge.
+
+827
+00:38:59,980 --> 00:39:01,980
+And the Marines might-
+
+828
+00:39:01,980 --> 00:39:04,980
+What's the world sees what's going on there in our news story?
+
+829
+00:39:04,980 --> 00:39:07,980
+Do you think the Godels and the Marines don't work together?
+
+830
+00:39:07,980 --> 00:39:09,980
+The boys got a point.
+
+831
+00:39:10,980 --> 00:39:12,980
+The Navy then.
+
+832
+00:39:25,980 --> 00:39:27,980
+And it's all mine
+
+833
+00:39:34,980 --> 00:39:39,980
+Cause my life is great
+
+834
+00:39:39,980 --> 00:39:54,980
+So out of character, in my head, I was like, oh shit, if Julius and his dad want to go down with a couple of dudes from the bog job, you guys could create characters that are the bog job crew.
+
+835
+00:39:54,980 --> 00:39:59,980
+That would be fun. And then we could send that crew in together into the hole.
+
+836
+00:39:59,980 --> 00:40:00,980
+Yeah. I like that.
+
+837
+00:40:00,980 --> 00:40:01,980
+That would be cool.
+
+838
+00:40:01,980 --> 00:40:02,980
+That sounds fun.
+
+839
+00:40:02,980 --> 00:40:03,980
+Totally.
+
+840
+00:40:03,980 --> 00:40:04,980
+And then Cal and Beck don't die.
+
+841
+00:40:04,980 --> 00:40:05,980
+Exactly.
+
+842
+00:40:06,980 --> 00:40:10,980
+We could just strap GoPros to our heads. That way it's documented.
+
+843
+00:40:10,980 --> 00:40:13,980
+Perfect. That's what I'm talking about right there.
+
+844
+00:40:13,980 --> 00:40:17,980
+And Burl Summers is now going to be my Pat Jack Nicholson impression.
+
+845
+00:40:17,980 --> 00:40:21,980
+She went, Jack, it's a good choice for your whole creepy, weird, evil vibe.
+
+846
+00:40:21,980 --> 00:40:23,980
+Yeah. I was just going higher.
+
+847
+00:40:23,980 --> 00:40:25,980
+It's more sinister that way.
+
+848
+00:40:25,980 --> 00:40:26,980
+Yeah.
+
+849
+00:40:27,980 --> 00:40:40,980
+Well, maybe, uh, I mean, if you guys, you know, I, I understand you don't want to come like my dad and I we've been fighting this shit for years, but I mean, you can talk your way out of stuff, but I don't know about in Godel's Gorge really.
+
+850
+00:40:40,980 --> 00:40:43,980
+What if you just flew a drone down with us?
+
+851
+00:40:45,980 --> 00:40:48,980
+No, no, no.
+
+852
+00:40:49,980 --> 00:40:51,980
+No, Cal, let's think about that.
+
+853
+00:40:51,980 --> 00:40:53,980
+Let's not think about that.
+
+854
+00:40:53,980 --> 00:40:57,980
+We would get the footage we need and no harm would be coming our way.
+
+855
+00:40:57,980 --> 00:41:01,980
+No harm? No harm? From those robot freaks? No harm?
+
+856
+00:41:03,980 --> 00:41:05,980
+I would be in complete control, Cal.
+
+857
+00:41:05,980 --> 00:41:07,980
+I don't trust drones.
+
+858
+00:41:07,980 --> 00:41:08,980
+Why?
+
+859
+00:41:11,980 --> 00:41:12,980
+It's not...
+
+860
+00:41:12,980 --> 00:41:13,980
+Okay, I'm sorry.
+
+861
+00:41:13,980 --> 00:41:14,980
+I pull Stevia's eye.
+
+862
+00:41:14,980 --> 00:41:15,980
+Cal, yeah.
+
+863
+00:41:15,980 --> 00:41:16,980
+They scare him.
+
+864
+00:41:16,980 --> 00:41:17,980
+Yeah, clearly.
+
+865
+00:41:17,980 --> 00:41:22,980
+No, Cal, I would be in total control of it. There wouldn't even be any kind of AI sentience on board.
+
+866
+00:41:22,980 --> 00:41:24,980
+What about a flying camera instead?
+
+867
+00:41:24,980 --> 00:41:35,980
+We got the job done just well enough in my day without flying cameras or, or, or the G-spot or, or any of this newfangled nonsense.
+
+868
+00:41:40,980 --> 00:41:42,980
+The news was serviceable and accurate.
+
+869
+00:41:43,980 --> 00:41:47,980
+Julius looks at it back and just kind of shrugs and winks like, yeah, sure, we won't.
+
+870
+00:41:47,980 --> 00:41:48,980
+Yeah, we just won't.
+
+871
+00:41:48,980 --> 00:41:51,980
+You can watch, you can watch our GoPro head, head footage.
+
+872
+00:41:51,980 --> 00:41:53,980
+Perfect. Okay, just the GoPros.
+
+873
+00:41:54,980 --> 00:41:57,980
+I think I've got some of their numbers still and Julius starts going through his phone.
+
+874
+00:41:57,980 --> 00:42:04,980
+He searches bog and it's like, it's like J-bog, Q-bog.
+
+875
+00:42:06,980 --> 00:42:08,980
+All right, who's J and who's Q?
+
+876
+00:42:09,980 --> 00:42:10,980
+My name's Joe.
+
+877
+00:42:11,980 --> 00:42:12,980
+Perfect.
+
+878
+00:42:12,980 --> 00:42:14,980
+That won't be confusing at all.
+
+879
+00:42:15,980 --> 00:42:18,980
+I mean, it'd be less confusing if, like, if I was Joe.
+
+880
+00:42:35,980 --> 00:42:38,980
+Oh shit, what the fuck? Is this thing on?
+
+881
+00:42:38,980 --> 00:42:47,980
+Ah, hey, it's Wolf and I'm here with a brand new track that'll make you smack your dad for not introducing it to you sooner.
+
+882
+00:42:47,980 --> 00:42:50,980
+It's Time Walk with War.
+
+883
+00:43:08,980 --> 00:43:24,980
+Destroy
+
+884
+00:43:24,980 --> 00:43:31,980
+Vacuus
+
+885
+00:43:31,980 --> 00:43:35,980
+Conquer
+
+886
+00:43:35,980 --> 00:43:42,980
+War
+
+887
+00:43:42,980 --> 00:43:48,980
+Welcome, everyone, to somewhere in the middle of episode 36 of season two of Pretending to be People.
+
+888
+00:43:48,980 --> 00:43:56,980
+And we are blessed, we are honored, we are humbled and fucking stoked to have a guest joining us this evening.
+
+889
+00:43:56,980 --> 00:43:59,980
+You may know her from season three of the Glass Cannon Network's Get in the Trunk.
+
+890
+00:43:59,980 --> 00:44:07,980
+You may know her from Time for Chaos, the GCN's playthrough of Massenar Lethetepe, or their live shows, or their upcoming show Gatewalkers.
+
+891
+00:44:07,980 --> 00:44:11,980
+You may know her as the queen of new game whodis.
+
+892
+00:44:11,980 --> 00:44:14,980
+It's Kate Stamets!
+
+893
+00:44:19,980 --> 00:44:21,980
+I forgot I did all those things. I was like, season three of what?
+
+894
+00:44:24,980 --> 00:44:27,980
+How was that? How was playing Delta Green with, uh, with Glass Cannon?
+
+895
+00:44:27,980 --> 00:44:32,980
+That was fun. I think that was the one season that Grant ran, so, like, it was just fun.
+
+896
+00:44:32,980 --> 00:44:38,980
+I like, like, usually Troy's the one who, like, runs us through things, so it's always fun having someone else run me through something.
+
+897
+00:44:38,980 --> 00:44:46,980
+Yeah, yeah, absolutely. Any time I can convince one of these other folks to take the, take the reins, uh, I enjoy it thoroughly.
+
+898
+00:44:46,980 --> 00:44:52,980
+He really likes, um, getting to inflict revenge as a player for all the plans of his we've messed up.
+
+899
+00:44:52,980 --> 00:44:53,980
+Sounds right.
+
+900
+00:44:53,980 --> 00:44:57,980
+I'm running a game on Tuesday, and I think you're gonna die, probably.
+
+901
+00:44:57,980 --> 00:44:58,980
+Oh, hell yeah.
+
+902
+00:44:58,980 --> 00:45:04,980
+It's best to just sideline his character as quickly as possible to make things, make things go a lot smoothly.
+
+903
+00:45:04,980 --> 00:45:10,980
+Well, Kate, for those of our listeners who aren't familiar with all that rad shit that you've been up to, how'd you, uh-
+
+904
+00:45:10,980 --> 00:45:12,980
+Did you say rat shit or rad shit?
+
+905
+00:45:12,980 --> 00:45:13,980
+All that rat-
+
+906
+00:45:13,980 --> 00:45:14,980
+Same thing.
+
+907
+00:45:14,980 --> 00:45:16,980
+Rat shit that you've been up to?
+
+908
+00:45:16,980 --> 00:45:25,980
+How'd you, how'd you dive into, uh, role-playing? What got you started in this hobby?
+
+909
+00:45:25,980 --> 00:45:29,980
+Well, so, like, my husband and I, like, we had, like, this itch we needed to scratch.
+
+910
+00:45:29,980 --> 00:45:31,980
+That sounds weird when I say my husband.
+
+911
+00:45:31,980 --> 00:45:33,980
+It sounds like the start of a great delta gaming scenario.
+
+912
+00:45:33,980 --> 00:45:35,980
+It's hard to play games like this when you're older.
+
+913
+00:45:35,980 --> 00:45:42,980
+Like, it's hard to find a group to play with, someone to run you through it, so we played with, like, um, at, like, a local shop near us in Brooklyn.
+
+914
+00:45:42,980 --> 00:45:50,980
+It's like you paid, I don't remember how much it was, and someone there runs you and other people that are local through, like, an encounter. It was D&D 5E.
+
+915
+00:45:50,980 --> 00:45:58,980
+For those of you who can't see Kate, she seems to be in her 70s or 80s, so it's hard to find, you know, people your age to, to play with. That's not true.
+
+916
+00:45:58,980 --> 00:46:00,980
+You just said you were older, and I was like, wait, what?
+
+917
+00:46:00,980 --> 00:46:08,980
+No, no, I mean, like, it's hard to find, like, other people who are gonna make the same amount of commitment, like, they want, like, I wanna play all the time, and-
+
+918
+00:46:08,980 --> 00:46:09,980
+Yes.
+
+919
+00:46:09,980 --> 00:46:22,980
+Like, finding someone who wants to GM, it's, like, hard, so we did that, and that helped for a minute, but we were playing with strangers, and then I kinda accidentally started playing with Glass Cannon, so, like, I'm, I'm good now, my itch is scratched.
+
+920
+00:46:22,980 --> 00:46:23,980
+Hell yeah.
+
+921
+00:46:23,980 --> 00:46:24,980
+Just like saying.
+
+922
+00:46:24,980 --> 00:46:25,980
+Trying to find a way out of it.
+
+923
+00:46:25,980 --> 00:46:27,980
+You're like, how do I get on this fucking train?
+
+924
+00:46:27,980 --> 00:46:30,980
+I think we're gonna get real itchy tonight.
+
+925
+00:46:30,980 --> 00:46:31,980
+Real itchy tonight?
+
+926
+00:46:31,980 --> 00:46:32,980
+Yeah.
+
+927
+00:46:32,980 --> 00:46:33,980
+Yeah, well-
+
+928
+00:46:33,980 --> 00:46:34,980
+In the bog.
+
+929
+00:46:34,980 --> 00:47:02,980
+There's a lot to get through, I realized, as I was, uh, writing for this arc, because it starts on Tuesday, April 18th, 2017, and the text at the bottom of the screen in your mind types out the date as we set our scene here in the past, over five years before this absurd jailbreak that just took place in the present day of Thursday, July 7th, 2022.
+
+930
+00:47:02,980 --> 00:47:14,980
+But, back here in the spring of 2017, we see a team of six making their way through soppingly saturated soil in thick, dense woods.
+
+931
+00:47:14,980 --> 00:47:19,980
+Now, let's get a brief rundown of who's who on this job before we dive in.
+
+932
+00:47:19,980 --> 00:47:23,980
+First off, we already know Burl and Julius Summers are here.
+
+933
+00:47:23,980 --> 00:47:25,980
+Burl looks almost the exact same.
+
+934
+00:47:25,980 --> 00:47:34,980
+He's a sinewy, middle-aged dude with long, black, stringy hair and three long whiskers on his chin.
+
+935
+00:47:34,980 --> 00:47:38,980
+Luke, what's Julius' vibe five years ago, 2017? Any different? Same?
+
+936
+00:47:38,980 --> 00:47:43,980
+He, uh, would be, let's see, math is so hard.
+
+937
+00:47:43,980 --> 00:47:44,980
+Nuts.
+
+938
+00:47:44,980 --> 00:47:45,980
+24 years old.
+
+939
+00:47:45,980 --> 00:47:46,980
+That's 29 minus 5.
+
+940
+00:47:46,980 --> 00:47:53,980
+That is. I mean, he's basically the same Julius, just younger, huge thighs, just hanging out with his dad.
+
+941
+00:47:53,980 --> 00:47:58,980
+Hanging out with his dad. So, huge thighs. What are you wearing in this boggy sort of environment?
+
+942
+00:47:58,980 --> 00:48:02,980
+I assume everyone has, like, big rubber boots on to kind of trudge their way through this situation.
+
+943
+00:48:02,980 --> 00:48:19,980
+He's looking very Duck Dynasty. He's got, like, a camo thermal sweater on, camo cargo pants, big rubber duck boots, and, uh, yeah.
+
+944
+00:48:19,980 --> 00:48:20,980
+Rat.
+
+945
+00:48:20,980 --> 00:48:21,980
+Rat.
+
+946
+00:48:21,980 --> 00:48:34,980
+And, uh, then we see, leading the group, there's a local guide with this team, kind of taking the front of the pack, making their way through this boggy terrain.
+
+947
+00:48:34,980 --> 00:48:39,980
+And that is going to be Mr. Judt Harry.
+
+948
+00:48:39,980 --> 00:48:46,980
+Yeah, that's me. That's, uh, that's Norman Sumter. People who know him call him Stump.
+
+949
+00:48:47,980 --> 00:48:55,980
+Uh, he's got this, he's got long, long, long gray hair that he keeps in a real nice tight ponytail that runs down his back.
+
+950
+00:48:55,980 --> 00:49:01,980
+And he's got equally gray and straight and thin and long gray beard down the front.
+
+951
+00:49:01,980 --> 00:49:07,980
+He's wearing, uh, these aviator glasses that he can flip up, have shades as a flip up there.
+
+952
+00:49:07,980 --> 00:49:16,980
+And, uh, his teeth are kind of bad and he's kind of, he's kind of thin and scraggly all over, but he's also a little bit like live on his feet.
+
+953
+00:49:16,980 --> 00:49:23,980
+And he looks like there's kind of a, an intensity to him. And, uh, yeah, he's kind of leading this group right now.
+
+954
+00:49:23,980 --> 00:49:28,980
+And he's, uh, he, he, it looks like he is Legolas-ing his way through these woods.
+
+955
+00:49:28,980 --> 00:49:34,980
+He's seeing things that you guys aren't seeing and he's pointing at things and he's doing maneuvers with his hands that you guys kind of understand.
+
+956
+00:49:35,980 --> 00:49:37,980
+And he's not saying a goddamn word to Frodo.
+
+957
+00:49:39,980 --> 00:49:41,980
+What kind of music does he like?
+
+958
+00:49:41,980 --> 00:49:42,980
+Good question.
+
+959
+00:49:43,980 --> 00:49:47,980
+Oh, he's, uh, CCR for sure. REO Speedwagon.
+
+960
+00:49:47,980 --> 00:49:50,980
+Just touring the county fairs of America.
+
+961
+00:49:50,980 --> 00:49:51,980
+Uh-huh. Styx.
+
+962
+00:49:52,980 --> 00:49:54,980
+Hell yeah, dude. Come sail away.
+
+963
+00:49:54,980 --> 00:50:00,980
+Midway through the group, we've got a, uh, a young woman compared to Stump.
+
+964
+00:50:00,980 --> 00:50:03,980
+Caitlin Stamets. Who, who do we see here?
+
+965
+00:50:03,980 --> 00:50:12,980
+You see a 35 year old, like light blonde sugar, sort of length hair, brown eyes. Her name's Phoebe, Phoebe Richards.
+
+966
+00:50:12,980 --> 00:50:19,980
+She's a millennial in tech, but then she also has like a woo woo side, which I think is what the kids are calling that these days.
+
+967
+00:50:19,980 --> 00:50:28,980
+Um, so like she's really smart and gifted. She's a computer scientist, but she also like, you know, always has a clear quartz in her bra.
+
+968
+00:50:28,980 --> 00:50:37,980
+Um, she, she wears sock martens. She's like mildly alt. She might have an iced coffee as she like rolls up to you and she's like swishing it.
+
+969
+00:50:42,980 --> 00:50:49,980
+And then, uh, another, is it an old man, Thomas? Are you playing an old man? Just a middle aged man? When I, when I read your character.
+
+970
+00:50:49,980 --> 00:50:50,980
+There's an age.
+
+971
+00:50:50,980 --> 00:50:54,980
+There's an age. Well, I'm going to stop talking about your character. Just tell me about him.
+
+972
+00:50:54,980 --> 00:51:00,980
+There's a young man at this point, five years younger than when you'll see him later. Uh, he's about 25 at this point.
+
+973
+00:51:00,980 --> 00:51:07,980
+Um, I don't think anybody would call him a stud, uh, unless they confused him for like a, a plank of wood.
+
+974
+00:51:07,980 --> 00:51:19,980
+He is, he's live, but real bony, just in all the wrong ways. He's covered in more grit and dirt than it seems like he could have accrued in the time they've been out here.
+
+975
+00:51:19,980 --> 00:51:30,980
+So it must've been on him from the start. He's wearing like tan overalls and a t-shirt that was probably white at one point, but it's just covered in mysterious, like black powders and things.
+
+976
+00:51:30,980 --> 00:51:40,980
+And you can't really see his face because he's just got this mass of messy, like thick hair and these giant Coke bottle glasses that are kind of peeking out through it.
+
+977
+00:51:40,980 --> 00:51:43,980
+He looks like a weird straw robot almost.
+
+978
+00:51:43,980 --> 00:51:47,980
+Amazing. Oh, I love that. And what was his name?
+
+979
+00:51:47,980 --> 00:51:51,980
+Mo Gibson. Mo Gibson. Mo Gibson.
+
+980
+00:51:51,980 --> 00:51:59,980
+The sixth person you see in this crew, right? One, two, three, four, five, six. Yeah, the sixth person is Agent Lee.
+
+981
+00:51:59,980 --> 00:52:19,980
+Agent Lee is a fresh faced gentleman from Langley and he is, unfortunately for him, wearing his like suit and dress shoes in this bog, tied, tied tight all the way up to the top, top button, buttoned.
+
+982
+00:52:19,980 --> 00:52:27,980
+And he is just constantly complaining about his dress shoes getting wet.
+
+983
+00:52:27,980 --> 00:52:40,980
+And he's talking about how he's going to have blisters later, but this team, your team is trudging through the isolated wetlands that are the Southern Appalachian mountain bogs of North Carolina.
+
+984
+00:52:40,980 --> 00:52:56,980
+You were sent here under the guise of official government business to find out why construction has been repeatedly halted on a refined oil pipeline being installed through this almost entirely uninhabited landscape, uninhabited landscape.
+
+985
+00:52:56,980 --> 00:53:14,980
+And when you finally made it to the job site with the necessary help of your local guide, Stump, you found it abandoned. Mobile trailers, big yellow machines for excavation, stacks and stacks of pipe segments all sat silently undisturbed, stagnant.
+
+986
+00:53:14,980 --> 00:53:22,980
+And after exploring the base of operations further, no paperwork has been touched nor checklists marked off in three days.
+
+987
+00:53:22,980 --> 00:53:27,980
+And that's when you heard the voice of your local guide holler out that he'd found something strange.
+
+988
+00:53:27,980 --> 00:53:31,980
+Found something strange!
+
+989
+00:53:31,980 --> 00:53:40,980
+Didn't even put anything in my little notes here. I was hoping that would happen.
+
+990
+00:53:40,980 --> 00:53:44,980
+Look at how weird this is folks. Come here.
+
+991
+00:53:44,980 --> 00:53:52,980
+And the weird thing that Norman Sumter, aka Stump, is kind of like poking at, maybe like even lifting it out like of the mud with a multi-tool.
+
+992
+00:53:52,980 --> 00:53:59,980
+He's found a thick braided rope covered in the mud of the bog like it had been buried.
+
+993
+00:53:59,980 --> 00:54:10,980
+And a couple crews worth of footsteps on either side leading away, lead away from the job site, deeper into the wooded and wet bog lands.
+
+994
+00:54:10,980 --> 00:54:16,980
+And giving this rope a solid tug, it was clearly anchored at the unknown end.
+
+995
+00:54:16,980 --> 00:54:25,980
+And after some back and forth, your group decided that a single agent would follow the dirty rope as the rest of the squad, still led by Stump,
+
+996
+00:54:25,980 --> 00:54:32,980
+would follow within sight and off to the side a bit as to not all walk the same path as the missing crewman.
+
+997
+00:54:32,980 --> 00:54:33,980
+It's a rope!
+
+998
+00:54:33,980 --> 00:54:36,980
+Wait, follow the dirty rope into the bog?
+
+999
+00:54:36,980 --> 00:54:37,980
+That's right.
+
+1000
+00:54:37,980 --> 00:54:38,980
+Oh wow.
+
+1001
+00:54:38,980 --> 00:54:45,980
+And your guys' team drew straws. Basically what we're doing here, you guys are going to play your characters in a second,
+
+1002
+00:54:45,980 --> 00:54:55,980
+but we're doing a flashback and so I'm doing a lot of like explaining what happened leading up to where we're going to kick off and then we'll dive in.
+
+1003
+00:54:55,980 --> 00:54:57,980
+Oh no man, I'm all about the rope talk.
+
+1004
+00:54:57,980 --> 00:55:00,980
+Yeah. Can you describe it even more?
+
+1005
+00:55:00,980 --> 00:55:07,980
+Now this here is natural. A lot of people think that rope does just pop up and ball from time to time. This is not natural. This is an unknown rope.
+
+1006
+00:55:07,980 --> 00:55:11,980
+It's strangely fibrous. Does anyone have biology?
+
+1007
+00:55:11,980 --> 00:55:19,980
+How could a rope be strangely fibrous? They're so fibrous.
+
+1008
+00:55:19,980 --> 00:55:27,980
+It's strangely fibrous if anyone is adept with, if anyone has a knowledge of rope.
+
+1009
+00:55:27,980 --> 00:55:29,980
+I actually have that written down here.
+
+1010
+00:55:29,980 --> 00:55:30,980
+Or any sort of biology.
+
+1011
+00:55:30,980 --> 00:55:35,980
+I gave myself craft improvised contraptions. Does this appear to be an improvised contraption?
+
+1012
+00:55:35,980 --> 00:55:38,980
+Hey, I'll answer that since you took it. It does not.
+
+1013
+00:55:38,980 --> 00:55:39,980
+Perfect.
+
+1014
+00:55:39,980 --> 00:55:46,980
+This entire group is making their way through kind of watching as Agent Lee drew the short straw.
+
+1015
+00:55:46,980 --> 00:55:53,980
+And he's the one who has to follow the rope through the bog as the rest of you are kind of behind off to the side following through.
+
+1016
+00:55:53,980 --> 00:55:59,980
+And it wasn't long before the job site behind you was completely obscured by the landscape.
+
+1017
+00:55:59,980 --> 00:56:07,980
+And it wasn't much longer until the path ahead of you all opened up and you found the missing construction workers.
+
+1018
+00:56:07,980 --> 00:56:11,980
+There must have been at least 40 of them.
+
+1019
+00:56:11,980 --> 00:56:12,980
+There must be at least 40 of them.
+
+1020
+00:56:12,980 --> 00:56:14,980
+Half buried upside down.
+
+1021
+00:56:14,980 --> 00:56:16,980
+Was 40 of them.
+
+1022
+00:56:16,980 --> 00:56:19,980
+In the soppingly saturated soil.
+
+1023
+00:56:19,980 --> 00:56:21,980
+Hey, Stump, is this normal?
+
+1024
+00:56:21,980 --> 00:56:23,980
+Strangely, in rows.
+
+1025
+00:56:23,980 --> 00:56:26,980
+Mud covered rubber boots pointing to heaven.
+
+1026
+00:56:26,980 --> 00:56:27,980
+Jeans below.
+
+1027
+00:56:27,980 --> 00:56:30,980
+Highlighter work vests just visible.
+
+1028
+00:56:30,980 --> 00:56:35,980
+The majority of their torsos fully down in the muck.
+
+1029
+00:56:35,980 --> 00:56:41,980
+Their arms and heads making up the root systems of these human beings planted like crops in a field.
+
+1030
+00:56:41,980 --> 00:56:43,980
+Silent.
+
+1031
+00:56:43,980 --> 00:56:44,980
+Undisturbed.
+
+1032
+00:56:44,980 --> 00:56:46,980
+Stagnant.
+
+1033
+00:56:46,980 --> 00:56:50,980
+And you smell something other than the dampened decay of the bog.
+
+1034
+00:56:50,980 --> 00:56:53,980
+Unsettling due to its lack of congruency with its setting.
+
+1035
+00:56:53,980 --> 00:56:56,980
+It's a delicate floral fragrance.
+
+1036
+00:56:56,980 --> 00:56:59,980
+And that's when Agent Lee screams.
+
+1037
+00:56:59,980 --> 00:57:03,980
+The rope in his hands is now emanating a bioluminescent glow.
+
+1038
+00:57:03,980 --> 00:57:07,980
+And he succeeds his role.
+
+1039
+00:57:07,980 --> 00:57:11,980
+So he is struggling as he's trying to keep this radiant potential gar-
+
+1040
+00:57:11,980 --> 00:57:12,980
+Garret?
+
+1041
+00:57:12,980 --> 00:57:13,980
+Garot?
+
+1042
+00:57:13,980 --> 00:57:14,980
+Garote?
+
+1043
+00:57:14,980 --> 00:57:15,980
+Garot?
+
+1044
+00:57:15,980 --> 00:57:19,980
+The rope that goes around your neck a noose of some sort from looping itself around his neck.
+
+1045
+00:57:19,980 --> 00:57:26,980
+And now we're going to jump in, in turn-based action, starting with whoever has the highest dexterity.
+
+1046
+00:57:26,980 --> 00:57:29,980
+Call him out! Who's got dexterity?
+
+1047
+00:57:29,980 --> 00:57:30,980
+I have 70.
+
+1048
+00:57:30,980 --> 00:57:31,980
+I have 60.
+
+1049
+00:57:31,980 --> 00:57:32,980
+60.
+
+1050
+00:57:32,980 --> 00:57:33,980
+Uh, 65.
+
+1051
+00:57:33,980 --> 00:57:35,980
+65. Stunt.
+
+1052
+00:57:35,980 --> 00:57:36,980
+55.
+
+1053
+00:57:36,980 --> 00:57:38,980
+55.
+
+1054
+00:57:38,980 --> 00:57:45,980
+Julius Summers, you are kicking things off. Remind us what you look like and how you react to this situation.
+
+1055
+00:57:45,980 --> 00:57:56,980
+Julius is, yeah, wearing full camo, got the rubber boots on, and he- this is pretty- this isn't, like, one of the worst things he's ever seen.
+
+1056
+00:57:56,980 --> 00:58:06,980
+But, uh, it's still not great, so he's gonna go and, like, just pick up one of the boots and just, like, see if there's anything in it.
+
+1057
+00:58:06,980 --> 00:58:09,980
+There's a foot in it. Who had 65 dexterity?
+
+1058
+00:58:09,980 --> 00:58:10,980
+Me.
+
+1059
+00:58:10,980 --> 00:58:11,980
+You're up.
+
+1060
+00:58:12,980 --> 00:58:17,980
+Mo Mo vomits all over the swamp.
+
+1061
+00:58:17,980 --> 00:58:20,980
+Yeah, yeah, that makes sense. That's gross.
+
+1062
+00:58:20,980 --> 00:58:21,980
+Yeah.
+
+1063
+00:58:21,980 --> 00:58:24,980
+It's nasty. There was a foot in that boot. Who had- who had 60 dex?
+
+1064
+00:58:24,980 --> 00:58:26,980
+There's a foot in my boot.
+
+1065
+00:58:26,980 --> 00:58:29,980
+So the rope is attacking Agent Lee.
+
+1066
+00:58:29,980 --> 00:58:44,980
+Who's about, maybe, 20 feet away from you, and you've opened up yourselves, like, you've walked out into this sort of open, boggy field, uh, that this rope is coming out of, and this is the field in which all these humans are planted upside down, boots to heaven.
+
+1067
+00:58:44,980 --> 00:58:47,980
+How do we feel about Agent Lee? Do we like him?
+
+1068
+00:58:47,980 --> 00:58:48,980
+Do I care?
+
+1069
+00:58:48,980 --> 00:58:52,980
+He didn't have the sense to not dress like a man in black in the fucking bog.
+
+1070
+00:58:52,980 --> 00:58:53,980
+Seems uptight.
+
+1071
+00:58:53,980 --> 00:59:00,980
+So, like, I guess what she would be wondering is, is this rope coming out the ground, like, where we are?
+
+1072
+00:59:00,980 --> 00:59:11,980
+Yeah, so, as you, uh, you can roll, um, a search, um, in order to see if, uh, if you can make out where it's, where it's coming from.
+
+1073
+00:59:11,980 --> 00:59:13,980
+Yeah, get those dice, we're gonna roll them!
+
+1074
+00:59:13,980 --> 00:59:19,980
+Okay, search, okay, not that bad. Uh, okay, D100s. Got it, got it, okay.
+
+1075
+00:59:20,980 --> 00:59:22,980
+Oh, that's a 9 under 40!
+
+1076
+00:59:22,980 --> 00:59:24,980
+Yay! Starting off good.
+
+1077
+00:59:25,980 --> 00:59:32,980
+Phoebe, you see this rope, and you see, you notice that the bioluminescence is, uh, is, is kind of, like, uh, following it,
+
+1078
+00:59:32,980 --> 00:59:38,980
+and, and the rope that's tying itself around his neck is kind of heading into the middle of where all these people are buried,
+
+1079
+00:59:38,980 --> 00:59:47,980
+and you see a slight glow kind of underneath the muck and the bog, and you can make out exactly where it's emanating from,
+
+1080
+00:59:47,980 --> 00:59:51,980
+and it's only about ten feet in front of you.
+
+1081
+00:59:51,980 --> 00:59:55,980
+I wish I had, like, a knife on me, because then I'd just try to chop the rope.
+
+1082
+00:59:55,980 --> 00:59:57,980
+Whoa, what's that in your back pocket?
+
+1083
+00:59:57,980 --> 00:59:58,980
+I feel like I'd have one.
+
+1084
+00:59:58,980 --> 01:00:00,980
+Why wouldn't you? It'd be nuts!
+
+1085
+01:00:00,980 --> 01:00:03,980
+I'd definitely have a sharp crystal in my bra, at least.
+
+1086
+01:00:03,980 --> 01:00:11,980
+Um, I want to try to, I feel like the, by default move, I'd want to go up and try to chop the rope, yeah.
+
+1087
+01:00:11,980 --> 01:00:13,980
+Go ahead and roll a melee weapons attack.
+
+1088
+01:00:13,980 --> 01:00:20,980
+Oh, no. Well, that's not the worst, either. But that's a bad roll. That's a 96 over 30.
+
+1089
+01:00:20,980 --> 01:00:22,980
+That's a critical failure.
+
+1090
+01:00:22,980 --> 01:00:23,980
+So, here's the thing-
+
+1091
+01:00:23,980 --> 01:00:25,980
+My iced coffee's still in my hand.
+
+1092
+01:00:25,980 --> 01:00:31,980
+Here's the thing, Kate. Um, we're children, and-
+
+1093
+01:00:31,980 --> 01:00:33,980
+No, we're very, very clever men.
+
+1094
+01:00:33,980 --> 01:00:39,980
+And so, 69 is the most critical success you can roll, and therefore-
+
+1095
+01:00:39,980 --> 01:00:41,980
+No, no, no, no, no, it's a 96. It was a 96.
+
+1096
+01:00:41,980 --> 01:00:43,980
+I know, therefore-
+
+1097
+01:00:43,980 --> 01:00:44,980
+But therefore-
+
+1098
+01:00:44,980 --> 01:00:45,980
+Oh, no!
+
+1099
+01:00:45,980 --> 01:00:46,980
+Yeah.
+
+1100
+01:00:46,980 --> 01:00:49,980
+No, no, I think that's what, uh, Glass Cannon does, also.
+
+1101
+01:00:49,980 --> 01:00:51,980
+Oh, no, it's 86 is the worst one, not 96.
+
+1102
+01:00:51,980 --> 01:00:52,980
+Oh, that's funny.
+
+1103
+01:00:52,980 --> 01:00:53,980
+That's funny.
+
+1104
+01:00:53,980 --> 01:00:54,980
+I think.
+
+1105
+01:00:54,980 --> 01:00:55,980
+I like that.
+
+1106
+01:00:55,980 --> 01:00:56,980
+Yeah.
+
+1107
+01:00:56,980 --> 01:00:57,980
+Kitchen humor.
+
+1108
+01:00:57,980 --> 01:00:58,980
+We were just like, the opposite.
+
+1109
+01:00:58,980 --> 01:00:59,980
+Yeah.
+
+1110
+01:00:59,980 --> 01:01:04,980
+We're like, not doing that.
+
+1111
+01:01:04,980 --> 01:01:05,980
+The worst.
+
+1112
+01:01:05,980 --> 01:01:15,980
+Alright, so, as you drop your iced coffee directly into the bog, a significant amount of bog water starts combining itself
+
+1113
+01:01:15,980 --> 01:01:24,980
+inside the open top of your iced coffee, and there is very little chance that you're gonna want to drink any of that.
+
+1114
+01:01:24,980 --> 01:01:25,980
+That is-
+
+1115
+01:01:25,980 --> 01:01:28,980
+That is the worst thing that could ever happen to me. Thank you for-
+
+1116
+01:01:28,980 --> 01:01:31,980
+I mean, don't- Wow, that was the worst.
+
+1117
+01:01:31,980 --> 01:01:32,980
+And as you trip forward-
+
+1118
+01:01:32,980 --> 01:01:36,980
+That's one of the most upsetting things I've heard described in our horror podcast.
+
+1119
+01:01:36,980 --> 01:01:37,980
+That was $7!
+
+1120
+01:01:37,980 --> 01:01:41,980
+Yeah, like, I had such a visceral reaction to that being ruined.
+
+1121
+01:01:41,980 --> 01:01:44,980
+I'm gonna be tired later.
+
+1122
+01:01:44,980 --> 01:01:52,980
+As you try to dive forward with your knife, the knife slips out of your hand and disappears into the bog.
+
+1123
+01:01:52,980 --> 01:02:02,980
+You are on your hands and knees, about six inches deep in this thing, and kind of facing exactly where this bioluminescence is,
+
+1124
+01:02:02,980 --> 01:02:08,980
+and you might be the only one who can see that it is heading directly for you.
+
+1125
+01:02:08,980 --> 01:02:11,980
+Ooh, I yell, guys, look!
+
+1126
+01:02:11,980 --> 01:02:12,980
+Guys, look!
+
+1127
+01:02:12,980 --> 01:02:17,980
+Burl Summers is up next, and he heeds your advice, but he rolls a fail as well,
+
+1128
+01:02:17,980 --> 01:02:23,980
+and he jumps down with a machete in his hand and just kind of slaps it into the water,
+
+1129
+01:02:23,980 --> 01:02:26,980
+hacking at absolutely nothing in his attempt.
+
+1130
+01:02:26,980 --> 01:02:32,980
+His three whiskers coming off of his chin, blowing in the wind, and after him goes,
+
+1131
+01:02:32,980 --> 01:02:34,980
+Stumpy, Mr. Stumpman.
+
+1132
+01:02:34,980 --> 01:02:35,980
+Save us, Stump!
+
+1133
+01:02:35,980 --> 01:02:39,980
+Stump is pulling a heftier looking knife off of his belt.
+
+1134
+01:02:39,980 --> 01:02:44,980
+It was sheathed. He had it hanging on a sheath on the edge of his belt, and he pulls that out,
+
+1135
+01:02:44,980 --> 01:02:50,980
+and he wants to lunge, but he's gonna lunge for kind of that center point that it was heading towards.
+
+1136
+01:02:50,980 --> 01:02:54,980
+He wants to just dive and slam it down into there.
+
+1137
+01:02:54,980 --> 01:02:56,980
+He's trying to cause damage more than he's trying to cut.
+
+1138
+01:02:56,980 --> 01:03:00,980
+Okay, awesome. Go ahead and roll melee.
+
+1139
+01:03:00,980 --> 01:03:06,980
+Because Phoebe called out where it is, you don't have to take a negative, and his fingers are raised.
+
+1140
+01:03:06,980 --> 01:03:07,980
+What is happening?
+
+1141
+01:03:07,980 --> 01:03:10,980
+What do those raised fingers look like?
+
+1142
+01:03:10,980 --> 01:03:11,980
+The Twin Towers.
+
+1143
+01:03:11,980 --> 01:03:14,980
+An 11. That's a critical success.
+
+1144
+01:03:14,980 --> 01:03:15,980
+Take it all from the top.
+
+1145
+01:03:15,980 --> 01:03:17,980
+It was an 11! Whoa!
+
+1146
+01:03:17,980 --> 01:03:19,980
+That's a critical success!
+
+1147
+01:03:21,980 --> 01:03:27,980
+Oh shit, dude. Okay, as you dive in, your body dumps down.
+
+1148
+01:03:27,980 --> 01:03:29,980
+Basically, you've been standing on this bog, right?
+
+1149
+01:03:29,980 --> 01:03:35,980
+It's not that deep. Your feet only go so far into it, especially you floating atop of it like you have been.
+
+1150
+01:03:35,980 --> 01:03:46,980
+But as you dump, as you dump, as you stump in to the water, horizontally, knife out, just stabbing down,
+
+1151
+01:03:46,980 --> 01:03:56,980
+you plant it directly into something, and your body is actually completely underground as well.
+
+1152
+01:03:56,980 --> 01:03:57,980
+Underground meaning under the water.
+
+1153
+01:03:57,980 --> 01:04:04,980
+And as everyone sees your body kind of dip under the water, it's that idea of like,
+
+1154
+01:04:04,980 --> 01:04:07,980
+holy shit, there is a deeper part of the bog right there.
+
+1155
+01:04:07,980 --> 01:04:17,980
+And then suddenly, from out of the water, rising weightless is this figure, humanoid in tattered clothes,
+
+1156
+01:04:17,980 --> 01:04:26,980
+and you see that her hair was the rope that is heading off and still trying to take down Agent Lee.
+
+1157
+01:04:26,980 --> 01:04:31,980
+And your knife is buried directly in the top of her head.
+
+1158
+01:04:31,980 --> 01:04:41,980
+And she is singing, crying, laughing, all at the same time, and I need everyone to roll con to avoid.
+
+1159
+01:04:41,980 --> 01:04:44,980
+18, I pass.
+
+1160
+01:04:44,980 --> 01:04:49,980
+18 as well, I also pass.
+
+1161
+01:04:49,980 --> 01:04:50,980
+What?
+
+1162
+01:04:50,980 --> 01:04:51,980
+Hell yeah.
+
+1163
+01:04:51,980 --> 01:04:52,980
+Oh, it's real.
+
+1164
+01:04:52,980 --> 01:04:53,980
+Just under 68.
+
+1165
+01:04:53,980 --> 01:04:54,980
+Nice.
+
+1166
+01:04:54,980 --> 01:04:55,980
+Under 70.
+
+1167
+01:04:55,980 --> 01:04:58,980
+Well done. Okay, and stump, how'd you do?
+
+1168
+01:04:58,980 --> 01:05:04,980
+Stump's highest score is his constitution, and it's a 75, and he rolled an 89.
+
+1169
+01:05:04,980 --> 01:05:05,980
+That's not good.
+
+1170
+01:05:05,980 --> 01:05:10,980
+But it kind of makes sense, because he just kind of rodeoed this thing in the head and is hanging on.
+
+1171
+01:05:10,980 --> 01:05:21,980
+So the rest of you kind of see this, and Joe, Stump has his knife buried into the top of this creature's head,
+
+1172
+01:05:21,980 --> 01:05:27,980
+and it is laughing or crying or singing directly in your face,
+
+1173
+01:05:27,980 --> 01:05:34,980
+and the mud and muck across its face is slowly just starting to fall away,
+
+1174
+01:05:34,980 --> 01:05:44,980
+and you see the skin underneath is so thin and withered away that the bones are almost creaking through and out.
+
+1175
+01:05:44,980 --> 01:05:50,980
+It's been in the water for so long that it's disintegrating into nothingness,
+
+1176
+01:05:50,980 --> 01:06:00,980
+and as you hear this noise in your head, these memories are unlocked, and we go immediately back to Stump back in the war.
+
+1177
+01:06:00,980 --> 01:06:02,980
+Please describe the worst thing you've ever done.
+
+1178
+01:06:02,980 --> 01:06:06,980
+Oh, Jesus Christ.
+
+1179
+01:06:06,980 --> 01:06:07,980
+Joe Terry.
+
+1180
+01:06:07,980 --> 01:06:15,980
+Stump was a sniper spotter in the war, and he got his nickname Stump because he would sit there for sometimes hours,
+
+1181
+01:06:15,980 --> 01:06:23,980
+stock still, just trying to line up a shot, and he'd been there for a while, and his sniper guy was getting restless.
+
+1182
+01:06:23,980 --> 01:06:27,980
+He was like, come on, Stump, you don't have to live up to your name all the time.
+
+1183
+01:06:27,980 --> 01:06:33,980
+And finally, it got to Stump, and he said, all right, firing line is six degrees north by northwest,
+
+1184
+01:06:33,980 --> 01:06:39,980
+line up the shot, give it a wind speed of 35, and go.
+
+1185
+01:06:39,980 --> 01:06:42,980
+And Stump knew that wasn't the right call.
+
+1186
+01:06:42,980 --> 01:06:47,980
+He wanted to wait a little bit longer, but he felt pressured, and yeah, it hit civilians.
+
+1187
+01:06:47,980 --> 01:06:52,980
+This bullet ripped through a bunch of people who were standing next to the thing he wanted to hit.
+
+1188
+01:06:52,980 --> 01:07:01,980
+And as soon as you are replaying that in your mind, you see this entity, this creature that you're face to face with now,
+
+1189
+01:07:01,980 --> 01:07:07,980
+has supplanted itself inside of your memory, and it's watching you do this,
+
+1190
+01:07:07,980 --> 01:07:17,980
+and you are feeling its history of its land just being overtaken repeatedly, and repeatedly, and moved,
+
+1191
+01:07:17,980 --> 01:07:24,980
+and shuffled off to a different location, and its land being burned, and its family being exiled or murdered,
+
+1192
+01:07:24,980 --> 01:07:33,980
+and you feel the weight of what has been done to this creature in some semblance of a past life on your shoulders
+
+1193
+01:07:33,980 --> 01:07:39,980
+as you know that you did that to people overseas.
+
+1194
+01:07:39,980 --> 01:07:49,980
+And then the crying stops, and you fall back into the muck, make a splash as these tattered robes,
+
+1195
+01:07:49,980 --> 01:07:59,980
+these muddy sort of amorphous cloth and textiles kind of dissipates into mud and muck and bog.
+
+1196
+01:07:59,980 --> 01:08:11,980
+The thick braided hair that you can see loses its bioluminescent glow, and Burl Summers comes up and reaches out his hand to you.
+
+1197
+01:08:11,980 --> 01:08:16,980
+Son, I think I have a job for you.
+
+1198
+01:08:30,980 --> 01:08:32,980
+War!
+
+1199
+01:08:49,980 --> 01:08:51,980
+Destroy!
+
+1200
+01:08:52,980 --> 01:08:55,980
+Vacuous!
+
+1201
+01:08:56,980 --> 01:08:58,980
+Conquer!
+
+1202
+01:09:00,980 --> 01:09:02,980
+War!
+
+1203
+01:09:09,980 --> 01:09:11,980
+War!
+
+1204
+01:09:17,980 --> 01:09:19,980
+War!
+
+1205
+01:09:24,980 --> 01:09:26,980
+War!
+
+1206
+01:09:29,980 --> 01:09:31,980
+War!
+
+1207
+01:09:34,980 --> 01:09:43,980
+And then the camera shifts, and we see a little restaurant called Beer Eat A Taco.
+
+1208
+01:09:43,980 --> 01:09:49,980
+And the text across the bottom of the screen says, July 7th, 2022.
+
+1209
+01:09:49,980 --> 01:09:51,980
+Joke is just a linguistic mess.
+
+1210
+01:09:53,980 --> 01:09:56,980
+I think it might be the funniest one we've ever done.
+
